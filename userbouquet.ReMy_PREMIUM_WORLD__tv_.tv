@@ -143,7 +143,7 @@
 #DESCRIPTION === ★★ReMy | SPoRT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
-#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
+#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100%25 Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8181/ntvspor.ts:1SPOR LİG TV HD
 #DESCRIPTION 1SPOR LİG TV HD
@@ -223,8 +223,6 @@
 #DESCRIPTION Cdo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8:Cdo Basico
 #DESCRIPTION Cdo Basico
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_3776_av-p.m3u8:Das Erste HD
-#DESCRIPTION Das Erste HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8:DD Sports
 #DESCRIPTION DD Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8:DD Sports
@@ -237,22 +235,8 @@
 #DESCRIPTION Dubai Racing
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil%3adubairacing.smil/chunklist_b1600000.m3u8:Dubai Racing 2
 #DESCRIPTION Dubai Racing 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/chunklist.m3u8:Dubai Sports 2
-#DESCRIPTION Dubai Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmivll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/playlist.m3u8:Dubai Sports 2 HD
-#DESCRIPTION Dubai Sports 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisportshd5/smil%3adubaisportshd5.smil/chunklist.m3u8:Dubai Sports 3
-#DESCRIPTION Dubai Sports 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/index.m3u8:Espn
 #DESCRIPTION Espn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp%3aes3_web/playlist.m3u8:ESport3
-#DESCRIPTION ESport3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3aes3_web/chunklist_b1296000_DVR.m3u8:ESport3
-#DESCRIPTION ESport3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp%3aes3_web/chunklist.m3u8:ESport3
-#DESCRIPTION ESport3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp%3aes3_web/chunklist_b1296000.m3u8:Esports 3
-#DESCRIPTION Esports 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8:Estonia TV
 #DESCRIPTION Estonia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8:Eurosport 1 (bg)
@@ -275,38 +259,20 @@
 #DESCRIPTION Fight Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/index.m3u8:Football
 #DESCRIPTION Football
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.237.22.82%3a8086/udp/127.0.0.1%3a56046:Fox Sport 1 US
-#DESCRIPTION Fox Sport 1 US
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.237.22.82%3a8086/udp/127.0.0.1%3a56047:Fox Sport 2 US
-#DESCRIPTION Fox Sport 2 US
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8:Fox Sports News
 #DESCRIPTION Fox Sports News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.fs1.tv%3a8080/hls/webstream.m3u8:Fs1 Hd
-#DESCRIPTION Fs1 Hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/smil%3agarage.smil/master.m3u8:GARAGE TV
+#DESCRIPTION GARAGE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8:Garage TV
 #DESCRIPTION Garage TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8:GB GAME
 #DESCRIPTION GB GAME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.235.41%3a16924:Golf Net
 #DESCRIPTION Golf Net
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//central.dashstreams.net/onestudio/gonefishing/playlist.m3u8:Gone Fishing
-#DESCRIPTION Gone Fishing
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//central.dashstreams.net/onestudio/hunting/playlist.m3u8:Gone Hunting
-#DESCRIPTION Gone Hunting
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8:Horizon Sports
 #DESCRIPTION Horizon Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//182.19.212.148%3a8089/1.ts:Horse Racing Ch 88
-#DESCRIPTION Horse Racing Ch 88
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/irctv/mp4%3airctv/playlist.m3u8:IRC Sport TV
-#DESCRIPTION IRC Sport TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.32.140.155/irctv/mp4%3airctv/playlist.m3u8:Irc Sport Tv
-#DESCRIPTION Irc Sport Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.joinvisions.net%3a1935/jorlive/sport/playlist.m3u8?DVR:Jordan Sport TV
 #DESCRIPTION Jordan Sport TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.129.115.21%3a1935/edgedol/_definst_/tao129/chunklist_w1957069897.m3u8:Jtbc Golf
-#DESCRIPTION Jtbc Golf
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.129.115.21%3a1935/edgedol/_definst_/tao123/playlist.m3u8:Kbs N Sports
-#DESCRIPTION Kbs N Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onlinetv.ktrk.kg%3a1935/live/myStream4/playlist.m3u8:Ktrk Sport
 #DESCRIPTION Ktrk Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3:Ktv Sport
@@ -329,8 +295,6 @@
 #DESCRIPTION My Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8:Nova Sport (bg)
 #DESCRIPTION Nova Sport (bg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8181/hls/ntvspor/playlist.m3u8:Ntv Spor (tr)
-#DESCRIPTION Ntv Spor (tr)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC1_1.m3u8:Olympic Channel
 #DESCRIPTION Olympic Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC2_1.m3u8:Olympic Channel 2
@@ -353,20 +317,18 @@
 #DESCRIPTION Racing.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8:Racing.com (Australia)
 #DESCRIPTION Racing.com (Australia)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58f12ffd2447a.streamlock.net/RadioBianconeraTV/smil%3aRadioBianconeraTV.smil/chunklist_w1487084414_b1428000_slita.m3u8:Radio Bianconera (Juventus - R.B.N.)
-#DESCRIPTION Radio Bianconera (Juventus - R.B.N.)
 #SERVICE 4097:0:1:2172:2:13E:EEEE0000:0:0:0:http%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975:Rai Sport
 #DESCRIPTION Rai Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/rbetislive/smil%3atelevision.smil/playlist.m3u8:Real Betis TV
 #DESCRIPTION Real Betis TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtv24hweblive-lh.akamaihd.net%3a80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8:Real Madrid TV
-#DESCRIPTION Real Madrid TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8:Real Madrid TV
+#DESCRIPTION Real Madrid TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8:Real Madrid TV (English)
+#DESCRIPTION Real Madrid TV (English)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtv24hweblive-lh.akamaihd.net%3a80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8:Real Madrid TV
 #DESCRIPTION Real Madrid TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8:Real Madrid tv  (Opt-1)
 #DESCRIPTION Real Madrid tv  (Opt-1)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8:Real Madrid TV (English)
-#DESCRIPTION Real Madrid TV (English)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8:Real Madrid Tv (Opt-2)
 #DESCRIPTION Real Madrid Tv (Opt-2)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net%3a80/i/rmtv_1@154306/index_1000_av-p.m3u8:Real Madrid TV (Opt-3)
@@ -393,8 +355,6 @@
 #DESCRIPTION Red Bull TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8:Redbull TV HD
 #DESCRIPTION Redbull TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtm2mobile.secureswiftcontent.com/Origin02/ngrp%3aRTM2/chunklist_b2096000.m3u8:Rtm Sports (my)
-#DESCRIPTION Rtm Sports (my)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/playlist.m3u8:Rtv San Marino Sport
 #DESCRIPTION Rtv San Marino Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/playlist.m3u8:Rtv Sport (san Marino)
@@ -406,8 +366,6 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8:Ru Sport
 #DESCRIPTION Ru Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.211.143.214/astrakhanrusporthd/tracks-v2a1/index.m3u8:Ru Sport
-#DESCRIPTION Ru Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8:Ru Sport
 #DESCRIPTION Ru Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/04.m3u8:S41
 #DESCRIPTION S41
@@ -503,8 +461,6 @@
 #DESCRIPTION Wosn Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnak19.cast4u.info/channels/4/10804.m3u8:Wwe Network
 #DESCRIPTION Wwe Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.254.160.4%3a8000/play/a00i/index.m3u8:Zdf
-#DESCRIPTION Zdf
 #SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8:Al Jazeera HD
@@ -723,7 +679,7 @@
 #DESCRIPTION District of Columbia Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamjo.com%3a1935/eetlive/eettv/playlist.m3u8:EET TV TAMIL | SD
 #DESCRIPTION EET TV TAMIL | SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hindiabp-lh.akamaihd.net%3a80/i/hindiabp1new_1@192103/index_300_av-p.m3u8:English: ABP Hindi news
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hindiabp-lh.akamaihd.net%3a80/i/hindiabp1new_1@192103/index_300_av-p.m3u8:English%3a ABP Hindi news
 #DESCRIPTION English: ABP Hindi news
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8:Free Speech TV
 #DESCRIPTION Free Speech TV
@@ -739,8 +695,8 @@
 #DESCRIPTION FOX 32
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:FOX BUSINESS
 #DESCRIPTION FOX BUSINESS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/smil%3agarage.smil/master.m3u8:GARAGE TV
-#DESCRIPTION GARAGE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.fs1.tv%3a8080/hls/webstream.m3u8:Fs1 Hd
+#DESCRIPTION Fs1 Hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8:HSN
 #DESCRIPTION HSN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:Impact Wrestling HD USA
@@ -3819,7 +3775,7 @@
 #DESCRIPTION Pattaya Night Scenes 2018
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=n1rtLuQbAQA&t=57s:Pattaya Night Scenes 2018
 #DESCRIPTION Pattaya Night Scenes 2018
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=5Sm7VOV1Kig:Kiev, Ukraine: Europe's Greatest City 🇺🇦
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=5Sm7VOV1Kig:Kiev, Ukraine%3a Europe's Greatest City 🇺🇦
 #DESCRIPTION Kiev, Ukraine: Europe's Greatest City 🇺🇦
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=qbyoL7Qfa88:Nana Plaza After Midnight - VLOG 78
 #DESCRIPTION Nana Plaza After Midnight - VLOG 78
@@ -3831,7 +3787,7 @@
 #DESCRIPTION LADYBOYS BANGKOK THAILAND - NANA PLAZA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=BhdfuE2ReVk:Suwon şehir merkezinin gece manzarası
 #DESCRIPTION Suwon şehir merkezinin gece manzarası
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=CIlPObPhkpM:Amsterdam Nightlife: TOP 15 Bars & Clubs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=CIlPObPhkpM:Amsterdam Nightlife%3a TOP 15 Bars & Clubs
 #DESCRIPTION Amsterdam Nightlife: TOP 15 Bars & Clubs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=1ImC-KlLa9M:Pattaya Thailand Prostitutes Walking Street Sex To
 #DESCRIPTION Pattaya Thailand Prostitutes Walking Street Sex To
