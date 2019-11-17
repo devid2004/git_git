@@ -42,3 +42,5 @@ wget -O /tmp/SupTv.m3u "https://bit.ly/2QsAQMa"
 
 wget -O /tmp/localhdTV.m3u "http://localhd.tv:8081/get.php?username=gueguin.cyrille&password=sosXqioS4I&type=m3u"
 
+wget -O /tmp/tvservice-Salwa.m3u "http://51.159.30.124:8000/get.php?username=Salwa&password=Salwa&type=m3u"
+
