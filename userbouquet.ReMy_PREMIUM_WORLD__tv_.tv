@@ -29,26 +29,6 @@
 #DESCRIPTION ARENA SPORT 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g6/ukrfoot1.m3u8:Footboll 1 ukrain
 #DESCRIPTION Footboll 1 ukrain
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a37000/live/redcol_CopaAgfcufhg765/ghfxutjcfk675cfjsdjthd65rtfjgh/9959.ts:LA_FHD:CARACOL
-#DESCRIPTION LA_FHD:CARACOL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a37000/live/redcol_CopaAgfcufhg765/ghfxutjcfk675cfjsdjthd65rtfjgh/10426.ts:LA_FHD:WIN SPORTS
-#DESCRIPTION LA_FHD:WIN SPORTS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a37000/live/redcol_CopaAgfcufhg765/ghfxutjcfk675cfjsdjthd65rtfjgh/5010.ts:LA_SD:SUR_WIN SPORTS
-#DESCRIPTION LA_SD:SUR_WIN SPORTS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a37000/live/redcol_CopaAgfcufhg765/ghfxutjcfk675cfjsdjthd65rtfjgh/66270.ts:LA_HD:DIRECTV SPORTS ECUADOR
-#DESCRIPTION LA_HD:DIRECTV SPORTS ECUADOR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a37000/live/redcol_CopaAgfcufhg765/ghfxutjcfk675cfjsdjthd65rtfjgh/9980.ts:LA_FHD:DIRECTV PLUS
-#DESCRIPTION LA_FHD:DIRECTV PLUS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a37000/live/redcol_CopaAgfcufhg765/ghfxutjcfk675cfjsdjthd65rtfjgh/11454.ts:LA_FHD:DIRECTV SPORTS
-#DESCRIPTION LA_FHD:DIRECTV SPORTS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a37000/live/redcol_CopaAgfcufhg765/ghfxutjcfk675cfjsdjthd65rtfjgh/9983.ts:LA_FHD:DIRECTV SPORTS 2
-#DESCRIPTION LA_FHD:DIRECTV SPORTS 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a37000/live/redcol_CopaAgfcufhg765/ghfxutjcfk675cfjsdjthd65rtfjgh/45383.ts:LA_HD:EC_DIRECTV SPORTS
-#DESCRIPTION LA_HD:EC_DIRECTV SPORTS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a37000/live/redcol_CopaAgfcufhg765/ghfxutjcfk675cfjsdjthd65rtfjgh/11453.ts:LA_SD:SUR_DIRECTV SPORTS 1 A
-#DESCRIPTION LA_SD:SUR_DIRECTV SPORTS 1 A
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a37000/live/redcol_CopaAgfcufhg765/ghfxutjcfk675cfjsdjthd65rtfjgh/9984.ts:LA_SD:SUR_DIRECTV SPORTS 2 A
-#DESCRIPTION LA_SD:SUR_DIRECTV SPORTS 2 A
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spo-football.m3u8:Sky Sports football
 #DESCRIPTION Sky Sports football
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Arena.m3u8:Sky-Sports-Arena
