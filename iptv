@@ -47,5 +47,3 @@ wget -O /tmp/myhdpro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username=s
 wget -O /tmp/canadapro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourcecanadapro1&password=4042848025&type=m3u"
 
 wget -O /tmp/belgiquesnow.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourcebelgiquesnow&password=4550109412&type=m3u"
-
-wget -O /tmp/wohuogai.m3u "http://wohuogai.com:37000/get.php?username=redcol_CopaAgfcufhg765&password=ghfxutjcfk675cfjsdjthd65rtfjgh&type=m3u"
