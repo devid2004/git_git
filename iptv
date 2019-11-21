@@ -41,3 +41,9 @@ wget -O /tmp/BEIN3.m3u "http://iptv2.premium-stv.com:8888/get.php?username=BEIN3
 wget -O /tmp/SupTv.m3u "https://bit.ly/2QsAQMa"
 
 wget -O /tmp/localhdTV.m3u "http://localhd.tv:8081/get.php?username=gueguin.cyrille&password=sosXqioS4I&type=m3u"
+
+wget -O /tmp/myhdpro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourcemyhdpro1&password=4690746424&type=m3u"
+
+wget -O /tmp/canadapro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourcecanadapro1&password=4042848025&type=m3u"
+
+wget -O /tmp/belgiquesnow.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourcebelgiquesnow&password=4550109412&type=m3u"
