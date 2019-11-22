@@ -303,55 +303,7 @@
 #DESCRIPTION SAVING MR BANKS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/beauty1.mp4:SLEEPING BEAUTY
 #DESCRIPTION SLEEPING BEAUTY
-#SERVICE 1:64:98:0:0:0:0:0:0:0:::::::::___________YABANCI DIZI:::::::::::
-#DESCRIPTION :::::::___________YABANCI DIZI:::::::::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.185.213.98/Multimédia/Séries/Chernobyl/Chernobyl - 1x01 [720p].mkv:Chernobyl - 1x01 [720p].mkv
-#DESCRIPTION Chernobyl - 1x01 [720p].mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.185.213.98/Multimédia/Séries/Chernobyl/Chernobyl - 1x02 [720p].mkv:Chernobyl - 1x02 [720p].mkv
-#DESCRIPTION Chernobyl - 1x02 [720p].mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.185.213.98/Multimédia/Séries/Chernobyl/Chernobyl - 1x03 [720p].mkv:Chernobyl - 1x03 [720p].mkv
-#DESCRIPTION Chernobyl - 1x03 [720p].mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.185.213.98/Multimédia/Séries/Chernobyl/Chernobyl - 1x04 [720p].mkv:Chernobyl - 1x04 [720p].mkv
-#DESCRIPTION Chernobyl - 1x04 [720p].mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.185.213.98/Multimédia/Séries/Chernobyl/Chernobyl - 1x05 [720p].mkv:Chernobyl - 1x05 [720p].mkv
-#DESCRIPTION Chernobyl - 1x05 [720p].mkv
-#SERVICE 1:64:99:0:0:0:0:0:0:0::*** The X Files S10 ***
-#DESCRIPTION *** The X Files S10 ***
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 10/S10E01 - My Struggle.mp4:The X-Files S10E01 - My Struggle.mp4
-#DESCRIPTION The X-Files S10E01 - My Struggle.mp4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 10/S10E02 - Founder's Mutation.mp4:The X-Files S10E02 - Founder's Mutation.mp4
-#DESCRIPTION The X-Files S10E02 - Founder's Mutation.mp4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 10/S10E03 - Mulder And Scully Meet the Were-Monster.mp4:The X-Files S10E03 - Mulder And Scully Meet the We
-#DESCRIPTION The X-Files S10E03 - Mulder And Scully Meet the We
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 10/S10E04 - Home Again.mp4:The X-Files S10E04 - Home Again.mp4
-#DESCRIPTION The X-Files S10E04 - Home Again.mp4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 10/S10E05 - Babylon.mp4:The X-Files S10E05 - Babylon.mp4
-#DESCRIPTION The X-Files S10E05 - Babylon.mp4
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::*** The X Files S11 ***
-#DESCRIPTION *** The X Files S11 ***
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 11/S11E01 - My Struggle III.mkv:The X-Files S11E01 - My Struggle III.mkv
-#DESCRIPTION The X-Files S11E01 - My Struggle III.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 11/S11E02 - This.mkv:The X-Files S11E02 - This.mkv
-#DESCRIPTION The X-Files S11E02 - This.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 11/S11E03 - Plus One.mkv:The X-Files S11E03 - Plus One.mkv
-#DESCRIPTION The X-Files S11E03 - Plus One.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 11/S11E04 - The Lost Art of Forehead Sweat.mkv:The X-Files S11E04 - The Lost Art of Forehead Swea
-#DESCRIPTION The X-Files S11E04 - The Lost Art of Forehead Swea
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 11/S11E05 - Ghouli.mkv:The X-Files S11E05 - Ghouli.mkv
-#DESCRIPTION The X-Files S11E05 - Ghouli.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 11/S11E06 - Kitten.mkv:The X-Files S11E06 - Kitten.mkv
-#DESCRIPTION The X-Files S11E06 - Kitten.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 11/S11E07 - Rm9sbG93ZXJz.mkv:The X-Files S11E07 - Rm9sbG93ZXJz.mkv
-#DESCRIPTION The X-Files S11E07 - Rm9sbG93ZXJz.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 11/S11E08 - Familiar.mkv:The X-Files S11E08 - Familiar.mkv
-#DESCRIPTION The X-Files S11E08 - Familiar.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 11/S11E09 - Nothing Lasts Forever.mkv:The X-Files S11E09 - Nothing Lasts Forever.mkv
-#DESCRIPTION The X-Files S11E09 - Nothing Lasts Forever.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 11/S11E10 - My Struggle IV.eng.srt:The X-Files S11E10 - My Struggle IV.eng.srt
-#DESCRIPTION The X-Files S11E10 - My Struggle IV.eng.srt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV Series/English TV Shows/The X-Files/Season 11/S11E10 - My Struggle IV.mkv:The X-Files S11E10 - My Struggle IV.mkv
-#DESCRIPTION The X-Files S11E10 - My Struggle IV.mkv
-#SERVICE 1:64:9B:0:0:0:0:0:0:0::SERIES_151.80.100.155
+#SERVICE 1:64:98:0:0:0:0:0:0:0::SERIES_151.80.100.155
 #DESCRIPTION SERIES_151.80.100.155
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/983.avi:s13 vikings S04E20 FINAL
 #DESCRIPTION s13 vikings S04E20 FINAL
@@ -1895,10 +1847,8 @@
 #DESCRIPTION s13 Viking S04E18
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/982.avi:s13 Viking S04E19
 #DESCRIPTION s13 Viking S04E19
-#SERVICE 1:64:9C:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
+#SERVICE 1:64:99:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/E6p0wL9k/index.m3u8:Becerikli Mandarin BÃ¶lÃ¼m 01
-#DESCRIPTION Becerikli Mandarin BÃ¶lÃ¼m 01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e1.mp4:Game of Thrones Season 1 Episode 1
 #DESCRIPTION Game of Thrones Season 1 Episode 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e2.mp4:Game of Thrones Season 1 Episode 2
