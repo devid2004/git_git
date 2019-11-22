@@ -21,18 +21,26 @@
 #DESCRIPTION STAR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8:STAR TV
 #DESCRIPTION STAR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-beta.akamaized.net/showhd/showtvhd.smil/playlist.m3u8:SHOW TV1
+#DESCRIPTION SHOW TV1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//blutv-beta.akamaized.net/tv8hd/tv8hd.smil/chunklist_b2628000_sltur.m3u8:TV8 HD BLUTV
+#DESCRIPTION TV8 HD BLUTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-beta.akamaized.net/tv8.5hd/tv8.5hd.smil/chunklist_b2628000_sltur.m3u8:TV8.5 HD BLUTV
+#DESCRIPTION TV8.5 HD BLUTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ucankus-live.cdnnew.com/ucankus/ucankus.m3u8:UCAN KUS TV
+#DESCRIPTION UCAN KUS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.123%3a1234:SHOW TV HD
 #DESCRIPTION SHOW TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8:TLC TV HD
 #DESCRIPTION TLC TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8:DMAX
 #DESCRIPTION DMAX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/playlist.m3u8:FOX
-#DESCRIPTION FOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/playlist.m3u8:FOX TV HD
+#DESCRIPTION FOX TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8:teve2
 #DESCRIPTION teve2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_live_mn/tv8_hd.smil/chunklist_b1221000.m3u8?:TV8
-#DESCRIPTION TV8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_live_mn/tv8_hd.smil/chunklist_b1221000.m3u8?:TV8 HD
+#DESCRIPTION TV8 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-beta.akamaized.net/ahaber//ahaber.smil/playlist.m3u8:A HABER HD
 #DESCRIPTION A HABER HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-beta.akamaized.net/haberturkhd/haberturkhd.smil/playlist.m3u8:HABERTURK

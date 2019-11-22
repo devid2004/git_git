@@ -1,20 +1,28 @@
 #NAME **ReMy_Clubin_MUSIC_CHANNELS**
-#SERVICE 1:64:B0:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:B1:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.236.85.100%3a8081/SilenceTV/live/playlist.m3u8:Silence TV
-#DESCRIPTION Silence TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?:DREAM TV
-#DESCRIPTION DREAM TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8:DREAM TV
-#DESCRIPTION DREAM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bqgsd19q.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL TV
 #DESCRIPTION KRAL TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8:KRAL HD
 #DESCRIPTION KRAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8:KRAL WORLD
+#DESCRIPTION KRAL WORLD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8:KRAL WORLD TV
 #DESCRIPTION KRAL WORLD TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8:DREAM TURK
+#DESCRIPTION DREAM TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?:DREAM TV
+#DESCRIPTION DREAM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8:DREAM TV
+#DESCRIPTION DREAM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8:POWER HD
 #DESCRIPTION POWER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b2650000_sltur.m3u8:POWER TURK HD
+#DESCRIPTION POWER TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b1428000_sltur.m3u8:POWER TURK SD
+#DESCRIPTION POWER TURK SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1250p_av-p.m3u8?sd=10&rebase=on:TRT MUZIK HD
+#DESCRIPTION TRT MUZIK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL TV
 #DESCRIPTION KRAL TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8:KRAL POP TV
@@ -329,7 +337,7 @@
 #DESCRIPTION Zeta TV
 #SERVICE 4097:0:1:1629:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:ZIK
 #DESCRIPTION ZIK
-#SERVICE 1:64:B1:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:B2:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/smil/smil%3akralfm.smil/chunklist_w1224640543_b64000.m3u8:KRAL FM  ALEMIN KRALI
 #DESCRIPTION KRAL FM  ALEMIN KRALI
@@ -393,7 +401,7 @@
 #DESCRIPTION TaksimFM - Arabesk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.133.218%3a1078:TURKUAZ FM
 #DESCRIPTION TURKUAZ FM
-#SERVICE 1:64:B2:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:B3:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
