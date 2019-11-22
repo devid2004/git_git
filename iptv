@@ -47,5 +47,3 @@ wget -O /tmp/canadapro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username
 wget -O /tmp/iptivihd.m3u "http://iptv.iptivihd.com:8000/get.php?username=Une%20&password=Une&type=m3u"
 
 wget -O /tmp/bestiptv2.m3u "http://bestiptv2.premium-tv.info:8789/get.php?username=Naji_Derouiche&password=igaYR6PAtq&type=m3u"
-
-wget -O /tmp/exod.m3u "http://exod.iptv.life:8000/get.php?username=zoltan&password=zoltan&type=m3u"
