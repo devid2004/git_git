@@ -47,3 +47,9 @@ wget -O /tmp/myhdpro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username=s
 wget -O /tmp/canadapro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourcecanadapro1&password=4042848025&type=m3u"
 
 wget -O /tmp/belgiquesnow.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourcebelgiquesnow&password=4550109412&type=m3u"
+
+wget -O /tmp/turkiapro2.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourceturkiapro2&password=8684782188&type=m3u"
+
+wget -O /tmp/bestiptv2.m3u "http://bestiptv2.premium-tv.info:8789/get.php?username=Naji_Derouiche&password=igaYR6PAtq&type=m3u"
+
+wget -O /tmp/bestiptv2.m3u "http://exod.iptv.life:8000/get.php?username=zoltan&password=zoltan&type=m3u"
