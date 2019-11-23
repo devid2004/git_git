@@ -48,5 +48,7 @@ wget -O /tmp/mytv_fun.m3u "http://mytv.fun:80/get.php?username=Avelinooutro3&pas
 
 wget -O /tmp/list_deeplist_nl.m3u "http://list.deeplist.nl:80/get.php?username=paola&password=123&type=m3u"
 
+wget -O /tmp/ictv19.m3u "http://ictv19.xyz:8000/get.php?username=orlan&password=1234&type=m3u"
+
 
 
