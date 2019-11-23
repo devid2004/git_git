@@ -46,7 +46,7 @@ wget -O /tmp/bestiptv2.m3u "http://bestiptv2.premium-tv.info:8789/get.php?userna
 
 wget -O /tmp/mytv_fun.m3u "http://mytv.fun:80/get.php?username=Avelinooutro3&password=omagf3x5mt&type=m3u"
 
-
+wget -O /tmp/list_deeplist_nl.m3u "http://list.deeplist.nl:80/get.php?username=paola&password=123&type=m3u"
 
 
 
