@@ -281,6 +281,8 @@
 #DESCRIPTION Radio Beverwijk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8:Radio Bruno
 #DESCRIPTION Radio Bruno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8:radio Country FM TV
+#DESCRIPTION radio Country FM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8:Radio Contact Vision
 #DESCRIPTION Radio Contact Vision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8:Radio Italia TV
@@ -479,9 +481,9 @@
 #DESCRIPTION GREATEST HITS OF ALL TIME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
@@ -531,5 +533,3 @@
 #DESCRIPTION Zen fm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/ZEPLIN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=b6332e30-5bc1-42c5-c92f-47858fefa5dc:ZEPLIN
 #DESCRIPTION ZEPLIN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8:radio Country FM TV
-#DESCRIPTION radio Country FM TV
