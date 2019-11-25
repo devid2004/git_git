@@ -47,3 +47,5 @@ wget -O /tmp/ictv19.m3u "http://ictv19.xyz:8000/get.php?username=orlan&password=
 wget -O /tmp/iptvpro_vision.m3u "http://iptvpro.vision-new.org:8789/get.php?username=IPTVPRO22VODS22PRO2&password=W2T29z9cBPPRO2&type=m3u"
 
 wget -O /tmp/afatmus.m3u "http://afatmus.xyz:6464/get.php?username=live:dreambox2011&password=00KpnuWZOP&type=m3u"
+
+wget -O /tmp/iptivihd.m3u "http://iptv.iptivihd.com:8000/get.php?username=Une%20&password=Une&type=m3u"
