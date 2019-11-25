@@ -3,32 +3,44 @@
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #SERVICE 1:64:9B:0:0:0:0:0:0:0::---ReMy SPORT INTERNATIONAL---
 #DESCRIPTION ---ReMy SPORT INTERNATIONAL---
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:BEIN SPORT 1 (TUR)
+#DESCRIPTION BEIN SPORT 1 (TUR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportscore.biz/lba/123/g5/beinsport1tur.m3u8:BeinSport 1HD Tr
+#DESCRIPTION BeinSport 1HD Tr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.garaveli.de///tekliphp/gstv.php?&m3u8:GS TV
+#DESCRIPTION GS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g2/btuk1.m3u8:bt sport 1
+#DESCRIPTION bt sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g3/ukbt2sport.m3u8:bt sport 2
+#DESCRIPTION bt sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/btse.m3u8:bt sport ESPN
+#DESCRIPTION bt sport ESPN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g6/ukrfoot1.m3u8:Footboll 1 ukrain
+#DESCRIPTION Footboll 1 ukrain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g1/sport2port.m3u8:SPORT TV _2
+#DESCRIPTION SPORT TV _2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g2/pt3sport.m3u8:SPORT TV _3
+#DESCRIPTION SPORT TV _3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g8/ptsport5.m3u8:SPORT TV _5
+#DESCRIPTION SPORT TV _5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g1/rodigi4.m3u8:DigiSport 4HD
+#DESCRIPTION DigiSport 4HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/digisport2ro.m3u8:Digi Sport 2
+#DESCRIPTION Digi Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/sportklub1rs.m3u8:sportklub1
+#DESCRIPTION sportklub1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g8/rs3sk.m3u8:sportklub3
+#DESCRIPTION sportklub3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g8/albaniasport3.m3u8:Supersport 3
+#DESCRIPTION Supersport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g3/arenaserbia4.m3u8:ARENA SPORT 4
+#DESCRIPTION ARENA SPORT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/ar5sport.m3u8:ARENA SPORT 5
+#DESCRIPTION ARENA SPORT 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/hls/ntvspor/playlist.m3u8:ntvspor MAÇ ÖZETLERI
 #DESCRIPTION ntvspor MAÇ ÖZETLERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/ntvspor.ts:NTV SPOR 1HD
 #DESCRIPTION NTV SPOR 1HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/CMore-Football.m3u8:CMore Football
-#DESCRIPTION CMore Football
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8:BT Sport 1HD_
-#DESCRIPTION BT Sport 1HD_
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8:BT Sport 2HD_
-#DESCRIPTION BT Sport 2HD_
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-S-main-even.m3u8:Sky Sports Main Event HD
-#DESCRIPTION Sky Sports Main Event HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-Pre-L.m3u8:Sky Sports Premier League HD
-#DESCRIPTION Sky Sports Premier League HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/Sky-Spo-football-N.m3u8:Sky Sports Football HD_
-#DESCRIPTION Sky Sports Football HD_
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spo-football.m3u8:Sky Sports football
-#DESCRIPTION Sky Sports football
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Arena.m3u8:Sky-Sports-Arena
-#DESCRIPTION Sky-Sports-Arena
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-action.m3u8:Sky-Sport-action
-#DESCRIPTION Sky-Sport-action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spor-cricket.m3u8:Sky-Spor-cricket
-#DESCRIPTION Sky-Spor-cricket
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Golf.m3u8 :Sky-Sports-Golf
-#DESCRIPTION Sky-Sports-Golf
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8:KSA-Sport1-Bakup
 #DESCRIPTION KSA-Sport1-Bakup
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA-Sport2-Bakup
@@ -109,6 +121,20 @@
 #DESCRIPTION |FR| RMC SPORT LIVE 15 FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/54:|FR| RMC SPORT LIVE 16 FHD
 #DESCRIPTION |FR| RMC SPORT LIVE 16 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/55:|FR| BEIN SPORTS MAX 4 FHD
+#DESCRIPTION |FR| BEIN SPORTS MAX 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/56:|FR| BEIN SPORTS MAX 5 FHD
+#DESCRIPTION |FR| BEIN SPORTS MAX 5 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/57:|FR| BEIN SPORTS MAX 6 FHD
+#DESCRIPTION |FR| BEIN SPORTS MAX 6 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/58:|FR| BEIN SPORTS MAX 7 FHD
+#DESCRIPTION |FR| BEIN SPORTS MAX 7 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/59:|FR| BEIN SPORTS MAX 8 FHD
+#DESCRIPTION |FR| BEIN SPORTS MAX 8 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/60:|FR| BEIN SPORTS MAX 9 FHD
+#DESCRIPTION |FR| BEIN SPORTS MAX 9 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/61:|FR| BEIN SPORTS MAX 10 FHD
+#DESCRIPTION |FR| BEIN SPORTS MAX 10 FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/62:|FR| RMC SPORT 1
 #DESCRIPTION |FR| RMC SPORT 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/63:|FR| RMC SPORT 2
@@ -123,10 +149,18 @@
 #DESCRIPTION |FR| CANAL+ HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/68:|FR| BEINSPORT 2 HD
 #DESCRIPTION |FR| BEINSPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/69:|FR| BEINSPORT 3 HD
+#DESCRIPTION |FR| BEINSPORT 3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/70:|FR| CANAL+ SPORT HD
 #DESCRIPTION |FR| CANAL+ SPORT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/71:|FR| BEINSPORT 1 HD
+#DESCRIPTION |FR| BEINSPORT 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/74:|FR| canal + sd
 #DESCRIPTION |FR| canal + sd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/72:|FR| FRANCE 3 FHD
+#DESCRIPTION |FR| FRANCE 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/73:|FR| FRANCE 3 HD
+#DESCRIPTION |FR| FRANCE 3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/75:|FR|RMC.Sport4.SD
 #DESCRIPTION |FR|RMC.Sport4.SD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/76:|FR|RMC.Sport3.SD
@@ -135,6 +169,12 @@
 #DESCRIPTION |FR|RMC.Sport2.SD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/78:|FR|RMC.Sport1.SD
 #DESCRIPTION |FR|RMC.Sport1.SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/79:|FR|BEINSPORT 1 sd FR
+#DESCRIPTION |FR|BEINSPORT 1 sd FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/80:|FR|BEINSPORT 2 sd FR
+#DESCRIPTION |FR|BEINSPORT 2 sd FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/81:|FR|BEINSPORT 3 sd FR
+#DESCRIPTION |FR|BEINSPORT 3 sd FR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/82:RMC SPORT LIVE 5
 #DESCRIPTION RMC SPORT LIVE 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/83:RMC SPORT LIVE 6
@@ -145,92 +185,54 @@
 #DESCRIPTION RMC SPORT LIVE 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/86:RMC SPORT LIVE 9
 #DESCRIPTION RMC SPORT LIVE 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/87:MULTISPORTS 1 HD
+#DESCRIPTION MULTISPORTS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/88:MULTISPORTS 2
+#DESCRIPTION MULTISPORTS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/89:MULTISPORTS 3
+#DESCRIPTION MULTISPORTS 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/90:MULTISPORTS 4
+#DESCRIPTION MULTISPORTS 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/91:MULTISPORTS 5
+#DESCRIPTION MULTISPORTS 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/92:MULTISPORTS 6
+#DESCRIPTION MULTISPORTS 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/93:equipe fhd
+#DESCRIPTION equipe fhd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/94:equipe hd
 #DESCRIPTION equipe hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/95:|FR| M6 FHD
 #DESCRIPTION |FR| M6 FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport1.m3u8:BeinSport1
-#DESCRIPTION BeinSport1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport2.m3u8:BeinSport2
-#DESCRIPTION BeinSport2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport3.m3u8:BeinSport3
-#DESCRIPTION BeinSport3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport4.m3u8:BeinSport4
-#DESCRIPTION BeinSport4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport5.m3u8:BeinSport5
-#DESCRIPTION BeinSport5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport6.m3u8:BeinSport6
-#DESCRIPTION BeinSport6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport7.m3u8:BeinSport7
-#DESCRIPTION BeinSport7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport8.m3u8:BeinSport8
-#DESCRIPTION BeinSport8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport9.m3u8:BeinSport9
-#DESCRIPTION BeinSport9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport10.m3u8:BeinSport10
-#DESCRIPTION BeinSport10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport11.m3u8:BeinSport11
-#DESCRIPTION BeinSport11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport12.m3u8:BeinSport12
-#DESCRIPTION BeinSport12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport13.m3u8:BeinSport13
-#DESCRIPTION BeinSport13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport14.m3u8:BeinSport14
-#DESCRIPTION BeinSport14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport15.m3u8:BeinSport15
-#DESCRIPTION BeinSport15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BeinSport16.m3u8:BeinSport16
-#DESCRIPTION BeinSport16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv1.premium-stv.com%3a8000/live/RMCSPORTS1/tXiJODIWac/1.ts:RMC SPORTS 1 FHD
-#DESCRIPTION RMC SPORTS 1 FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv1.premium-stv.com%3a8000/live/RMCSPORTS1/tXiJODIWac/6.ts:RMC SPORT 1 HD
-#DESCRIPTION RMC SPORT 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv1.premium-stv.com%3a8000/live/beinsports1/4vgUw50udN/34.ts:|FR| BEINSPORT 1 HD
-#DESCRIPTION |FR| BEINSPORT 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv1.premium-stv.com%3a8000/live/beinsports2/bgN9xhRhYV/36.ts:|FR| BEINSPORT 2 HD
-#DESCRIPTION |FR| BEINSPORT 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv1.premium-stv.com%3a8000/live/BEINSPORTS3/48kyWpBsoQ/40.ts:|FR| BEINSPORT 3 HD
-#DESCRIPTION |FR| BEINSPORT 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv1.premium-stv.com%3a8000/live/beinsports1/4vgUw50udN/33.ts:|FR| beINSPORTS 1 FULLHD
-#DESCRIPTION |FR| beINSPORTS 1 FULLHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv1.premium-stv.com%3a8000/live/beinsports2/bgN9xhRhYV/37.ts:|FR| beINSPORTS 2 FULLHD
-#DESCRIPTION |FR| beINSPORTS 2 FULLHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv1.premium-stv.com%3a8000/live/BEINSPORTS3/48kyWpBsoQ/39.ts:|FR| beINSPORTS 3 FULLHD
-#DESCRIPTION |FR| beINSPORTS 3 FULLHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:BEIN SPORT 1 (TUR)
-#DESCRIPTION BEIN SPORT 1 (TUR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportscore.biz/lba/123/g5/beinsport1tur.m3u8:BeinSport 1HD Tr
-#DESCRIPTION BeinSport 1HD Tr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.garaveli.de///tekliphp/gstv.php?&m3u8:GS TV
-#DESCRIPTION GS TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g2/btuk1.m3u8:bt sport 1
-#DESCRIPTION bt sport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g3/ukbt2sport.m3u8:bt sport 2
-#DESCRIPTION bt sport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/btse.m3u8:bt sport ESPN
-#DESCRIPTION bt sport ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g6/ukrfoot1.m3u8:Footboll 1 ukrain
-#DESCRIPTION Footboll 1 ukrain
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g1/sport2port.m3u8:SPORT TV _2
-#DESCRIPTION SPORT TV _2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g2/pt3sport.m3u8:SPORT TV _3
-#DESCRIPTION SPORT TV _3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g8/ptsport5.m3u8:SPORT TV _5
-#DESCRIPTION SPORT TV _5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g1/rodigi4.m3u8:DigiSport 4HD
-#DESCRIPTION DigiSport 4HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/digisport2ro.m3u8:Digi Sport 2
-#DESCRIPTION Digi Sport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/sportklub1rs.m3u8:sportklub1
-#DESCRIPTION sportklub1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g8/rs3sk.m3u8:sportklub3
-#DESCRIPTION sportklub3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g8/albaniasport3.m3u8:Supersport 3
-#DESCRIPTION Supersport 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g3/arenaserbia4.m3u8:ARENA SPORT 4
-#DESCRIPTION ARENA SPORT 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/ar5sport.m3u8:ARENA SPORT 5
-#DESCRIPTION ARENA SPORT 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/96:|FR| M6 HD
+#DESCRIPTION |FR| M6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/abudhabi1/ttBQW7TF8s/53.ts:AD SPORT 2
+#DESCRIPTION AD SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/abudhabi1/ttBQW7TF8s/49.ts:AD SPORT 3
+#DESCRIPTION AD SPORT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/abudhabi1/ttBQW7TF8s/48.ts:AD SPORTS 1
+#DESCRIPTION AD SPORTS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/CMore-Football.m3u8:CMore Football
+#DESCRIPTION CMore Football
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8:BT Sport 1HD_
+#DESCRIPTION BT Sport 1HD_
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8:BT Sport 2HD_
+#DESCRIPTION BT Sport 2HD_
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-S-main-even.m3u8:Sky Sports Main Event HD
+#DESCRIPTION Sky Sports Main Event HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-Pre-L.m3u8:Sky Sports Premier League HD
+#DESCRIPTION Sky Sports Premier League HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/Sky-Spo-football-N.m3u8:Sky Sports Football HD_
+#DESCRIPTION Sky Sports Football HD_
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spo-football.m3u8:Sky Sports football
+#DESCRIPTION Sky Sports football
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Arena.m3u8:Sky-Sports-Arena
+#DESCRIPTION Sky-Sports-Arena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-action.m3u8:Sky-Sport-action
+#DESCRIPTION Sky-Sport-action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spor-cricket.m3u8:Sky-Spor-cricket
+#DESCRIPTION Sky-Spor-cricket
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Golf.m3u8 :Sky-Sports-Golf
+#DESCRIPTION Sky-Sports-Golf
 #SERVICE 1:64:9C:0:0:0:0:0:0:0::=== ★★ReMy | SPoRT★★ ====
 #DESCRIPTION === ★★ReMy | SPoRT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
