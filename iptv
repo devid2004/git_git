@@ -26,8 +26,6 @@ wget -O /usr/lib/enigma2/python/Plugins/Extensions/m3u_Pro/m3u_ProM3U/XXpremium.
 
 wget -O /tmp/Latin.m3u "https://github.com/PrivateTr/Zone_enigma/raw/master/Latin-04-11-2019.m3u"
 
-wget -O /tmp/SPORTS_WORLDPRO2.m3u "http://iptv4.premium-stv.com:8000/get.php?username=SOURCESPORTSWORLDPRO2&password=fpB6wu4xIh&type=m3u"
-
 wget -O /tmp/BEIN7.m3u "http://iptv2.premium-stv.com:8888/get.php?username=BEIN7&password=uVXyuCtM1h&type=m3u"
 
 wget -O /tmp/BEIN5.m3u "http://iptv2.premium-stv.com:8888/get.php?username=BEIN5&password=Awq87aGnqS&type=m3u"
@@ -43,9 +41,5 @@ wget -O /tmp/canadapro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username
 wget -O /tmp/bestiptv2.m3u "http://bestiptv2.premium-tv.info:8789/get.php?username=Naji_Derouiche&password=igaYR6PAtq&type=m3u"
 
 wget -O /tmp/ictv19.m3u "http://ictv19.xyz:8000/get.php?username=orlan&password=1234&type=m3u"
-
-wget -O /tmp/iptvpro_vision.m3u "http://iptvpro.vision-new.org:8789/get.php?username=IPTVPRO22VODS22PRO2&password=W2T29z9cBPPRO2&type=m3u"
-
-wget -O /tmp/afatmus.m3u "http://afatmus.xyz:6464/get.php?username=live:dreambox2011&password=00KpnuWZOP&type=m3u"
 
 wget -O /tmp/iptivihd.m3u "http://iptv.iptivihd.com:8000/get.php?username=Une%20&password=Une&type=m3u"
