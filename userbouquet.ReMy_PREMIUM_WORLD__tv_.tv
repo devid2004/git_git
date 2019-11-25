@@ -45,6 +45,10 @@
 #DESCRIPTION KSA-Sport1-Bakup
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA-Sport2-Bakup
 #DESCRIPTION KSA-Sport2-Bakup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcebelgiquesnow/4550109412/1896:|BE| Voo Sport 1 FHD
+#DESCRIPTION |BE| Voo Sport 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcebelgiquesnow/4550109412/1874:|BE| Eleven Sports 1 HD
+#DESCRIPTION |BE| Eleven Sports 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv1.premium-stv.com%3a8000/live/CANALAPLUS/laC5eURPY8/27.ts:|FR| CANAL+ SPORT FULLHD
 #DESCRIPTION |FR| CANAL+ SPORT FULLHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN3/0jWkR45MqZ/44.ts:BEINSPORTS 3 SD
