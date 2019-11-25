@@ -1463,10 +1463,6 @@
 #DESCRIPTION Kangxi Microservice Private Visit
 #SERVICE 1:64:A2:0:0:0:0:0:0:0::=== ★★ATRESMEDIA_ESPANOL★★ ====
 #DESCRIPTION === ★★ATRESMEDIA_ESPANOL★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_2.m3u8:GH Dúo 24h  BBG ISPANYA
-#DESCRIPTION GH Dúo 24h  BBG ISPANYA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_2.m3u8:GH Dúo 24h BBG ISPANYA
-#DESCRIPTION GH Dúo 24h BBG ISPANYA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.enetres.net%3a1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8:13 TV
 #DESCRIPTION 13 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8:24h
@@ -3451,3 +3447,7 @@
 #DESCRIPTION Pattaya 11pm to 5am - It gets MESSY!!!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=n-YnzZVzV9U:Soho Red Light District London
 #DESCRIPTION Soho Red Light District London
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8:GH Duo 24h  BBG ISPANYA
+#DESCRIPTION GH Duo 24h  BBG ISPANYA
+#SERVICE 1:0:1:0:0:0:0:0:0:0:https%3a//livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_2.m3u8:GH Duo 24h BBG ISPANYA
+#DESCRIPTION GH Duo 24h BBG ISPANYA
