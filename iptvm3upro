@@ -20,4 +20,10 @@ sleep 1
 wget -O /tmp/bestiptv2.m3u "http://bestiptv2.premium-tv.info:8789/get.php?username=Naji_Derouiche&password=igaYR6PAtq&type=m3u"
 sleep 1
 wget -O /tmp/ictv19.m3u "http://ictv19.xyz:8000/get.php?username=orlan&password=1234&type=m3u"
+sleep 1
+wget -O /tmp/turkiapro1source.m3u "http://iptv6.premium-stv.com:25461/get.php?username=turkiapro1source&password=8564164562&type=m3u"
+sleep 1
+wget -O /tmp/sourcefrhevcpro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourcefrhevcpro1&password=0493432475&type=m3u"
+sleep 1
+wget -O /tmp/sourceukpro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourceukpro1&password=6256905511&type=m3u"
 exit 0
