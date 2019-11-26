@@ -7,8 +7,6 @@ wget -O /tmp/Latin.m3u "https://github.com/PrivateTr/Zone_enigma/raw/master/Lati
 sleep 1
 wget -O /tmp/BEIN7.m3u "http://iptv2.premium-stv.com:8888/get.php?username=BEIN7&password=uVXyuCtM1h&type=m3u"
 sleep 1
-wget -O /tmp/BEIN5.m3u "http://iptv2.premium-stv.com:8888/get.php?username=BEIN5&password=Awq87aGnqS&type=m3u"
-sleep 1
 wget -O /tmp/BEIN3.m3u "http://iptv2.premium-stv.com:8888/get.php?username=BEIN3&password=0jWkR45MqZ&type=m3u"
 sleep 1
 wget -O /tmp/localhdTV.m3u "http://localhd.tv:8081/get.php?username=gueguin.cyrille&password=sosXqioS4I&type=m3u"
@@ -16,8 +14,6 @@ sleep 1
 wget -O /tmp/myhdpro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourcemyhdpro1&password=4690746424&type=m3u"
 sleep 1
 wget -O /tmp/canadapro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourcecanadapro1&password=4042848025&type=m3u"
-sleep 1
-wget -O /tmp/bestiptv2.m3u "http://bestiptv2.premium-tv.info:8789/get.php?username=Naji_Derouiche&password=igaYR6PAtq&type=m3u"
 sleep 1
 wget -O /tmp/ictv19.m3u "http://ictv19.xyz:8000/get.php?username=orlan&password=1234&type=m3u"
 sleep 1
