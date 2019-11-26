@@ -189,26 +189,14 @@
 #DESCRIPTION RMC SPORT LIVE 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/86:RMC SPORT LIVE 9
 #DESCRIPTION RMC SPORT LIVE 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/87:MULTISPORTS 1 HD
-#DESCRIPTION MULTISPORTS 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/88:MULTISPORTS 2
-#DESCRIPTION MULTISPORTS 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/89:MULTISPORTS 3
-#DESCRIPTION MULTISPORTS 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/90:MULTISPORTS 4
-#DESCRIPTION MULTISPORTS 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/91:MULTISPORTS 5
-#DESCRIPTION MULTISPORTS 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/92:MULTISPORTS 6
-#DESCRIPTION MULTISPORTS 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/93:equipe fhd
-#DESCRIPTION equipe fhd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/94:equipe hd
 #DESCRIPTION equipe hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/95:|FR| M6 FHD
-#DESCRIPTION |FR| M6 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/93:equipe fhd
+#DESCRIPTION equipe fhd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/96:|FR| M6 HD
 #DESCRIPTION |FR| M6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/95:|FR| M6 FHD
+#DESCRIPTION |FR| M6 FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/abudhabi1/ttBQW7TF8s/53.ts:AD SPORT 2
 #DESCRIPTION AD SPORT 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/abudhabi1/ttBQW7TF8s/49.ts:AD SPORT 3
@@ -613,8 +601,8 @@
 #DESCRIPTION Fox News Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8:News
 #DESCRIPTION News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX:News 12 (The Bronx)
-#DESCRIPTION News 12 (The Bronx)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8:Newsmax TV
+#DESCRIPTION Newsmax TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8:Newsmax TV HD
 #DESCRIPTION Newsmax TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8:NHK World
@@ -693,8 +681,6 @@
 #DESCRIPTION +HR=E
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8:3AW Melbourne
 #DESCRIPTION 3AW Melbourne
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8:4BC Brisbane
-#DESCRIPTION 4BC Brisbane
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8:4U occidental
 #DESCRIPTION 4U occidental
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8:2UE Sydney
@@ -719,8 +705,6 @@
 #DESCRIPTION Beach TV - Pawleys Island
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8:Bowie TV
 #DESCRIPTION Bowie TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.202.81.107%3a1935/stream/live/playlist.m3u8:Bx
-#DESCRIPTION Bx
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8:Buffalo TV
 #DESCRIPTION Buffalo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s29:CC, MTV, NIck
@@ -743,22 +727,18 @@
 #DESCRIPTION CN Tower 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s27:Comedy Central/VIVA
 #DESCRIPTION Comedy Central/VIVA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master.m3u8:Daystar
-#DESCRIPTION Daystar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8:DesiBoX.DeSi TV Urban Desi Musix
 #DESCRIPTION DesiBoX.DeSi TV Urban Desi Musix
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.oct.dc.gov/out/u/DCN.m3u8:District of Columbia Network
 #DESCRIPTION District of Columbia Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamjo.com%3a1935/eetlive/eettv/playlist.m3u8:EET TV TAMIL | SD
 #DESCRIPTION EET TV TAMIL | SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hindiabp-lh.akamaihd.net%3a80/i/hindiabp1new_1@192103/index_300_av-p.m3u8:English: ABP Hindi news
-#DESCRIPTION English: ABP Hindi news
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8:Free Speech TV
 #DESCRIPTION Free Speech TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8:FOX 5
-#DESCRIPTION FOX 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8:FOX5
 #DESCRIPTION FOX5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8:FOX 5
+#DESCRIPTION FOX 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8:FOX 29
 #DESCRIPTION FOX 29
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8:FOX 31
@@ -771,14 +751,10 @@
 #DESCRIPTION HSN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:Impact Wrestling HD USA
 #DESCRIPTION Impact Wrestling HD USA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8:InfoWars
-#DESCRIPTION InfoWars
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8:Inspiration TV (USA)
 #DESCRIPTION Inspiration TV (USA)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/5/live.m3u8:INVESTIGATION DISCOVERY
 #DESCRIPTION INVESTIGATION DISCOVERY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvjlocal.akamaized.net/univ_video_jnn/abr/playlist.m3u8?fluxustv.m3u8:Jamaica News Network
-#DESCRIPTION Jamaica News Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8:JUCE TV
 #DESCRIPTION JUCE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8:K+
@@ -817,8 +793,6 @@
 #DESCRIPTION NetvToronto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8:NEWS CENTER 7 OHIO
 #DESCRIPTION NEWS CENTER 7 OHIO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8:Newsmax TV
-#DESCRIPTION Newsmax TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8:NEWSY
 #DESCRIPTION NEWSY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8:NYXT
@@ -829,60 +803,32 @@
 #DESCRIPTION News 12 (Long Island)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX:News 12 (The Bronx)
 #DESCRIPTION News 12 (The Bronx)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8:NTV Newfounland
-#DESCRIPTION NTV Newfounland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn8.live247stream.com/canadaone/tv/playlist.m3u8:ONE | SD
 #DESCRIPTION ONE | SD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//otv3.ocfl.net%3a1936/OrangeTV/smil%3aOrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8:Orange TV (Orlando)
 #DESCRIPTION Orange TV (Orlando)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/4/live.m3u8:PLANET GREEN
-#DESCRIPTION PLANET GREEN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8:POP
-#DESCRIPTION POP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//primeasia.dyndns.tv%3a8080/Live_web_2500/tracks-v1a1/index.m3u8:PRIME ASIA TV
-#DESCRIPTION PRIME ASIA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8:PRIME CANADA TV
 #DESCRIPTION PRIME CANADA TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8:RALEIGH TELEVISION NETWORK
-#DESCRIPTION RALEIGH TELEVISION NETWORK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8:Real News With David Knight
-#DESCRIPTION Real News With David Knight
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8:Rev'n
 #DESCRIPTION Rev'n
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8:Salt + Light Television
 #DESCRIPTION Salt + Light Television
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sydney.live247stream.com%3a8081/sabrang/tv/sabrang/stream1/chunks.m3u8:SABRANG CHANNEL
-#DESCRIPTION SABRANG CHANNEL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/9/live.m3u8:SCIENCE CHANNEL
-#DESCRIPTION SCIENCE CHANNEL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/7/live.m3u8:SHOWTIME
-#DESCRIPTION SHOWTIME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.253.75%3a8008/manifest.m3u8:Sintel
 #DESCRIPTION Sintel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza.floridakeysmedia.com%3a8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8:Sloppy Joe's (Stage)
-#DESCRIPTION Sloppy Joe's (Stage)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8:Southeastern Channel
 #DESCRIPTION Southeastern Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8:SPACE
-#DESCRIPTION SPACE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8:Space
 #DESCRIPTION Space
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tamilvision.tv%3a8081/TVI/HD/playlist.m3u8:TAMIL VISION
 #DESCRIPTION TAMIL VISION
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8:Tele Quebec
 #DESCRIPTION Tele Quebec
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.temple.edu/tutvlive/_definst_/mp4%3aplay/chunklist.m3u8:Temple TV
-#DESCRIPTION Temple TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8:The Country Network
-#DESCRIPTION The Country Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8:Three
 #DESCRIPTION Three
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8:The Weather Channel
 #DESCRIPTION The Weather Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//weather-lh.akamaihd.net%3a80/i/twc_1@92006/master.m3u8:The Weather Network
 #DESCRIPTION The Weather Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/hdtimes11.flv/chunklist.m3u8:Times Square lİve cam
-#DESCRIPTION Times Square lİve cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/hdtimes10.flv/chunklist.m3u8:Times Square (47th & Broadway)
 #DESCRIPTION Times Square (47th & Broadway)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/9974.flv/chunklist.m3u8:Times Square (Street Cam)
@@ -891,10 +837,6 @@
 #DESCRIPTION Times Square (South View)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//toronto3.live247stream.com/toronto360/tv/playlist.m3u8:TORONTO 360 TV
 #DESCRIPTION TORONTO 360 TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/3/live.m3u8:Travel Channel
-#DESCRIPTION Travel Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/3/live.m3u8:TRAVEL CHANNEL
-#DESCRIPTION TRAVEL CHANNEL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8:TSTV TEXAS
 #DESCRIPTION TSTV TEXAS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8:TVSN
@@ -903,20 +845,26 @@
 #DESCRIPTION TVW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8:Vision 4
 #DESCRIPTION Vision 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8:Voice of America
-#DESCRIPTION Voice of America
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8:Wairarapa TV
 #DESCRIPTION Wairarapa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8:WVIT 30 News (Hartford)
 #DESCRIPTION WVIT 30 News (Hartford)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//i.mjh.nz/au/Adelaide/tv.101204200425.m3u8:Your Money
-#DESCRIPTION Your Money
 #SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★REMY_CHINA★★ ====
 #DESCRIPTION === ★★REMY_CHINA★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8:bestTV 4K
-#DESCRIPTION bestTV 4K
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8:K-DRAMA
-#DESCRIPTION K-DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8:Blackberry Animation Kingdom
+#DESCRIPTION Blackberry Animation Kingdom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.8/PLTV/3/224/3221225555/index.m3u8:Blackberry Animation Kingdom 2
+#DESCRIPTION Blackberry Animation Kingdom 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/donghuawg/1.m3u8:Blackberry Kingdom of Animation FHD
+#DESCRIPTION Blackberry Kingdom of Animation FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8:Blackberry boutiq movie
+#DESCRIPTION Blackberry boutiq movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8:Blackberry electricity, actually
+#DESCRIPTION Blackberry electricity, actually
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225675/index.m3u8:Blackberry Game
+#DESCRIPTION Blackberry Game
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/wmyx/1.m3u8:Blackberry perfect play
+#DESCRIPTION Blackberry perfect play
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8:CCTV-1
 #DESCRIPTION CCTV-1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8:CCTV-5
@@ -941,527 +889,367 @@
 #DESCRIPTION CCTV-15
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1:china
 #DESCRIPTION china
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225612/index.m3u8:Zhejiang Satellite TV
-#DESCRIPTION Zhejiang Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225613/index.m3u8:Jiangsu Satellite TV
-#DESCRIPTION Jiangsu Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8:Hunan Satellite TV
-#DESCRIPTION Hunan Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8:K-DRAMA
+#DESCRIPTION K-DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225659/index.m3u8:Amdo Satellite TV
+#DESCRIPTION Amdo Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8:Anhui Satellite TV
 #DESCRIPTION Anhui Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225699/index.m3u8:Guangdong Satellite TV
-#DESCRIPTION Guangdong Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225736/index.m3u8:Guangdong Satellite TV
-#DESCRIPTION Guangdong Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225737/index.m3u8:Shandong Satellite TV
-#DESCRIPTION Shandong Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225705/index.m3u8:Hubei Satellite TV
-#DESCRIPTION Hubei Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225700/index.m3u8:Dragon TV
-#DESCRIPTION Dragon TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225735/index.m3u8:Dragon TV
-#DESCRIPTION Dragon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225631/index.m3u8:Anhui Satellite TV
+#DESCRIPTION Anhui Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8:Archaeological Series
+#DESCRIPTION Archaeological Series
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8:AYSAR Movies 4
+#DESCRIPTION AYSAR Movies 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8:AYSAR Movies 5
+#DESCRIPTION AYSAR Movies 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8:AYSAR Movies 6
+#DESCRIPTION AYSAR Movies 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8:AYSAR Movies 7
+#DESCRIPTION AYSAR Movies 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8:AYSAR Movies 9
+#DESCRIPTION AYSAR Movies 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8:AYSAR Movies 10
+#DESCRIPTION AYSAR Movies 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8:AYSAR Movies 11
+#DESCRIPTION AYSAR Movies 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8:BABY / PARENT CHILD
+#DESCRIPTION BABY / PARENT CHILD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8:Beijing Satellite TV
 #DESCRIPTION Beijing Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225728/index.m3u8:Beijing Satellite TV
 #DESCRIPTION Beijing Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225740/index.m3u8:Tianjin Satellite TV
-#DESCRIPTION Tianjin Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225739/index.m3u8:Shenzhen Satellite TV
-#DESCRIPTION Shenzhen Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225615/index.m3u8:Jiangxi Satellite TV
-#DESCRIPTION Jiangxi Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225618/index.m3u8:Chongqing Satellite TV
-#DESCRIPTION Chongqing Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225619/index.m3u8:Liaoning Satellite TV
-#DESCRIPTION Liaoning Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225620/index.m3u8:Southeast Satellite TV
-#DESCRIPTION Southeast Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225621/index.m3u8:Sichuan Satellite TV
-#DESCRIPTION Sichuan Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225622/index.m3u8:Guangxi Satellite TV
-#DESCRIPTION Guangxi Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225623/index.m3u8:Hebei Satellite TV
-#DESCRIPTION Hebei Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225624/index.m3u8:Shanxi Satellite TV
-#DESCRIPTION Shanxi Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225625/index.m3u8:Shaanxi Satellite TV
-#DESCRIPTION Shaanxi Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225626/index.m3u8:Guizhou Satellite TV
-#DESCRIPTION Guizhou Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225627/index.m3u8:Hubei Satellite TV
-#DESCRIPTION Hubei Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225628/index.m3u8:Qinghai Satellite TV
-#DESCRIPTION Qinghai Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225631/index.m3u8:Anhui Satellite TV
-#DESCRIPTION Anhui Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225632/index.m3u8:Ningxia Satellite TV
-#DESCRIPTION Ningxia Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225633/index.m3u8:Gansu Satellite TV
-#DESCRIPTION Gansu Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8:Inner Mongolia Satellite TV
-#DESCRIPTION Inner Mongolia Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225635/index.m3u8:Xinjiang Satellite TV
-#DESCRIPTION Xinjiang Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225636/index.m3u8:Yunnan Satellite TV
-#DESCRIPTION Yunnan Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225637/index.m3u8:Jilin Satellite TV
-#DESCRIPTION Jilin Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225638/index.m3u8:Tibet Satellite TV
-#DESCRIPTION Tibet Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225639/index.m3u8:Travel satellite TV
-#DESCRIPTION Travel satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225640/index.m3u8:Heilongjiang Satellite TV
-#DESCRIPTION Heilongjiang Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225641/index.m3u8:Guangdong Satellite TV
-#DESCRIPTION Guangdong Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8:Zhejiang Satellite TV
-#DESCRIPTION Zhejiang Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225644/index.m3u8:Jiangsu Satellite TV
-#DESCRIPTION Jiangsu Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225645/index.m3u8:Shenzhen Satellite TV
-#DESCRIPTION Shenzhen Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225647/index.m3u8:Dragon TV
-#DESCRIPTION Dragon TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225648/index.m3u8:Tianjin Satellite TV
-#DESCRIPTION Tianjin Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225650/index.m3u8:Shandong Satellite TV
-#DESCRIPTION Shandong Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8:Beijing Satellite TV
 #DESCRIPTION Beijing Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225678/index.m3u8:Hubei Satellite TV
-#DESCRIPTION Hubei Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225652/index.m3u8:CETV-1
-#DESCRIPTION CETV-1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8:Blue Ball Fire
+#DESCRIPTION Blue Ball Fire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2702136290-11605586994884771840-4573721796-10057-A-0-1_1200.m3u8:Brave Game 3
+#DESCRIPTION Brave Game 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8:Bright sword
+#DESCRIPTION Bright sword
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225654/index.m3u8:BTV documentary
 #DESCRIPTION BTV documentary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8:Shandong Education
-#DESCRIPTION Shandong Education
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//116.199.5.51%3a8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8Fsv_cid=1034&Fsv_chan_hls_se_idx=30Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp?=240veFsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV+jCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO/%0aOFrWyxI+tteLTJnZKT7Lg8BRYQNXMQU=%0a:BTV Fei green rabbit
+#DESCRIPTION BTV Fei green rabbit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//42.48.60.248%3a8082/live/gqts-800k.m3u8:CBN Daily Cinema
+#DESCRIPTION CBN Daily Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//42.48.60.248%3a8082/live/gqys-800k.m3u8:CBN Happy Theater
+#DESCRIPTION CBN Happy Theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cclive.aniu.tv/live/anzb.m3u8:CCLIVE.Aniu TV
+#DESCRIPTION CCLIVE.Aniu TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225652/index.m3u8:CETV-1
+#DESCRIPTION CETV-1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8:China on the tip of the tongue
+#DESCRIPTION China on the tip of the tongue
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225618/index.m3u8:Chongqing Satellite TV
+#DESCRIPTION Chongqing Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8:Daqin Empire
+#DESCRIPTION Daqin Empire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8:Deer Ding Ji
+#DESCRIPTION Deer Ding Ji
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225700/index.m3u8:Dragon TV
+#DESCRIPTION Dragon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225735/index.m3u8:Dragon TV
+#DESCRIPTION Dragon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225647/index.m3u8:Dragon TV
+#DESCRIPTION Dragon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1_1200.m3u8:Dàzháimén
+#DESCRIPTION Dàzháimén
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225656/index.m3u8:Excellent cartoon
 #DESCRIPTION Excellent cartoon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225657/index.m3u8:Hyun cartoon
-#DESCRIPTION Hyun cartoon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225658/index.m3u8:Heilongjiang Satellite TV
-#DESCRIPTION Heilongjiang Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225659/index.m3u8:Amdo Satellite TV
-#DESCRIPTION Amdo Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225660/index.m3u8:Kangba TV
-#DESCRIPTION Kangba TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225679/index.m3u8:Fashion shopping
 #DESCRIPTION Fashion shopping
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1_1200.m3u8:Feidao
+#DESCRIPTION Feidao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8:Four Kings
+#DESCRIPTION Four Kings
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225633/index.m3u8:Gansu Satellite TV
+#DESCRIPTION Gansu Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8:Goddess series
+#DESCRIPTION Goddess series
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225699/index.m3u8:Guangdong Satellite TV
+#DESCRIPTION Guangdong Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225736/index.m3u8:Guangdong Satellite TV
+#DESCRIPTION Guangdong Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225641/index.m3u8:Guangdong Satellite TV
+#DESCRIPTION Guangdong Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225622/index.m3u8:Guangxi Satellite TV
+#DESCRIPTION Guangxi Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225626/index.m3u8:Guizhou Satellite TV
+#DESCRIPTION Guizhou Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_1200.m3u8:have children
+#DESCRIPTION have children
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225623/index.m3u8:Hebei Satellite TV
+#DESCRIPTION Hebei Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225640/index.m3u8:Heilongjiang Satellite TV
+#DESCRIPTION Heilongjiang Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225658/index.m3u8:Heilongjiang Satellite TV
+#DESCRIPTION Heilongjiang Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8:Hollywood Movies 11
+#DESCRIPTION Hollywood Movies 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8:Hollywood Movies 6
+#DESCRIPTION Hollywood Movies 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8:Hollywood Movies 8
+#DESCRIPTION Hollywood Movies 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8:Hong Kong Movies
+#DESCRIPTION Hong Kong Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net%3a80/i/Live_1@384161/index_500_av-p.m3u8:HOPE CH
+#DESCRIPTION HOPE CH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8:HRB ENTERTAINMENT
+#DESCRIPTION HRB ENTERTAINMENT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225761/index.m3u8:HRB INFO
+#DESCRIPTION HRB INFO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225762/index.m3u8:HRB Life
+#DESCRIPTION HRB Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8:HRB MOVIE
+#DESCRIPTION HRB MOVIE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8:HRB NEWS SYNTHESIS
+#DESCRIPTION HRB NEWS SYNTHESIS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225705/index.m3u8:Hubei Satellite TV
+#DESCRIPTION Hubei Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225627/index.m3u8:Hubei Satellite TV
+#DESCRIPTION Hubei Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225678/index.m3u8:Hubei Satellite TV
+#DESCRIPTION Hubei Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8:Hunan Satellite TV
+#DESCRIPTION Hunan Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225657/index.m3u8:Hyun cartoon
+#DESCRIPTION Hyun cartoon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8:Inner Mongolia Satellite TV
+#DESCRIPTION Inner Mongolia Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jdianying/yst.m3u8:IPTV boutique film
+#DESCRIPTION IPTV boutique film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jzongyi/yst.m3u8:IPTV boutique variety
+#DESCRIPTION IPTV boutique variety
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.156.28.119/270000001111/1110000112/index.m3u8:IPTV comic book experiment
+#DESCRIPTION IPTV comic book experiment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.156.28.119/270000001111/1110000111/index.m3u8:IPTV rule of law
+#DESCRIPTION IPTV rule of law
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.156.28.119/270000001111/1110000110/index.m3u8:IPTV Spy Play Theater
+#DESCRIPTION IPTV Spy Play Theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.156.28.119/270000001111/1110000054/index.m3u8:IPTV5 +
+#DESCRIPTION IPTV5 +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225613/index.m3u8:Jiangsu Satellite TV
+#DESCRIPTION Jiangsu Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225644/index.m3u8:Jiangsu Satellite TV
+#DESCRIPTION Jiangsu Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225615/index.m3u8:Jiangxi Satellite TV
+#DESCRIPTION Jiangxi Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225637/index.m3u8:Jilin Satellite TV
+#DESCRIPTION Jilin Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8:Journey to the West
+#DESCRIPTION Journey to the West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225660/index.m3u8:Kangba TV
+#DESCRIPTION Kangba TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8:Kangxi Dynasty
+#DESCRIPTION Kangxi Dynasty
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8:Kangxi Microservice Private Visit
+#DESCRIPTION Kangxi Microservice Private Visit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kazakhtven.ultraiptv.com/live_en/playlist.m3u8:KAZAKH TV
+#DESCRIPTION KAZAKH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8:KUROKO BASKETBOL ​​
+#DESCRIPTION KUROKO BASKETBOL ​​
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1_1200.m3u8:Let's get married.
+#DESCRIPTION Let's get married.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225619/index.m3u8:Liaoning Satellite TV
+#DESCRIPTION Liaoning Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8:Lotus Lantern
+#DESCRIPTION Lotus Lantern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8:Love Apartment
+#DESCRIPTION Love Apartment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xinl.live.maxtv.cn/live/zb/playlist.m3u8:Max Financial Media
+#DESCRIPTION Max Financial Media
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8:Military drama
+#DESCRIPTION Military drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.170/PLTV/2/224/3221226795/index.m3u8:NBA BesTV Live Room 1HD
+#DESCRIPTION NBA BesTV Live Room 1HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.170/PLTV/2/224/3221226797/index.m3u8:NBA BesTV Live Room 2HD
+#DESCRIPTION NBA BesTV Live Room 2HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.170/PLTV/2/224/3221226799/index.m3u8:NBA BesTV Live Room 3HD
+#DESCRIPTION NBA BesTV Live Room 3HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.170/PLTV/2/224/3221226801/index.m3u8:NBA BesTV Live Room 4HD
+#DESCRIPTION NBA BesTV Live Room 4HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.170/PLTV/2/224/3221226803/index.m3u8:NBA BesTV Live Room 5HD
+#DESCRIPTION NBA BesTV Live Room 5HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.170/PLTV/2/224/3221226805/index.m3u8:NBA BesTV Live Room 6HD
+#DESCRIPTION NBA BesTV Live Room 6HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8:New Three Kingdoms
+#DESCRIPTION New Three Kingdoms
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8:Newtv action movie
 #DESCRIPTION Newtv action movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8:NewTV Action movie
+#DESCRIPTION NewTV Action movie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8:Newtv Animation Kingdom
 #DESCRIPTION Newtv Animation Kingdom
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8:Newtv Costume Theater
-#DESCRIPTION Newtv Costume Theater
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8:Newtv star blockbuster
-#DESCRIPTION Newtv star blockbuster
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8:Newtv is suspenseful
-#DESCRIPTION Newtv is suspenseful
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8:Newtv Gold Variety
-#DESCRIPTION Newtv Gold Variety
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8:Newtv boutique movie
-#DESCRIPTION Newtv boutique movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8:Newtv military commentary
-#DESCRIPTION Newtv military commentary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8:Newtv love comedy
-#DESCRIPTION Newtv love comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8:NewTV blockbuster
+#DESCRIPTION NewTV blockbuster
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8:Newtv boutique drama
 #DESCRIPTION Newtv boutique drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8:Newtv Overseas Theatre
-#DESCRIPTION Newtv Overseas Theatre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8:NewTV boutique drama
+#DESCRIPTION NewTV boutique drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8:Newtv boutique movie
+#DESCRIPTION Newtv boutique movie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8:Newtv boutique record
 #DESCRIPTION Newtv boutique record
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8:Newtv is healthy
-#DESCRIPTION Newtv is healthy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8:Newtv electricity, actually
-#DESCRIPTION Newtv electricity, actually
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8:Newtv Military Theatre
-#DESCRIPTION Newtv Military Theatre
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8:Newtv Family Theatre
-#DESCRIPTION Newtv Family Theatre
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8:Newtv fight theater
-#DESCRIPTION Newtv fight theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8:NewTV boutique record
+#DESCRIPTION NewTV boutique record
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8:Newtv Chinese Kung Fu
 #DESCRIPTION Newtv Chinese Kung Fu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8:Phim TQ 55 (Uzun)
-#DESCRIPTION Phim TQ 55 (Uzun)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8:Phim TQ (Disney)
-#DESCRIPTION Phim TQ (Disney)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8:Phim TQ (Di Renjie)
-#DESCRIPTION Phim TQ (Di Renjie)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8:Newtv Costume Theater
+#DESCRIPTION Newtv Costume Theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225663/index.m3u8:NewTV Costume Theater
+#DESCRIPTION NewTV Costume Theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/nongyezf/1.m3u8:NewTV Cultivation rich
+#DESCRIPTION NewTV Cultivation rich
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225677/index.m3u8:NewTV Family Theater
+#DESCRIPTION NewTV Family Theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jiatingjc/1.m3u8:NewTV Family Theater HD
+#DESCRIPTION NewTV Family Theater HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8:Newtv Family Theatre
+#DESCRIPTION Newtv Family Theatre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8:NewTV fear
+#DESCRIPTION NewTV fear
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jingsongxy/1.m3u8:NewTV fear anxiety HD
+#DESCRIPTION NewTV fear anxiety HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8:Newtv fight theater
+#DESCRIPTION Newtv fight theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8:NewTV Fighting Theater
+#DESCRIPTION NewTV Fighting Theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8:NewTV Gold Diversity
+#DESCRIPTION NewTV Gold Diversity
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8:Newtv Gold Variety
+#DESCRIPTION Newtv Gold Variety
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225673/index.m3u8:NewTV Health
+#DESCRIPTION NewTV Health
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8:Newtv is healthy
+#DESCRIPTION Newtv is healthy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8:Newtv is suspenseful
+#DESCRIPTION Newtv is suspenseful
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8:Newtv love comedy
+#DESCRIPTION Newtv love comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8:NewTV Love Comedy
+#DESCRIPTION NewTV Love Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/aiqingxj/1.m3u8:NewTV Love Comedy
+#DESCRIPTION NewTV Love Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8:Newtv military commentary
+#DESCRIPTION Newtv military commentary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225668/index.m3u8:NewTV Military Review
+#DESCRIPTION NewTV Military Review
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225676/index.m3u8:NewTV Military Theater
+#DESCRIPTION NewTV Military Theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8:Newtv Military Theatre
+#DESCRIPTION Newtv Military Theatre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225671/index.m3u8:NewTV Overseas Theater
+#DESCRIPTION NewTV Overseas Theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/xiqumd/1.m3u8:NewTV Overseas Theater
+#DESCRIPTION NewTV Overseas Theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8:Newtv Overseas Theatre
+#DESCRIPTION Newtv Overseas Theatre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8:Newtv star blockbuster
+#DESCRIPTION Newtv star blockbuster
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/mingxingdp/1.m3u8:NewTV star blockbuster HD
+#DESCRIPTION NewTV star blockbuster HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8:NewTV Super Movie
+#DESCRIPTION NewTV Super Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8:NewTV Çin Kung Fu
+#DESCRIPTION NewTV Çin Kung Fu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8:NewTV Çin Kung Fu
+#DESCRIPTION NewTV Çin Kung Fu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8:Night Legend
+#DESCRIPTION Night Legend
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225632/index.m3u8:Ningxia Satellite TV
+#DESCRIPTION Ningxia Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8:Phim TQ (Dragon Gate Escort)
 #DESCRIPTION Phim TQ (Dragon Gate Escort)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8:Phim TQ (Lứu Đức Hòa)
 #DESCRIPTION Phim TQ (Lứu Đức Hòa)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8:Phim TQ (RăngđồngắtJiXiaolan)
 #DESCRIPTION Phim TQ (RăngđồngắtJiXiaolan)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8:Phim TQ (Yitian Shoulong)
-#DESCRIPTION Phim TQ (Yitian Shoulong)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ec.sinovision.net/video/ts/newlv.m3u8:SinoVision
-#DESCRIPTION SinoVision
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/qwr9ew/s/s50/index2.m3u8:Toon Max TV
-#DESCRIPTION Toon Max TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//116.199.5.51%3a8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8Fsv_cid=1034&Fsv_chan_hls_se_idx=30Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp?=240veFsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV+jCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO/%0aOFrWyxI+tteLTJnZKT7Lg8BRYQNXMQU=%0a:TVB Fei - Yeşil - Tayvan
-#DESCRIPTION TVB Fei - Yeşil - Tayvan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cstvpull.live.wscdns.com/live/xiamen4.flv:XMTV Yıldızı
-#DESCRIPTION XMTV Yıldızı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cstvpull.live.wscdns.com/live/xiamen1.flv:XMTV 1
-#DESCRIPTION XMTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cstvpull.live.wscdns.com/live/xiamen2.flv:XMTV 2
-#DESCRIPTION XMTV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cstvpull.live.wscdns.com/live/xiamen3.flv:XMTV 3
-#DESCRIPTION XMTV 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8:Hollywood Filmleri 6
-#DESCRIPTION Hollywood Filmleri 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8:Hollywood Filmleri 8
-#DESCRIPTION Hollywood Filmleri 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8:Hollywood Filmleri 11
-#DESCRIPTION Hollywood Filmleri 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kazakhtven.ultraiptv.com/live_en/playlist.m3u8:kazakh tv
-#DESCRIPTION kazakh tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8:Kuroko Basketbol ​​
-#DESCRIPTION Kuroko Basketbol ​​
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225628/index.m3u8:Qinghai Satellite TV
+#DESCRIPTION Qinghai Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8:Reality TV 2
 #DESCRIPTION Reality TV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cclive.aniu.tv/live/anzb.m3u8:Aniu TV
-#DESCRIPTION Aniu TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8:AYSAR Hollywood Filmleri 7
-#DESCRIPTION AYSAR Hollywood Filmleri 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8:AYSAR Hollywood Filmleri 11
-#DESCRIPTION AYSAR Hollywood Filmleri 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8:AYSAR FİLMİ 4
-#DESCRIPTION AYSAR FİLMİ 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8:AYSAR FİLMİ 6
-#DESCRIPTION AYSAR FİLMİ 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8:AYSAR FİLM 7
-#DESCRIPTION AYSAR FİLM 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8:AYSAR Filmi 9
-#DESCRIPTION AYSAR Filmi 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8:BABY ebeveyn-çocuk
-#DESCRIPTION BABY ebeveyn-çocuk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.52.162/wh7f454c46tw3730304110_1867932700/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226031/index.m3u8:BesTV
-#DESCRIPTION BesTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net%3a80/i/Live_1@384161/index_500_av-p.m3u8:Umut Kanalı
-#DESCRIPTION Umut Kanalı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8:HRB Eğlence
-#DESCRIPTION HRB Eğlence
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8:HRB filmi
-#DESCRIPTION HRB filmi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8:HRB Haber Sentezi
-#DESCRIPTION HRB Haber Sentezi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225762/index.m3u8:HRB Life
-#DESCRIPTION HRB Life
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225761/index.m3u8:HRB bilgileri
-#DESCRIPTION HRB bilgileri
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.156.28.119/270000001111/1110000054/index.m3u8:IPTV5 +
-#DESCRIPTION IPTV5 +
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.156.28.119/270000001111/1110000111/index.m3u8:IPTV hukukun üstünlüğü
-#DESCRIPTION IPTV hukukun üstünlüğü
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.156.28.119/270000001111/1110000112/index.m3u8:IPTV çizgi roman deneyi
-#DESCRIPTION IPTV çizgi roman deneyi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jdianying/yst.m3u8:IPTV butik filmi
-#DESCRIPTION IPTV butik filmi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jzongyi/yst.m3u8:IPTV butik çeşitliliği
-#DESCRIPTION IPTV butik çeşitliliği
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.156.28.119/270000001111/1110000110/index.m3u8:IPTV Casus Oyun Tiyatrosu
-#DESCRIPTION IPTV Casus Oyun Tiyatrosu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mastvnet.com/MSTV/playlist.m3u8:MASTV
-#DESCRIPTION MASTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xinl.live.maxtv.cn/live/zb/playlist.m3u8:Max Financial Media
-#DESCRIPTION Max Financial Media
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.170/PLTV/2/224/3221226795/index.m3u8:NBA BesTV Canlı Oda 1HD
-#DESCRIPTION NBA BesTV Canlı Oda 1HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.170/PLTV/2/224/3221226797/index.m3u8:NBA BesTV Live 2HD
-#DESCRIPTION NBA BesTV Live 2HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.170/PLTV/2/224/3221226799/index.m3u8:NBA BesTV Live 3HD
-#DESCRIPTION NBA BesTV Live 3HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.170/PLTV/2/224/3221226801/index.m3u8:NBA BesTV Canlı Oda 4HD
-#DESCRIPTION NBA BesTV Canlı Oda 4HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.170/PLTV/2/224/3221226803/index.m3u8:NBA BesTV Canlı Oda 5HD
-#DESCRIPTION NBA BesTV Canlı Oda 5HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.170/PLTV/2/224/3221226805/index.m3u8:NBA BesTV Canlı Oda 6HD
-#DESCRIPTION NBA BesTV Canlı Oda 6HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8:NewTV Süper Filmi
-#DESCRIPTION NewTV Süper Filmi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8:NewTV Çin Kung Fu
-#DESCRIPTION NewTV Çin Kung Fu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225673/index.m3u8:NewTV Health'in bir randevusu var
-#DESCRIPTION NewTV Health'in bir randevusu var
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225668/index.m3u8:NewTV Askeri İnceleme
-#DESCRIPTION NewTV Askeri İnceleme
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225676/index.m3u8:NewTV Askeri Tiyatrosu
-#DESCRIPTION NewTV Askeri Tiyatrosu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8:NewTV aksiyon filmi
-#DESCRIPTION NewTV aksiyon filmi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8:NewTV Canlandırma Krallığı
-#DESCRIPTION NewTV Canlandırma Krallığı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225663/index.m3u8:NewTV Kostüm Tiyatrosu
-#DESCRIPTION NewTV Kostüm Tiyatrosu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225677/index.m3u8:NewTV Aile Tiyatrosu
-#DESCRIPTION NewTV Aile Tiyatrosu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8:NewTV korku
-#DESCRIPTION NewTV korku
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8:NewTV Dövüş Tiyatrosu
-#DESCRIPTION NewTV Dövüş Tiyatrosu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8:NewTV yıldızı gişe rekorları kıran
-#DESCRIPTION NewTV yıldızı gişe rekorları kıran
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225671/index.m3u8:NewTV Denizaşırı Tiyatrosu
-#DESCRIPTION NewTV Denizaşırı Tiyatrosu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8:NewTV Hyun Dans Geleceği
-#DESCRIPTION NewTV Hyun Dans Geleceği
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8:NewTV Aşk Komedi
-#DESCRIPTION NewTV Aşk Komedi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225675/index.m3u8:NewTV elektriği
-#DESCRIPTION NewTV elektriği
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8:NewTV butik draması
-#DESCRIPTION NewTV butik draması
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8:NewTV butik filmi
-#DESCRIPTION NewTV butik filmi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8:NewTV butik kaydı
-#DESCRIPTION NewTV butik kaydı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8:NewTV Altın Çeşitliliği
-#DESCRIPTION NewTV Altın Çeşitliliği
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8:NewTV Çin Kung Fu
-#DESCRIPTION NewTV Çin Kung Fu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.248.71/cntv/live1/SD-1500k-576P-gzkongfu/SD-1500k-576P-gzkongfu:NewTV Çin Kung Fu
-#DESCRIPTION NewTV Çin Kung Fu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8:NewTV Health'in bir randevusu var
-#DESCRIPTION NewTV Health'in bir randevusu var
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225545/index.m3u8:NewTV Health'in bir randevusu var
-#DESCRIPTION NewTV Health'in bir randevusu var
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/junshipl/1.m3u8:NewTV Askeri Kanalı
-#DESCRIPTION NewTV Askeri Kanalı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/junlvjc/1.m3u8:NewTV Askeri Tiyatrosu
-#DESCRIPTION NewTV Askeri Tiyatrosu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/nongyezf/1.m3u8:NewTV Tarımı zengin
-#DESCRIPTION NewTV Tarımı zengin
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.15/PLTV/3/224/3221225529/index.m3u8:NewTV aksiyon filmi
-#DESCRIPTION NewTV aksiyon filmi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/dongzuody/1.m3u8:NewTV Aksiyon Filmi HD
-#DESCRIPTION NewTV Aksiyon Filmi HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.8/PLTV/3/224/3221225555/index.m3u8:NewTV Animasyon Krallığı 2
-#DESCRIPTION NewTV Animasyon Krallığı 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8:NewTV Animasyon Krallığı FHD
-#DESCRIPTION NewTV Animasyon Krallığı FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/donghuawg/1.m3u8:NewTV Animasyon Krallığı HHD
-#DESCRIPTION NewTV Animasyon Krallığı HHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/guzhuangjc/1.m3u8:NewTV Kostüm Tiyatrosu
-#DESCRIPTION NewTV Kostüm Tiyatrosu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/wmyx/1.m3u8:NewTV mükemmel oyun
-#DESCRIPTION NewTV mükemmel oyun
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jiatingjc/1.m3u8:NewTV Aile Tiyatrosu HHD
-#DESCRIPTION NewTV Aile Tiyatrosu HHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jingsongxy/1.m3u8:NewTV korku endişesi HD
-#DESCRIPTION NewTV korku endişesi HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8:YeniTV savaşı
-#DESCRIPTION YeniTV savaşı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.134/PLTV/3/224/3221226656/index.m3u8:NewTV Kavgası
-#DESCRIPTION NewTV Kavgası
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8:NewTV Dövüş Tiyatrosu
-#DESCRIPTION NewTV Dövüş Tiyatrosu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.148.187.37/PLTV/88888888/224/3221226751/index.m3u8:NewTV yıldızı gişe rekorları kıran FHD
-#DESCRIPTION NewTV yıldızı gişe rekorları kıran FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/mingxingdp/1.m3u8:NewTV yıldızı gişe rekorları kıran HD
-#DESCRIPTION NewTV yıldızı gişe rekorları kıran HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/xiqumd/1.m3u8:NewTV Denizaşırı Tiyatrosu
-#DESCRIPTION NewTV Denizaşırı Tiyatrosu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.16/PLTV/3/224/3221225547/index.m3u8:NewTV Denizaşırı Tiyatrosu
-#DESCRIPTION NewTV Denizaşırı Tiyatrosu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.148.187.37/PLTV/88888888/224/3221226666/index.m3u8:NewTV Chao Ma Baharatlı
-#DESCRIPTION NewTV Chao Ma Baharatlı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226983/index.m3u8:NewTV Chao Ma Baharatlı
-#DESCRIPTION NewTV Chao Ma Baharatlı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/aiqingxj/1.m3u8:NewTV Aşk Komedi
-#DESCRIPTION NewTV Aşk Komedi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.12/PLTV/3/224/3221225525/index.m3u8:NewTV Aşk Komedi
-#DESCRIPTION NewTV Aşk Komedi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.16/PLTV/3/224/3221225543/index.m3u8:NewTV Premium Sports
-#DESCRIPTION NewTV Premium Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.8/PLTV/3/224/3221225543/index.m3u8:NewTV Butik Sporları
-#DESCRIPTION NewTV Butik Sporları
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.15/PLTV/3/224/3221225543/index.m3u8:NewTV Premium Sports
-#DESCRIPTION NewTV Premium Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jtiyu/1.m3u8:NewTV Premium Sports HD
-#DESCRIPTION NewTV Premium Sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.14/PLTV/3/224/3221225569/index.m3u8:NewTV butik draması
-#DESCRIPTION NewTV butik draması
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jdaju/1.m3u8:NewTV butik draması HD
-#DESCRIPTION NewTV butik draması HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.14/PLTV/3/224/3221225567/index.m3u8:NewTV butik filmi
-#DESCRIPTION NewTV butik filmi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jdianying/1.m3u8:NewTV Premium Movie HD
-#DESCRIPTION NewTV Premium Movie HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8:NewTV butik kaydı
-#DESCRIPTION NewTV butik kaydı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.14/PLTV/3/224/3221225557/index.m3u8:NewTV butik kaydı
-#DESCRIPTION NewTV butik kaydı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225557/index.m3u8:NewTV Butik Kayıt FHD
-#DESCRIPTION NewTV Butik Kayıt FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jingpinjl/1.m3u8:NewTV butik rekor HHD
-#DESCRIPTION NewTV butik rekor HHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.16/PLTV/3/224/3221225559/index.m3u8:NewTV Altın Çeşitliliği
-#DESCRIPTION NewTV Altın Çeşitliliği
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/saishijx/1.m3u8:NewTV Gold Variety HD
-#DESCRIPTION NewTV Gold Variety HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//42.48.60.248%3a8082/live/gqys-800k.m3u8:CBN Mutlu Tiyatrosu
-#DESCRIPTION CBN Mutlu Tiyatrosu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//42.48.60.248%3a8082/live/gqts-800k.m3u8:CBN Günlük Sinema
-#DESCRIPTION CBN Günlük Sinema
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech5.m3u8:İyi TV
-#DESCRIPTION İyi TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech15.m3u8:İyi TV 15
-#DESCRIPTION İyi TV 15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech16.m3u8:İyi TV 16
-#DESCRIPTION İyi TV 16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech17.m3u8:İyi TV 17
-#DESCRIPTION İyi TV 17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech18.m3u8:İyi TV 18
-#DESCRIPTION İyi TV 18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech19.m3u8:İyi TV 19
-#DESCRIPTION İyi TV 19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech20.m3u8:İyi TV 20
-#DESCRIPTION İyi TV 20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech21.m3u8:İyi TV 21
-#DESCRIPTION İyi TV 21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech22.m3u8:İyi TV 22
-#DESCRIPTION İyi TV 22
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech23.m3u8:İyi TV 23
-#DESCRIPTION İyi TV 23
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech24.m3u8:İyi TV 24
-#DESCRIPTION İyi TV 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech25.m3u8:İyi TV 25
-#DESCRIPTION İyi TV 25
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech26.m3u8:İyi TV 26
-#DESCRIPTION İyi TV 26
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech27.m3u8:İyi TV 27
-#DESCRIPTION İyi TV 27
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech28.m3u8:İyi TV 28
-#DESCRIPTION İyi TV 28
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech29.m3u8:İyi TV 29
-#DESCRIPTION İyi TV 29
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech30.m3u8:İyi TV 30
-#DESCRIPTION İyi TV 30
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech31.m3u8:İyi TV 31
-#DESCRIPTION İyi TV 31
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech32.m3u8:İyi TV 32
-#DESCRIPTION İyi TV 32
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech33.m3u8:İyi TV 33
-#DESCRIPTION İyi TV 33
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech34.m3u8:İyi TV 34
-#DESCRIPTION İyi TV 34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech35.m3u8:İyi TV 35
-#DESCRIPTION İyi TV 35
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech36.m3u8:İyi TV 36
-#DESCRIPTION İyi TV 36
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech37.m3u8:İyi TV 37
-#DESCRIPTION İyi TV 37
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech38.m3u8:İyi TV 38
-#DESCRIPTION İyi TV 38
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech39.m3u8:İyi TV 39
-#DESCRIPTION İyi TV 39
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech41.m3u8:İyi TV 41
-#DESCRIPTION İyi TV 41
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech42.m3u8:İyi TV 42
-#DESCRIPTION İyi TV 42
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech43.m3u8:İyi TV 43
-#DESCRIPTION İyi TV 43
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech45.m3u8:İyi TV 45
-#DESCRIPTION İyi TV 45
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech46.m3u8:İyi TV 46
-#DESCRIPTION İyi TV 46
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech47.m3u8:İyi TV 47
-#DESCRIPTION İyi TV 47
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech48.m3u8:İyi TV 48
-#DESCRIPTION İyi TV 48
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech49.m3u8:İyi TV 49
-#DESCRIPTION İyi TV 49
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/osmflivech50.m3u8:İyi TV 50
-#DESCRIPTION İyi TV 50
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8:İyi TV kompleksi
-#DESCRIPTION İyi TV kompleksi
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::=== ★★REMY_JAPAN★★ ====
-#DESCRIPTION === ★★REMY_JAPAN★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8:Speed ​​and Passion
-#DESCRIPTION Speed ​​and Passion
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8:Science Fiction Movie
-#DESCRIPTION Science Fiction Movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8:Hong Kong Movies
-#DESCRIPTION Hong Kong Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8:Archaeological Series
-#DESCRIPTION Archaeological Series
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8:Night Legend
-#DESCRIPTION Night Legend
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8:Western mythology
-#DESCRIPTION Western mythology
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_1200.m3u8:Unsolved mystery
-#DESCRIPTION Unsolved mystery
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2702136290-11605586994884771840-4573721796-10057-A-0-1_1200.m3u8:Brave Game 3
-#DESCRIPTION Brave Game 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8:Shaped monster
-#DESCRIPTION Shaped monster
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8:Resident Evil
 #DESCRIPTION Resident Evil
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8:China on the tip of the tongue
-#DESCRIPTION China on the tip of the tongue
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8:Love Apartment
-#DESCRIPTION Love Apartment
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8:Bright sword
-#DESCRIPTION Bright sword
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8:Military drama
-#DESCRIPTION Military drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8:New Three Kingdoms
-#DESCRIPTION New Three Kingdoms
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8:Deer Ding Ji
-#DESCRIPTION Deer Ding Ji
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8:Tiě yá tóng yá jì lán
-#DESCRIPTION Tiě yá tóng yá jì lán
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8:Blue Ball Fire
-#DESCRIPTION Blue Ball Fire
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8:The Condor Heroes
-#DESCRIPTION The Condor Heroes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8:КаNAL 58
-#DESCRIPTION КаNAL 58
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8:Goddess series
-#DESCRIPTION Goddess series
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8:Yī tiān túlóngjì
-#DESCRIPTION Yī tiān túlóngjì
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8:The ultimate class
-#DESCRIPTION The ultimate class
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8:Xuanyuanjian
-#DESCRIPTION Xuanyuanjian
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8:The Romance of the Three Kingdoms
-#DESCRIPTION The Romance of the Three Kingdoms
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8:six cases
-#DESCRIPTION six cases
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8:Kangxi Dynasty
-#DESCRIPTION Kangxi Dynasty
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1_1200.m3u8:Let's get married.
-#DESCRIPTION Let's get married.
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1_1200.m3u8:Tiandi Xuanhuang
-#DESCRIPTION Tiandi Xuanhuang
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8:Lotus Lantern
-#DESCRIPTION Lotus Lantern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8:Science Fiction Movie
+#DESCRIPTION Science Fiction Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225625/index.m3u8:Shaanxi Satellite TV
+#DESCRIPTION Shaanxi Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8:Shandong Education
+#DESCRIPTION Shandong Education
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225737/index.m3u8:Shandong Satellite TV
+#DESCRIPTION Shandong Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225650/index.m3u8:Shandong Satellite TV
+#DESCRIPTION Shandong Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225624/index.m3u8:Shanxi Satellite TV
+#DESCRIPTION Shanxi Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8:Shaolin Temple Legend
 #DESCRIPTION Shaolin Temple Legend
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1_1200.m3u8:Dàzháimén
-#DESCRIPTION Dàzháimén
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8:Four Kings
-#DESCRIPTION Four Kings
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8:Shaped monster
+#DESCRIPTION Shaped monster
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225739/index.m3u8:Shenzhen Satellite TV
+#DESCRIPTION Shenzhen Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225645/index.m3u8:Shenzhen Satellite TV
+#DESCRIPTION Shenzhen Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225621/index.m3u8:Sichuan Satellite TV
+#DESCRIPTION Sichuan Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ec.sinovision.net/video/ts/newlv.m3u8:SinoVision
+#DESCRIPTION SinoVision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8:six cases
+#DESCRIPTION six cases
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225620/index.m3u8:Southeast Satellite TV
+#DESCRIPTION Southeast Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8:Speed ​​and Passion
+#DESCRIPTION Speed ​​and Passion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8:The Condor Heroes
+#DESCRIPTION The Condor Heroes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8:The Romance of the Three Kingdoms
+#DESCRIPTION The Romance of the Three Kingdoms
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8:The ultimate class
+#DESCRIPTION The ultimate class
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1_1200.m3u8:Tiandi Xuanhuang
+#DESCRIPTION Tiandi Xuanhuang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225740/index.m3u8:Tianjin Satellite TV
+#DESCRIPTION Tianjin Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225648/index.m3u8:Tianjin Satellite TV
+#DESCRIPTION Tianjin Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225638/index.m3u8:Tibet Satellite TV
+#DESCRIPTION Tibet Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8:Tiě yá tóng yá jì lán
+#DESCRIPTION Tiě yá tóng yá jì lán
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225639/index.m3u8:Travel satellite TV
+#DESCRIPTION Travel satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.52.162/wh7f454c46tw3730304110_1867932700/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226031/index.m3u8:UFC l BesTV
+#DESCRIPTION UFC l BesTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_1200.m3u8:Unsolved mystery
+#DESCRIPTION Unsolved mystery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8:Western mythology
+#DESCRIPTION Western mythology
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cstvpull.live.wscdns.com/live/xiamen4.flv:XIAMEN STAR
+#DESCRIPTION XIAMEN STAR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1_1200.m3u8:Xiao Li Feidao
 #DESCRIPTION Xiao Li Feidao
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1_1200.m3u8:Feidao
-#DESCRIPTION Feidao
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8:Daqin Empire
-#DESCRIPTION Daqin Empire
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8:Journey to the West
-#DESCRIPTION Journey to the West
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_1200.m3u8:have children
-#DESCRIPTION have children
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8:Kangxi Microservice Private Visit
-#DESCRIPTION Kangxi Microservice Private Visit
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::=== ★★ATRESMEDIA_ESPANOL★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225635/index.m3u8:Xinjiang Satellite TV
+#DESCRIPTION Xinjiang Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cstvpull.live.wscdns.com/live/xiamen1.flv:XMTV.CN
+#DESCRIPTION XMTV.CN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cstvpull.live.wscdns.com/live/xiamen2.flv:XMTV.CN 2
+#DESCRIPTION XMTV.CN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cstvpull.live.wscdns.com/live/xiamen3.flv:XMTV.CN 3
+#DESCRIPTION XMTV.CN 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8:Xuanyuanjian
+#DESCRIPTION Xuanyuanjian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8:YeniTV war
+#DESCRIPTION YeniTV war
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225636/index.m3u8:Yunnan Satellite TV
+#DESCRIPTION Yunnan Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8:Yī tiān túlóngjì
+#DESCRIPTION Yī tiān túlóngjì
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225612/index.m3u8:Zhejiang Satellite TV
+#DESCRIPTION Zhejiang Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8:Zhejiang Satellite TV
+#DESCRIPTION Zhejiang Satellite TV
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::=== ★★ATRESMEDIA_ESPANOL★★ ====
 #DESCRIPTION === ★★ATRESMEDIA_ESPANOL★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.enetres.net%3a1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8:13 TV
 #DESCRIPTION 13 TV
@@ -1643,7 +1431,7 @@
 #DESCRIPTION Webcam OndaMadrid
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8:Yu No Te Pierdas Nada HD
 #DESCRIPTION Yu No Te Pierdas Nada HD
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★EAST EUROPE |ITALY★★ ====
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::=== ★★EAST EUROPE |ITALY★★ ====
 #DESCRIPTION === ★★EAST EUROPE |ITALY★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net%3a80/i/m2oTv_1@186074/index_600_av-b.m3u8:M2O TV
 #DESCRIPTION M2O TV
@@ -1749,7 +1537,7 @@
 #DESCRIPTION TVP Bydgoszcz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gargoyle.tomkow.pl/hls/tvt.m3u8:TVT HD
 #DESCRIPTION TVT HD
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::=== ★★EAST EUROPE | BALKAN★★ ====
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★EAST EUROPE | BALKAN★★ ====
 #DESCRIPTION === ★★EAST EUROPE | BALKAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.108.13%3a8000/play/a0cu:4S
 #DESCRIPTION 4S
@@ -2021,7 +1809,7 @@
 #DESCRIPTION WAU HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.51.131.28%3a8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8:YU PLANET
 #DESCRIPTION YU PLANET
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::GREECE
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::GREECE
 #DESCRIPTION GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.192.84.30%3a554/live/myStream.sdp/playlist.m3u8:4E
 #DESCRIPTION 4E
@@ -2063,7 +1851,7 @@
 #DESCRIPTION VOULI
 #SERVICE 4097:0:1:422:0:0:0:0:0:0:http%3a//streamer-cache.grnet.gr/parliament/hls/webtv.m3u8:Vouli TV
 #DESCRIPTION Vouli TV
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★REMY | GERMANY★★ ====
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★REMY | GERMANY★★ ====
 #DESCRIPTION === ★★REMY | GERMANY★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.143.119.60%3a9981/stream/channelid/1925694245?ticket=EAE4F9969610023FA473E40FE34CDA668E54347F&profile=pass:3sat
 #DESCRIPTION 3sat
@@ -2299,7 +2087,7 @@
 #DESCRIPTION WDR Fernsehen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.vidoo.de/live/weltderwunder/playlist.m3u8:Welt Der Wunder
 #DESCRIPTION Welt Der Wunder
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
+#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
 #DESCRIPTION === ★★ARABIA | PAKETI★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107%3a80/hls/m3u8/Alhayat-M-Backup.m3u8:Alhayat-M-Backup
 #DESCRIPTION Alhayat-M-Backup
@@ -2451,7 +2239,7 @@
 #DESCRIPTION Sama Dubai
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ns8.indexforce.com%3a1935/alsharqiyalive/mystream/playlist.m3u8:Sharqiya News
 #DESCRIPTION Sharqiya News
-#SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★BOLGESEL |UKRAIN★★ ====
+#SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★BOLGESEL |UKRAIN★★ ====
 #DESCRIPTION === ★★BOLGESEL |UKRAIN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.33.16.32-.m3u8:100 News
 #DESCRIPTION 100 News
@@ -2537,7 +2325,7 @@
 #DESCRIPTION Yuzhnaja Volna
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.45.135.158%3a1935/live/HrBroadcast/playlist.m3u8:Public TV (Ukraine) [FHD]
 #DESCRIPTION Public TV (Ukraine) [FHD]
-#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★ReMy |RUSSIAN★★ ====
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★ReMy |RUSSIAN★★ ====
 #DESCRIPTION === ★★ReMy |RUSSIAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a2001:1+1
 #DESCRIPTION 1+1
@@ -2831,7 +2619,7 @@
 #DESCRIPTION ZIK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a11062/f:ZOOM
 #DESCRIPTION ZOOM
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★BOLGESEL |RUSSIAN★★ ====
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★BOLGESEL |RUSSIAN★★ ====
 #DESCRIPTION === ★★BOLGESEL |RUSSIAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/1HDmusic/index.m3u8:1 HD
 #DESCRIPTION 1 HD
@@ -3897,7 +3685,7 @@
 #DESCRIPTION Pattaya 11pm to 5am - It gets MESSY!!!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=n-YnzZVzV9U:Soho Red Light District London
 #DESCRIPTION Soho Red Light District London
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8:GH Duo 24h  BBG ISPANYA
+#SERVICE 1:0:1:0:0:0:0:0:0:0:https%3a//livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8:GH Duo 24h  BBG ISPANYA
 #DESCRIPTION GH Duo 24h  BBG ISPANYA
-#SERVICE 1:0:1:0:0:0:0:0:0:0:https%3a//livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_2.m3u8:GH Duo 24h BBG ISPANYA
+#SERVICE 1:0:1:1:0:0:0:0:0:0:https%3a//livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_2.m3u8:GH Duo 24h BBG ISPANYA
 #DESCRIPTION GH Duo 24h BBG ISPANYA
