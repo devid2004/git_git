@@ -29,7 +29,5 @@ wget -O /tmp/mag_iptv.m3u "http://mag.iptv.cab/get.php?username=KNVEGMivlX&passw
 sleep 1
 wget -O /tmp/samrapro.m3u "http://samrapro.com:7766/get.php?username=naem&password=1234&type=m3u"
 sleep 1
-wget -O /tmp/ip_boss-tv.m3u "http://ip.boss-tv.vip:25461/get.php?username=8p8kXX61U9&password=6PRbrN2mp1&type=m3u"
-sleep 1
 wget -O /tmp/assistirpainel.m3u "http://assistirpainel.ddns.net:8880/get.php?username=X4ikl3R9cb&password=pdvwCWiLgU&type=m3u"
 exit 0
