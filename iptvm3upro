@@ -25,8 +25,6 @@ wget -O /tmp/sourceukpro1.m3u "http://iptv6.premium-stv.com:25461/get.php?userna
 sleep 1
 wget -O /tmp/nosurrender.m3u "http://nosurrender.live:8080/get.php?username=4EmjN0OATa&password=UsjkJFo7as&type=m3u"
 sleep 1
-wget -O /tmp/mag_iptv.m3u "http://mag.iptv.cab/get.php?username=KNVEGMivlX&password=CTiI6opZtk&type=m3u"
-sleep 1
 wget -O /tmp/samrapro.m3u "http://samrapro.com:7766/get.php?username=naem&password=1234&type=m3u"
 sleep 1
 wget -O /tmp/assistirpainel.m3u "http://assistirpainel.ddns.net:8880/get.php?username=X4ikl3R9cb&password=pdvwCWiLgU&type=m3u"
