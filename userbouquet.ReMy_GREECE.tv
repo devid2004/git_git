@@ -1,4 +1,6 @@
 #NAME == ★★ReMy | GREECE★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.nrg91.gr%3a1935/onweb/live/master.m3u8:NRG91 TV
+#DESCRIPTION NRG91 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.192.84.30%3a554/live/myStream.sdp/playlist.m3u8:4E
 #DESCRIPTION 4E
 #SERVICE 4097:0:1:412:0:0:0:0:0:0:http%3a//82.192.84.30%3a554/live/myStream.sdp/playlist.m3u8:4E TV
@@ -15,8 +17,14 @@
 #DESCRIPTION EBS GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8:EBS PLUS GREECE
 #DESCRIPTION EBS PLUS GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/foxtv/foxtv/chunklist_w992189744.m3u8:FOX TV
+#DESCRIPTION FOX TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.ioniantv.gr%3a8081/ionian/live/chunks.m3u8?nimblesessionid=21313812:IONIAN TV
+#DESCRIPTION IONIAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flashcloud.mediacdn.com/live/kontratv/.m3u8:KONTRA
 #DESCRIPTION KONTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flashcloud.mediacdn.com/live/kontratv/chunklist_w1908661107.m3u8:KONTRA TV
+#DESCRIPTION KONTRA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//live.cretetv.gr/cretetv/myStream:KRHTH TV
 #DESCRIPTION KRHTH TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cretetv.gr%3a1935/cretetv/myStream/playlist.m3u8:KRHTH TV GREECE

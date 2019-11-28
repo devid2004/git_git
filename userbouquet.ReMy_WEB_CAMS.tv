@@ -1,6 +1,18 @@
 #NAME == ★★ReMy | WEB_CAMS★★ ==
-#SERVICE 1:64:BB:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
 #DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/79.stream/chunklist.m3u8:İstanbul Boğaziçi Köprüsü
+#DESCRIPTION İstanbul Boğaziçi Köprüsü
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/79.stream/playlist.m3u8:15 Temmuz Şehitler Köprüsü
+#DESCRIPTION 15 Temmuz Şehitler Köprüsü
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/341.stream/playlist.m3u8:Fatih Sultan Mehmet Köprüsü
+#DESCRIPTION Fatih Sultan Mehmet Köprüsü
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/269.stream/playlist.m3u8:Yenikapı Meydanı
+#DESCRIPTION Yenikapı Meydanı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/181.stream/playlist.m3u8:İstanbul Eminönü
+#DESCRIPTION İstanbul Eminönü
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/181.stream/chunklist_w557957452.m3u8:Eminönü Yeni Camii
+#DESCRIPTION Eminönü Yeni Camii
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/43.stream/chunklist_w517754220.m3u8:BESİKTAS MEYDANI
 #DESCRIPTION BESİKTAS MEYDANI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/257.stream/chunklist_w47539693.m3u8:Bebek Arnavutköy Burun
@@ -15,8 +27,6 @@
 #DESCRIPTION TAKSİM ALTGEÇİDİ TAŞKIŞLA ÇIKIŞI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/194.stream/chunklist_w771482496.m3u8:Harbiye
 #DESCRIPTION Harbiye
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/181.stream/chunklist_w557957452.m3u8:Eminönü Yeni Camii
-#DESCRIPTION Eminönü Yeni Camii
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/181.stream/chunklist_w805192527.m3u8:İstanbul Eminönü Canlı Mobese
 #DESCRIPTION İstanbul Eminönü Canlı Mobese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/398.stream/chunklist_w101409406.m3u8:VATAN CD. İGDAŞ
@@ -51,6 +61,28 @@
 #DESCRIPTION Konya Mevlana Meydanı Canlı Mobese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_meydan/playlist.m3u8:Sivas Kent Meydanı
 #DESCRIPTION Sivas Kent Meydanı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/2muratkulliyesi/smil%3a2muratkulliyesi/playlist.m3u8?wowzatokenendtime=1574949089&wowzatokenhash=uY-NOIYm5lSbQ7FT6CAFR0FNaRvCnqP51dtzcl1gXcNf6ejNZhDB38zakpZE_K-I&wowzatokenstarttime=1574947289:BURDA II. Murat Külliyesi
+#DESCRIPTION BURDA II. Murat Külliyesi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/1muratkulliyesi/smil%3a1muratkulliyesi/playlist.m3u8?wowzatokenendtime=1574949560&wowzatokenhash=UrDruesR5rxNp4BKxgHKA0BodmWR4bSt7qilKYY2mii3d_juzQJrgWVRWy6KV_kS&wowzatokenstarttime=1574947760:BURSA  I.Murat Külliyesi
+#DESCRIPTION BURSA  I.Murat Külliyesi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/fomara/smil%3afomara/playlist.m3u8?wowzatokenendtime=1574949679&wowzatokenhash=7nzESwepPO5Zr3uZjUN7bsvQ_ucGsPgGqrDQwLPeb4taXM5QVe4D5RNrKZPEjG-o&wowzatokenstarttime=1574947879:BURSA SEHREKÜSTÜ 15 TEMMUZ DEMOKRASİ MEYDANI
+#DESCRIPTION BURSA SEHREKÜSTÜ 15 TEMMUZ DEMOKRASİ MEYDANI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/kulturpark/smil%3akulturpark/playlist.m3u8?wowzatokenendtime=1574949607&wowzatokenhash=X1V__qCzHRuMTbHrlRK2WtO4I_RkmGPDXKiDEc6-CasdvFZHBW1LCVGQdGNl0HSr&wowzatokenstarttime=1574947807:BURSA Kültürpark
+#DESCRIPTION BURSA Kültürpark
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/uludagzirve/smil%3auludagzirve/playlist.m3u8?wowzatokenendtime=1574949717&wowzatokenhash=VZoPysl4ZcHsctvI8g1yazbpWX0f7GCfU4vIBht5AmrRHSQGZ4wsACK1LAetM1aU&wowzatokenstarttime=1574947917:BURSA Uludağ Zirve
+#DESCRIPTION BURSA Uludağ Zirve
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/ataturkcaddesi/smil%3aataturkcaddesi/chunklist_w917091986_b700000_tkd293emF0b2tlbmVuZHRpbWU9MTU3NDk0OTg4NCZ3b3d6YXRva2VuaGFzaD16dHlOSlQ1TG9IZFFDYUo0ZEllNVJaN1ZtdTZxdzRKNW5qZFl6Q2lHWEMwRlJHTFFRNVluMlJoN3BOZUg4cExPJndvd3phdG9rZW5zdGFydHRpbWU9MTU3NDk0ODA4NA==.m3u8:BURSA Ulucamii
+#DESCRIPTION BURSA Ulucamii
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/ulucami/smil%3aulucami/playlist.m3u8?wowzatokenendtime=1574950454&wowzatokenhash=KLwklnLTPCZbmYJ82XdxrMro6S48paOLt-bsRHyOR3AybDasdRdUitI614FY7Ip2&wowzatokenstarttime=1574948654:BURSA  Atatürk Caddesi – Ulucami
+#DESCRIPTION BURSA  Atatürk Caddesi – Ulucami
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/balibey/smil%3abalibey/playlist.m3u8?wowzatokenendtime=1574950529&wowzatokenhash=x9VmK2gl8WFPtWTz4S2x7G6OHNdkNJlBJ8W592kEpo4vLvmz99mYrRbjntAHU_wT&wowzatokenstarttime=1574948729:BURSA 2. Osmangazi Caddesi-Surlar ve Saltanat Kap�
+#DESCRIPTION BURSA 2. Osmangazi Caddesi-Surlar ve Saltanat Kap�
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/yesil/smil%3ayesil/playlist.m3u8?wowzatokenendtime=1574950589&wowzatokenhash=tdLKNioIgz7vsIKaevW_0oKzpCYEKgRQhBtIf-3rDFC71Ls9l_MiE5SHR6nzi8K_&wowzatokenstarttime=1574948789:BURSA Yeşil Türbe
+#DESCRIPTION BURSA Yeşil Türbe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/golpark/smil%3agolpark/playlist.m3u8?wowzatokenendtime=1574950716&wowzatokenhash=UAZQjDI3ZAc7A3Fj-PeyxmBtyIHnALDRsqHUGVO1LZZdTT3OFzbOSmPnfpkxLiWy&wowzatokenstarttime=1574948916:BURSA Merinos AKKM Gölpark
+#DESCRIPTION BURSA Merinos AKKM Gölpark
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/teferruc/smil%3ateferruc/playlist.m3u8?wowzatokenendtime=1574950555&wowzatokenhash=SWBBrlgCTljLYZWuCOEoGmUIggnDuo1wXnxbfeZ9lOgU6AfU6fynl4FqiuUEFnRT&wowzatokenstarttime=1574948755:BURSA Teferrüç
+#DESCRIPTION BURSA Teferrüç
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/9299.flv/chunklist.m3u8:CN Tower 1
 #DESCRIPTION CN Tower 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/9298.flv/chunklist.m3u8:CN Tower 2
@@ -61,7 +93,7 @@
 #DESCRIPTION Times Square (Street Cam)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4017timessquare.flv/chunklist.m3u8:Times Square (South View)
 #DESCRIPTION Times Square (South View)
-#SERVICE 1:64:BC:0:0:0:0:0:0:0::*** Hrvatska ***
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::*** Hrvatska ***
 #DESCRIPTION *** Hrvatska ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_bale02.m3u8:Hrvatska  - Bale - Tomaso Bembo
 #DESCRIPTION Hrvatska  - Bale - Tomaso Bembo
@@ -141,7 +173,7 @@
 #DESCRIPTION Hrvatska  - Zagreb - Tomic Strasse
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_sljeme2.m3u8:Hrvatska  - Zagreb - Ski Center Sljeme - Medvednic
 #DESCRIPTION Hrvatska  - Zagreb - Ski Center Sljeme - Medvednic
-#SERVICE 1:64:BD:0:0:0:0:0:0:0::* * * EXYU * * *
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::* * * EXYU * * *
 #DESCRIPTION * * * EXYU * * *
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live/TrgSlobode.stream:NoviSad Trg Slobode
 #DESCRIPTION NoviSad Trg Slobode
@@ -155,7 +187,7 @@
 #DESCRIPTION Zrenjanin
 #SERVICE 4097:0:1:12:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist_w873016047_b350000.m3u8:Banja luka (trg krajine)
 #DESCRIPTION Banja luka (trg krajine)
-#SERVICE 1:64:BE:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
 #DESCRIPTION * * * WEBCAM livespotting * * *
 #SERVICE 4097:0:1:75:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv102_720p.stream:Aachen - Drehturm Belvedere Lousberg
 #DESCRIPTION Aachen - Drehturm Belvedere Lousberg

@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | SPORT★★ ==
-#SERVICE 1:64:B2:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
+#SERVICE 1:64:99:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:BEIN SPORT 1 (TUR)
 #DESCRIPTION BEIN SPORT 1 (TUR)
@@ -7,6 +7,16 @@
 #DESCRIPTION BeinSport 1HD Tr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.garaveli.de///tekliphp/gstv.php?&m3u8:GS TV
 #DESCRIPTION GS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//diaspromedia.tv/live/sa6Oa4Iofq/MPqXYzmRZ3/183.m3u8:ARENASPORT 1 HD
+#DESCRIPTION ARENASPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//diaspromedia.tv/live/sa6Oa4Iofq/MPqXYzmRZ3/184.m3u8:ARENASPORT 2 HD
+#DESCRIPTION ARENASPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//diaspromedia.tv/live/sa6Oa4Iofq/MPqXYzmRZ3/185.m3u8:ARENASPORT 3 HD
+#DESCRIPTION ARENASPORT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//diaspromedia.tv/live/sa6Oa4Iofq/MPqXYzmRZ3/7788.m3u8:PLANETSPORT 1 HD
+#DESCRIPTION PLANETSPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//diaspromedia.tv/live/sa6Oa4Iofq/MPqXYzmRZ3/7789.m3u8:PLANETSPORT 2 HD
+#DESCRIPTION PLANETSPORT 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g2/btuk1.m3u8:bt sport 1
 #DESCRIPTION bt sport 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g3/ukbt2sport.m3u8:bt sport 2
@@ -201,7 +211,7 @@
 #DESCRIPTION AD SPORT 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/abudhabi1/ttBQW7TF8s/48.ts:AD SPORTS 1
 #DESCRIPTION AD SPORTS 1
-#SERVICE 1:64:B3:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
+#SERVICE 1:64:9A:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
