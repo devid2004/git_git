@@ -27,6 +27,8 @@
 #DESCRIPTION BIP TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvstream.rtvbn.com%3a1935/live/stream/chunklist_w1957700324.m3u8:BN TV Bosnia
 #DESCRIPTION BN TV Bosnia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Bollywood HD
+#DESCRIPTION Bollywood HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2:Brandnite TV HD
 #DESCRIPTION Brandnite TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.249.95.180/vtk/high.m3u8:BTK
@@ -69,6 +71,8 @@
 #DESCRIPTION Galanta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8:gong max
 #DESCRIPTION gong max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$HBOHD/247.m3u8/Level(3670016)?start=LIVE&end=END:HBO HD
+#DESCRIPTION HBO HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1mstream.digicable.hu/hitmusic/hitmusic.m3u8:H!T Music Channel Ungaria
 #DESCRIPTION H!T Music Channel Ungaria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8:HD Fashion
@@ -117,6 +121,8 @@
 #DESCRIPTION Iasi TV Life
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//imedi-tv.cdn.xsg.ge/imedihd/index.m3u8:Imedi TV HD
 #DESCRIPTION Imedi TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END:IneditTV
+#DESCRIPTION IneditTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.108.13%3a8000/play/a0cs:jefimija
 #DESCRIPTION jefimija
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//212.200.108.253/live/jefimija.flv:Jefimija HD
