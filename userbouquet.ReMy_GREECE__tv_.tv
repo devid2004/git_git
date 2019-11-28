@@ -1,0 +1,61 @@
+#NAME == ★★ReMy | GREECE★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.192.84.30%3a554/live/myStream.sdp/playlist.m3u8:4E
+#DESCRIPTION 4E
+#SERVICE 4097:0:1:412:0:0:0:0:0:0:http%3a//82.192.84.30%3a554/live/myStream.sdp/playlist.m3u8:4E TV
+#DESCRIPTION 4E TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.21.47.74/hls/live.m3u8:8EKAA
+#DESCRIPTION 8EKAA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv3.streampulse.eu%3a1935/tilesport/movie2/playlist.m3u8:ART GREECE
+#DESCRIPTION ART GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/tvcreta/tvcreta/playlist.m3u8:CretaTV GREECE
+#DESCRIPTION CretaTV GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//l3.cloudskep.com/cybcsat/abr/playlist.m3u8:cybcsat GREECE
+#DESCRIPTION cybcsat GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.onestreaming.com%3a8081/deltatv/live/playlist.m3u8:DELTA TV GREECE
+#DESCRIPTION DELTA TV GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8:EBS GREECE
+#DESCRIPTION EBS GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8:EBS PLUS GREECE
+#DESCRIPTION EBS PLUS GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpso.com%3a1936/hls/wzra.m3u8:ERT WORLD
+#DESCRIPTION ERT WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/foxtv/foxtv/chunklist_w992189744.m3u8:FOX TV
+#DESCRIPTION FOX TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.ioniantv.gr%3a8081/ionian/live/chunks.m3u8?nimblesessionid=21313812:IONIAN TV
+#DESCRIPTION IONIAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flashcloud.mediacdn.com/live/kontratv/.m3u8:KONTRA
+#DESCRIPTION KONTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flashcloud.mediacdn.com/live/kontratv/chunklist_w1908661107.m3u8:KONTRA TV
+#DESCRIPTION KONTRA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//live.cretetv.gr/cretetv/myStream:KRHTH TV
+#DESCRIPTION KRHTH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cretetv.gr%3a1935/cretetv/myStream/playlist.m3u8:KRHTH TV GREECE
+#DESCRIPTION KRHTH TV GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cretetv.gr%3a1935/cretetv/myStream/f1tv.m3u8:KRHTH TV GREECE
+#DESCRIPTION KRHTH TV GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer1.streamhost.org%3a1935/salive/GMIalfam/playlist.m3u8:LOGOS TV
+#DESCRIPTION LOGOS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/messinia/messinia/master.m3u8:messinia
+#DESCRIPTION messinia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpso.com%3a1936/hls/music1.m3u8:music1
+#DESCRIPTION music1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.nrg91.gr%3a1935/onweb/live/master.m3u8:NRG91 TV
+#DESCRIPTION NRG91 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erato.multiserver.gr%3a1935/imp/imp/playlist.m3u8:NYXINOC
+#DESCRIPTION NYXINOC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8:parliament
+#DESCRIPTION parliament
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.21.47.74/hls/live.m3u8:SIGMA CY
+#DESCRIPTION SIGMA CY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/msg116s/msg116s/playlist.m3u8:SYROS TV
+#DESCRIPTION SYROS TV
+#SERVICE 4097:0:1:420:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/tvcreta/tvcreta/playlist.m3u8:TV Creta
+#DESCRIPTION TV Creta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.62.176.153/hls/tv100/index.m3u8:tv100
+#DESCRIPTION tv100
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/tvfilopoli/tvfilopoli/playlist.m3u8:tvfilopoli
+#DESCRIPTION tvfilopoli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer-cache.grnet.gr/parliament/hls/webtv.m3u8:VOULI
+#DESCRIPTION VOULI
+#SERVICE 4097:0:1:422:0:0:0:0:0:0:http%3a//streamer-cache.grnet.gr/parliament/hls/webtv.m3u8:Vouli TV
+#DESCRIPTION Vouli TV
