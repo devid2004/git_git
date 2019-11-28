@@ -61,28 +61,6 @@
 #DESCRIPTION Konya Mevlana Meydanı Canlı Mobese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_meydan/playlist.m3u8:Sivas Kent Meydanı
 #DESCRIPTION Sivas Kent Meydanı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/2muratkulliyesi/smil%3a2muratkulliyesi/playlist.m3u8?wowzatokenendtime=1574949089&wowzatokenhash=uY-NOIYm5lSbQ7FT6CAFR0FNaRvCnqP51dtzcl1gXcNf6ejNZhDB38zakpZE_K-I&wowzatokenstarttime=1574947289:BURDA II. Murat Külliyesi
-#DESCRIPTION BURDA II. Murat Külliyesi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/1muratkulliyesi/smil%3a1muratkulliyesi/playlist.m3u8?wowzatokenendtime=1574949560&wowzatokenhash=UrDruesR5rxNp4BKxgHKA0BodmWR4bSt7qilKYY2mii3d_juzQJrgWVRWy6KV_kS&wowzatokenstarttime=1574947760:BURSA  I.Murat Külliyesi
-#DESCRIPTION BURSA  I.Murat Külliyesi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/fomara/smil%3afomara/playlist.m3u8?wowzatokenendtime=1574949679&wowzatokenhash=7nzESwepPO5Zr3uZjUN7bsvQ_ucGsPgGqrDQwLPeb4taXM5QVe4D5RNrKZPEjG-o&wowzatokenstarttime=1574947879:BURSA SEHREKÜSTÜ 15 TEMMUZ DEMOKRASİ MEYDANI
-#DESCRIPTION BURSA SEHREKÜSTÜ 15 TEMMUZ DEMOKRASİ MEYDANI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/kulturpark/smil%3akulturpark/playlist.m3u8?wowzatokenendtime=1574949607&wowzatokenhash=X1V__qCzHRuMTbHrlRK2WtO4I_RkmGPDXKiDEc6-CasdvFZHBW1LCVGQdGNl0HSr&wowzatokenstarttime=1574947807:BURSA Kültürpark
-#DESCRIPTION BURSA Kültürpark
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/uludagzirve/smil%3auludagzirve/playlist.m3u8?wowzatokenendtime=1574949717&wowzatokenhash=VZoPysl4ZcHsctvI8g1yazbpWX0f7GCfU4vIBht5AmrRHSQGZ4wsACK1LAetM1aU&wowzatokenstarttime=1574947917:BURSA Uludağ Zirve
-#DESCRIPTION BURSA Uludağ Zirve
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/ataturkcaddesi/smil%3aataturkcaddesi/chunklist_w917091986_b700000_tkd293emF0b2tlbmVuZHRpbWU9MTU3NDk0OTg4NCZ3b3d6YXRva2VuaGFzaD16dHlOSlQ1TG9IZFFDYUo0ZEllNVJaN1ZtdTZxdzRKNW5qZFl6Q2lHWEMwRlJHTFFRNVluMlJoN3BOZUg4cExPJndvd3phdG9rZW5zdGFydHRpbWU9MTU3NDk0ODA4NA==.m3u8:BURSA Ulucamii
-#DESCRIPTION BURSA Ulucamii
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/ulucami/smil%3aulucami/playlist.m3u8?wowzatokenendtime=1574950454&wowzatokenhash=KLwklnLTPCZbmYJ82XdxrMro6S48paOLt-bsRHyOR3AybDasdRdUitI614FY7Ip2&wowzatokenstarttime=1574948654:BURSA  Atatürk Caddesi – Ulucami
-#DESCRIPTION BURSA  Atatürk Caddesi – Ulucami
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/balibey/smil%3abalibey/playlist.m3u8?wowzatokenendtime=1574950529&wowzatokenhash=x9VmK2gl8WFPtWTz4S2x7G6OHNdkNJlBJ8W592kEpo4vLvmz99mYrRbjntAHU_wT&wowzatokenstarttime=1574948729:BURSA 2. Osmangazi Caddesi-Surlar ve Saltanat Kap�
-#DESCRIPTION BURSA 2. Osmangazi Caddesi-Surlar ve Saltanat Kap�
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/yesil/smil%3ayesil/playlist.m3u8?wowzatokenendtime=1574950589&wowzatokenhash=tdLKNioIgz7vsIKaevW_0oKzpCYEKgRQhBtIf-3rDFC71Ls9l_MiE5SHR6nzi8K_&wowzatokenstarttime=1574948789:BURSA Yeşil Türbe
-#DESCRIPTION BURSA Yeşil Türbe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/golpark/smil%3agolpark/playlist.m3u8?wowzatokenendtime=1574950716&wowzatokenhash=UAZQjDI3ZAc7A3Fj-PeyxmBtyIHnALDRsqHUGVO1LZZdTT3OFzbOSmPnfpkxLiWy&wowzatokenstarttime=1574948916:BURSA Merinos AKKM Gölpark
-#DESCRIPTION BURSA Merinos AKKM Gölpark
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a78c55e99e82.streamlock.net/teferruc/smil%3ateferruc/playlist.m3u8?wowzatokenendtime=1574950555&wowzatokenhash=SWBBrlgCTljLYZWuCOEoGmUIggnDuo1wXnxbfeZ9lOgU6AfU6fynl4FqiuUEFnRT&wowzatokenstarttime=1574948755:BURSA Teferrüç
-#DESCRIPTION BURSA Teferrüç
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/9299.flv/chunklist.m3u8:CN Tower 1
 #DESCRIPTION CN Tower 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/9298.flv/chunklist.m3u8:CN Tower 2
