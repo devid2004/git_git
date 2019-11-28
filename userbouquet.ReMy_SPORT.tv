@@ -7,6 +7,16 @@
 #DESCRIPTION BeinSport 1HD Tr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.garaveli.de///tekliphp/gstv.php?&m3u8:GS TV
 #DESCRIPTION GS TV
+#SERVICE 4097:0:0:4:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Arena.m3u8:Sky-Sports-Arena
+#DESCRIPTION Sky-Sports-Arena
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-action.m3u8:Sky-Sport-action
+#DESCRIPTION Sky-Sport-action
+#SERVICE 4097:0:0:6:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spor-cricket.m3u8:Sky-Spor-cricket
+#DESCRIPTION Sky-Spor-cricket
+#SERVICE 4097:0:0:7:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spo-football.m3u8:Sky-Spo-football
+#DESCRIPTION Sky-Spo-football
+#SERVICE 4097:0:0:8:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Golf.m3u8:Sky-Sports-Golf
+#DESCRIPTION Sky-Sports-Golf
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//diaspromedia.tv/live/sa6Oa4Iofq/MPqXYzmRZ3/183.m3u8:ARENASPORT 1 HD
 #DESCRIPTION ARENASPORT 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//diaspromedia.tv/live/sa6Oa4Iofq/MPqXYzmRZ3/184.m3u8:ARENASPORT 2 HD
