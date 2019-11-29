@@ -5,8 +5,6 @@ wget -O /usr/lib/enigma2/python/Plugins/Extensions/m3u_Pro/m3u_ProM3U/XXpremium.
 sleep 1
 wget -O /tmp/Latin.m3u "https://github.com/PrivateTr/Zone_enigma/raw/master/Latin-04-11-2019.m3u"
 sleep 1
-wget -O /tmp/BEIN7.m3u "http://iptv2.premium-stv.com:8888/get.php?username=BEIN7&password=uVXyuCtM1h&type=m3u"
-sleep 1
 wget -O /tmp/BEIN3.m3u "http://iptv2.premium-stv.com:8888/get.php?username=BEIN3&password=0jWkR45MqZ&type=m3u"
 sleep 1
 wget -O /tmp/localhdTV.m3u "http://localhd.tv:8081/get.php?username=gueguin.cyrille&password=sosXqioS4I&type=m3u"
@@ -23,9 +21,9 @@ wget -O /tmp/sourceukpro1.m3u "http://iptv6.premium-stv.com:25461/get.php?userna
 sleep 1
 wget -O /tmp/nosurrender.m3u "http://nosurrender.live:8080/get.php?username=4EmjN0OATa&password=UsjkJFo7as&type=m3u"
 sleep 1
-wget -O /tmp/samrapro.m3u "http://samrapro.com:7766/get.php?username=naem&password=1234&type=m3u"
-sleep 1
-wget -O /tmp/assistirpainel.m3u "http://assistirpainel.ddns.net:8880/get.php?username=X4ikl3R9cb&password=pdvwCWiLgU&type=m3u"
-sleep 1
 wget -O /tmp/diaspromedia.m3u "http://diaspromedia.tv/get.php?username=sa6Oa4Iofq&password=MPqXYzmRZ3&type=m3u"
+sleep 1
+wget -O /tmp/super1.m3u "http://super1.ideaiptv.com:25461/get.php?username=mousanew&password=2342343&type=m3u"
+sleep 1
+wget -O /tmp/iptv-luxe.m3u "http://iptv-luxe.com:8789/get.php?username=filipemiranda&password=b5sh0Muzb7&type=m3u"
 exit 0
