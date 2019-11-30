@@ -9,8 +9,6 @@ wget -O /tmp/BEIN3.m3u "http://iptv2.premium-stv.com:8888/get.php?username=BEIN3
 sleep 1
 wget -O /tmp/localhdTV.m3u "http://localhd.tv:8081/get.php?username=gueguin.cyrille&password=sosXqioS4I&type=m3u"
 sleep 1
-wget -O /tmp/myhdpro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourcemyhdpro1&password=4690746424&type=m3u"
-sleep 1
 wget -O /tmp/canadapro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourcecanadapro1&password=4042848025&type=m3u"
 sleep 1
 wget -O /tmp/ictv19.m3u "http://ictv19.xyz:8000/get.php?username=orlan&password=1234&type=m3u"
@@ -19,11 +17,7 @@ wget -O /tmp/turkiapro1source.m3u "http://iptv6.premium-stv.com:25461/get.php?us
 sleep 1
 wget -O /tmp/sourceukpro1.m3u "http://iptv6.premium-stv.com:25461/get.php?username=sourceukpro1&password=6256905511&type=m3u"
 sleep 1
-wget -O /tmp/nosurrender.m3u "http://nosurrender.live:8080/get.php?username=4EmjN0OATa&password=UsjkJFo7as&type=m3u"
-sleep 1
 wget -O /tmp/diaspromedia.m3u "http://diaspromedia.tv/get.php?username=sa6Oa4Iofq&password=MPqXYzmRZ3&type=m3u"
-sleep 1
-wget -O /tmp/super1.m3u "http://super1.ideaiptv.com:25461/get.php?username=mousanew&password=2342343&type=m3u"
 sleep 1
 wget -O /tmp/iptv-luxe.m3u "http://iptv-luxe.com:8789/get.php?username=filipemiranda&password=b5sh0Muzb7&type=m3u"
 exit 0
