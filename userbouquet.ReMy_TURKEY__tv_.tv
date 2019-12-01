@@ -25,8 +25,6 @@
 #DESCRIPTION SPORTS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-beta.akamaized.net/startvhd/startvhd.smil/playlist.m3u8:STAR 1
 #DESCRIPTION STAR 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//blutv-beta.akamaized.net/beyaztv/beyaztv.smil/playlist.m3u8:Beyaz TV HD
-#DESCRIPTION Beyaz TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-beta.akamaized.net/teve2hd/teve2hd.smil/chunklist_b2628000_sltur.m3u8:teve2 1
 #DESCRIPTION teve2 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//blutv-beta.akamaized.net/teve2hd/teve2hd.smil/playlist.m3u8:teve2 2

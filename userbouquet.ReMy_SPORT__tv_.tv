@@ -65,56 +65,6 @@
 #DESCRIPTION KSA-Sport1-Bakup
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA-Sport2-Bakup
 #DESCRIPTION KSA-Sport2-Bakup
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcebelgiquesnow/4550109412/1896:|BE| Voo Sport 1 FHD
-#DESCRIPTION |BE| Voo Sport 1 FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcebelgiquesnow/4550109412/1874:|BE| Eleven Sports 1 HD
-#DESCRIPTION |BE| Eleven Sports 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv1.premium-stv.com%3a8000/live/CANALAPLUS/laC5eURPY8/27.ts:|FR| CANAL+ SPORT FULLHD
-#DESCRIPTION |FR| CANAL+ SPORT FULLHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN3/0jWkR45MqZ/44.ts:BEINSPORTS 3 SD
-#DESCRIPTION BEINSPORTS 3 SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN3/0jWkR45MqZ/5.ts:BEINSPORTS 3 HD
-#DESCRIPTION BEINSPORTS 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN3/0jWkR45MqZ/6.ts:BEINSPORTS 3 HD BACKUP
-#DESCRIPTION BEINSPORTS 3 HD BACKUP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN3/0jWkR45MqZ/27.ts:BEINSPORTS 3 FULLHD
-#DESCRIPTION BEINSPORTS 3 FULLHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN5/Awq87aGnqS/42.ts:BEINSPORTS 5 SD
-#DESCRIPTION BEINSPORTS 5 SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN5/Awq87aGnqS/9.ts:BEINSPORTS 5 HD
-#DESCRIPTION BEINSPORTS 5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN5/Awq87aGnqS/10.ts:BEINSPORTS 5 HD BACKUP
-#DESCRIPTION BEINSPORTS 5 HD BACKUP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN5/Awq87aGnqS/29.ts:BEINSPORTS 5 FULLHD
-#DESCRIPTION BEINSPORTS 5 FULLHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN6/ZffOncRDKK/41.ts:BEINSPORTS 6 SD
-#DESCRIPTION BEINSPORTS 6 SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN6/ZffOncRDKK/11.ts:BEINSPORTS 6 HD
-#DESCRIPTION BEINSPORTS 6 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN6/ZffOncRDKK/12.ts:BEINSPORTS 6 HD  BACKUP
-#DESCRIPTION BEINSPORTS 6 HD  BACKUP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN6/ZffOncRDKK/32.ts:BEINSPORTS 6 FULLHD
-#DESCRIPTION BEINSPORTS 6 FULLHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN7/uVXyuCtM1h/40.ts:BEINSPORTS 7 SD
-#DESCRIPTION BEINSPORTS 7 SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN7/uVXyuCtM1h/13.ts:BEINSPORTS 7 HD
-#DESCRIPTION BEINSPORTS 7 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN7/uVXyuCtM1h/14.ts:BEINSPORTS 7 HD BACKUP
-#DESCRIPTION BEINSPORTS 7 HD BACKUP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN7/uVXyuCtM1h/33.ts:BEINSPORTS 7 FULLHD
-#DESCRIPTION BEINSPORTS 7 FULLHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN10/Q5HdLOn0fc/46.ts:BEINSPORTS 10 SD
-#DESCRIPTION BEINSPORTS 10 SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN10/Q5HdLOn0fc/19.ts:BEINSPORTS 10 HD
-#DESCRIPTION BEINSPORTS 10 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN10/Q5HdLOn0fc/20.ts:BEINSPORTS 10 HD BACKUP
-#DESCRIPTION BEINSPORTS 10 HD BACKUP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN10/Q5HdLOn0fc/31.ts:BEINSPORTS 10 FULLHD
-#DESCRIPTION BEINSPORTS 10 FULLHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN13/CdXoi1R1yQ/24.ts:BEINSPORTS 13 HD
-#DESCRIPTION BEINSPORTS 13 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/BEIN13/CdXoi1R1yQ/37.ts:BEINSPORTS 13 FULLHD
-#DESCRIPTION BEINSPORTS 13 FULLHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/40:|FR| RMC SPORT 1 FHD
 #DESCRIPTION |FR| RMC SPORT 1 FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/41:|FR| RMC SPORT 2 FHD
@@ -209,20 +159,774 @@
 #DESCRIPTION RMC SPORT LIVE 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/86:RMC SPORT LIVE 9
 #DESCRIPTION RMC SPORT LIVE 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/94:equipe hd
-#DESCRIPTION equipe hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/87:MULTISPORTS 1 HD
+#DESCRIPTION MULTISPORTS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/88:MULTISPORTS 2
+#DESCRIPTION MULTISPORTS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/89:MULTISPORTS 3
+#DESCRIPTION MULTISPORTS 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/90:MULTISPORTS 4
+#DESCRIPTION MULTISPORTS 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/91:MULTISPORTS 5
+#DESCRIPTION MULTISPORTS 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/92:MULTISPORTS 6
+#DESCRIPTION MULTISPORTS 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/93:equipe fhd
 #DESCRIPTION equipe fhd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/96:|FR| M6 HD
-#DESCRIPTION |FR| M6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/94:equipe hd
+#DESCRIPTION equipe hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/95:|FR| M6 FHD
 #DESCRIPTION |FR| M6 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/96:|FR| M6 HD
+#DESCRIPTION |FR| M6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/97:|UK| BT SPORT / ESPN HD
+#DESCRIPTION |UK| BT SPORT / ESPN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/98:|UK| BT SPORT 1 HD
+#DESCRIPTION |UK| BT SPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/99:|UK| BT SPORT 2 HD
+#DESCRIPTION |UK| BT SPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv3.premium-stv.com%3a25461/sourcesportpro2/0359030035/100:|UK| BT SPORT 3 HD
+#DESCRIPTION |UK| BT SPORT 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcebelgiquesnow/4550109412/1896:|BE| Voo Sport 1 FHD
+#DESCRIPTION |BE| Voo Sport 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcebelgiquesnow/4550109412/1874:|BE| Eleven Sports 1 HD
+#DESCRIPTION |BE| Eleven Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/PORPROUN03/hYSeZOoV6s/228.ts:|PT| ELEVEN SPORTS 4 HD
+#DESCRIPTION |PT| ELEVEN SPORTS 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/PORPROUN03/hYSeZOoV6s/229.ts:|PT| ELEVEN SPORTS 5 FHD
+#DESCRIPTION |PT| ELEVEN SPORTS 5 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/PORPROUN03/hYSeZOoV6s/230.ts:|PT| ELEVEN SPORTS 6 HD
+#DESCRIPTION |PT| ELEVEN SPORTS 6 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/abudhabi1/ttBQW7TF8s/53.ts:AD SPORT 2
 #DESCRIPTION AD SPORT 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/abudhabi1/ttBQW7TF8s/49.ts:AD SPORT 3
 #DESCRIPTION AD SPORT 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/abudhabi1/ttBQW7TF8s/48.ts:AD SPORTS 1
 #DESCRIPTION AD SPORTS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/233.ts:|PT| SPORTING TV
+#DESCRIPTION |PT| SPORTING TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/212.ts:|PT| SPORT TV
+#DESCRIPTION |PT| SPORT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/236.ts:|PT| KOMBATSPORT
+#DESCRIPTION |PT| KOMBATSPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/238.ts:|PT| EUROSPORT 1HD
+#DESCRIPTION |PT| EUROSPORT 1HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/230.ts:|PT| ELEVEN SPORTS 6 HD
+#DESCRIPTION |PT| ELEVEN SPORTS 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/229.ts:|PT| ELEVEN SPORTS 5 FHD
+#DESCRIPTION |PT| ELEVEN SPORTS 5 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/228.ts:|PT| ELEVEN SPORTS 4 HD
+#DESCRIPTION |PT| ELEVEN SPORTS 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/227.ts:|PT| ELEVEN SPORTS 3 FHD
+#DESCRIPTION |PT| ELEVEN SPORTS 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/226.ts:|PT| ELEVEN SPORTS 2 FHD
+#DESCRIPTION |PT| ELEVEN SPORTS 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/225.ts:|PT| ELEVEN SPORTS 1 FHD
+#DESCRIPTION |PT| ELEVEN SPORTS 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/231.ts:|PT| BENIFICA FHD
+#DESCRIPTION |PT| BENIFICA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/232.ts:|PT| BENIFICA
+#DESCRIPTION |PT| BENIFICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/234.ts:|PT| A BOLA TV
+#DESCRIPTION |PT| A BOLA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/445.ts:|EX-YU| SPORT KLUB 2 HR
+#DESCRIPTION |EX-YU| SPORT KLUB 2 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/444.ts:|EX-YU| SPORT KLUB 1 HR
+#DESCRIPTION |EX-YU| SPORT KLUB 1 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/926.ts:|ES| LaLiga123
+#DESCRIPTION |ES| LaLiga123
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/925.ts:|ES| M DEPORTES
+#DESCRIPTION |ES| M DEPORTES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/31.ts:|ES| TOROS TV
+#DESCRIPTION |ES| TOROS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/32.ts:|ES| M TOROS TV HD
+#DESCRIPTION |ES| M TOROS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/30.ts:|ES| M GOLF HD
+#DESCRIPTION |ES| M GOLF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/29.ts:|ES| M MOTOGP
+#DESCRIPTION |ES| M MOTOGP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/27.ts:|ES| M FORMULA 1 FHD
+#DESCRIPTION |ES| M FORMULA 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/28.ts:|ES| M FORMULA 1
+#DESCRIPTION |ES| M FORMULA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/24.ts:|ES| M EUROSPORT 1 FHD
+#DESCRIPTION |ES| M EUROSPORT 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/25.ts:|ES| M EUROSPORT 1
+#DESCRIPTION |ES| M EUROSPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/26.ts:|ES| EUROSPORT 2
+#DESCRIPTION |ES| EUROSPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/22.ts:|ES| M REAL MADRID TV
+#DESCRIPTION |ES| M REAL MADRID TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/23.ts:|ES| M BARCA TV
+#DESCRIPTION |ES| M BARCA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/21.ts:|ES| GOL TV
+#DESCRIPTION |ES| GOL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/17.ts:|ES| M LALIGATV FHD
+#DESCRIPTION |ES| M LALIGATV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/18.ts:|ES| M LALIGATV
+#DESCRIPTION |ES| M LALIGATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/19.ts:|ES| M LALIGA BAR HD
+#DESCRIPTION |ES| M LALIGA BAR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/20.ts:|ES| M LALIGA BAR FHD
+#DESCRIPTION |ES| M LALIGA BAR FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/16.ts:|ES| M LIGA CAMPEONES8
+#DESCRIPTION |ES| M LIGA CAMPEONES8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/15.ts:|ES| M LIGA CAMPEONES7
+#DESCRIPTION |ES| M LIGA CAMPEONES7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/14.ts:|ES| M LIGA CAMPEONES6
+#DESCRIPTION |ES| M LIGA CAMPEONES6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/12.ts:|ES| M LIGA CAMPEONES5
+#DESCRIPTION |ES| M LIGA CAMPEONES5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/13.ts:|ES| M LIGA CAMPEONES4
+#DESCRIPTION |ES| M LIGA CAMPEONES4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/11.ts:|ES| M LIGA CAMPEONES3
+#DESCRIPTION |ES| M LIGA CAMPEONES3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/10.ts:|ES| M LIGA CAMPEONES2
+#DESCRIPTION |ES| M LIGA CAMPEONES2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/7.ts:|ES| M LIGA CAMPEONES1
+#DESCRIPTION |ES| M LIGA CAMPEONES1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/9.ts:|ES| LIGA DE CAMPEONES 2 HD
+#DESCRIPTION |ES| LIGA DE CAMPEONES 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/8.ts:|ES| LIGA DE CAMPEONES 1 HD
+#DESCRIPTION |ES| LIGA DE CAMPEONES 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/5.ts:|ES| #VAMOS FHD
+#DESCRIPTION |ES| #VAMOS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/6.ts:|ES| #VAMOS
+#DESCRIPTION |ES| #VAMOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/4.ts:|ES| M DEPORTES FHD
+#DESCRIPTION |ES| M DEPORTES FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/3.ts:|ES| M TELEDEPORTE
+#DESCRIPTION |ES| M TELEDEPORTE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/2.ts:|ES| MOVISTAR LIGA DE CAMPEONES HD
+#DESCRIPTION |ES| MOVISTAR LIGA DE CAMPEONES HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/1.ts:|ES|C.ESTRELLAS
+#DESCRIPTION |ES|C.ESTRELLAS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/1585.ts:|ES| LA 2 FHD
+#DESCRIPTION |ES| LA 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/139.ts:|ES| VIAJAR HD
+#DESCRIPTION |ES| VIAJAR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/52.ts:|ES| TV3 CATALUNYA
+#DESCRIPTION |ES| TV3 CATALUNYA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/50.ts:|ES| TV GALICIA
+#DESCRIPTION |ES| TV GALICIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/45.ts:|ES| TELECINCO HD
+#DESCRIPTION |ES| TELECINCO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/44.ts:|ES| TELECINCO FHD
+#DESCRIPTION |ES| TELECINCO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/46.ts:|ES| TELECINCO
+#DESCRIPTION |ES| TELECINCO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/129.ts:|ES| ODISEA
+#DESCRIPTION |ES| ODISEA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/147.ts:|ES| NICKELODEON HD
+#DESCRIPTION |ES| NICKELODEON HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/148.ts:|ES| NICKELODEON ESP HD
+#DESCRIPTION |ES| NICKELODEON ESP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/149.ts:|ES| NICK JR
+#DESCRIPTION |ES| NICK JR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/131.ts:|ES| NATGEOWILD HD
+#DESCRIPTION |ES| NATGEOWILD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/130.ts:|ES| NATGEOGRAPHIC HD
+#DESCRIPTION |ES| NATGEOGRAPHIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/132.ts:|ES| NAT GEO WILD
+#DESCRIPTION |ES| NAT GEO WILD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/84.ts:|ES| MOVISTAR ALQUILER 9 HD
+#DESCRIPTION |ES| MOVISTAR ALQUILER 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/83.ts:|ES| MOVISTAR ALQUILER 8 HD
+#DESCRIPTION |ES| MOVISTAR ALQUILER 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/82.ts:|ES| MOVISTAR ALQUILER 7 HD
+#DESCRIPTION |ES| MOVISTAR ALQUILER 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/81.ts:|ES| MOVISTAR ALQUILER 6 HD
+#DESCRIPTION |ES| MOVISTAR ALQUILER 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/80.ts:|ES| MOVISTAR ALQUILER 5 HD
+#DESCRIPTION |ES| MOVISTAR ALQUILER 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/79.ts:|ES| MOVISTAR ALQUILER 4 HD
+#DESCRIPTION |ES| MOVISTAR ALQUILER 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/78.ts:|ES| MOVISTAR ALQUILER 3 HD
+#DESCRIPTION |ES| MOVISTAR ALQUILER 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/77.ts:|ES| MOVISTAR ALQUILER 2 HD
+#DESCRIPTION |ES| MOVISTAR ALQUILER 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/85.ts:|ES| MOVISTAR ALQUILER 10 HD
+#DESCRIPTION |ES| MOVISTAR ALQUILER 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/76.ts:|ES| MOVISTAR ALQUILER 1 HD
+#DESCRIPTION |ES| MOVISTAR ALQUILER 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/123.ts:|ES| MEGA TV HD
+#DESCRIPTION |ES| MEGA TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/140.ts:|ES| M VIAJAR
+#DESCRIPTION |ES| M VIAJAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/75.ts:|ES| M TNT FHD
+#DESCRIPTION |ES| M TNT FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/118.ts:|ES| M TELENOVELAS
+#DESCRIPTION |ES| M TELENOVELAS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/74.ts:|ES| M TCM FHD
+#DESCRIPTION |ES| M TCM FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/114.ts:|ES| M SYFY FHD
+#DESCRIPTION |ES| M SYFY FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/115.ts:|ES| M SYFY
+#DESCRIPTION |ES| M SYFY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/71.ts:|ES| M SUNDANCE HD
+#DESCRIPTION |ES| M SUNDANCE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/101.ts:|ES| M SERIESMANIA HD
+#DESCRIPTION |ES| M SERIESMANIA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/100.ts:|ES| M SERIES
+#DESCRIPTION |ES| M SERIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/70.ts:|ES| M PARAMOUNT
+#DESCRIPTION |ES| M PARAMOUNT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/116.ts:|ES| M NOVA
+#DESCRIPTION |ES| M NOVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/125.ts:|ES| M NEOX
+#DESCRIPTION |ES| M NEOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/155.ts:|ES| M MTV ESPANA
+#DESCRIPTION |ES| M MTV ESPANA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/54.ts:|ES| M LEVANTE Tv
+#DESCRIPTION |ES| M LEVANTE Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/63.ts:|ES| M HOLLYWOOD FHD
+#DESCRIPTION |ES| M HOLLYWOOD FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/64.ts:|ES| M HOLLYWOOD
+#DESCRIPTION |ES| M HOLLYWOOD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/108.ts:|ES| M FOX LIFE FHD
+#DESCRIPTION |ES| M FOX LIFE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/124.ts:|ES| M FAMA 24H FHD
+#DESCRIPTION |ES| M FAMA 24H FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/58.ts:|ES| M ESTRENOS FHD
+#DESCRIPTION |ES| M ESTRENOS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/59.ts:|ES| M ESTRENOS
+#DESCRIPTION |ES| M ESTRENOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/121.ts:|ES| M ENERGY
+#DESCRIPTION |ES| M ENERGY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/72.ts:|ES| M DRAMA FHD
+#DESCRIPTION |ES| M DRAMA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/126.ts:|ES| M DECASA
+#DESCRIPTION |ES| M DECASA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/67.ts:|ES| M COSMO FHD
+#DESCRIPTION |ES| M COSMO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/102.ts:|ES| M COMEDY CENTRAL FHD
+#DESCRIPTION |ES| M COMEDY CENTRAL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/68.ts:|ES| M COMEDIA HD
+#DESCRIPTION |ES| M COMEDIA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/69.ts:|ES| M Comedia
+#DESCRIPTION |ES| M Comedia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/154.ts:|ES| M CLASSICA
+#DESCRIPTION |ES| M CLASSICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/60.ts:|ES| M CINEDOC&ROLL HD
+#DESCRIPTION |ES| M CINEDOC&ROLL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/73.ts:|ES| M CINE N
+#DESCRIPTION |ES| M CINE N
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/120.ts:|ES| M CALLE13
+#DESCRIPTION |ES| M CALLE13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/119.ts:|ES| M CALLE 13 FHD
+#DESCRIPTION |ES| M CALLE 13 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/112.ts:|ES| M AXN WHITE FHD
+#DESCRIPTION |ES| M AXN WHITE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/113.ts:|ES| M AXN WHITE
+#DESCRIPTION |ES| M AXN WHITE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/110.ts:|ES| M AXN FHD
+#DESCRIPTION |ES| M AXN FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/111.ts:|ES| M AXN
+#DESCRIPTION |ES| M AXN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/65.ts:|ES| M AMC FHD
+#DESCRIPTION |ES| M AMC FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/66.ts:|ES| M AMC
+#DESCRIPTION |ES| M AMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/61.ts:|ES| M ACCION FHD
+#DESCRIPTION |ES| M ACCION FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/62.ts:|ES| M ACCION
+#DESCRIPTION |ES| M ACCION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/98.ts:|ES| M #0 FHD
+#DESCRIPTION |ES| M #0 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/99.ts:|ES| M #0
+#DESCRIPTION |ES| M #0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/48.ts:|ES| LA SEXTA HD
+#DESCRIPTION |ES| LA SEXTA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/47.ts:|ES| LA SEXTA FHD
+#DESCRIPTION |ES| LA SEXTA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/49.ts:|ES| LA SEXTA
+#DESCRIPTION |ES| LA SEXTA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/138.ts:|ES| IBERALIA TV
+#DESCRIPTION |ES| IBERALIA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/135.ts:|ES| HISTORIA
+#DESCRIPTION |ES| HISTORIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/57.ts:|ES| FOXNEWS
+#DESCRIPTION |ES| FOXNEWS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/109.ts:|ES| FOX LIFE
+#DESCRIPTION |ES| FOX LIFE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/106.ts:|ES| FOX HD
+#DESCRIPTION |ES| FOX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/107.ts:|ES| FOX
+#DESCRIPTION |ES| FOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/104.ts:|ES| FDF
+#DESCRIPTION |ES| FDF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/117.ts:|ES| DIVINITY
+#DESCRIPTION |ES| DIVINITY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/146.ts:|ES| DISNEY JR
+#DESCRIPTION |ES| DISNEY JR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/145.ts:|ES| DISNEY ESP XD
+#DESCRIPTION |ES| DISNEY ESP XD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/143.ts:|ES| DISNEY CHANNEL HD
+#DESCRIPTION |ES| DISNEY CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/144.ts:|ES| DISNEY CHANNEL
+#DESCRIPTION |ES| DISNEY CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/133.ts:|ES| DISCOVERY CI
+#DESCRIPTION |ES| DISCOVERY CI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/134.ts:|ES| DISCOVERY CHANNEL HD
+#DESCRIPTION |ES| DISCOVERY CHANNEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/42.ts:|ES| CUATRO HD
+#DESCRIPTION |ES| CUATRO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/41.ts:|ES| CUATRO FHD
+#DESCRIPTION |ES| CUATRO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/43.ts:|ES| CUATRO
+#DESCRIPTION |ES| CUATRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/103.ts:|ES| COMEDYCENTRAL
+#DESCRIPTION |ES| COMEDYCENTRAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/137.ts:|ES| CAZA Y PESCA HD
+#DESCRIPTION |ES| CAZA Y PESCA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/51.ts:|ES| CANAL SUR A
+#DESCRIPTION |ES| CANAL SUR A
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/150.ts:|ES| CANAL PANDA
+#DESCRIPTION |ES| CANAL PANDA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/127.ts:|ES| CANAL ORBE21
+#DESCRIPTION |ES| CANAL ORBE21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/141.ts:|ES| CANAL COCINA
+#DESCRIPTION |ES| CANAL COCINA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/56.ts:|ES| CANAL 24 HORAS
+#DESCRIPTION |ES| CANAL 24 HORAS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/151.ts:|ES| BOING ESP
+#DESCRIPTION |ES| BOING ESP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/136.ts:|ES| BLAZE
+#DESCRIPTION |ES| BLAZE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/122.ts:|ES| BE MAD
+#DESCRIPTION |ES| BE MAD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/152.ts:|ES| BABY ESP
+#DESCRIPTION |ES| BABY ESP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/53.ts:|ES| ARAGON TV
+#DESCRIPTION |ES| ARAGON TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/40.ts:|ES| ANTENA3
+#DESCRIPTION |ES| ANTENA3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/39.ts:|ES| ANTENA 3 HD
+#DESCRIPTION |ES| ANTENA 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/38.ts:|ES| ANTENA 3 FHD
+#DESCRIPTION |ES| ANTENA 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/105.ts:|ES| A3SERIES
+#DESCRIPTION |ES| A3SERIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/95.ts:TAQUILLA 9
+#DESCRIPTION TAQUILLA 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/94.ts:TAQUILLA 8
+#DESCRIPTION TAQUILLA 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/93.ts:TAQUILLA 7
+#DESCRIPTION TAQUILLA 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/92.ts:TAQUILLA 6
+#DESCRIPTION TAQUILLA 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/91.ts:TAQUILLA 5
+#DESCRIPTION TAQUILLA 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/90.ts:TAQUILLA 4
+#DESCRIPTION TAQUILLA 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/89.ts:TAQUILLA 3
+#DESCRIPTION TAQUILLA 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/88.ts:TAQUILLA 2
+#DESCRIPTION TAQUILLA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/96.ts:TAQUILLA 10
+#DESCRIPTION TAQUILLA 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/87.ts:TAQUILLA 1
+#DESCRIPTION TAQUILLA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/37.ts:|ES| LA2
+#DESCRIPTION |ES| LA2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/33.ts:|ES| LA 1 FHD
+#DESCRIPTION |ES| LA 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/34.ts:|ES| LA 1 HD
+#DESCRIPTION |ES| LA 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/35.ts:|ES| LA1
+#DESCRIPTION |ES| LA1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/36.ts:|ES| CLAN TVE
+#DESCRIPTION |ES| CLAN TVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2655:|DE| 13th Street HD
+#DESCRIPTION |DE| 13th Street HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2656:|DE| 3Sat HD
+#DESCRIPTION |DE| 3Sat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2657:|DE| A&E HD
+#DESCRIPTION |DE| A&E HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2658:|DE| Alex Berlin
+#DESCRIPTION |DE| Alex Berlin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2659:|DE| Animal Planet HD
+#DESCRIPTION |DE| Animal Planet HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2660:|DE| Anixe FHD
+#DESCRIPTION |DE| Anixe FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2661:|DE| Arte
+#DESCRIPTION |DE| Arte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2662:|DE| Auto Motor und Sport HD
+#DESCRIPTION |DE| Auto Motor und Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2663:|DE| AXN HD
+#DESCRIPTION |DE| AXN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2664:|DE| Baby TV
+#DESCRIPTION |DE| Baby TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2665:|DE| Bayern FC TV
+#DESCRIPTION |DE| Bayern FC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2666:|DE| Blizz TV
+#DESCRIPTION |DE| Blizz TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2667:|DE| Boomerang HD
+#DESCRIPTION |DE| Boomerang HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2668:|DE| BR HD
+#DESCRIPTION |DE| BR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2669:|DE| Cartoon Network HD
+#DESCRIPTION |DE| Cartoon Network HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2670:|DE| Classica
+#DESCRIPTION |DE| Classica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2671:|DE| Comedy Central
+#DESCRIPTION |DE| Comedy Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2672:|DE| Das Erste
+#DESCRIPTION |DE| Das Erste
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2673:|DE| Das Erste HD
+#DESCRIPTION |DE| Das Erste HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2674:|DE| DAZN 1 Bar HD
+#DESCRIPTION |DE| DAZN 1 Bar HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2675:|DE| DAZN 2 Bar HD
+#DESCRIPTION |DE| DAZN 2 Bar HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2676:|DE| Deluxe Music HD
+#DESCRIPTION |DE| Deluxe Music HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2677:|DE| Discovery HD
+#DESCRIPTION |DE| Discovery HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2678:|DE| Discovey FHD
+#DESCRIPTION |DE| Discovey FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2679:|DE| Disney Channel HD
+#DESCRIPTION |DE| Disney Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2680:|DE| Disney Cinemagic HD
+#DESCRIPTION |DE| Disney Cinemagic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2681:|DE| Disney Junior HD
+#DESCRIPTION |DE| Disney Junior HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2682:|DE| Disney XD HD
+#DESCRIPTION |DE| Disney XD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2683:|DE| Dmax
+#DESCRIPTION |DE| Dmax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2684:|DE| DW
+#DESCRIPTION |DE| DW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2685:|DE| E! Entertainement HD
+#DESCRIPTION |DE| E! Entertainement HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2686:|DE| Eurosport 1 HD
+#DESCRIPTION |DE| Eurosport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2687:|DE| Eurosport 2 HD
+#DESCRIPTION |DE| Eurosport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2688:|DE| Eurosport 2 Xtra FHD
+#DESCRIPTION |DE| Eurosport 2 Xtra FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2689:|DE| Eurosport Player 1 HD
+#DESCRIPTION |DE| Eurosport Player 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2690:|DE| Eurosport Player 2 HD
+#DESCRIPTION |DE| Eurosport Player 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2691:|DE| Eurosport Player 3 HD
+#DESCRIPTION |DE| Eurosport Player 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2692:|DE| Eurosport Player 4 HD
+#DESCRIPTION |DE| Eurosport Player 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2693:|DE| Eurosport Player 5 HD
+#DESCRIPTION |DE| Eurosport Player 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2694:|DE| Eurosport Player 6 HD
+#DESCRIPTION |DE| Eurosport Player 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2695:|DE| Eurosport Player 7 HD
+#DESCRIPTION |DE| Eurosport Player 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2696:|DE| Family TV
+#DESCRIPTION |DE| Family TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2697:|DE| Fix & Foxi
+#DESCRIPTION |DE| Fix & Foxi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2698:|DE| Fox HD
+#DESCRIPTION |DE| Fox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2699:|DE| Franken
+#DESCRIPTION |DE| Franken
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2700:|DE| Heimatkanal
+#DESCRIPTION |DE| Heimatkanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2701:|DE| History HD
+#DESCRIPTION |DE| History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2702:|DE| HR HD
+#DESCRIPTION |DE| HR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2703:|DE| HSE24 Extra HD
+#DESCRIPTION |DE| HSE24 Extra HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2704:|DE| HSE24 HD
+#DESCRIPTION |DE| HSE24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2705:|DE| Jukebox
+#DESCRIPTION |DE| Jukebox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2706:|DE| Junior
+#DESCRIPTION |DE| Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2707:|DE| Kabel 1
+#DESCRIPTION |DE| Kabel 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2708:|DE| Kabel 1 Classics HD
+#DESCRIPTION |DE| Kabel 1 Classics HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2709:|DE| Kabel 1 Doku
+#DESCRIPTION |DE| Kabel 1 Doku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2710:|DE| Kika HD
+#DESCRIPTION |DE| Kika HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2711:|DE| Kinowelt HD
+#DESCRIPTION |DE| Kinowelt HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2712:|DE| MDR HD
+#DESCRIPTION |DE| MDR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2713:|DE| Motorvision
+#DESCRIPTION |DE| Motorvision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2714:|DE| MTV FHD
+#DESCRIPTION |DE| MTV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2715:|DE| Munchen TV
+#DESCRIPTION |DE| Munchen TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2716:|DE| N-TV
+#DESCRIPTION |DE| N-TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2717:|DE| N24 Doku
+#DESCRIPTION |DE| N24 Doku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2718:|DE| N24 HD
+#DESCRIPTION |DE| N24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2719:|DE| Nat Geo Wild HD
+#DESCRIPTION |DE| Nat Geo Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2720:|DE| National Geographic HD
+#DESCRIPTION |DE| National Geographic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2721:|DE| NDR HD
+#DESCRIPTION |DE| NDR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2722:|DE| Nickelodeon HD
+#DESCRIPTION |DE| Nickelodeon HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2723:|DE| One HD
+#DESCRIPTION |DE| One HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2724:|DE| Phoenix HD
+#DESCRIPTION |DE| Phoenix HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2725:|DE| Pro7
+#DESCRIPTION |DE| Pro7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2726:|DE| Pro7 Fun FHD
+#DESCRIPTION |DE| Pro7 Fun FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2727:|DE| Pro7 HD
+#DESCRIPTION |DE| Pro7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2728:|DE| Pro7 Maxx HD
+#DESCRIPTION |DE| Pro7 Maxx HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2729:|DE| QVC
+#DESCRIPTION |DE| QVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2730:|DE| RBB Berlin
+#DESCRIPTION |DE| RBB Berlin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2731:|DE| RBB HD
+#DESCRIPTION |DE| RBB HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2732:|DE| Romance TV HD
+#DESCRIPTION |DE| Romance TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2733:|DE| RTL
+#DESCRIPTION |DE| RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2734:|DE| RTL 2
+#DESCRIPTION |DE| RTL 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2735:|DE| RTL 2 HD
+#DESCRIPTION |DE| RTL 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2736:|DE| RTL Crime HD
+#DESCRIPTION |DE| RTL Crime HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2737:|DE| RTL FHD
+#DESCRIPTION |DE| RTL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2738:|DE| RTL Living FHD
+#DESCRIPTION |DE| RTL Living FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2739:|DE| RTL HD
+#DESCRIPTION |DE| RTL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2740:|DE| RTL Nitro HD
+#DESCRIPTION |DE| RTL Nitro HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2741:|DE| RTL Passion FHD
+#DESCRIPTION |DE| RTL Passion FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2742:|DE| RTL Plus
+#DESCRIPTION |DE| RTL Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2743:|DE| Sat 1
+#DESCRIPTION |DE| Sat 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2744:|DE| Sat 1 Gold
+#DESCRIPTION |DE| Sat 1 Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2745:|DE| Sat 1 HD
+#DESCRIPTION |DE| Sat 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2746:|DE| Servus TV HD
+#DESCRIPTION |DE| Servus TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2747:|DE| Sixx HD
+#DESCRIPTION |DE| Sixx HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2748:|DE| Sky 1 HD
+#DESCRIPTION |DE| Sky 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2749:|DE| Sky Action HD
+#DESCRIPTION |DE| Sky Action HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2750:|DE| Sky Arts HD
+#DESCRIPTION |DE| Sky Arts HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2751:|DE| Sky Atlantic HD
+#DESCRIPTION |DE| Sky Atlantic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2752:|DE| Sky Bundesliga 1
+#DESCRIPTION |DE| Sky Bundesliga 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2753:|DE| Sky Bundesliga 1 HD
+#DESCRIPTION |DE| Sky Bundesliga 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2754:|DE| Sky Bundesliga 2 HD
+#DESCRIPTION |DE| Sky Bundesliga 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2755:|DE| Sky Bundesliga 3 HD
+#DESCRIPTION |DE| Sky Bundesliga 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2756:|DE| Sky Bundesliga 4 HD
+#DESCRIPTION |DE| Sky Bundesliga 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2757:|DE| Sky Bundesliga 5 HD
+#DESCRIPTION |DE| Sky Bundesliga 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2758:|DE| Sky Bundesliga 6 HD
+#DESCRIPTION |DE| Sky Bundesliga 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2759:|DE| Sky Bundesliga 7 HD
+#DESCRIPTION |DE| Sky Bundesliga 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2760:|DE| Sky Bundesliga 8 HD
+#DESCRIPTION |DE| Sky Bundesliga 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2761:|DE| Sky Cinema  1 HD
+#DESCRIPTION |DE| Sky Cinema  1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2762:|DE| Sky Cinema  24 HD
+#DESCRIPTION |DE| Sky Cinema  24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2763:|DE| Sky Cinema Family HD
+#DESCRIPTION |DE| Sky Cinema Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2764:|DE| SKY CINEMA HD
+#DESCRIPTION |DE| SKY CINEMA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2765:|DE| Sky Cinema Hits HD
+#DESCRIPTION |DE| Sky Cinema Hits HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2766:|DE| Sky Comedy
+#DESCRIPTION |DE| Sky Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2767:|DE| Sky Comedy HD
+#DESCRIPTION |DE| Sky Comedy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2768:|DE| Sky Emotion HD
+#DESCRIPTION |DE| Sky Emotion HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2769:|DE| Sky Krimi
+#DESCRIPTION |DE| Sky Krimi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2770:|DE| Sky Nostalgie
+#DESCRIPTION |DE| Sky Nostalgie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2771:|DE| Sky Sport 1
+#DESCRIPTION |DE| Sky Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2772:|DE| Sky Sport 1 HD
+#DESCRIPTION |DE| Sky Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2773:|DE| Sky Sport 2 HD
+#DESCRIPTION |DE| Sky Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2774:|DE| Sky Sport 3
+#DESCRIPTION |DE| Sky Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2775:|DE| Sky Sport 5
+#DESCRIPTION |DE| Sky Sport 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2776:|DE| Sky Sport 6 HD
+#DESCRIPTION |DE| Sky Sport 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2777:|DE| Sky Sport 7 HD
+#DESCRIPTION |DE| Sky Sport 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2778:|DE| Sky Sport 8 HD
+#DESCRIPTION |DE| Sky Sport 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2779:|DE| Sky Sport 9 HD
+#DESCRIPTION |DE| Sky Sport 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2780:|DE| Sky Sport Austria HD
+#DESCRIPTION |DE| Sky Sport Austria HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2781:|DE| Sky Sport HD 4
+#DESCRIPTION |DE| Sky Sport HD 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2782:|DE| Sky Sport News HD
+#DESCRIPTION |DE| Sky Sport News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2783:|DE| Sony TV HD
+#DESCRIPTION |DE| Sony TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2784:|DE| Sparhandy TV
+#DESCRIPTION |DE| Sparhandy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2785:|DE| Spiegel Geschichte
+#DESCRIPTION |DE| Spiegel Geschichte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2786:|DE| Spiegel TV Wissen HD
+#DESCRIPTION |DE| Spiegel TV Wissen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2787:|DE| Sport 1  HD
+#DESCRIPTION |DE| Sport 1  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2788:|DE| Sport Olympic HD
+#DESCRIPTION |DE| Sport Olympic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2789:|DE| Sport1 HD
+#DESCRIPTION |DE| Sport1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2790:|DE| Sportdigital HD
+#DESCRIPTION |DE| Sportdigital HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2791:|DE| Super RTL
+#DESCRIPTION |DE| Super RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2792:|DE| SWR HD
+#DESCRIPTION |DE| SWR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2793:|DE| Tagesschau 24 HD
+#DESCRIPTION |DE| Tagesschau 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2794:|DE| SyFy HD
+#DESCRIPTION |DE| SyFy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2795:|DE| Tele 5 HD
+#DESCRIPTION |DE| Tele 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2796:|DE| TLC HD
+#DESCRIPTION |DE| TLC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2797:|DE| TNT Comedy HD
+#DESCRIPTION |DE| TNT Comedy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2798:|DE| TNT Film
+#DESCRIPTION |DE| TNT Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2799:|DE| TNT Film HD
+#DESCRIPTION |DE| TNT Film HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2800:|DE| TNT Serie HD
+#DESCRIPTION |DE| TNT Serie HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2801:|DE| Toggo Plus
+#DESCRIPTION |DE| Toggo Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2802:|DE| TV Aktuelle
+#DESCRIPTION |DE| TV Aktuelle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2803:|DE| Universal Channel HD
+#DESCRIPTION |DE| Universal Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2804:|DE| VOX
+#DESCRIPTION |DE| VOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2805:|DE| VOX HD
+#DESCRIPTION |DE| VOX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2806:|DE| WDR HD
+#DESCRIPTION |DE| WDR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2807:|DE| Welt der Wunder
+#DESCRIPTION |DE| Welt der Wunder
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2808:|DE| ZDF HD
+#DESCRIPTION |DE| ZDF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2809:|DE| ZDF Info HD
+#DESCRIPTION |DE| ZDF Info HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2810:|DE| ZDF Neo HD
+#DESCRIPTION |DE| ZDF Neo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2811:|DE| Zee One HD
+#DESCRIPTION |DE| Zee One HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2813:|DE| SKY Select 1 HD
+#DESCRIPTION |DE| SKY Select 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2814:|DE| SKY Select 2 HD
+#DESCRIPTION |DE| SKY Select 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2815:|DE| SKY Select 3 HD
+#DESCRIPTION |DE| SKY Select 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2816:|DE| SKY Select 4 HD
+#DESCRIPTION |DE| SKY Select 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2817:|DE| SKY Select 5 HD
+#DESCRIPTION |DE| SKY Select 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2818:|DE| ORF Eins
+#DESCRIPTION |DE| ORF Eins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2819:|DE| ORF II
+#DESCRIPTION |DE| ORF II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2820:|DE| ORF III
+#DESCRIPTION |DE| ORF III
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2821:|DE| Orf Sport +
+#DESCRIPTION |DE| Orf Sport +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2822:|DE| ATV
+#DESCRIPTION |DE| ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2823:|DE| SKY Sport 1 FHD
+#DESCRIPTION |DE| SKY Sport 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2824:|DE| SKY Sport 2 FHD
+#DESCRIPTION |DE| SKY Sport 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2825:|DE| SKY CINEMA +1 FHD
+#DESCRIPTION |DE| SKY CINEMA +1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2826:|DE|  SKY CINEMA FHD
+#DESCRIPTION |DE|  SKY CINEMA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2827:|DE| SKY CINEMA  +24 FHD
+#DESCRIPTION |DE| SKY CINEMA  +24 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2828:|DE|  SKY CINEMA Action FHD
+#DESCRIPTION |DE|  SKY CINEMA Action FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2829:|DE| Discovery FHD
+#DESCRIPTION |DE| Discovery FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2830:|DE|  Disney CINEMAgic FHD
+#DESCRIPTION |DE|  Disney CINEMAgic FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2831:|DE|  E! Entertainm FHD
+#DESCRIPTION |DE|  E! Entertainm FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2832:|DE|  Eurosport 2 FHD
+#DESCRIPTION |DE|  Eurosport 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2833:|DE| FC Bayern TV FHD
+#DESCRIPTION |DE| FC Bayern TV FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2834:|DE| History FHD
+#DESCRIPTION |DE| History FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2835:|DE|  Kabel eins FHD
+#DESCRIPTION |DE|  Kabel eins FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2836:|DE| KIKA FHD
+#DESCRIPTION |DE| KIKA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2837:|DE| Nat Geo Wild FHD
+#DESCRIPTION |DE| Nat Geo Wild FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2838:|DE| NAT GEO FHD
+#DESCRIPTION |DE| NAT GEO FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2839:|DE| SKY ARTS FHD
+#DESCRIPTION |DE| SKY ARTS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2840:|DE| SKY ATLANTIC FHD
+#DESCRIPTION |DE| SKY ATLANTIC FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2841:|DE| SKY CINEMA HITS FHD
+#DESCRIPTION |DE| SKY CINEMA HITS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2842:|DE| SKY SPORT AUSTRIA FHD
+#DESCRIPTION |DE| SKY SPORT AUSTRIA FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2843:|DE| SYFY FHD
+#DESCRIPTION |DE| SYFY FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2844:|DE| TNT COMEDY FHD
+#DESCRIPTION |DE| TNT COMEDY FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2845:|DE| TNT SEIRE FHD
+#DESCRIPTION |DE| TNT SEIRE FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2846:|DE| UNIVERSAL FHD
+#DESCRIPTION |DE| UNIVERSAL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2847:|DE| ARD ALPHA
+#DESCRIPTION |DE| ARD ALPHA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2848:|DE| EURONEWS HD
+#DESCRIPTION |DE| EURONEWS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2849:|DE| FOX SERIE HD
+#DESCRIPTION |DE| FOX SERIE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2850:|DE| KABEL EINS HD
+#DESCRIPTION |DE| KABEL EINS HD
 #SERVICE 1:64:9B:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
