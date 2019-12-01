@@ -5,7 +5,7 @@
 #DESCRIPTION KURAN MEAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
 #DESCRIPTION DiYANET KURAN RADiO
-#SERVICE 1:64:93:0:0:0:0:0:0:0::%3a== ★★ReMy | _BLUTV★★ ==
+#SERVICE 1:64:93:0:0:0:0:0:0:0:::== ★★ReMy | _BLUTV★★ ==
 #DESCRIPTION :== ★★ReMy | _BLUTV★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-beta.akamaized.net/atvhd/atvhd.smil/playlist.m3u8:ATV HD  BLUTV
 #DESCRIPTION ATV HD  BLUTV
@@ -25,6 +25,8 @@
 #DESCRIPTION SPORTS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-beta.akamaized.net/startvhd/startvhd.smil/playlist.m3u8:STAR 1
 #DESCRIPTION STAR 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//blutv-beta.akamaized.net/beyaztv/beyaztv.smil/playlist.m3u8:Beyaz TV HD
+#DESCRIPTION Beyaz TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-beta.akamaized.net/teve2hd/teve2hd.smil/chunklist_b2628000_sltur.m3u8:teve2 1
 #DESCRIPTION teve2 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//blutv-beta.akamaized.net/teve2hd/teve2hd.smil/playlist.m3u8:teve2 2
@@ -63,7 +65,7 @@
 #DESCRIPTION POWER TURK 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-beta.akamaized.net/powertvhd/powertvhd.smil/playlist.m3u8:POWER TV
 #DESCRIPTION POWER TV
-#SERVICE 1:64:94:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_U L U S A L_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:94:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1 HD
 #DESCRIPTION TRT1 HD
@@ -295,7 +297,7 @@
 #DESCRIPTION KON TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8:TRT ÇOCUK
 #DESCRIPTION TRT ÇOCUK
-#SERVICE 1:64:95:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_WEB TV / TURKEY_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:95:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #DESCRIPTION :::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akillitvhls.cdn.streamprovider.net/chunklist.m3u8:AKILLI TV
 #DESCRIPTION AKILLI TV
@@ -347,7 +349,7 @@
 #DESCRIPTION TURKMEN OWAZY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch002_400/index.m3u8:TURKMEN YASLIK
 #DESCRIPTION TURKMEN YASLIK
-#SERVICE 1:64:96:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_YEREL_/_TURKEY_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:96:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza1:Istweb TV HD
 #DESCRIPTION Istweb TV HD

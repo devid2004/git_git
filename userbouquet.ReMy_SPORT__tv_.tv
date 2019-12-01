@@ -1,10 +1,14 @@
 #NAME == ★★ReMy | SPORT★★ ==
-#SERVICE 1:64:99:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
+#SERVICE 1:64:9A:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:BEIN SPORT 1 (TUR)
 #DESCRIPTION BEIN SPORT 1 (TUR)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportscore.biz/lba/123/g5/beinsport1tur.m3u8:BeinSport 1HD Tr
 #DESCRIPTION BeinSport 1HD Tr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/hls/ntvspor/playlist.m3u8:ntvspor MAÇ ÖZETLERI
+#DESCRIPTION ntvspor MAÇ ÖZETLERI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/ntvspor.ts:NTV SPOR 1HD
+#DESCRIPTION NTV SPOR 1HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.garaveli.de///tekliphp/gstv.php?&m3u8:GS TV
 #DESCRIPTION GS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$DolceSportHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Telekom Sport 1 HD
@@ -57,10 +61,6 @@
 #DESCRIPTION ARENA SPORT 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/ar5sport.m3u8:ARENA SPORT 5
 #DESCRIPTION ARENA SPORT 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/hls/ntvspor/playlist.m3u8:ntvspor MAÇ ÖZETLERI
-#DESCRIPTION ntvspor MAÇ ÖZETLERI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/ntvspor.ts:NTV SPOR 1HD
-#DESCRIPTION NTV SPOR 1HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8:KSA-Sport1-Bakup
 #DESCRIPTION KSA-Sport1-Bakup
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA-Sport2-Bakup
@@ -223,7 +223,7 @@
 #DESCRIPTION AD SPORT 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv2.premium-stv.com%3a8888/live/abudhabi1/ttBQW7TF8s/48.ts:AD SPORTS 1
 #DESCRIPTION AD SPORTS 1
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
+#SERVICE 1:64:9B:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
