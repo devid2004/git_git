@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | MUSIC★★ ==
-#SERVICE 1:64:9C:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bqgsd19q.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL TV
 #DESCRIPTION KRAL TV
@@ -177,6 +177,8 @@
 #DESCRIPTION HIT RU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b4128000.m3u8:HOBOC TV
 #DESCRIPTION HOBOC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//server10.streaming-pro.com%3a1937/live/ibgtvlive/playlist.m3u8:Ibiza Global TV
+#DESCRIPTION Ibiza Global TV
 #SERVICE 4097:0:1:228:0:0:0:0:0:0:http%3a//89.36.10.12%3a8080:IMPACT TV
 #DESCRIPTION IMPACT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/rtp/239.0.0.2%3a5000:Kcn 2 Tv
@@ -331,6 +333,8 @@
 #DESCRIPTION SoNus FM [18+]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8:steelbirdmusic
 #DESCRIPTION steelbirdmusic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8:TOP LATINO
+#DESCRIPTION TOP LATINO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist.m3u8:TOP LATINO MUSICA
 #DESCRIPTION TOP LATINO MUSICA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8:TRACE URBAN
@@ -357,7 +361,7 @@
 #DESCRIPTION Zeta TV
 #SERVICE 4097:0:1:1629:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:ZIK
 #DESCRIPTION ZIK
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Turk
 #DESCRIPTION Kral Turk
@@ -447,7 +451,7 @@
 #DESCRIPTION TaksimFM - Arabesk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.133.218%3a1078:TURKUAZ FM
 #DESCRIPTION TURKUAZ FM
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40

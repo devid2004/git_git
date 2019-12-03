@@ -19,6 +19,8 @@
 #DESCRIPTION A7 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8:AKC TV
 #DESCRIPTION AKC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.182.77.27/live/alcarriatv-livestream.m3u8:Alcarria TV
+#DESCRIPTION Alcarria TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8:Alternativa TV
 #DESCRIPTION Alternativa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.72.196.214%3a8554/live/mp4%3aAltoAdigeTV/chunklist.m3u8?time=1465231804284:Alto Adige
@@ -79,6 +81,8 @@
 #DESCRIPTION DJing - Underground
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8:EITB
 #DESCRIPTION EITB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ventdelnord.tv%3a8080/escala/directe.m3u8:Emporda TV
+#DESCRIPTION Emporda TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.elpinguino.com%3a1935/live/pinguinotv/playlist.m3u8:EL PINGUINO TV HD
 #DESCRIPTION EL PINGUINO TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8:ETB 1 HD
@@ -95,6 +99,10 @@
 #DESCRIPTION Foro TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.214.130.95%3a8080/live/stream.m3u8:Gigante TV
 #DESCRIPTION Gigante TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//server10.streaming-pro.com%3a1937/live/ibgtvlive/playlist.m3u8:Ibiza Global TV
+#DESCRIPTION Ibiza Global TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//teledifusion.tv%3a1935/informaciontvlive/informaciontvlive/livestream.m3u8:Informacion TV
+#DESCRIPTION Informacion TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2ca_lv3_aosv4_gl0/la2ca_lv3_aosv4_gl0.isml/master.m3u8:La 2 Catalunya
 #DESCRIPTION La 2 Catalunya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8:La Tele
@@ -103,6 +111,10 @@
 #DESCRIPTION Lancelot TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.210.141.18%3a1935/directo/lancelot.television/live.m3u8:Lancelot TV Espana
 #DESCRIPTION Lancelot TV Espana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8:La Otra
+#DESCRIPTION La Otra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.104.160.156%3a1935/live/lebrijatv2/playlist3.m3u8:Lebrija TV
+#DESCRIPTION Lebrija TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.104.160.156%3a1935/live/lebrijatv2/playlist2.m3u8?wowzasessionid=1758058924.m3u8:Lebrija TV
 #DESCRIPTION Lebrija TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tvlux.sk%3a1935/lux/lux.stream_360p/playlist.m3u8:LUX TELEVIZIA
@@ -123,18 +135,26 @@
 #DESCRIPTION Popular TV Melilla
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.91.98.146%3a1935/live/stream/playlist.m3u8:PTV Málaga HD
 #DESCRIPTION PTV Málaga HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8:RealMadrid TV
-#DESCRIPTION RealMadrid TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8:RMadrid TV
+#DESCRIPTION RMadrid TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8:RealMadrid TV
 #DESCRIPTION RealMadrid TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//teledifusion.tv%3a1935/rtvcetv/rtvcetvlive/playlist.m3u8:RTVCE
+#DESCRIPTION RTVCE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//teledifusion.tv%3a1935/rtvcetv/mp4%3artvcetvlive/playlist.m3u8:rtvce.es
 #DESCRIPTION rtvce.es
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8:rtve.es
 #DESCRIPTION rtve.es
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8:Telemadrid
+#DESCRIPTION Telemadrid
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetr.teleromagna.it/sport/live/playlist.m3u8:Tele Romagna
 #DESCRIPTION Tele Romagna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.telesafor.com/hls/video_low.m3u8:TeleSafor
+#DESCRIPTION TeleSafor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.teleonuba.es%3a1935/live/GdZpE8ef/playlist.m3u8:Teleonuba
 #DESCRIPTION Teleonuba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8:TeleValencia
+#DESCRIPTION TeleValencia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8:TOP LATINO
 #DESCRIPTION TOP LATINO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist.m3u8:TOP LATINO MUSICA
@@ -147,16 +167,20 @@
 #DESCRIPTION TRECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/tsn2/tsn2/live.m3u8:TSN LIVIGNO HD
 #DESCRIPTION TSN LIVIGNO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//america-crtvg.flumotion.com/playlist.m3u8:TV Galicia America
+#DESCRIPTION TV Galicia America
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//europa-crtvg.flumotion.com/playlist.m3u8:TV Galicia Europa
+#DESCRIPTION TV Galicia Europa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ventdelnord.tv%3a8080/girona/directe.m3u8:TV Girona
 #DESCRIPTION TV Girona
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil%3alive.smil/master.m3u8:TV Mediterraneo
+#DESCRIPTION TV Mediterraneo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3atv3_web/.m3u8:TV3
 #DESCRIPTION TV3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3abeauties_web/master_DVR.m3u8:TV3 Càmeres
 #DESCRIPTION TV3 Càmeres
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.221.3/tv38-live/_definst_/mp4%3alivestream/playlist.m3u8:TV38
 #DESCRIPTION TV38
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//america-crtvg.flumotion.com/playlist.m3u8:TVG América
-#DESCRIPTION TVG América
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cultural-crtvg.flumotion.com/playlist.m3u8:TVG Cultura HD
 #DESCRIPTION TVG Cultura HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//events1-crtvg.flumotion.com/playlist.m3u8:TVG Deportes 1
@@ -165,6 +189,8 @@
 #DESCRIPTION TVG Deportes 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//events3-crtvg.flumotion.com/playlist.m3u8:TVG Deportes 3
 #DESCRIPTION TVG Deportes 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//america-crtvg.flumotion.com/playlist.m3u8:TVG América
+#DESCRIPTION TVG América
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//infantil-crtvg.flumotion.com/playlist.m3u8:TVG Infantil
 #DESCRIPTION TVG Infantil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//momentog-crtvg.flumotion.com/playlist.m3u8:TVG Momentos G
