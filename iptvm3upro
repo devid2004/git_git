@@ -5,7 +5,7 @@ wget -O /usr/lib/enigma2/python/Plugins/Extensions/m3u_Pro/m3u_ProM3U/XXpremium.
 sleep 1
 wget -O /tmp/Latin.m3u "https://github.com/PrivateTr/Zone_enigma/raw/master/Latin-04-11-2019.m3u"
 sleep 1
-wget -O /tmp/BEIN3.m3u "http://iptv2.premium-stv.com:8888/get.php?username=BEIN3&password=0jWkR45MqZ&type=m3u"
+wget -O /tmp/iptvcline.m3u "http://iptv.cline.in:80/get.php?username=40crPzTMSd&password=4dgszhlfAI&type=m3u"
 sleep 1
 wget -O /tmp/localhdTV.m3u "http://localhd.tv:8081/get.php?username=gueguin.cyrille&password=sosXqioS4I&type=m3u"
 sleep 1
