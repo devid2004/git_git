@@ -1,6 +1,76 @@
 #NAME == ★★ReMy | FILM | DIZI ★★ ==
 #SERVICE 1:64:97:0:0:0:0:0:0:0:::::::::________NETFLIX MOVIE TR:::::::::::
 #DESCRIPTION :::::::________NETFLIX MOVIE TR:::::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2019)/Alita%20Battle%20Angel%20(2019)%204K/Alita.Battle.Angel.2019.4K.HDR.2160p.mkv:Alita Battle Angel (2019) 4K
+#DESCRIPTION Alita Battle Angel (2019) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2019)/Avengers%20Endgame%20(2019)%204K/Avengers%20Endgame%202019.MULTi.UHD.2160p.SDR.WEBRip.DDP.8.1.HEVC-DDR.mkv:Avengers Endgame (2019) 4K
+#DESCRIPTION Avengers Endgame (2019) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2019)/Bumblebee%20(2019)%204K/Bumblebee.2019.2160p.UHD.BluRay.6CH.x265.DUAL-WWW.BLUDV.TV.mkv:Bumblebee (2019) 4K
+#DESCRIPTION Bumblebee (2019) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2019)/Captain%20Marvel%20(2019)%204K/Captain%20Marvel%20--%204K.mkv:Captain Marvel (2019) 4K
+#DESCRIPTION Captain Marvel (2019) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2019)/Dumbo%20(2019)%204K/Dumbo.2019.4K.HDR.2160p.BDRip%20Ita%20Eng.mkv:Dumbo (2019) 4K
+#DESCRIPTION Dumbo (2019) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2019)/Godzilla%20King%20of%20the%20Monsters%20(2019)%204K/Godzilla.King.of.the.Monsters.2019.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT.mkv:Godzilla King of the Monsters (2019) 4K
+#DESCRIPTION Godzilla King of the Monsters (2019) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2019)/John%20Wick%20Chapter%203%20Parabellum%20(2019)%204K/John.Wick.Chapter.3.Parabellum.2019.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.mkv:John Wick Chapter 3 Parabellum (2019) 4K
+#DESCRIPTION John Wick Chapter 3 Parabellum (2019) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/I%20Am%20Legend%20(2007)%204K/I%20Am%20Legend%20(2007)%20-%204K.mkv:I Am Legend (2007) 4K
+#DESCRIPTION I Am Legend (2007) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Alpha%20(2018)%204K/Alpha%204Krip2160.mkv:Alpha (2018) 4K
+#DESCRIPTION Alpha (2018) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Ant-Man%20(2015)%204K/Ant-Man%20y%20la%20Avispa%204Krip2160.www.descargas2020.com.mkv:Ant-Man (2015) 4K
+#DESCRIPTION Ant-Man (2015) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Avengers%20Infinity%20War%20(2018)%204K/Avengers%20Infinity%20War%20(2018)%20-%204K.mkv:Avengers Infinity War (2018) 4K
+#DESCRIPTION Avengers Infinity War (2018) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Black%20Panther%20(2018)%204K/Black%20Panther%20(2018)%20-%204K.mkv:Black Panther (2018) 4K
+#DESCRIPTION Black Panther (2018) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Deadpool%202%20(2018)%204K/Deadpool%202%20-%204K.mkv:Deadpool 2 (2018) 4K
+#DESCRIPTION Deadpool 2 (2018) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Forrest%20Gump%20(1994)%204K/Forrest%20Gump%20--%204K.mkv:Forrest Gump (1994) 4K
+#DESCRIPTION Forrest Gump (1994) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/John%20Wick%20(2014)%204K/John%20Wick%20(2014)%20-%204K.mkv:John Wick (2014) 4K
+#DESCRIPTION John Wick (2014) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/John%20Wick%20Chapter%202%20(2017)%204K/John.Wick.Chapter.2.2017.2160p.UltraHD.BluRay.HDR.x265.LPCM-FDP.mkv:John Wick Chapter 2 (2017) 4K
+#DESCRIPTION John Wick Chapter 2 (2017) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Johnny%20English%20Strikes%20Again%20(2018)%204K/Johnny%20English%20Strikes%20Again%20-%204K.mkv:Johnny English Strikes Again (2018) 4K
+#DESCRIPTION Johnny English Strikes Again (2018) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Jurassic%20World%20Fallen%20Kingdom%20(2018)%204K/Jurassic%20World%20Fallen%20Kingdom%202018%204K%20UHD%202160p%20BluRay%20x265%20Dual%20Audio%20%5bHindi%20DTS%206CH%20-%20English%20DTS%206CH%5d%20ESub%20%5bMW%5d.mkv:Jurassic World Fallen Kingdom (2018) 4K
+#DESCRIPTION Jurassic World Fallen Kingdom (2018) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Life%20of%20Pi%20(2012)%204K/Life%20of%20Pi%20--%204K.mkv:Life of Pi (2012) 4K
+#DESCRIPTION Life of Pi (2012) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Logan%20(2017)%204K/Logan%20-%204K.mkv:Logan (2017) 4K
+#DESCRIPTION Logan (2017) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Mortal%20Engines%20(2018)%204K/Mortal%20Engines%20(2018)%20-%204K.m2ts:Mortal Engines (2018) 4K
+#DESCRIPTION Mortal Engines (2018) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Oblivion%20(2013)%204K/Oblivion%20(2013)%20-%204K.mkv:Oblivion (2013) 4K
+#DESCRIPTION Oblivion (2013) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Ocean's%208%20(2018)%204K/Oceans%208%204Kremux2160.www.descargas2020.com.mkv:Ocean's 8 (2018) 4K
+#DESCRIPTION Ocean's 8 (2018) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Overlord%20(2018)%204K/Overlord%20-%204K.mkv:Overlord (2018) 4K
+#DESCRIPTION Overlord (2018) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Perfume%20The%20Story%20of%20a%20Murderer%20(2006)%204K/Perfume%20-%20The%20Story%20of%20a%20Murderer%20(2006)%20-%204K.mkv:Perfume The Story of a Murderer (2006) 4K
+#DESCRIPTION Perfume The Story of a Murderer (2006) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Ready%20Player%20One%20(2018)%204K/Ready%20Player%20One%20--%204K.mkv:Ready Player One (2018) 4K
+#DESCRIPTION Ready Player One (2018) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Shutter%20Island%20(2010)%204K/Shutter%20Island%20-%204K.mkv:Shutter Island (2010) 4K
+#DESCRIPTION Shutter Island (2010) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Suicide%20Squad%20(2016)%204K/Suicide%20Squad%20(2016)%20-%204K.mkv:Suicide Squad (2016) 4K
+#DESCRIPTION Suicide Squad (2016) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/The%20Avengers%20(2012)%204K/The%20Avengers%20-%204K.mkv:The Avengers (2012) 4K
+#DESCRIPTION The Avengers (2012) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/The%20Incredibles%20(2004)%204K/The%20Incredible%20--%204K.mkv:The Incredibles (2004) 4K
+#DESCRIPTION The Incredibles (2004) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/The%20Incredibles%202%20(2018)%204K/The%20Incredibles%202%20(2018)%20-%204K.mkv:The Incredibles 2 (2018) 4K
+#DESCRIPTION The Incredibles 2 (2018) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/The%20Matrix%20(1999)%204K/The%20Matrix%20(1999)%20-%204K.mkv:The Matrix (1999) 4K
+#DESCRIPTION The Matrix (1999) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/The%20Matrix-Reloaded%20(2003)%204K/The%20Matrix-Reloaded%20(2003)%20-%204K.mkv:The Matrix-Reloaded (2003) 4K
+#DESCRIPTION The Matrix-Reloaded (2003) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/The%20Mummy%20(2017)%204K/The.Mummy.2017.German.Dubbed.AC3.DL.2160p.Ultra.HD.BluRay.HDR.x265-NIMA4K.Dual.Agrobatalha.mkv:The Mummy (2017) 4K
+#DESCRIPTION The Mummy (2017) 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies%20-%204K/(2018)%20&%20Before/Tomb%20Raider%20(2018)%204K/Tomb%20Raider%204K.mkv:Tomb Raider (2018) 4K
+#DESCRIPTION Tomb Raider (2018) 4K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv49.filmmodu.xyz/tt9815714/720p.tr.m3u8:The Hard - Ortak 2019 - AKSİYON
 #DESCRIPTION The Hard - Ortak 2019 - AKSİYON
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv96.filmmodu.xyz/tt1860242/720p.tr.m3u8:he Highwaymen - 2019 - Gerilim, Gizem, Suç, Dram,
@@ -33,162 +103,216 @@
 #DESCRIPTION Paint - EFSANE SÜRÜCÜ - 2019 - AKSİYON
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv31.filmmodu.xyz/tt4463894/720p.tr.m3u8:Denge - Shaft -2019 - AKSİYON-SUÇ
 #DESCRIPTION Denge - Shaft -2019 - AKSİYON-SUÇ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Al%20Yazmalim%20(1978)%20Turkey/Atif%20Yilmaz-Selvi%20boylum,%20al%20yazmalim%20('The%20Girl%20with%20the%20Red%20Scarf')%20(1978).avi
-#DESCRIPTION: Selvi boylum, al yazmalim
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Ask%20tesad%c3%bcfleri%20sever%20(2011)%20(Turkey)/A%c5%9eK%20TESAD%c3%9cFLER%c4%b0%20SEVER-LOVE%20LOVES%20COINCIDENCES.avi
-#DESCRIPTION: AŞK TESADÜFLERİ SEVER
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Av%20mevsimi%20(2010)%20720p%20(Turkey)/Av%20Mevsimi%202010%20720p%20BRRip%20x264%20AAC%20-%20Ozlem.mp4
-#DESCRIPTION: Av Mevsimi 2010
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Ayla%20The%20Daughter%20of%20War%20(2017)%20720p%20(Turkey)/Ayla%20The%20Daughter%20of%20War%20(2017)%20720p%20WEBRip%20x264%20AC3%20-%20HD%20-%20HB.mkv
-#DESCRIPTION: Ayla The Daughter of War (2017)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Ayla%20The%20Daughter%20of%20War%20(2017)%20720p/Ayla%20The%20Daughter%20of%20War%20(2017)%20720p%20WEBRip%20x264%20AC3%20-%20HD%20-%20HB.mkv
-#DESCRIPTION: Ayla The Daughter of War (2017)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Baskin%20(2015)%20720p%20(Turkey)/Baskin.2015.720p.BRRip.900MB.MkvCage.mkv
-#DESCRIPTION: Baskin.2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Baskin%20(2015)%20720p%20WEBRip%20(Turkey)/Baskin.2015.720p.WEBRip.x264.Turkish.AAC-ETRG.mp4
-#DESCRIPTION: Baskin.2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Bliss%20(2007)%20(Turkey)/Bliss%20(2007)%20DVDrip%20%5bFT%20BD.NET%5d.avi
-#DESCRIPTION: Bliss (2007)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Cin%20Kuyusu%20(2015)%20WEBRip%20(Turkey)/Cin.Kuyusu.2015.WEB-DL%5bTD%5d.avi
-#DESCRIPTION: Cin.Kuyusu.2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/D@bbe%20(2006)%20(Turkey)/Dabbe%20(2006).avi
-#DESCRIPTION: Dabbe (2006)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/D@bbe-Bir%20cin%20vakasi%20(2012)%20(Turkey)/Dabbe%20Bir%20Cin%20Vakas%c4%b1%20-%20Tek%20Par%c3%a7a%20(2012).WEBRip.700mb.x264.AC3.mp4
-#DESCRIPTION: Dabbe Bir Cin Vakası
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/D@bbe-Cin%20%c3%a7arpmasi%20(2013)%20(Turkey)/Dabbe%20Cin%20Carpmasi%20(2013)%20DVDRip%20XviD.avi
-#DESCRIPTION: Dabbe Cin Carpmasi (2013
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/D@bbe-Zehr-i%20Cin%20(2014)%20(Turkey)/Dabbe%20Zehr-i%20Cin%202014%20DVDRip%20x264%20Turkish%20AAC%20-Ozlem.mp4
-#DESCRIPTION: Dabbe Zehr-i Cin 2014
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Dabbe%20(Dab6e)%20(2015)%20(Turkey)/Dab6e.2015.DVDRip.XviD.mkv
-#DESCRIPTION: Dab6e.2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Dag%20(2012)%201080p%20WEBRip%20(Turkey)/Dag.2012.1080p.WEB-DL.DD5.1.x264.mkv
-#DESCRIPTION: Dag.2012
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Dag%20II%20(2016)%20720p%20WEBRip%20(Turkey)/Dag.2.2016.720p.WEBRip.x264.Turkish.AAC-ETRG.mp4
-#DESCRIPTION: Dag.2.2016
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Deccal%20(2015)%20HDRip%20(Turkey)/Deccal%202015%20HDRip%20%5bMLSBD.COM%5d.mp4
-#DESCRIPTION: Deccal 2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/El-Cin%20(2013)%20(Turkey)/El%20Cin%20(The%20Jinn)%202013.avi
-#DESCRIPTION: El Cin (The Jinn) 2013
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Eskiya%20(1996)%20(Turkey)/Eskiya.1996.XviD.AC3.PiiZ.avi
-#DESCRIPTION: Eskiya.1996
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Fetih%201453%20(2012)%20720p%20(Turkey)/Fetih%201453%202012%20720p%20BluRay%20x264%20Turkish%20AAC%20-%20Ozlem.mp4
-#DESCRIPTION: Fetih 1453 2012
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Husband%20Factor%20(2015)%20720p%20(Turkey)/Husband.Factor.2015.720p.WEB-DL.900MB.MkvCage.mkv
-#DESCRIPTION: Husband.Factor.2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Kardesim%20Benim%20(2016)%20DVDRip%20720p%20(Turkey)/Kardesim%20Benim%20(2016)%20-%20DVDRip%20-%20720p%20-%20x264%20-%20%5bDDR%5d.mkv
-#DESCRIPTION: Kardesim Benim (2016)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Kocan%20Kadar%20Konus%20Dirilis%20(2016)%20720p%20WEBRip%20(Turkey)/Kocan.Kadar.Konus.Dirilis.2016.720p.WEB-DL.700MB.MkvCage.mkv
-#DESCRIPTION: Kocan.Kadar.Konus.Dirilis.2016
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Magi%20(2016)%20720p%20(Turkey)/Magi.2016.720p.BLOGHORROR.mp4
-#DESCRIPTION: Magi.2016.720p.BLOGHORROR.mp4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Mucize%20(2015)%20720p%20WEBRip%20(Turkey)/Mucize%202015%20720p%20WEB-DL%20x264%20Turkish%20AAC%20-%20Ozlem.mp4
-#DESCRIPTION: Mucize 2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Mucize%20-%20The%20Miracle%20(2015)%20720p%20(Turkey)/Mucize%202015%20720p%20WEB-DL%20x264%20Turkish%20AAC%20-%20Ozlem.mp4
-#DESCRIPTION: Mucize 2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Muhammad-The%20Messenger%20of%20God%20(2015)%20720p%20(Turkey)/Muhammad.The.Messenger.of.God.2015.720p.BRRip.MkvCage.mkv
-#DESCRIPTION: Muhammad.The.Messenger.of.God.2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Muhammad-The%20Messenger%20of%20God%20(2015)%20720p%20HDRip%20(Turkey)/Muhammad%20The%20Messenger%20of%20God.2015.720p.HDTV.AVC.x264-atvHD.MP4
-#DESCRIPTION: Muhammad The Messenger of God.2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Musallat%20(2007)%20(Turkey)/Musallat.avi
-#DESCRIPTION: Musallat.avi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Musallat%202-Lanet%20(2011)%20(Turkey)/Musallat%202%20Lanet%202011%20DvDRip%20XviD%20BTRG.avi
-#DESCRIPTION: Musallat 2 Lanet 2011
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Mustang%20(2015)%20720p%20(Turkey)/Mustang.2015.720p.BRRip.850MB.MkvCage.mkv
-#DESCRIPTION: Mustang.2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Once%20Upon%20a%20Time%20in%20Anatolia%20(2011)%20720p%20(Turkey)/Once%20Upon%20a%20Time%20in%20Anatolia%20(2011)%20720p%20BRrip_sujaidr.mkv
-#DESCRIPTION: Once Upon a Time in Anatolia (2011)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Organize%20isler%202-Sazan%20Sarmali%20(2019)%201080P%20NF%20WEB%20(Turkey)/Organize%20isler%202-Sazan%20Sarmali%201080P%20NF%20WEB-DL%20H264%20DD%205.1%20TURG%5bEtHD%5d.mp4
-#DESCRIPTION: Organize isler 2-Sazan Sarmali
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Semum%20(2008)%20720p%20(Turkey)/Semum.2008.mp4
-#DESCRIPTION: Semum.2008.mp4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Sicc%c3%aen%20(2014)%20DVDRip%20(Turkey)/Siccin.2014.DVDRip.XviD-LTRG.avi
-#DESCRIPTION: Siccin.2014
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Siccin%202%20(2015)%20WEBRip%20(Turkey)/Siccin.2.2015.WEB-DL.XviD.BLOGHORROR.avi
-#DESCRIPTION: Siccin.2.2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Siccin%203-C%c3%bcrm%c3%bc%20Ask%20(2016)%20720p%20WEBRip%20(Turkey)/Siccin%203%20C%c3%bcrm%c3%bc%20Ask%20(2016)%20720p%20X264%20AAC%20Web-Rip.mp4
-#DESCRIPTION: Siccin 3 Cürmü Ask (2016)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Silsile%20(2014)%20720p%20WEBRip%20(Turkey)/Silsile.2014.720p.WEBRip.x264.Turkish.AAC-ETRG.mp4
-#DESCRIPTION: Silsile.2014
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Tereddut%20(2016)%20720p%20(Turkey)/Tereddut.2016.720p.WEB-DL.800MB.MkvCage.mkv
-#DESCRIPTION: Tereddut.2016
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/The%20Butcher%20(1998)%20(Turkey)/The%20Butcher%20%5b1998%5d.mp4
-#DESCRIPTION: The Butcher [1998]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/The%20Mountain%20II%20(2016)%201080p%20(Turkey)/The.Mountain.II.2016.1080p.WEBRip.x264-%5bYTS.AM%5d.mp4
-#DESCRIPTION: The.Mountain.II.2016
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/The%20Mountain%20II%20(2016)%201080p/The.Mountain.II.2016.1080p.WEBRip.x264-%5bYTS.AM%5d.mp4
-#DESCRIPTION: The.Mountain.II.2016
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/The%20Stoning%20of%20Soraya%20M.%20(2008)%20720p%20(Persian)/The.Stoning.of.Soraya.M%5b2008%5d720p%5bPer.Rus%5d-Junoon.mkv
-#DESCRIPTION: The.Stoning.of.Soraya.M[2008]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Under%20the%20Shadow%20(2016)%20720p%20WEBRip%20(Persian)/Under.the.shadow.2016.persian.720p.web-dl.x264-NBY.mkv
-#DESCRIPTION: Under.the.shadow.2016
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Uzak%20(2002)%20(Turkey)/Uzak.avi
-#DESCRIPTION: Uzak
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Valley%20of%20the%20Wolves-Iraq%20(2006)%20720p%20(Turkey)/Valley%20of%20the%20Wolves_%20Iraq%20(2006)%20BluRay%20720p%20900MB%20Ganool.mkv
-#DESCRIPTION: Valley of the Wolves_ Iraq (2006)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Valley%20of%20the%20Wolves-Palestine%20(2011)%20(Turkey)/Valley.Of.The.Wolves.Palestine.2011.DVDRip.XviD.AC3-ZERO.avi
-#DESCRIPTION: Valley.Of.The.Wolves.Palestine.2011
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Valley%20of%20the%20Wolves%20Gladio%20(2009)%20(Turkey)/Valley.Of.The.Wolves.Gladio.2009.DvDRip.XviD-XPRESS.mkv
-#DESCRIPTION: Valley.Of.The.Wolves.Gladio.2009
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Vezir%20Parmagi%20(2017)%20720p%20(Turkey)/Vezir.Parmagi.2017.720p.WEB-DL.x264.Turkish.AAC-Ozlem.mp4
-#DESCRIPTION: Vezir.Parmagi.2017
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Vezir%20Parmagi%20(2017)%201080p%20(Turkey)/Vezir.Parmagi.2017.1080p.WEB-DL.x264.Turkish.AAC-Ozlem.mp4
-#DESCRIPTION: Vezir.Parmagi.2017
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Watchtower%20(2012)%201080p%20(Turkey)/Watchtower.2012.1080p.WEBRip.x264-%5bYTS.AM%5d.mp4
-#DESCRIPTION: Watchtower.2012
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Watchtower%20(2012)%201080p/Watchtower.2012.1080p.WEBRip.x264-%5bYTS.AM%5d.mp4
-#DESCRIPTION: Watchtower.2012
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Winter%20Sleep%20(2014)%20720p%20(Turkey)/Winter%20Sleep%202014%20720p%20BluRay%20x264%20Turkish%20AAC%20-%20Ozlem.mp4
-#DESCRIPTION: Winter Sleep 2014
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Wrecked%20(2010)%20BluRay%201080p/Wrecked.2010.1080p.BluRay.x264-%5bYTS.AM%5d.mp4
-#DESCRIPTION: Wrecked.2010
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Al%20Yazmalim%20(1978)%20Turkey/Atif%20Yilmaz-Selvi%20boylum,%20al%20yazmalim%20('The%20Girl%20with%20the%20Red%20Scarf')%20(1978).avi:Selvi boylum, al yazmalim
+#DESCRIPTION Selvi boylum, al yazmalim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Ask%20tesad%c3%bcfleri%20sever%20(2011)%20(Turkey)/A%c5%9eK%20TESAD%c3%9cFLER%c4%b0%20SEVER-LOVE%20LOVES%20COINCIDENCES.avi:AŞK TESADÜFLERİ SEVER
+#DESCRIPTION AŞK TESADÜFLERİ SEVER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Av%20mevsimi%20(2010)%20720p%20(Turkey)/Av%20Mevsimi%202010%20720p%20BRRip%20x264%20AAC%20-%20Ozlem.mp4:Av Mevsimi 2010
+#DESCRIPTION Av Mevsimi 2010
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Ayla%20The%20Daughter%20of%20War%20(2017)%20720p%20(Turkey)/Ayla%20The%20Daughter%20of%20War%20(2017)%20720p%20WEBRip%20x264%20AC3%20-%20HD%20-%20HB.mkv:Ayla The Daughter of War (2017)
+#DESCRIPTION Ayla The Daughter of War (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Ayla%20The%20Daughter%20of%20War%20(2017)%20720p/Ayla%20The%20Daughter%20of%20War%20(2017)%20720p%20WEBRip%20x264%20AC3%20-%20HD%20-%20HB.mkv:Ayla The Daughter of War (2017)
+#DESCRIPTION Ayla The Daughter of War (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Baskin%20(2015)%20720p%20(Turkey)/Baskin.2015.720p.BRRip.900MB.MkvCage.mkv:Baskin.2015
+#DESCRIPTION Baskin.2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Baskin%20(2015)%20720p%20WEBRip%20(Turkey)/Baskin.2015.720p.WEBRip.x264.Turkish.AAC-ETRG.mp4:Baskin.2015
+#DESCRIPTION Baskin.2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Bliss%20(2007)%20(Turkey)/Bliss%20(2007)%20DVDrip%20%5bFT%20BD.NET%5d.avi:Bliss (2007)
+#DESCRIPTION Bliss (2007)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Cin%20Kuyusu%20(2015)%20WEBRip%20(Turkey)/Cin.Kuyusu.2015.WEB-DL%5bTD%5d.avi:Cin.Kuyusu.2015
+#DESCRIPTION Cin.Kuyusu.2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/D@bbe%20(2006)%20(Turkey)/Dabbe%20(2006).avi:Dabbe (2006)
+#DESCRIPTION Dabbe (2006)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/D@bbe-Bir%20cin%20vakasi%20(2012)%20(Turkey)/Dabbe%20Bir%20Cin%20Vakas%c4%b1%20-%20Tek%20Par%c3%a7a%20(2012).WEBRip.700mb.x264.AC3.mp4:Dabbe Bir Cin Vakası
+#DESCRIPTION Dabbe Bir Cin Vakası
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/D@bbe-Cin%20%c3%a7arpmasi%20(2013)%20(Turkey)/Dabbe%20Cin%20Carpmasi%20(2013)%20DVDRip%20XviD.avi:Dabbe Cin Carpmasi (2013
+#DESCRIPTION Dabbe Cin Carpmasi (2013
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/D@bbe-Zehr-i%20Cin%20(2014)%20(Turkey)/Dabbe%20Zehr-i%20Cin%202014%20DVDRip%20x264%20Turkish%20AAC%20-Ozlem.mp4:Dabbe Zehr-i Cin 2014
+#DESCRIPTION Dabbe Zehr-i Cin 2014
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Dabbe%20(Dab6e)%20(2015)%20(Turkey)/Dab6e.2015.DVDRip.XviD.mkv:Dab6e.2015
+#DESCRIPTION Dab6e.2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Dag%20(2012)%201080p%20WEBRip%20(Turkey)/Dag.2012.1080p.WEB-DL.DD5.1.x264.mkv:Dag.2012
+#DESCRIPTION Dag.2012
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Dag%20II%20(2016)%20720p%20WEBRip%20(Turkey)/Dag.2.2016.720p.WEBRip.x264.Turkish.AAC-ETRG.mp4:Dag.2.2016
+#DESCRIPTION Dag.2.2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Deccal%20(2015)%20HDRip%20(Turkey)/Deccal%202015%20HDRip%20%5bMLSBD.COM%5d.mp4:Deccal 2015
+#DESCRIPTION Deccal 2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/El-Cin%20(2013)%20(Turkey)/El%20Cin%20(The%20Jinn)%202013.avi:El Cin (The Jinn) 2013
+#DESCRIPTION El Cin (The Jinn) 2013
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Eskiya%20(1996)%20(Turkey)/Eskiya.1996.XviD.AC3.PiiZ.avi:Eskiya.1996
+#DESCRIPTION Eskiya.1996
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Fetih%201453%20(2012)%20720p%20(Turkey)/Fetih%201453%202012%20720p%20BluRay%20x264%20Turkish%20AAC%20-%20Ozlem.mp4:Fetih 1453 2012
+#DESCRIPTION Fetih 1453 2012
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Husband%20Factor%20(2015)%20720p%20(Turkey)/Husband.Factor.2015.720p.WEB-DL.900MB.MkvCage.mkv:Husband.Factor.2015
+#DESCRIPTION Husband.Factor.2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Kardesim%20Benim%20(2016)%20DVDRip%20720p%20(Turkey)/Kardesim%20Benim%20(2016)%20-%20DVDRip%20-%20720p%20-%20x264%20-%20%5bDDR%5d.mkv:Kardesim Benim (2016)
+#DESCRIPTION Kardesim Benim (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Kocan%20Kadar%20Konus%20Dirilis%20(2016)%20720p%20WEBRip%20(Turkey)/Kocan.Kadar.Konus.Dirilis.2016.720p.WEB-DL.700MB.MkvCage.mkv:Kocan.Kadar.Konus.Dirilis.2016
+#DESCRIPTION Kocan.Kadar.Konus.Dirilis.2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Magi%20(2016)%20720p%20(Turkey)/Magi.2016.720p.BLOGHORROR.mp4:Magi.2016.720p.BLOGHORROR.mp4
+#DESCRIPTION Magi.2016.720p.BLOGHORROR.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Mucize%20(2015)%20720p%20WEBRip%20(Turkey)/Mucize%202015%20720p%20WEB-DL%20x264%20Turkish%20AAC%20-%20Ozlem.mp4:Mucize 2015
+#DESCRIPTION Mucize 2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Mucize%20-%20The%20Miracle%20(2015)%20720p%20(Turkey)/Mucize%202015%20720p%20WEB-DL%20x264%20Turkish%20AAC%20-%20Ozlem.mp4:Mucize 2015
+#DESCRIPTION Mucize 2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Muhammad-The%20Messenger%20of%20God%20(2015)%20720p%20(Turkey)/Muhammad.The.Messenger.of.God.2015.720p.BRRip.MkvCage.mkv:Muhammad.The.Messenger.of.God.2015
+#DESCRIPTION Muhammad.The.Messenger.of.God.2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Muhammad-The%20Messenger%20of%20God%20(2015)%20720p%20HDRip%20(Turkey)/Muhammad%20The%20Messenger%20of%20God.2015.720p.HDTV.AVC.x264-atvHD.MP4:Muhammad The Messenger of God.2015
+#DESCRIPTION Muhammad The Messenger of God.2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Musallat%20(2007)%20(Turkey)/Musallat.avi:Musallat.avi
+#DESCRIPTION Musallat.avi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Musallat%202-Lanet%20(2011)%20(Turkey)/Musallat%202%20Lanet%202011%20DvDRip%20XviD%20BTRG.avi:Musallat 2 Lanet 2011
+#DESCRIPTION Musallat 2 Lanet 2011
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Mustang%20(2015)%20720p%20(Turkey)/Mustang.2015.720p.BRRip.850MB.MkvCage.mkv:Mustang.2015
+#DESCRIPTION Mustang.2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Once%20Upon%20a%20Time%20in%20Anatolia%20(2011)%20720p%20(Turkey)/Once%20Upon%20a%20Time%20in%20Anatolia%20(2011)%20720p%20BRrip_sujaidr.mkv:Once Upon a Time in Anatolia (2011)
+#DESCRIPTION Once Upon a Time in Anatolia (2011)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Organize%20isler%202-Sazan%20Sarmali%20(2019)%201080P%20NF%20WEB%20(Turkey)/Organize%20isler%202-Sazan%20Sarmali%201080P%20NF%20WEB-DL%20H264%20DD%205.1%20TURG%5bEtHD%5d.mp4:Organize isler 2-Sazan Sarmali
+#DESCRIPTION Organize isler 2-Sazan Sarmali
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Semum%20(2008)%20720p%20(Turkey)/Semum.2008.mp4:Semum.2008.mp4
+#DESCRIPTION Semum.2008.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Sicc%c3%aen%20(2014)%20DVDRip%20(Turkey)/Siccin.2014.DVDRip.XviD-LTRG.avi:Siccin.2014
+#DESCRIPTION Siccin.2014
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Siccin%202%20(2015)%20WEBRip%20(Turkey)/Siccin.2.2015.WEB-DL.XviD.BLOGHORROR.avi:Siccin.2.2015
+#DESCRIPTION Siccin.2.2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Siccin%203-C%c3%bcrm%c3%bc%20Ask%20(2016)%20720p%20WEBRip%20(Turkey)/Siccin%203%20C%c3%bcrm%c3%bc%20Ask%20(2016)%20720p%20X264%20AAC%20Web-Rip.mp4:Siccin 3 Cürmü Ask (2016)
+#DESCRIPTION Siccin 3 Cürmü Ask (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Silsile%20(2014)%20720p%20WEBRip%20(Turkey)/Silsile.2014.720p.WEBRip.x264.Turkish.AAC-ETRG.mp4:Silsile.2014
+#DESCRIPTION Silsile.2014
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Tereddut%20(2016)%20720p%20(Turkey)/Tereddut.2016.720p.WEB-DL.800MB.MkvCage.mkv:Tereddut.2016
+#DESCRIPTION Tereddut.2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/The%20Butcher%20(1998)%20(Turkey)/The%20Butcher%20%5b1998%5d.mp4:The Butcher [1998]
+#DESCRIPTION The Butcher [1998]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/The%20Mountain%20II%20(2016)%201080p%20(Turkey)/The.Mountain.II.2016.1080p.WEBRip.x264-%5bYTS.AM%5d.mp4:The.Mountain.II.2016
+#DESCRIPTION The.Mountain.II.2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/The%20Mountain%20II%20(2016)%201080p/The.Mountain.II.2016.1080p.WEBRip.x264-%5bYTS.AM%5d.mp4:The.Mountain.II.2016
+#DESCRIPTION The.Mountain.II.2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/The%20Stoning%20of%20Soraya%20M.%20(2008)%20720p%20(Persian)/The.Stoning.of.Soraya.M%5b2008%5d720p%5bPer.Rus%5d-Junoon.mkv:The.Stoning.of.Soraya.M[2008]
+#DESCRIPTION The.Stoning.of.Soraya.M[2008]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Under%20the%20Shadow%20(2016)%20720p%20WEBRip%20(Persian)/Under.the.shadow.2016.persian.720p.web-dl.x264-NBY.mkv:Under.the.shadow.2016
+#DESCRIPTION Under.the.shadow.2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Uzak%20(2002)%20(Turkey)/Uzak.avi:Uzak
+#DESCRIPTION Uzak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Valley%20of%20the%20Wolves-Iraq%20(2006)%20720p%20(Turkey)/Valley%20of%20the%20Wolves_%20Iraq%20(2006)%20BluRay%20720p%20900MB%20Ganool.mkv:Valley of the Wolves_ Iraq (2006)
+#DESCRIPTION Valley of the Wolves_ Iraq (2006)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Valley%20of%20the%20Wolves-Palestine%20(2011)%20(Turkey)/Valley.Of.The.Wolves.Palestine.2011.DVDRip.XviD.AC3-ZERO.avi:Valley.Of.The.Wolves.Palestine.2011
+#DESCRIPTION Valley.Of.The.Wolves.Palestine.2011
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Valley%20of%20the%20Wolves%20Gladio%20(2009)%20(Turkey)/Valley.Of.The.Wolves.Gladio.2009.DvDRip.XviD-XPRESS.mkv:Valley.Of.The.Wolves.Gladio.2009
+#DESCRIPTION Valley.Of.The.Wolves.Gladio.2009
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Vezir%20Parmagi%20(2017)%20720p%20(Turkey)/Vezir.Parmagi.2017.720p.WEB-DL.x264.Turkish.AAC-Ozlem.mp4:Vezir.Parmagi.2017
+#DESCRIPTION Vezir.Parmagi.2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Vezir%20Parmagi%20(2017)%201080p%20(Turkey)/Vezir.Parmagi.2017.1080p.WEB-DL.x264.Turkish.AAC-Ozlem.mp4:Vezir.Parmagi.2017
+#DESCRIPTION Vezir.Parmagi.2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Watchtower%20(2012)%201080p%20(Turkey)/Watchtower.2012.1080p.WEBRip.x264-%5bYTS.AM%5d.mp4:Watchtower.2012
+#DESCRIPTION Watchtower.2012
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Watchtower%20(2012)%201080p/Watchtower.2012.1080p.WEBRip.x264-%5bYTS.AM%5d.mp4:Watchtower.2012
+#DESCRIPTION Watchtower.2012
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Winter%20Sleep%20(2014)%20720p%20(Turkey)/Winter%20Sleep%202014%20720p%20BluRay%20x264%20Turkish%20AAC%20-%20Ozlem.mp4:Winter Sleep 2014
+#DESCRIPTION Winter Sleep 2014
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign%20Language%20Movies/Turkish%20Language/Wrecked%20(2010)%20BluRay%201080p/Wrecked.2010.1080p.BluRay.x264-%5bYTS.AM%5d.mp4:Wrecked.2010
+#DESCRIPTION Wrecked.2010
 #SERVICE 1:64:98:0:0:0:0:0:0:0:::::::::________ReMy_deadlyblogger:::::::::
 #DESCRIPTION :::::::________ReMy_deadlyblogger:::::::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/10Minutes.Gone.2019.mkv
-#DESCRIPTION: 10Minutes.Gone.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/47Meters.Down.Uncaged.mkv
-#DESCRIPTION: 47Meters.Down.Uncaged.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Acceleration.2019.mkv
-#DESCRIPTION: Acceleration.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Cosmos.2019.mkv
-#DESCRIPTION: Cosmos.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Cross.Rise.Of.The.Villains.2019.mkv
-#DESCRIPTION: Cross.Rise.Of.The.Villains.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Danger.Close.2019.mkv
-#DESCRIPTION: Danger.Close.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Dora.and.the.Lost.City.of.Gold.2019.mkv
-#DESCRIPTION: Dora.and.the.Lost.City.of.Gold.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Ellipse.2019.mkv
-#DESCRIPTION: Ellipse.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Good.Boys.2019.mkv
-#DESCRIPTION: Good.Boys.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Joker.2019.mkv
-#DESCRIPTION: Joker.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Lion.King.2019.mkv
-#DESCRIPTION: Lion.King.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Manifest.Destiny.Down.Spacetime.2019.mkv
-#DESCRIPTION: Manifest.Destiny.Down.Spacetime.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Nightcrawler.2014.mkv
-#DESCRIPTION: Nightcrawler.2014.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Primal.2019.mkv
-#DESCRIPTION: Primal.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Rise.of.the.Footsoldier.4.Marbella.2019.mkv
-#DESCRIPTION: Rise.of.the.Footsoldier.4.Marbella.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/The.Cleansing.Hour.2019.mkv
-#DESCRIPTION: The.Cleansing.Hour.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/The.Fighting.Preacher.2019.mkv
-#DESCRIPTION: The.Fighting.Preacher.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/The.Gallows.2015.mkv
-#DESCRIPTION: The.Gallows.2015.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/The.Hurt.2018.mkv
-#DESCRIPTION: The.Hurt.2018.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/The.King.2019.mkv
-#DESCRIPTION: The.King.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/The.Silence.2019.mkv
-#DESCRIPTION: The.Silence.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Wake.Up.2019.mkv
-#DESCRIPTION: Wake.Up.2019.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/What.Death.Leaves.Behind.2018.mkv
-#DESCRIPTION: What.Death.Leaves.Behind.2018.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/1%202%20New%20Year%20(2019)%20WEBRip%201080p/1.2.New.Year.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:1 2 New Year (2019)
+#DESCRIPTION 1 2 New Year (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/1st%20Summoning%20(2019)%201080p%20WEB/1st%20Summoning.2019.1080p.WEB-DL.H264.AC3-EVO.mkv:1st Summoning (2019)
+#DESCRIPTION 1st Summoning (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/3%20Bears%20Christmas%20(2019)%20WEBRip%201080p/3.Bears.Christmas.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:3 Bears Christmas (2019)
+#DESCRIPTION 3 Bears Christmas (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/3%20Days%20With%20Dad%20(2019)%20WEBRip%201080p/3.Days.With.Dad.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:3 Days With Dad (2019)
+#DESCRIPTION 3 Days With Dad (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/3%20From%20Hell%20(2019)%20BluRay%201080p/3.From.Hell.2019.1080p.BluRay.x264-%5bYTS.LT%5d.mp4:3 From Hell (2019)
+#DESCRIPTION 3 From Hell (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/3%20Lives%20(2019)%201080p%20WEB-DL/3.Lives.2019.1080p.WEB-DL.H264.AC3-EVO%5bEtHD%5d.mkv:3 Lives (2019)
+#DESCRIPTION 3 Lives (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/4%20Latas%20(2019)%20WEBRip%201080p/4.Latas.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:4 Latas (2019)
+#DESCRIPTION 4 Latas (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/5th%20Of%20July%20(2019)%20WEBRip%201080p/5th.Of.July.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:5th Of July (2019)
+#DESCRIPTION 5th Of July (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/7%20Days%20To%20Vegas%20(2019)%20WEBRip%201080p/7.Days.To.Vegas.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:7 Days To Vegas (2019)
+#DESCRIPTION 7 Days To Vegas (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/10Minutes.Gone.2019.mkv:10Minutes.Gone.2019.mkv
+#DESCRIPTION 10Minutes.Gone.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/13%20Graves%20(2019)%20WEBRip%201080p/13.Graves.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:13 Graves (2019)
+#DESCRIPTION 13 Graves (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/13%20Moments%20That%20Killed%20Whitney%20Houston%20(2019)%20720p%20HDTV/13.Moments.That.Killed.Whitney.Houston.2019.720p.HDTV.x264-PLUTONiUM.mkv:13 Moments That Killed Whitney Houston (2019)
+#DESCRIPTION 13 Moments That Killed Whitney Houston (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/15%20Minutes%20Of%20War%20(2019)%20%5b1080p%5d/15.Minutes.Of.War.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:15 Minutes Of War (2019)
+#DESCRIPTION 15 Minutes Of War (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/30%20Miles%20to%20Nowhere%20(2019)%201080p%20WEB-DL/30.Miles.to.Nowhere.2019.1080p.WEB-DL.H264.AC3-EVO.mkv:30 Miles to Nowhere (2019)
+#DESCRIPTION 30 Miles to Nowhere (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/30%20Nights%20of%20Sex%20(2019)%20HDRip/30.Nights.of.Sex.2019.HDRip.XviD.AC3-EVO%5bEtMovies%5d.avi:30 Nights of Sex (2019)
+#DESCRIPTION 30 Nights of Sex (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/100%20Acres%20Of%20Hell%20(2019)%201080p/100.Acres.Of.Hell.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:100 Acres Of Hell (2019)
+#DESCRIPTION 100 Acres Of Hell (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/100%20Yards%20(2019)%20WEBRip%201080p/100.Yards.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:100 Yards (2019)
+#DESCRIPTION 100 Yards (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/100%20Yards%20(2019)%20%5bWEBRip%5d%20%5b1080p%5d%20%5bYTS.LT%5d/100.Yards.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:100 Yards (2019)
+#DESCRIPTION 100 Yards (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/2177%20The%20San%20Francisco%20Love%20Hacker%20Crimes%20(2019)%201080p%20WEBrip/2177%20The%20San%20Francisco%20Love%20Hacker%20Crimes%202019.1080p.AMZN.WEBrip.DDP2.0.HEVC-DDR%5bEtHD%5d.mkv:2177 The San Francisco Love Hacker Crimes (2019)
+#DESCRIPTION 2177 The San Francisco Love Hacker Crimes (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/3022.2019/3022.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:3022.2019
+#DESCRIPTION 3022.2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/47Meters.Down.Uncaged.mkv:47Meters.Down.Uncaged.mkv
+#DESCRIPTION 47Meters.Down.Uncaged.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/A.M.I.%20(2019)%20WEBRip%201080p/A.M.I..2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:A.M.I. (2019)
+#DESCRIPTION A.M.I. (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/A%20Brothers%20Honor%20(2019)%20720p/A.Brothers.Honor.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv:A Brothers Honor (2019)
+#DESCRIPTION A Brothers Honor (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/A%20Champion%20Heart%20(2019)%20BDRip/A.Champion.Heart.2019.BDRip.XviD.AC3-EVO.avi:A Champion Heart (2019)
+#DESCRIPTION A Champion Heart (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/A%20Dog's%20Journey%20(2019)%20WEBRip%201080p/A.Dog's.Journey.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:A Dog's Journey (2019)
+#DESCRIPTION A Dog's Journey (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/A%20Dog's%20Way%20Home%20(2019)%20BluRay%201080p/A.Dog's.Way.Home.2019.1080p.BluRay.x264-%5bYTS.AM%5d.mp4:A Dog's Way Home (2019)
+#DESCRIPTION A Dog's Way Home (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/A%20Fiend's%20Love%20(2019)%20WEBRip%201080p/A.Fiend's.Love.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:A Fiend's Love (2019)
+#DESCRIPTION A Fiend's Love (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/A%20Good%20Woman%20Is%20Hard%20To%20Find%20(2019)%20WEBRip%201080p/A.Good.Woman.Is.Hard.To.Find.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4:A Good Woman Is Hard To Find (2019)
+#DESCRIPTION A Good Woman Is Hard To Find (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Acceleration.2019.mkv:Acceleration.2019.mkv
+#DESCRIPTION Acceleration.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Cosmos.2019.mkv:Cosmos.2019.mkv
+#DESCRIPTION Cosmos.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Cross.Rise.Of.The.Villains.2019.mkv:Cross.Rise.Of.The.Villains.2019.mkv
+#DESCRIPTION Cross.Rise.Of.The.Villains.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Danger.Close.2019.mkv:Danger.Close.2019.mkv
+#DESCRIPTION Danger.Close.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Dora.and.the.Lost.City.of.Gold.2019.mkv:Dora.and.the.Lost.City.of.Gold.2019.mkv
+#DESCRIPTION Dora.and.the.Lost.City.of.Gold.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Ellipse.2019.mkv:Ellipse.2019.mkv
+#DESCRIPTION Ellipse.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English%20Movies/2019/%23Followme%20(2019)%20WEBRip%201080p/%23Followme.2019.1080p.WEBRip.x264-%5bYTS.AM%5d.mp4:Followme (2019)
+#DESCRIPTION Followme (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Good.Boys.2019.mkv:Good.Boys.2019.mkv
+#DESCRIPTION Good.Boys.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Joker.2019.mkv:Joker.2019.mkv
+#DESCRIPTION Joker.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Lion.King.2019.mkv:Lion.King.2019.mkv
+#DESCRIPTION Lion.King.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Manifest.Destiny.Down.Spacetime.2019.mkv:Manifest.Destiny.Down.Spacetime.2019.mkv
+#DESCRIPTION Manifest.Destiny.Down.Spacetime.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Nightcrawler.2014.mkv:Nightcrawler.2014.mkv
+#DESCRIPTION Nightcrawler.2014.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Primal.2019.mkv:Primal.2019.mkv
+#DESCRIPTION Primal.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Rise.of.the.Footsoldier.4.Marbella.2019.mkv:Rise.of.the.Footsoldier.4.Marbella.2019.mkv
+#DESCRIPTION Rise.of.the.Footsoldier.4.Marbella.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/The.Cleansing.Hour.2019.mkv:The.Cleansing.Hour.2019.mkv
+#DESCRIPTION The.Cleansing.Hour.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/The.Fighting.Preacher.2019.mkv:The.Fighting.Preacher.2019.mkv
+#DESCRIPTION The.Fighting.Preacher.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/The.Gallows.2015.mkv:The.Gallows.2015.mkv
+#DESCRIPTION The.Gallows.2015.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/The.Hurt.2018.mkv:The.Hurt.2018.mkv
+#DESCRIPTION The.Hurt.2018.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/The.King.2019.mkv:The.King.2019.mkv
+#DESCRIPTION The.King.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/The.Silence.2019.mkv:The.Silence.2019.mkv
+#DESCRIPTION The.Silence.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Wake.Up.2019.mkv:Wake.Up.2019.mkv
+#DESCRIPTION Wake.Up.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/What.Death.Leaves.Behind.2018.mkv:What.Death.Leaves.Behind.2018.mkv
+#DESCRIPTION What.Death.Leaves.Behind.2018.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/dal1.mp4:101 DALMATIONS
 #DESCRIPTION 101 DALMATIONS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/acc2009.mp4:A CHRISTMAS CAROL
