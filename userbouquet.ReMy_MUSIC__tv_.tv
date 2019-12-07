@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | MUSIC★★ ==
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bqgsd19q.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL TV
 #DESCRIPTION KRAL TV
@@ -361,14 +361,22 @@
 #DESCRIPTION Zeta TV
 #SERVICE 4097:0:1:1629:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:ZIK
 #DESCRIPTION ZIK
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.asymedya.com%3a8020/;stream.mp3:ASK FM
+#DESCRIPTION ASK FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Turk
 #DESCRIPTION Kral Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kralpopwmp.radyotvonline.com/;stream.mp3:KRAL FM
+#DESCRIPTION KRAL FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kralpopwmp.radyotvonline.com/;stream.nsv:KRAL POP FM
+#DESCRIPTION KRAL POP FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/smil/smil%3akralfm.smil/chunklist_w1224640543_b64000.m3u8:KRAL FM  ALEMIN KRALI
 #DESCRIPTION KRAL FM  ALEMIN KRALI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.3.201%3a80:KRAL POP
 #DESCRIPTION KRAL POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.3.246/stream/104/;stream.nsv:Alem FM
+#DESCRIPTION Alem FM
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/30/:ANKARA HAVALARI
 #DESCRIPTION ANKARA HAVALARI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//37.247.100.100/best//babaradyo.stream:Baba Radyo
@@ -445,13 +453,15 @@
 #DESCRIPTION S4 Radio | TR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dinle.slowkaradenizfm.com%3a9578/;:Slow Karadeniz FM
 #DESCRIPTION Slow Karadeniz FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.175.227.10/SUPER_FM_SC?/;stream.mp3:Super Fm
+#DESCRIPTION Super Fm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/SUPER_FM128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=5f5ce410-ba94-4cfc-a10f-70e4eec5cbf9:SUPER_FM
 #DESCRIPTION SUPER_FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.162.32%3a8008:TaksimFM - Arabesk
 #DESCRIPTION TaksimFM - Arabesk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.133.218%3a1078:TURKUAZ FM
 #DESCRIPTION TURKUAZ FM
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
@@ -497,9 +507,9 @@
 #DESCRIPTION GREATEST HITS OF ALL TIME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
