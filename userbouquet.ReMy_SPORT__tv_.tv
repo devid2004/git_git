@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | SPORT★★ ==
-#SERVICE 1:64:9B:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:BEIN SPORT 1 (TUR)
 #DESCRIPTION BEIN SPORT 1 (TUR)
@@ -11,6 +11,8 @@
 #DESCRIPTION NTV SPOR 1HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.garaveli.de///tekliphp/gstv.php?&m3u8:GS TV
 #DESCRIPTION GS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csrv.me%3a80/live/fernanda245/142129/1493.m3u8:SporTV 4K
+#DESCRIPTION SporTV 4K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$DolceSportHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Telekom Sport 1 HD
 #DESCRIPTION Telekom Sport 1 HD
 #SERVICE 4097:0:0:4:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Arena.m3u8:Sky-Sports-Arena
@@ -233,6 +235,24 @@
 #DESCRIPTION |EX-YU| SPORT KLUB 1 HR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/445.ts:|EX-YU| SPORT KLUB 2 HR
 #DESCRIPTION |EX-YU| SPORT KLUB 2 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/933:|NL| Ziggo Sport Select HD
+#DESCRIPTION |NL| Ziggo Sport Select HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/934:|NL| Ziggo Sport Golf HD
+#DESCRIPTION |NL| Ziggo Sport Golf HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/935:|NL| Ziggo Sport Racing HD
+#DESCRIPTION |NL| Ziggo Sport Racing HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/936:|NL| Ziggo Sport HD
+#DESCRIPTION |NL| Ziggo Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.255.82.82%3a9088/hls/ms_sport_tv_1.m3u8:sport tv1 HD
+#DESCRIPTION sport tv1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.255.82.82%3a9088/hls/ms_sport_tv_2.m3u8:Sport 2
+#DESCRIPTION Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.255.82.82%3a9088/hls/ms_sport_tv_3.m3u8:Sport 3
+#DESCRIPTION Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.255.82.82%3a9088/hls/ms_fox_sport_1.m3u8:fox sport 1
+#DESCRIPTION fox sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.255.82.82%3a9088/hls/ms_fox_sport_2.m3u8:fox sport 2
+#DESCRIPTION fox sport 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/926.ts:|ES| LaLiga123
 #DESCRIPTION |ES| LaLiga123
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4.premium-stv.com%3a8000/live/sourceesppro2/B8YHWPh2j8/925.ts:|ES| M DEPORTES
@@ -927,11 +947,11 @@
 #DESCRIPTION |DE| FOX SERIE HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcegermanysnow/7626503642/2850:|DE| KABEL EINS HD
 #DESCRIPTION |DE| KABEL EINS HD
-#SERVICE 1:64:9C:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
-#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100%25 Automoto (BG)
+#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8181/ntvspor.ts:1SPOR LİG TV HD
 #DESCRIPTION 1SPOR LİG TV HD
