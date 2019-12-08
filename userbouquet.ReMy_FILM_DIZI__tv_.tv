@@ -1,8 +1,8 @@
 #NAME == ★★ReMy | FILM | DIZI ★★ ==
-#SERVICE 1:64:97:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
+#SERVICE 1:64:98:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_MOVIES________:::::::::
-#SERVICE 1:64:98:0:0:0:0:0:0:0::::::____ReMy_TURKISH_MOVIES_4K_1080P____:::::::
-#DESCRIPTION ::::____ReMy_TURKISH_MOVIES_4K_1080P____:::::::
+#SERVICE 1:64:99:0:0:0:0:0:0:0::::::____ReMy_TURKISH_MOVIES_4K_1080P____::::
+#DESCRIPTION ::::____ReMy_TURKISH_MOVIES_4K_1080P____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv28.filmmodu.xyz/tt5941692/720p.tr.m3u8:Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
 #DESCRIPTION Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv19.filmmodu.xyz/tt6292852/720p.tr.m3u8:Ben Bir Anneyim - 2019 - Gerilim, Bilimkurgu
@@ -143,8 +143,8 @@
 #DESCRIPTION Winter Sleep 2014
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-2/Foreign Language Movies/Turkish Language/Wrecked (2010) BluRay 1080p/Wrecked.2010.1080p.BluRay.x264-[YTS.AM].mp4:Wrecked.2010
 #DESCRIPTION Wrecked.2010
-#SERVICE 1:64:99:0:0:0:0:0:0:0:::::::____ReMy_ENGLISH_MOVIES_4K_1080P____:::::
-#DESCRIPTION :::::____ReMy_ENGLISH_MOVIES_4K_1080P____:::::
+#SERVICE 1:64:9A:0:0:0:0:0:0:0:::::::____ReMy_ENGLISH_MOVIES_4K_1080P____::::
+#DESCRIPTION :::::____ReMy_ENGLISH_MOVIES_4K_1080P____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English Movies - 4K/(2018) & Before/I Am Legend (2007) 4K/I Am Legend (2007) - 4K.mkv:I Am Legend (2007) 4K
 #DESCRIPTION I Am Legend (2007) 4K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//146.196.48.10/FTP-1/English Movies - 4K/(2019)/Alita Battle Angel (2019) 4K/Alita.Battle.Angel.2019.4K.HDR.2160p.mkv:Alita Battle Angel (2019) 4K
@@ -999,8 +999,1850 @@
 #DESCRIPTION CHILDREN OF THE CORN 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/corn6.mp4:CHILDREN OF THE CORN 6
 #DESCRIPTION CHILDREN OF THE CORN 6
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::SERIES_151.80.100.155
-#DESCRIPTION SERIES_151.80.100.155
+#SERVICE 1:64:9B:0:0:0:0:0:0:0::::::____ReMy_filmovi_MOVIES____::::
+#DESCRIPTION ::::____ReMy_filmovi_MOVIES____::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/djk5.mp4:(EX) Dobro jutro komsija 5
+#DESCRIPTION (EX) Dobro jutro komsija 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/jvetar.mp4:(EX) Juzni Vetar
+#DESCRIPTION (EX) Juzni Vetar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/namlijecnomputu.avi:(EX) Na mlijecnom putu
+#DESCRIPTION (EX) Na mlijecnom putu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/zonazamfirova2.avi:(EX) Zona Zamfirova 2: Vrati se Zone
+#DESCRIPTION (EX) Zona Zamfirova 2: Vrati se Zone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/smrtusarajevu.avi:(EX) Smrt u Sarajevu
+#DESCRIPTION (EX) Smrt u Sarajevu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/zaba.avi:(EX) Zaba
+#DESCRIPTION (EX) Zaba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/imzelju2.mp4:(EX) Ispuni mi zelju Emisija o Ameli
+#DESCRIPTION (EX) Ispuni mi zelju Emisija o Ameli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/jaguarovs.mp4:(EX) Jaguarov skok
+#DESCRIPTION (EX) Jaguarov skok
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/ndzena.mp4:(EX) Neka druga zena
+#DESCRIPTION (EX) Neka druga zena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/zajedno.avi:(EX) Zajedno
+#DESCRIPTION (EX) Zajedno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/profesionalac.mkv:(EX) Profesionalac
+#DESCRIPTION (EX) Profesionalac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/kizlet.avi:(EX) Kratki Izlet
+#DESCRIPTION (EX) Kratki Izlet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/jesensamuraja.avi:(EX) Jesen samuraja
+#DESCRIPTION (EX) Jesen samuraja
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/muskarcineplacu.avi:(EX) Men Don't Cry
+#DESCRIPTION (EX) Men Don't Cry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/hlapic.avi:(EX) Segrt Hlapic
+#DESCRIPTION (EX) Segrt Hlapic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/pravila.avi:(EX) Takva su pravila
+#DESCRIPTION (EX) Takva su pravila
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/bombasi.mp4:(EX) Bombasi
+#DESCRIPTION (EX) Bombasi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/czeskobara.avi:(EX) Citulja za Eskobara
+#DESCRIPTION (EX) Citulja za Eskobara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/djk4.mp4:(EX) Dobro jutro komsija 4
+#DESCRIPTION (EX) Dobro jutro komsija 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/karaula.avi:(EX) Karaula
+#DESCRIPTION (EX) Karaula
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/kczvona.mp4:(EX) Kad cujes zvona
+#DESCRIPTION (EX) Kad cujes zvona
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/dmrtvaci.avi:(EX) Dobro ustimani mrtvaci
+#DESCRIPTION (EX) Dobro ustimani mrtvaci
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/zelenbor.avi:(EX) U gori raste zelen bor
+#DESCRIPTION (EX) U gori raste zelen bor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/led.avi:(EX) Led
+#DESCRIPTION (EX) Led
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/nasaprica.avi:(EX) Nasa svakodnevna prica
+#DESCRIPTION (EX) Nasa svakodnevna prica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/stado.avi:(EX) Stado
+#DESCRIPTION (EX) Stado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/cplaze.avi:(EX) Cuvar plaze u zimskom periodu
+#DESCRIPTION (EX) Cuvar plaze u zimskom periodu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/podzemlje.avi:(EX) Podzemlje (Underground)
+#DESCRIPTION (EX) Podzemlje (Underground)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/pusarajevu.avi:(EX) Praznik u Sarajevu
+#DESCRIPTION (EX) Praznik u Sarajevu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/pkumonici.avi:(EX) Poslednji krug u Monci
+#DESCRIPTION (EX) Poslednji krug u Monci
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/vleto68.avi:(EX) Varljivo leto
+#DESCRIPTION (EX) Varljivo leto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/spk8.avi:(EX) Sesir profesora Koste Vujica EP 8
+#DESCRIPTION (EX) Sesir profesora Koste Vujica EP 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/spk7.mp4:(EX) Sesir profesora Koste Vujica EP 7
+#DESCRIPTION (EX) Sesir profesora Koste Vujica EP 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/spk6.avi:(EX) Sesir profesora Koste Vujica EP 6
+#DESCRIPTION (EX) Sesir profesora Koste Vujica EP 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/spk5.avi:(EX) Sesir profesora Koste Vujica EP 5
+#DESCRIPTION (EX) Sesir profesora Koste Vujica EP 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/spk4.avi:(EX) Sesir profesora Koste Vujica EP 4
+#DESCRIPTION (EX) Sesir profesora Koste Vujica EP 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/spk3.avi:(EX) Sesir profesora Koste Vujica EP 3
+#DESCRIPTION (EX) Sesir profesora Koste Vujica EP 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/spk2.avi:(EX) Sesir profesora Koste Vujica EP 2
+#DESCRIPTION (EX) Sesir profesora Koste Vujica EP 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/ludegodine10.mp4:(EX) Lude godine 10
+#DESCRIPTION (EX) Lude godine 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/ludegodine9.mp4:(EX) Lude godine 9
+#DESCRIPTION (EX) Lude godine 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/ludegodine8.mp4:(EX) Lude godine 8
+#DESCRIPTION (EX) Lude godine 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/jsdunjo.mp4:(EX) Jesen stize dunjo moja
+#DESCRIPTION (EX) Jesen stize dunjo moja
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/bumerang.avi:(EX) Boomerang 2001
+#DESCRIPTION (EX) Boomerang 2001
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/spk1.avi:(EX) Sesir profesora Koste Vujica EP 1
+#DESCRIPTION (EX) Sesir profesora Koste Vujica EP 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/kajmak.avi:(EX) Kajmak i marmelada
+#DESCRIPTION (EX) Kajmak i marmelada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/sibik.avi:(EX) Sonja i bik
+#DESCRIPTION (EX) Sonja i bik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/sesirkosta.mp4:(EX) Sesir profesora Koste Vujica
+#DESCRIPTION (EX) Sesir profesora Koste Vujica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/tbfin.avi:(EX) Tesko je biti fin
+#DESCRIPTION (EX) Tesko je biti fin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/mbudo.avi:(EX) Mali Budo
+#DESCRIPTION (EX) Mali Budo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/parada.avi:(EX) Parada
+#DESCRIPTION (EX) Parada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/falsi.avi:(EX) Falsifikator
+#DESCRIPTION (EX) Falsifikator
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/tockovi.avi:(EX) Tockovi
+#DESCRIPTION (EX) Tockovi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/sipo.mp4:(EX) Sedam i po
+#DESCRIPTION (EX) Sedam i po
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/tripp1.avi:(EX) Three Palms for Two Punks and a Babe
+#DESCRIPTION (EX) Three Palms for Two Punks and a Babe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/djk3.mp4:(EX) Dobro jutro komsija 3
+#DESCRIPTION (EX) Dobro jutro komsija 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/djk2.mp4:(EX) Dobro jutro komsija 2
+#DESCRIPTION (EX) Dobro jutro komsija 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/pzdm.mp4:(EX) Pismo za deda mraza
+#DESCRIPTION (EX) Pismo za deda mraza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/dzsmrt.avi:(EX) Diploma za smrt
+#DESCRIPTION (EX) Diploma za smrt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/kursadzije4.mp4:(EX) Kursadzije Specijal 4
+#DESCRIPTION (EX) Kursadzije Specijal 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/kursadzije3.mp4:(EX) Kursadzije Specijal 3
+#DESCRIPTION (EX) Kursadzije Specijal 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/dzena.avi:(EX) Dobra zena 2016
+#DESCRIPTION (EX) Dobra zena 2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/kursadzije2.mp4:(EX) Kursadzije Specijal 2
+#DESCRIPTION (EX) Kursadzije Specijal 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/kursadzije1.mp4:(EX) Kursadzije Specijal 1
+#DESCRIPTION (EX) Kursadzije Specijal 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/rum2.mp4:(EX) Rode u magli 2
+#DESCRIPTION (EX) Rode u magli 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/rum1.mp4:(EX) Rode u magli 1
+#DESCRIPTION (EX) Rode u magli 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/ismethoro1.mp4:(EX) Ismet Horo
+#DESCRIPTION (EX) Ismet Horo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/dik.avi:(EX) Dva igraca s klupe
+#DESCRIPTION (EX) Dva igraca s klupe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/tango.mp4:(EX) Tango Argentino
+#DESCRIPTION (EX) Tango Argentino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fastvps2.mine.nu%3a88/movies/bokseri.flv:(EX) Bokseri idu u raj
+#DESCRIPTION (EX) Bokseri idu u raj
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/sdb.avi:(EX) Sjecas li se Dolly Bell
+#DESCRIPTION (EX) Sjecas li se Dolly Bell
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/sisanje.mp4:(EX) Sisanje
+#DESCRIPTION (EX) Sisanje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/rane.mp4:(EX) Rane
+#DESCRIPTION (EX) Rane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/bx2.avi:(EX) Balkan Exspres 2
+#DESCRIPTION (EX) Balkan Exspres 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/bx1.avi:(EX) Balkan Ekspres
+#DESCRIPTION (EX) Balkan Ekspres
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/zavet.mp4:(EX) Zavet 2007
+#DESCRIPTION (EX) Zavet 2007
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/mgln2.flv:(EX) Mujo gleda lijepu Nizamu 2
+#DESCRIPTION (EX) Mujo gleda lijepu Nizamu 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/sabur.mp4:(EX) Sabur
+#DESCRIPTION (EX) Sabur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/mgln.mp4:(EX) Mujo Gleda Lijepu Nizamu
+#DESCRIPTION (EX) Mujo Gleda Lijepu Nizamu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/omd.mp4:(EX) Ovo Malo Duse
+#DESCRIPTION (EX) Ovo Malo Duse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/djk2.mp4:(EX) Dobro jutro komsija
+#DESCRIPTION (EX) Dobro jutro komsija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/jjp.avi:(EX) Je li jasno prijatelju
+#DESCRIPTION (EX) Je li jasno prijatelju
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/pe.avi:(EX) Partizanska Eskadrila
+#DESCRIPTION (EX) Partizanska Eskadrila
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/sv.avi:(EX) Specijalno Vaspitanje
+#DESCRIPTION (EX) Specijalno Vaspitanje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/vuksamotnjak.mp4:(EX) Vuk Samotnjak
+#DESCRIPTION (EX) Vuk Samotnjak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/1210.mkv:(EX) Epizoda u zivotu beraca zeljeza
+#DESCRIPTION (EX) Epizoda u zivotu beraca zeljeza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/1209.mkv:(EX) Bicemo prvaci sveta
+#DESCRIPTION (EX) Bicemo prvaci sveta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/1208.mkv:(EX) Hiljadarka
+#DESCRIPTION (EX) Hiljadarka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/1177.mkv:(EX) Tunel (2000)
+#DESCRIPTION (EX) Tunel (2000)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/1176.mkv:(EX) Armin
+#DESCRIPTION (EX) Armin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/1136.mkv:(EX) Kuduz (1989)
+#DESCRIPTION (EX) Kuduz (1989)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/1134.mkv:(EX) Halimin Put
+#DESCRIPTION (EX) Halimin Put
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/1133.mkv:(EX) Na putu (2010)
+#DESCRIPTION (EX) Na putu (2010)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/1119.mkv:(EX) Moljac
+#DESCRIPTION (EX) Moljac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/795.avi:(EX) Bitka na Neretvi
+#DESCRIPTION (EX) Bitka na Neretvi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/andjeoc.mp4:(EX) Andjeo cuvar
+#DESCRIPTION (EX) Andjeo cuvar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/788.mkv:(EX) Salas u malom ritu
+#DESCRIPTION (EX) Salas u malom ritu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/786.mkv:(EX) Turneja (2008)
+#DESCRIPTION (EX) Turneja (2008)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/785.mkv:(EX) Jagode u Grlu
+#DESCRIPTION (EX) Jagode u Grlu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/kototamopeva.avi:(EX) Ko To Tamo Peva
+#DESCRIPTION (EX) Ko To Tamo Peva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/dobridinosaur.avi:(CRT) Dobri dinosaur
+#DESCRIPTION (CRT) Dobri dinosaur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/pinokio2.avi:(CRT) Pinokio i zlatni kljuc
+#DESCRIPTION (CRT) Pinokio i zlatni kljuc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/bkzb1.mp4:(CRT) Grimove Bajke Kralj kozje brade
+#DESCRIPTION (CRT) Grimove Bajke Kralj kozje brade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/bhajdi.mp4:(CRT) Bajke Hajdi
+#DESCRIPTION (CRT) Bajke Hajdi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/pinokio1.avi:(CRT) Pinokio
+#DESCRIPTION (CRT) Pinokio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/bzs120.mp4:(CRT) Bajke  Zeka Srecko
+#DESCRIPTION (CRT) Bajke  Zeka Srecko
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/crvenkapa.mp4:(CRT) Bajke Crvenkapa
+#DESCRIPTION (CRT) Bajke Crvenkapa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/kungfupanda3.avi:(CRT) Kung Fu Panda 3
+#DESCRIPTION (CRT) Kung Fu Panda 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/cio2.avi:(CRT) Cudovista sa Sveucilista
+#DESCRIPTION (CRT) Cudovista sa Sveucilista
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/robinzon.avi:(CRT) Robinson Crusoe
+#DESCRIPTION (CRT) Robinson Crusoe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/bsz.avi:(CRT) Escape from Planet Earth
+#DESCRIPTION (CRT) Escape from Planet Earth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/upsnoa.avi:(CRT) Ups! Noa je otisao
+#DESCRIPTION (CRT) Ups! Noa je otisao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/tvrdorah.avi:(CRT) Tvrd orah
+#DESCRIPTION (CRT) Tvrd orah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/valle.avi:(CRT) Wall E
+#DESCRIPTION (CRT) Wall E
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/Meda.Sa.Sjevera.avi:(CRT) Norm of the North
+#DESCRIPTION (CRT) Norm of the North
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/medvjedici1.avi:(CRT) Mali Leteci Medvjedici 1
+#DESCRIPTION (CRT) Mali Leteci Medvjedici 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/medvjedici3.avi:(CRT) Mali Leteci Medvjedici 3
+#DESCRIPTION (CRT) Mali Leteci Medvjedici 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/7patuljak.avi:(CRT) Sedmi patuljak
+#DESCRIPTION (CRT) Sedmi patuljak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/medvjedici2.avi:(CRT) Mali Leteci Medvjedici 2
+#DESCRIPTION (CRT) Mali Leteci Medvjedici 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/arturb.mp4:(CRT) Artur Bozic
+#DESCRIPTION (CRT) Artur Bozic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/nikobozic.mp4:(CRT) Niko Bozicna Potraga
+#DESCRIPTION (CRT) Niko Bozicna Potraga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/sdjeda.avi:(CRT) Spasavanje Djeda Mraza
+#DESCRIPTION (CRT) Spasavanje Djeda Mraza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/rode.avi:(CRT) Rode
+#DESCRIPTION (CRT) Rode
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/birds.avi:(CRT) Angry Birds
+#DESCRIPTION (CRT) Angry Birds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/zootopia.avi:(CRT) Zootopia
+#DESCRIPTION (CRT) Zootopia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/tkosejosboji.avi:(CRT) Tko se boji vuka jos
+#DESCRIPTION (CRT) Tko se boji vuka jos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fastvps2.mine.nu%3a88/movies/kraljevstvo.avi:(CRT) Snjezno kraljevstvo
+#DESCRIPTION (CRT) Snjezno kraljevstvo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/ljubimci.avi:(CRT) Tajni
+#DESCRIPTION (CRT) Tajni
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/moana.avi:(CRT) Moana
+#DESCRIPTION (CRT) Moana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/izvrnutobrnuto.avi:(CRT) Izvrnuto obrnuto
+#DESCRIPTION (CRT) Izvrnuto obrnuto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/lorax.avi:(CRT) Lorax
+#DESCRIPTION (CRT) Lorax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/pingvini.avi:(CRT) Pingvini s Madagaskara
+#DESCRIPTION (CRT) Pingvini s Madagaskara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/horton.avi:(CRT) Horton
+#DESCRIPTION (CRT) Horton
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/smurfs4.avi:(CRT) Smurfs: The Lost Village
+#DESCRIPTION (CRT) Smurfs: The Lost Village
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/grom.avi:(CRT) Bolt
+#DESCRIPTION (CRT) Bolt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/malisef.avi:(CRT) Mali
+#DESCRIPTION (CRT) Mali
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/otto.avi:(CRT) Deep
+#DESCRIPTION (CRT) Deep
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/chihiro.avi:(CRT) Spirited Away
+#DESCRIPTION (CRT) Spirited Away
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/ronal.mp4:(CRT) Ronal Varvarin
+#DESCRIPTION (CRT) Ronal Varvarin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/auti.avi:(CRT) Cars
+#DESCRIPTION (CRT) Cars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/auti2.avi:(CRT) Cars 2
+#DESCRIPTION (CRT) Cars 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/auti3.avi:(CRT) Cars 3
+#DESCRIPTION (CRT) Cars 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/poni.avi:(CRT) My little pony
+#DESCRIPTION (CRT) My little pony
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/ekipadzungle.avi:(CRT) The Jungle Bunch
+#DESCRIPTION (CRT) The Jungle Bunch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/emoji.avi:(CRT) The Emoji Movie
+#DESCRIPTION (CRT) The Emoji Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/brziozi.avi:(CRT) Ozzy: Fast & Furry
+#DESCRIPTION (CRT) Ozzy: Fast & Furry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/ruznopace.avi:(CRT) Ruzno pace velika utrka
+#DESCRIPTION (CRT) Ruzno pace velika utrka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/barbilabudje.avi:(CRT) Barbie Na labudjem jezeru
+#DESCRIPTION (CRT) Barbie Na labudjem jezeru
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/barbiprinceza.avi:(CRT) Barbie Princeza i seoska djevojcica
+#DESCRIPTION (CRT) Barbie Princeza i seoska djevojcica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/barbidvorac.avi:(CRT) Barbie i dijamantni dvorac
+#DESCRIPTION (CRT) Barbie i dijamantni dvorac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/barbie.avi:(CRT) Barbie in a Mermaid Tale
+#DESCRIPTION (CRT) Barbie in a Mermaid Tale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/earlyman.avi:(CRT) Early Man
+#DESCRIPTION (CRT) Early Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/ukradenaprinceza.avi:(CRT) The Stolen Princess
+#DESCRIPTION (CRT) The Stolen Princess
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/princevastrana.avi:(CRT) Princeva strana price
+#DESCRIPTION (CRT) Princeva strana price
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/hoteltranslivanija3.avi:(CRT) Hotel Transylvania 3: Summer Vacation
+#DESCRIPTION (CRT) Hotel Transylvania 3: Summer Vacation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/430.mkv:(EX) Ljeto u zlatnoj dolini
+#DESCRIPTION (EX) Ljeto u zlatnoj dolini
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/429.mkv:(EX) Otac na sluzbenom putu
+#DESCRIPTION (EX) Otac na sluzbenom putu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/428.mkv:(EX) Halo Taxi
+#DESCRIPTION (EX) Halo Taxi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/427.mkv:(EX) Gori vatra
+#DESCRIPTION (EX) Gori vatra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/426.mkv:(EX) Dom za vjesanje
+#DESCRIPTION (EX) Dom za vjesanje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/417.mkv:(EX) Lude Godine 7
+#DESCRIPTION (EX) Lude Godine 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/415.mkv:(EX) Lude Godine 5
+#DESCRIPTION (EX) Lude Godine 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/414.mkv:(EX) Lude Godine 4
+#DESCRIPTION (EX) Lude Godine 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/413.mkv:(EX) Lude Godine 3
+#DESCRIPTION (EX) Lude Godine 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/416.mkv:(EX) Lude Godine 6
+#DESCRIPTION (EX) Lude Godine 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/412.mkv:(EX) Lude Godine 2
+#DESCRIPTION (EX) Lude Godine 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/411.mkv:(EX) Lude Godine 1
+#DESCRIPTION (EX) Lude Godine 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/398.mkv:(EX) Lajanje na zvezde
+#DESCRIPTION (EX) Lajanje na zvezde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/397.mkv:(EX) Kamijondzije 2
+#DESCRIPTION (EX) Kamijondzije 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/396.mkv:(EX) Kamijondzije 1
+#DESCRIPTION (EX) Kamijondzije 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/388.mkv:(EX) Mujo i Suljo vicevi
+#DESCRIPTION (EX) Mujo i Suljo vicevi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/387.mkv:(EX) Tesna koza 4
+#DESCRIPTION (EX) Tesna koza 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/386.mkv:(EX) Tesna koza 3
+#DESCRIPTION (EX) Tesna koza 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/385.mkv:(EX) Tesna koza 2
+#DESCRIPTION (EX) Tesna koza 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/384.mkv:(EX) Tesna koza 1
+#DESCRIPTION (EX) Tesna koza 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/379.mkv:(EX) Balkansko proljece
+#DESCRIPTION (EX) Balkansko proljece
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/378.mkv:(EX) Balkanski spijun
+#DESCRIPTION (EX) Balkanski spijun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/377.mkv:(EX) Mrtav ladan
+#DESCRIPTION (EX) Mrtav ladan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/376.mkv:(EX) Maratonci trce pocasni krug
+#DESCRIPTION (EX) Maratonci trce pocasni krug
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/328.mkv:(EX) Ivkova slava
+#DESCRIPTION (EX) Ivkova slava
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/315.mkv:(EX) Montevideo vidimo se!
+#DESCRIPTION (EX) Montevideo vidimo se!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/303.mkv:(EX) Montevideo Bog te video!
+#DESCRIPTION (EX) Montevideo Bog te video!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/380.mkv:(EX) Mala nocna muzika
+#DESCRIPTION (EX) Mala nocna muzika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/768.mkv:(EX) Hajde da se volimo (1987)
+#DESCRIPTION (EX) Hajde da se volimo (1987)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/769.mkv:(EX) Hajde da se volimo 2
+#DESCRIPTION (EX) Hajde da se volimo 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/770.mkv:(EX) Hajde da se volimo 3
+#DESCRIPTION (EX) Hajde da se volimo 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/771.mkv:(EX) Miodrag 'Ckalja' Petrovic
+#DESCRIPTION (EX) Miodrag 'Ckalja' Petrovic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/772.mkv:(EX) Mi Nismo Andjeli
+#DESCRIPTION (EX) Mi Nismo Andjeli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/773.mkv:(EX) Mi Nismo Andjeli 2
+#DESCRIPTION (EX) Mi Nismo Andjeli 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/774.mkv:(EX) Mi Nismo Andjeli 3
+#DESCRIPTION (EX) Mi Nismo Andjeli 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/775.mkv:(EX) Valter brani Sarajevo
+#DESCRIPTION (EX) Valter brani Sarajevo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/776.mkv:(EX) Debeli i Mrsavi
+#DESCRIPTION (EX) Debeli i Mrsavi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/777.mkv:(EX) Potera Za Sreckom
+#DESCRIPTION (EX) Potera Za Sreckom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/778.mkv:(EX) Pljacka Treceg Rajha
+#DESCRIPTION (EX) Pljacka Treceg Rajha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/779.mkv:(EX) Kako Je Propao Rokenrol
+#DESCRIPTION (EX) Kako Je Propao Rokenrol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/780.mkv:(EX) Avanture Borivoja Surdilovica
+#DESCRIPTION (EX) Avanture Borivoja Surdilovica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/781.mkv:(EX) Lov u Mutnom
+#DESCRIPTION (EX) Lov u Mutnom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/782.mkv:(EX) Munje
+#DESCRIPTION (EX) Munje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/783.mkv:(EX) Samo jednom se ljubi
+#DESCRIPTION (EX) Samo jednom se ljubi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/784.mkv:(EX) Velika frka (1992)
+#DESCRIPTION (EX) Velika frka (1992)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/skycarper.avi:(STR) Skyscraper
+#DESCRIPTION (STR) Skyscraper
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/deadpool2.avi:(STR) Deadpool 2
+#DESCRIPTION (STR) Deadpool 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/megg.avi:(STR) The Meg
+#DESCRIPTION (STR) The Meg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/repisal.avi:(STR) Reprisal
+#DESCRIPTION (STR) Reprisal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/trench.avi:(STR) Trench 11
+#DESCRIPTION (STR) Trench 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/huntingema.avi:(STR) Hunting Emma
+#DESCRIPTION (STR) Hunting Emma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/firstlight.avi:(STR) First Light
+#DESCRIPTION (STR) First Light
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/black47.avi:(STR) Black '47
+#DESCRIPTION (STR) Black '47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/antman2.avi:(STR) Ant-Man and the Wasp
+#DESCRIPTION (STR) Ant-Man and the Wasp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mamamia2.avi:(STR) Mamma Mia! Here We Go Again
+#DESCRIPTION (STR) Mamma Mia! Here We Go Again
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/firstreformed.avi:(STR) First Reformed
+#DESCRIPTION (STR) First Reformed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bourne1.avi:(STR) Bourneov identitet (The Bourne Identity)
+#DESCRIPTION (STR) Bourneov identitet (The Bourne Identity)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bourne2.avi:(STR) Bourneova nadmoc (The Bourne Supremacy)
+#DESCRIPTION (STR) Bourneova nadmoc (The Bourne Supremacy)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bourne5.avi:(STR) Jason Bourne
+#DESCRIPTION (STR) Jason Bourne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/predator.avi:(STR) The Predator
+#DESCRIPTION (STR) The Predator
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/finalscore.avi:(STR) Final Score
+#DESCRIPTION (STR) Final Score
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mile22.avi:(STR) Mile 22
+#DESCRIPTION (STR) Mile 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/privateryan.avi:(STR) Saving Private Ryan
+#DESCRIPTION (STR) Saving Private Ryan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bourne3.avi:(STR) Bourneov ultimatum (The Bourne Ultimatum)
+#DESCRIPTION (STR) Bourneov ultimatum (The Bourne Ultimatum)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/darkweb.avi:(STR) Unfriended: Dark Web
+#DESCRIPTION (STR) Unfriended: Dark Web
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/sharon123.avi:(STR) Sharon 1.2.3.
+#DESCRIPTION (STR) Sharon 1.2.3.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/guilty.avi:(STR) The Guilty
+#DESCRIPTION (STR) The Guilty
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/family.avi:(STR) Family Is Family
+#DESCRIPTION (STR) Family Is Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/fatherchristmas.avi:(STR) Marrying Father Christmas
+#DESCRIPTION (STR) Marrying Father Christmas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/murders.avi:(STR) The Happytime Murders
+#DESCRIPTION (STR) The Happytime Murders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/lukas.avi:(STR) The Bouncer
+#DESCRIPTION (STR) The Bouncer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/housewithclock.avi:(STR) The House with a Clock in Its Walls
+#DESCRIPTION (STR) The House with a Clock in Its Walls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hhenry.avi:(STR) Hardcore Henry
+#DESCRIPTION (STR) Hardcore Henry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/christmaschronicles.avi:(STR) The Christmas Chronicles
+#DESCRIPTION (STR) The Christmas Chronicles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/atomicblonde.avi:(STR) Atomic Blonde
+#DESCRIPTION (STR) Atomic Blonde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/airstrike.avi:(STR) Air Strike
+#DESCRIPTION (STR) Air Strike
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hotelartemis.avi:(STR) Hotel Artemis
+#DESCRIPTION (STR) Hotel Artemis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/911.avi:(STR) 9/11
+#DESCRIPTION (STR) 9/11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/americanmade.avi:(STR) American Made
+#DESCRIPTION (STR) American Made
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/justiceleague.avi:(STR) Justice League
+#DESCRIPTION (STR) Justice League
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/dadyhome.avi:(STR) Daddy's Home
+#DESCRIPTION (STR) Daddy's Home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/johnyenglish.avi:(STR) Johnny English Strikes Again
+#DESCRIPTION (STR) Johnny English Strikes Again
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/princes.avi:(STR) The Princess Switch
+#DESCRIPTION (STR) The Princess Switch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mowgli.avi:(STR) Mowgli: Legend of the Jungle
+#DESCRIPTION (STR) Mowgli: Legend of the Jungle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/blackmiror.avi:(STR) Black Mirror: Bandersnatch
+#DESCRIPTION (STR) Black Mirror: Bandersnatch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/axl.avi:(STR) A-X-L
+#DESCRIPTION (STR) A-X-L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bumps.avi:(STR) Goosebumps 2: Haunted Halloween
+#DESCRIPTION (STR) Goosebumps 2: Haunted Halloween
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/nightschol.avi:(STR) Night School
+#DESCRIPTION (STR) Night School
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/acountant.avi:(STR) The Accountant
+#DESCRIPTION (STR) The Accountant
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/searching.avi:(STR) Searching
+#DESCRIPTION (STR) Searching
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/blindspot.avi:(STR) Blindspotting
+#DESCRIPTION (STR) Blindspotting
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/papilon.avi:(STR) Papillon
+#DESCRIPTION (STR) Papillon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/venom.avi:(STR) Venom
+#DESCRIPTION (STR) Venom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/geostorm.avi:(STR) Geostorm
+#DESCRIPTION (STR) Geostorm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/alpha.avi:(STR) Alpha
+#DESCRIPTION (STR) Alpha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/outcast.avi:(STR) Outcast
+#DESCRIPTION (STR) Outcast
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/halowen.avi:(STR) Halloween
+#DESCRIPTION (STR) Halloween
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/defiance.avi:(STR) Defiance
+#DESCRIPTION (STR) Defiance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/logan.avi:(STR) Logan
+#DESCRIPTION (STR) Logan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/backtrace.avi:(STR) Backtrace
+#DESCRIPTION (STR) Backtrace
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/asher.avi:(STR) Asher
+#DESCRIPTION (STR) Asher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/344.mkv:(CRT) Teenage Mutant Ninja Turtles (2014)
+#DESCRIPTION (CRT) Teenage Mutant Ninja Turtles (2014)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/343.mkv:(CRT) The Croods
+#DESCRIPTION (CRT) The Croods
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/331.mkv:(CRT) Juraj i hrabri vitezovi
+#DESCRIPTION (CRT) Juraj i hrabri vitezovi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/330.mkv:(CRT) Avioni
+#DESCRIPTION (CRT) Avioni
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/329.mkv:(CRT) Mr. Peabody & Sherman
+#DESCRIPTION (CRT) Mr. Peabody & Sherman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/332.mkv:(CRT) Oblacno s cuftama 2
+#DESCRIPTION (CRT) Oblacno s cuftama 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/318.mkv:(CRT) Oblacno s cuftama
+#DESCRIPTION (CRT) Oblacno s cuftama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/317.mkv:(CRT) Rio
+#DESCRIPTION (CRT) Rio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/316.mkv:(CRT) Sezona lova 2
+#DESCRIPTION (CRT) Sezona lova 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/314.mkv:(CRT) Strumpfovi 2
+#DESCRIPTION (CRT) Strumpfovi 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/299.mkv:(CRT) Sezona lova
+#DESCRIPTION (CRT) Sezona lova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/296.mkv:(CRT) Despicable Me 2
+#DESCRIPTION (CRT) Despicable Me 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/670.avi:(CRT) Big Hero 6
+#DESCRIPTION (CRT) Big Hero 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/827.mkv:(CRT) Pcelica maja
+#DESCRIPTION (CRT) Pcelica maja
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/847.mkv:(CRT) Home
+#DESCRIPTION (CRT) Home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/732.mp4:(CRT) Asterix-Grad Bogova
+#DESCRIPTION (CRT) Asterix-Grad Bogova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/896.mkv:(CRT) Juhu-hu
+#DESCRIPTION (CRT) Juhu-hu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/897.mkv:(CRT) Shrek 1
+#DESCRIPTION (CRT) Shrek 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/898.mkv:(CRT) Shrek 2
+#DESCRIPTION (CRT) Shrek 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/899.mkv:(CRT) Shrek 3
+#DESCRIPTION (CRT) Shrek 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/900.mkv:(CRT) Shrek 4
+#DESCRIPTION (CRT) Shrek 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/928.mkv:(CRT) Macak u Cizmama
+#DESCRIPTION (CRT) Macak u Cizmama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/949.mkv:(CRT) Prica o Igrackama
+#DESCRIPTION (CRT) Prica o Igrackama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/950.mkv:(CRT) Prica o Igrackama 2
+#DESCRIPTION (CRT) Prica o Igrackama 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/929.mp4:(CRT) Megamind
+#DESCRIPTION (CRT) Megamind
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/969.mkv:(CRT) Minions (2015)
+#DESCRIPTION (CRT) Minions (2015)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/996.avi:(CRT) Rango
+#DESCRIPTION (CRT) Rango
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/1128.mkv:(CRT) Hotel Transilvanija 2
+#DESCRIPTION (CRT) Hotel Transilvanija 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/1129.mkv:(CRT) Ledeno Doba 2 Zatopljenje
+#DESCRIPTION (CRT) Ledeno Doba 2 Zatopljenje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/1056.avi:(CRT) Ledeno Doba 3 Dinosauri dolaze
+#DESCRIPTION (CRT) Ledeno Doba 3 Dinosauri dolaze
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/1131.mkv:(CRT) Ledeno Doba 4
+#DESCRIPTION (CRT) Ledeno Doba 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/1180.mkv:(CRT) The SpongeBob Movie: Sponge Out of Water (20
+#DESCRIPTION (CRT) The SpongeBob Movie: Sponge Out of Water (20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/1216.mkv:(CRT) Turbo
+#DESCRIPTION (CRT) Turbo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/niko2.avi:(CRT) Niko 2
+#DESCRIPTION (CRT) Niko 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/951.mkv:(CRT) Prica o Igrackama 3
+#DESCRIPTION (CRT) Prica o Igrackama 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/1132.mkv:(CRT) Potraga za Nemom
+#DESCRIPTION (CRT) Potraga za Nemom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/pipi1.avi:(CRT) Pipi Duga Carapa
+#DESCRIPTION (CRT) Pipi Duga Carapa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/dcg.avi:(CRT) Djecak i carobni grah
+#DESCRIPTION (CRT) Djecak i carobni grah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/lesi.avi:(CRT) Lassie
+#DESCRIPTION (CRT) Lassie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/barbie.avi:(CRT) Barbie A Mermaid Tale
+#DESCRIPTION (CRT) Barbie A Mermaid Tale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/mad1.avi:(CRT) Madagascar 1
+#DESCRIPTION (CRT) Madagascar 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/mad22.avi:(CRT) Madagascar 2
+#DESCRIPTION (CRT) Madagascar 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/mad33.avi:(CRT) Madagascar 3
+#DESCRIPTION (CRT) Madagascar 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/alvinivjeverice.avi:(CRT) Alvin i vjeverice: Velika alvintura
+#DESCRIPTION (CRT) Alvin i vjeverice: Velika alvintura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kolibausumi.avi:(STR) Koliba u sumi The Cabin in the Woods
+#DESCRIPTION (STR) Koliba u sumi The Cabin in the Woods
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/badmoms2.avi:(STR) A Bad Moms Christmas
+#DESCRIPTION (STR) A Bad Moms Christmas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kingsman2.avi:(STR) Kingsman: The Golden Circle
+#DESCRIPTION (STR) Kingsman: The Golden Circle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/swars1.avi:(STR) Star Wars Episode 1 The Phantom Menace
+#DESCRIPTION (STR) Star Wars Episode 1 The Phantom Menace
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/swars2.avi:(STR) Star Wars: Episode 2  Attack of the Clones
+#DESCRIPTION (STR) Star Wars: Episode 2  Attack of the Clones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/swars3.avi:(STR) Star Wars: Episode 3  Revenge of the Sith
+#DESCRIPTION (STR) Star Wars: Episode 3  Revenge of the Sith
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/swars4.avi:(STR) Star Wars Episode 4 A New Hope
+#DESCRIPTION (STR) Star Wars Episode 4 A New Hope
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/swars5.avi:(STR) Star Wars Episode 5 The Empire Strikes Back
+#DESCRIPTION (STR) Star Wars Episode 5 The Empire Strikes Back
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/swars6.avi:(STR) Star Wars Episode 6 Return of the Jedi
+#DESCRIPTION (STR) Star Wars Episode 6 Return of the Jedi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/snitch.avi:(STR) Snitch
+#DESCRIPTION (STR) Snitch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bladeruner2.avi:(STR) Blade Runner 2049
+#DESCRIPTION (STR) Blade Runner 2049
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/boncop2.avi:(STR) Bon Cop Bad Cop 2
+#DESCRIPTION (STR) Bon Cop Bad Cop 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mountain.avi:(STR) The Mountain Between Us
+#DESCRIPTION (STR) The Mountain Between Us
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/syria.avi:(STR) Cries from Syria
+#DESCRIPTION (STR) Cries from Syria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/dunkirk.avi:(STR) Dunkirk
+#DESCRIPTION (STR) Dunkirk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kickboxer.avi:(STR) Kickboxer: Retaliation
+#DESCRIPTION (STR) Kickboxer: Retaliation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/trans5.avi:(STR) Transformers: The Last Knight
+#DESCRIPTION (STR) Transformers: The Last Knight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bokser1.avi:(STR) Kickboxer: Vengeance
+#DESCRIPTION (STR) Kickboxer: Vengeance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/foreigner.avi:(STR) The Foreigner
+#DESCRIPTION (STR) The Foreigner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ragnarok.avi:(STR) Thor: Ragnarok
+#DESCRIPTION (STR) Thor: Ragnarok
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kong2017.avi:(STR) Kong: Skull Island
+#DESCRIPTION (STR) Kong: Skull Island
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bright.avi:(STR) Bright
+#DESCRIPTION (STR) Bright
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/aassassin2.avi:(STR) American Assassin 2
+#DESCRIPTION (STR) American Assassin 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/madmax.avi:(STR) Mad Max: Fury Road
+#DESCRIPTION (STR) Mad Max: Fury Road
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/dadyhome2.avi:(STR) Daddy's Home 2
+#DESCRIPTION (STR) Daddy's Home 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/wwoman.avi:(STR) Wonder Woman
+#DESCRIPTION (STR) Wonder Woman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/valerian.avi:(STR) Valerian and the City of a Thousand Planets
+#DESCRIPTION (STR) Valerian and the City of a Thousand Planets
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/tgirls.avi:(STR) Tragedy Girls
+#DESCRIPTION (STR) Tragedy Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/creep2.avi:(STR) Creep 2
+#DESCRIPTION (STR) Creep 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/stillb.avi:(STR) Still/Born
+#DESCRIPTION (STR) Still/Born
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/gateway.avi:(STR) The Gateway
+#DESCRIPTION (STR) The Gateway
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/eroom.avi:(STR) Escape Room
+#DESCRIPTION (STR) Escape Room
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hellraiser.avi:(STR) Hellraiser: Judgment
+#DESCRIPTION (STR) Hellraiser: Judgment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/korder.avi:(STR) Kill Order
+#DESCRIPTION (STR) Kill Order
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/lglass.avi:(STR) Looking Glass
+#DESCRIPTION (STR) Looking Glass
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fastvps2.mine.nu%3a88/movies/beatriz.avi:(STR) Beatriz at Dinner
+#DESCRIPTION (STR) Beatriz at Dinner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/carlicaplin.avi:(STR) The Circus
+#DESCRIPTION (STR) The Circus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/slova.avi:(STR) Killing Season
+#DESCRIPTION (STR) Killing Season
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bsteel.avi:(STR) Bleeding Steel
+#DESCRIPTION (STR) Bleeding Steel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fastvps2.mine.nu%3a88/movies/karatekid.avi:(STR) The Karate Kid (2010)
+#DESCRIPTION (STR) The Karate Kid (2010)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kfjoga.avi:(STR) Kung-Fu Yoga
+#DESCRIPTION (STR) Kung-Fu Yoga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/escobar.avi:(STR) Pablo Escobar: Paradise Lost
+#DESCRIPTION (STR) Pablo Escobar: Paradise Lost
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/dragozmaj.avi:(STR) Dragonheart: Battle for the Heartfire
+#DESCRIPTION (STR) Dragonheart: Battle for the Heartfire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/taxid.avi:(STR) A Taxi Driver
+#DESCRIPTION (STR) A Taxi Driver
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/berlin.avi:(STR) Berlin Falling
+#DESCRIPTION (STR) Berlin Falling
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bent.avi:(STR) Bent
+#DESCRIPTION (STR) Bent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/annihilation.avi:(STR) Annihilation
+#DESCRIPTION (STR) Annihilation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/outsider.avi:(STR) The Outsider
+#DESCRIPTION (STR) The Outsider
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/dzungla2017.avi:(STR) Jumanji: Welcome to the Jungle
+#DESCRIPTION (STR) Jumanji: Welcome to the Jungle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mute.avi:(STR) Mute
+#DESCRIPTION (STR) Mute
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/devils.avi:(STR) Devil's Tree: Rooted Evil
+#DESCRIPTION (STR) Devil's Tree: Rooted Evil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/svepare.avi:(STR) All the Money in the World Sav novac svijeta
+#DESCRIPTION (STR) All the Money in the World Sav novac svijeta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/deatwish.avi:(STR) Death Wish
+#DESCRIPTION (STR) Death Wish
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hurricane.avi:(STR) The Hurricane Heist
+#DESCRIPTION (STR) The Hurricane Heist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/blopova.avi:(STR) Den of Thieves
+#DESCRIPTION (STR) Den of Thieves
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/12hrabrih.avi:(STR) 12 Strong
+#DESCRIPTION (STR) 12 Strong
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mazerunner3.avi:(STR) Maze Runner: The Death Cure
+#DESCRIPTION (STR) Maze Runner: The Death Cure
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/wildling.avi:(STR) Wildling
+#DESCRIPTION (STR) Wildling
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pacificrim2.avi:(STR) Pacific Rim: Uprising
+#DESCRIPTION (STR) Pacific Rim: Uprising
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//diaspromedia.tv%3a80/movie/949FfTjKs3/cmo7eUZwl3/8184.avi:(STR) Fifty Shades Freed
+#DESCRIPTION (STR) Fifty Shades Freed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/gettingstarted.avi:(STR) Just Getting Started
+#DESCRIPTION (STR) Just Getting Started
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/weekof.avi:(STR) The Week Of
+#DESCRIPTION (STR) The Week Of
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/blackpanter.avi:(STR) Black Panther
+#DESCRIPTION (STR) Black Panther
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/samson.avi:(STR) Samson
+#DESCRIPTION (STR) Samson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/traider.avi:(STR) Tomb Raider
+#DESCRIPTION (STR) Tomb Raider
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/rampage.avi:(STR) Rampage
+#DESCRIPTION (STR) Rampage
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/tuerus.avi:(STR) Above the Law
+#DESCRIPTION (STR) Above the Law
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/midnightsun.avi:(STR) Midnight Sun
+#DESCRIPTION (STR) Midnight Sun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/Downrange.avi:(STR) Downrange
+#DESCRIPTION (STR) Downrange
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/indarknes.avi:(STR) In Darkness
+#DESCRIPTION (STR) In Darkness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/blackwater.avi:(STR) Black Water
+#DESCRIPTION (STR) Black Water
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/forevermygril.avi:(STR) Forever My Girl
+#DESCRIPTION (STR) Forever My Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/futureworld.avi:(STR) Future World
+#DESCRIPTION (STR) Future World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/islandzero.avi:(STR) Island Zero
+#DESCRIPTION (STR) Island Zero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/terminal.avi:(STR) Terminal
+#DESCRIPTION (STR) Terminal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/maus.avi:(STR) The Maus
+#DESCRIPTION (STR) The Maus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/anon.avi:(STR) Anon
+#DESCRIPTION (STR) Anon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/winchester.avi:(STR) Winchester
+#DESCRIPTION (STR) Winchester
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/gringo.avi:(STR) Gringo
+#DESCRIPTION (STR) Gringo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/edge.avi:(STR) Beyond the Edge
+#DESCRIPTION (STR) Beyond the Edge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/titan.avi:(STR) The Titan
+#DESCRIPTION (STR) The Titan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/cured.avi:(STR) The Cured
+#DESCRIPTION (STR) The Cured
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/darkriver.avi:(STR) Dark River
+#DESCRIPTION (STR) Dark River
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/blegend.avi:(STR) Big Legend
+#DESCRIPTION (STR) Big Legend
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/sweetcountry.avi:(STR) Sweet Country
+#DESCRIPTION (STR) Sweet Country
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/feral.avi:(STR) Feral
+#DESCRIPTION (STR) Feral
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/aiw.avi:(STR) Avengers: Infinity War
+#DESCRIPTION (STR) Avengers: Infinity War
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/Extinction.avi:(STR) Extinction
+#DESCRIPTION (STR) Extinction
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ocupation.avi:(STR) Occupation
+#DESCRIPTION (STR) Occupation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/overboard.avi:(STR) Overboard
+#DESCRIPTION (STR) Overboard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/downadark.avi:(STR) Down a Dark Hall
+#DESCRIPTION (STR) Down a Dark Hall
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/blinddate.avi:(STR) My Blind Date with Life
+#DESCRIPTION (STR) My Blind Date with Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/prizivanja2.avi:(STR) The Conjuring 2
+#DESCRIPTION (STR) The Conjuring 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/jwfk.avi:(STR) Jurassic World: Fallen Kingdom
+#DESCRIPTION (STR) Jurassic World: Fallen Kingdom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/upgrade.avi:(STR) Upgrade
+#DESCRIPTION (STR) Upgrade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/211.avi:(STR) 211
+#DESCRIPTION (STR) 211
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/taxi5.avi:(STR) Taxi 5
+#DESCRIPTION (STR) Taxi 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/beirut.avi:(STR) Beirut
+#DESCRIPTION (STR) Beirut
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mi6.avi:(STR) Mission: Impossible Fallout
+#DESCRIPTION (STR) Mission: Impossible Fallout
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/dawnseeker.avi:(STR) The Dawnseeker
+#DESCRIPTION (STR) The Dawnseeker
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/najbolji.avi:(EX) Najbolji
+#DESCRIPTION (EX) Najbolji
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/3prezivljavanje.mp4:(STR) Survival Island (2005)
+#DESCRIPTION (STR) Survival Island (2005)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/central.avi:(STR) Central Intelligence
+#DESCRIPTION (STR) Central Intelligence
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/badmoms.avi:(STR) Bad moms
+#DESCRIPTION (STR) Bad moms
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/psi1.avi:(STR) War dogs
+#DESCRIPTION (STR) War dogs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/nerve.avi:(STR) Nerve
+#DESCRIPTION (STR) Nerve
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/suicide.avi:(STR) Suicide Squad
+#DESCRIPTION (STR) Suicide Squad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ti2016.avi:(STR) The Infiltrator
+#DESCRIPTION (STR) The Infiltrator
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mechanic.avi:(STR) Mechanic Resurrection
+#DESCRIPTION (STR) Mechanic Resurrection
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/it2016.avi:(STR) I.T.
+#DESCRIPTION (STR) I.T.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/Rocky2.avi:(STR) Rocky2
+#DESCRIPTION (STR) Rocky2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/Rocky1.avi:(STR) Rocky1
+#DESCRIPTION (STR) Rocky1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/Rocky3.avi:(STR) Rocky3
+#DESCRIPTION (STR) Rocky3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/Rocky4.avi:(STR) Rocky4
+#DESCRIPTION (STR) Rocky4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/Rocky5.avi:(STR) Rocky5
+#DESCRIPTION (STR) Rocky5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/Rocky6.avi:(STR) Rocky Balboa
+#DESCRIPTION (STR) Rocky Balboa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/zodiac.mp4:(STR) Curse Of The Zodiac
+#DESCRIPTION (STR) Curse Of The Zodiac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/suk3.avi:(STR) Sam u kuci 3
+#DESCRIPTION (STR) Sam u kuci 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/suk4.avi:(STR) Sam u kuci 4
+#DESCRIPTION (STR) Sam u kuci 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/united93.avi:(STR) United 93
+#DESCRIPTION (STR) United 93
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pfts2016.avi:(STR) Planet of the Sharks
+#DESCRIPTION (STR) Planet of the Sharks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ddjeca2016.avi:(STR) Good kids
+#DESCRIPTION (STR) Good kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/zmaj2016.avi:(STR) Pete i zmaj
+#DESCRIPTION (STR) Pete i zmaj
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/500dana.avi:(STR) (500) Days of Summer
+#DESCRIPTION (STR) (500) Days of Summer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ljubav2005.mp4:(STR) Love (2005)
+#DESCRIPTION (STR) Love (2005)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hunger2.avi:(STR) The Hunger Games 2
+#DESCRIPTION (STR) The Hunger Games 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/cudo34.avi:(STR) Miracle on 34th Street
+#DESCRIPTION (STR) Miracle on 34th Street
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/polar.avi:(STR) The Polar Express
+#DESCRIPTION (STR) The Polar Express
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/cudesnib.avi:(STR) The Santa Clause
+#DESCRIPTION (STR) The Santa Clause
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/badsanta.avi:(STR) Bad Santa
+#DESCRIPTION (STR) Bad Santa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/vanh.avi:(STR) Van Helsing (2004)
+#DESCRIPTION (STR) Van Helsing (2004)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/underworld.avi:(STR) Underworld Blood Wars
+#DESCRIPTION (STR) Underworld Blood Wars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/civilwar.avi:(STR) Captain America: Civil War
+#DESCRIPTION (STR) Captain America: Civil War
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/snowden.avi:(STR) Snowden
+#DESCRIPTION (STR) Snowden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/m.seven.avi:(STR) The Magnificent Seven
+#DESCRIPTION (STR) The Magnificent Seven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/deepwather.avi:(STR) Deepwater Horizon
+#DESCRIPTION (STR) Deepwater Horizon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/life2016.avi:(STR) Life on the Line
+#DESCRIPTION (STR) Life on the Line
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/iboy.avi:(STR) IBoy
+#DESCRIPTION (STR) IBoy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/lalaland.avi:(STR) La La Land
+#DESCRIPTION (STR) La La Land
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/safe2012.avi:(STR) Safe
+#DESCRIPTION (STR) Safe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ghost1.avi:(STR) Ghost Rider 1
+#DESCRIPTION (STR) Ghost Rider 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ghost2.avi:(STR) Ghost Rider 2
+#DESCRIPTION (STR) Ghost Rider 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/titans2012.avi:(STR) Wrath of the Titans
+#DESCRIPTION (STR) Wrath of the Titans
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/2guns.avi:(STR) 2 Guns
+#DESCRIPTION (STR) 2 Guns
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/upsides.avi:(STR) Upside Down
+#DESCRIPTION (STR) Upside Down
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/arrival.avi:(STR) Arrival
+#DESCRIPTION (STR) Arrival
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pawn.avi:(STR) Pawn Sacrifice
+#DESCRIPTION (STR) Pawn Sacrifice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/rambo1.avi:(STR) Rambo 1
+#DESCRIPTION (STR) Rambo 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/rambo2.avi:(STR) Rambo 2
+#DESCRIPTION (STR) Rambo 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/rambo3.avi:(STR) Rambo 3
+#DESCRIPTION (STR) Rambo 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/rambo4.avi:(STR) Rambo 4
+#DESCRIPTION (STR) Rambo 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/brucelee.avi:(STR) Bruce Lee Fist Of Fury
+#DESCRIPTION (STR) Bruce Lee Fist Of Fury
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/boyka4.avi:(STR) Undisputed IV Boyka
+#DESCRIPTION (STR) Undisputed IV Boyka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/aftermath.avi:(STR) Aftermath
+#DESCRIPTION (STR) Aftermath
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/fantasticbeasts.avi:(STR) Fantastic Beasts and Where to Find Them
+#DESCRIPTION (STR) Fantastic Beasts and Where to Find Them
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/box.mkv:(STR) Boxing WBO: Anthony Joshua vs Wladimir Klits
+#DESCRIPTION (STR) Boxing WBO: Anthony Joshua vs Wladimir Klits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/fistfight.avi:(STR) Fist Fight
+#DESCRIPTION (STR) Fist Fight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/whoami.avi:(STR) Who Am I
+#DESCRIPTION (STR) Who Am I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pan1.avi:(STR) Paranormal Activity 1
+#DESCRIPTION (STR) Paranormal Activity 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pan3.avi:(STR) Paranormal Activity 3
+#DESCRIPTION (STR) Paranormal Activity 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pan2.avi:(STR) Paranormal Activity 2
+#DESCRIPTION (STR) Paranormal Activity 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hsrce.avi:(STR) Braveheart
+#DESCRIPTION (STR) Braveheart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/rings.avi:(STR) Rings 3
+#DESCRIPTION (STR) Rings 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pan5.avi:(STR) Paranormal Activity: The Ghost Dimension
+#DESCRIPTION (STR) Paranormal Activity: The Ghost Dimension
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pan4m.avi:(STR) Paranormal Activity: The Marked Ones
+#DESCRIPTION (STR) Paranormal Activity: The Marked Ones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/eragon.avi:(STR) Eragon
+#DESCRIPTION (STR) Eragon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/guardian2.avi:(STR) Guardians of the Galaxy Vol. 2
+#DESCRIPTION (STR) Guardians of the Galaxy Vol. 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/warcraft.avi:(STR) Warcraft
+#DESCRIPTION (STR) Warcraft
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ff6.avi:(STR) Fast and Furious 6
+#DESCRIPTION (STR) Fast and Furious 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ff8.avi:(STR) Fast and Furious 8
+#DESCRIPTION (STR) Fast and Furious 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pompeja.avi:(STR) Pompeii: New Secrets Revealed
+#DESCRIPTION (STR) Pompeii: New Secrets Revealed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/iambolt.avi:(STR) I Am Bolt
+#DESCRIPTION (STR) I Am Bolt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/security.avi:(STR) Security
+#DESCRIPTION (STR) Security
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/malala.avi:(STR) I am Malala
+#DESCRIPTION (STR) I am Malala
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/latinlover.avi:(STR) How to Be a Latin Lover
+#DESCRIPTION (STR) How to Be a Latin Lover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/monday.avi:(STR) What Happened to Monday
+#DESCRIPTION (STR) What Happened to Monday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hitmanb.avi:(STR) The Hitman's Bodyguard
+#DESCRIPTION (STR) The Hitman's Bodyguard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/fatih.mp4:(STR) Fetih 1453
+#DESCRIPTION (STR) Fetih 1453
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/vendeta.avi:(STR) V For Vendetta
+#DESCRIPTION (STR) V For Vendetta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/matrix1.avi:(STR) Matrix
+#DESCRIPTION (STR) Matrix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/boy7.avi:(STR) Boy 7
+#DESCRIPTION (STR) Boy 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/matrix2.avi:(STR) Matrix reloaded
+#DESCRIPTION (STR) Matrix reloaded
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/matrix3.avi:(STR) Matrix revolutions
+#DESCRIPTION (STR) Matrix revolutions
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/spidermanhomecoming.avi:(STR) Spider-Man: Homecoming
+#DESCRIPTION (STR) Spider-Man: Homecoming
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/babydriver.avi:(STR) Baby Driver
+#DESCRIPTION (STR) Baby Driver
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/unlocked.avi:(STR) Unlocked
+#DESCRIPTION (STR) Unlocked
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pirati5.avi:(STR) Pirates of the Caribbean: Dead Men Tell No T
+#DESCRIPTION (STR) Pirates of the Caribbean: Dead Men Tell No T
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/darktower.avi:(STR) The Dark Tower
+#DESCRIPTION (STR) The Dark Tower
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/warfortheplanetapes.avi:(STR) War for the Planet of the Apes
+#DESCRIPTION (STR) War for the Planet of the Apes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/johnwick2.avi:(STR) John Wick 2
+#DESCRIPTION (STR) John Wick 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hkridge.avi:(STR) Hacksaw Ridge
+#DESCRIPTION (STR) Hacksaw Ridge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/diner.avi:(STR) The Dinner
+#DESCRIPTION (STR) The Dinner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/revolt.avi:(STR) Revolt
+#DESCRIPTION (STR) Revolt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mracnija.avi:(STR) Fifty Shades Darker
+#DESCRIPTION (STR) Fifty Shades Darker
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/aov.avi:(STR) Acts Of Vengeance
+#DESCRIPTION (STR) Acts Of Vengeance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/24h.avi:(STR) 24 Hours to Live
+#DESCRIPTION (STR) 24 Hours to Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/wheelman.avi:(STR) Wheelman
+#DESCRIPTION (STR) Wheelman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/jb1.avi:(STR) Skyfall
+#DESCRIPTION (STR) Skyfall
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/jb2.avi:(STR) James Bond 007 Quantum of Solace Zrno utjehe
+#DESCRIPTION (STR) James Bond 007 Quantum of Solace Zrno utjehe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/jb3.avi:(STR) James Bond 007 Casino Royale
+#DESCRIPTION (STR) James Bond 007 Casino Royale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/jb4.avi:(STR) James Bond 007 Die Another Day
+#DESCRIPTION (STR) James Bond 007 Die Another Day
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh110.mp4:(SER) Konak kod Hilmije S01E10
+#DESCRIPTION (SER) Konak kod Hilmije S01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkhs2e1.mp4:(SER) Konak kod Hilmije S02E01
+#DESCRIPTION (SER) Konak kod Hilmije S02E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/konak22.mp4:(SER) Konak kod Hilmije S02E02
+#DESCRIPTION (SER) Konak kod Hilmije S02E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkhs2e3.mp4:(SER) Konak kod Hilmije S02E03
+#DESCRIPTION (SER) Konak kod Hilmije S02E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkhs2e4.mp4:(SER) Konak kod Hilmije S02E04
+#DESCRIPTION (SER) Konak kod Hilmije S02E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkhs2e5.mp4:(SER) Konak kod Hilmije S02E05
+#DESCRIPTION (SER) Konak kod Hilmije S02E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkhs2e6.mp4:(SER) Konak kod Hilmije S02E06
+#DESCRIPTION (SER) Konak kod Hilmije S02E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkhs2e7.mp4:(SER) Konak kod Hilmije S02E07
+#DESCRIPTION (SER) Konak kod Hilmije S02E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkhs2e8.mp4:(SER) Konak kod Hilmije S02E08
+#DESCRIPTION (SER) Konak kod Hilmije S02E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkhs2e9.mp4:(SER) Konak kod Hilmije S02E09
+#DESCRIPTION (SER) Konak kod Hilmije S02E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkhs2e10.mp4:(SER) Konak kod Hilmije S02E10
+#DESCRIPTION (SER) Konak kod Hilmije S02E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkhs2e11.mp4:(SER) Konak kod Hilmije S02E11
+#DESCRIPTION (SER) Konak kod Hilmije S02E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkhs2e12.mp4:(SER) Konak kod Hilmije S02E12
+#DESCRIPTION (SER) Konak kod Hilmije S02E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkhs2e13.mp4:(SER) Konak kod Hilmije S02E13
+#DESCRIPTION (SER) Konak kod Hilmije S02E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//diaspromedia.tv%3a80/movie/949FfTjKs3/cmo7eUZwl3/8783.mkv:(SER) Konak kod Hilmije S02E14
+#DESCRIPTION (SER) Konak kod Hilmije S02E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got82.avi:(SER) Game of Thrones-Sezona08-Epizoda02
+#DESCRIPTION (SER) Game of Thrones-Sezona08-Epizoda02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got83.avi:(SER) Game of Thrones-Sezona08-Epizoda03
+#DESCRIPTION (SER) Game of Thrones-Sezona08-Epizoda03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got84.avi:(SER) Game of Thrones-Sezona08-Epizoda04
+#DESCRIPTION (SER) Game of Thrones-Sezona08-Epizoda04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got85.avi:(SER) Game of Thrones-Sezona08-Epizoda05
+#DESCRIPTION (SER) Game of Thrones-Sezona08-Epizoda05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got86.avi:(SER) Game of Thrones-Sezona08-Epizoda06
+#DESCRIPTION (SER) Game of Thrones-Sezona08-Epizoda06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh11.mp4:(SER) Konak kod Hilmije S01E01
+#DESCRIPTION (SER) Konak kod Hilmije S01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh12.mp4:(SER) Konak kod Hilmije S01E02
+#DESCRIPTION (SER) Konak kod Hilmije S01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh13.mp4:(SER) Konak kod Hilmije S01E03
+#DESCRIPTION (SER) Konak kod Hilmije S01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh14.mp4:(SER) Konak kod Hilmije S01E04
+#DESCRIPTION (SER) Konak kod Hilmije S01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh15.mp4:(SER) Konak kod Hilmije S01E05
+#DESCRIPTION (SER) Konak kod Hilmije S01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh16.mp4:(SER) Konak kod Hilmije S01E06
+#DESCRIPTION (SER) Konak kod Hilmije S01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh17.mp4:(SER) Konak kod Hilmije S01E07
+#DESCRIPTION (SER) Konak kod Hilmije S01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh18.mp4:(SER) Konak kod Hilmije S01E08
+#DESCRIPTION (SER) Konak kod Hilmije S01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh19.mp4:(SER) Konak kod Hilmije S01E09
+#DESCRIPTION (SER) Konak kod Hilmije S01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got66.avi:(SER) Game of Thrones-Sezona06-Epizoda06
+#DESCRIPTION (SER) Game of Thrones-Sezona06-Epizoda06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got67.avi:(SER) Game of Thrones-Sezona06-Epizoda07
+#DESCRIPTION (SER) Game of Thrones-Sezona06-Epizoda07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got68.avi:(SER) Game of Thrones-Sezona06-Epizoda08
+#DESCRIPTION (SER) Game of Thrones-Sezona06-Epizoda08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got69.avi:(SER) Game of Thrones-Sezona06-Epizoda09
+#DESCRIPTION (SER) Game of Thrones-Sezona06-Epizoda09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got610.avi:(SER) Game of Thrones-Sezona06-Epizoda10
+#DESCRIPTION (SER) Game of Thrones-Sezona06-Epizoda10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got70.avi:(SER) Game of Thrones-Sezona07-Epizoda01
+#DESCRIPTION (SER) Game of Thrones-Sezona07-Epizoda01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got71.avi:(SER) Game of Thrones-Sezona07-Epizoda02
+#DESCRIPTION (SER) Game of Thrones-Sezona07-Epizoda02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got73.avi:(SER) Game of Thrones-Sezona07-Epizoda03
+#DESCRIPTION (SER) Game of Thrones-Sezona07-Epizoda03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got74.avi:(SER) Game of Thrones-Sezona07-Epizoda04
+#DESCRIPTION (SER) Game of Thrones-Sezona07-Epizoda04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got75.avi:(SER) Game of Thrones-Sezona07-Epizoda05
+#DESCRIPTION (SER) Game of Thrones-Sezona07-Epizoda05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/goms07e06.avi:(SER) Game of Thrones-Sezona07-Epizoda06
+#DESCRIPTION (SER) Game of Thrones-Sezona07-Epizoda06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got77.avi:(SER) Game of Thrones-Sezona07-Epizoda07
+#DESCRIPTION (SER) Game of Thrones-Sezona07-Epizoda07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got81.avi:(SER) Game of Thrones-Sezona08-Epizoda01
+#DESCRIPTION (SER) Game of Thrones-Sezona08-Epizoda01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got48.avi:(SER) Game of Thrones-Sezona04-Epizoda08
+#DESCRIPTION (SER) Game of Thrones-Sezona04-Epizoda08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got49.avi:(SER) Game of Thrones-Sezona04-Epizoda09
+#DESCRIPTION (SER) Game of Thrones-Sezona04-Epizoda09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got410.avi:(SER) Game of Thrones-Sezona04-Epizoda10
+#DESCRIPTION (SER) Game of Thrones-Sezona04-Epizoda10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got51.avi:(SER) Game of Thrones-Sezona05-Epizoda01
+#DESCRIPTION (SER) Game of Thrones-Sezona05-Epizoda01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got52.avi:(SER) Game of Thrones-Sezona05-Epizoda02
+#DESCRIPTION (SER) Game of Thrones-Sezona05-Epizoda02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got53.avi:(SER) Game of Thrones-Sezona05-Epizoda03
+#DESCRIPTION (SER) Game of Thrones-Sezona05-Epizoda03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got54.avi:(SER) Game of Thrones-Sezona05-Epizoda04
+#DESCRIPTION (SER) Game of Thrones-Sezona05-Epizoda04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got55.avi:(SER) Game of Thrones-Sezona05-Epizoda05
+#DESCRIPTION (SER) Game of Thrones-Sezona05-Epizoda05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got56.avi:(SER) Game of Thrones-Sezona05-Epizoda06
+#DESCRIPTION (SER) Game of Thrones-Sezona05-Epizoda06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got57.avi:(SER) Game of Thrones-Sezona05-Epizoda07
+#DESCRIPTION (SER) Game of Thrones-Sezona05-Epizoda07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got58.avi:(SER) Game of Thrones-Sezona05-Epizoda08
+#DESCRIPTION (SER) Game of Thrones-Sezona05-Epizoda08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got59.avi:(SER) Game of Thrones-Sezona05-Epizoda09
+#DESCRIPTION (SER) Game of Thrones-Sezona05-Epizoda09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got510.avi:(SER) Game of Thrones-Sezona05-Epizoda10
+#DESCRIPTION (SER) Game of Thrones-Sezona05-Epizoda10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got61.avi:(SER) Game of Thrones-Sezona06-Epizoda01
+#DESCRIPTION (SER) Game of Thrones-Sezona06-Epizoda01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got62.avi:(SER) Game of Thrones-Sezona06-Epizoda02
+#DESCRIPTION (SER) Game of Thrones-Sezona06-Epizoda02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got63.avi:(SER) Game of Thrones-Sezona06-Epizoda03
+#DESCRIPTION (SER) Game of Thrones-Sezona06-Epizoda03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got64.avi:(SER) Game of Thrones-Sezona06-Epizoda04
+#DESCRIPTION (SER) Game of Thrones-Sezona06-Epizoda04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got65.avi:(SER) Game of Thrones-Sezona06-Epizoda05
+#DESCRIPTION (SER) Game of Thrones-Sezona06-Epizoda05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1316.avi:(SER) Game of Thrones-Sezona03-Epizoda08
+#DESCRIPTION (SER) Game of Thrones-Sezona03-Epizoda08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1317.avi:(SER) Game of Thrones-Sezona03-Epizoda09
+#DESCRIPTION (SER) Game of Thrones-Sezona03-Epizoda09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1318.avi:(SER) Game of Thrones-Sezona03-Epizoda10
+#DESCRIPTION (SER) Game of Thrones-Sezona03-Epizoda10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1319.avi:(SER) Game of Thrones-Sezona04-Epizoda01
+#DESCRIPTION (SER) Game of Thrones-Sezona04-Epizoda01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got42.avi:(SER) Game of Thrones-Sezona04-Epizoda02
+#DESCRIPTION (SER) Game of Thrones-Sezona04-Epizoda02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got43.avi:(SER) Game of Thrones-Sezona04-Epizoda03
+#DESCRIPTION (SER) Game of Thrones-Sezona04-Epizoda03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got44.avi:(SER) Game of Thrones-Sezona04-Epizoda04
+#DESCRIPTION (SER) Game of Thrones-Sezona04-Epizoda04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got45.avi:(SER) Game of Thrones-Sezona04-Epizoda05
+#DESCRIPTION (SER) Game of Thrones-Sezona04-Epizoda05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got46.avi:(SER) Game of Thrones-Sezona04-Epizoda06
+#DESCRIPTION (SER) Game of Thrones-Sezona04-Epizoda06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/got47.avi:(SER) Game of Thrones-Sezona04-Epizoda07
+#DESCRIPTION (SER) Game of Thrones-Sezona04-Epizoda07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1194.mkv:(SER) Game of Thrones Sezona1-Epizoda10
+#DESCRIPTION (SER) Game of Thrones Sezona1-Epizoda10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1196.mkv:(SER) Game of Thrones Season02-Episode01
+#DESCRIPTION (SER) Game of Thrones Season02-Episode01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1197.mkv:(SER) Game of Thrones Season02-Episode02
+#DESCRIPTION (SER) Game of Thrones Season02-Episode02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1198.mkv:(SER) Game of Thrones Season02-Episode03
+#DESCRIPTION (SER) Game of Thrones Season02-Episode03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1199.mkv:(SER) Game of Thrones Season02-Episode04
+#DESCRIPTION (SER) Game of Thrones Season02-Episode04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1200.mkv:(SER) Game of Thrones-Sezona02-Epizoda05
+#DESCRIPTION (SER) Game of Thrones-Sezona02-Epizoda05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1201.mkv:(SER) Game of Thrones-Sezona02-Epizoda06
+#DESCRIPTION (SER) Game of Thrones-Sezona02-Epizoda06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1202.mkv:(SER) Game of Thrones-Sezona02-Epizoda07
+#DESCRIPTION (SER) Game of Thrones-Sezona02-Epizoda07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1203.mkv:(SER) Game of Thrones-Sezona02-Epizoda08
+#DESCRIPTION (SER) Game of Thrones-Sezona02-Epizoda08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1204.mkv:(SER) Game of Thrones-Sezona02-Epizoda09
+#DESCRIPTION (SER) Game of Thrones-Sezona02-Epizoda09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1205.mkv:(SER) Game of Thrones-Sezona02-Epizoda10
+#DESCRIPTION (SER) Game of Thrones-Sezona02-Epizoda10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1308.avi:(SER) Game of Thrones-Sezona03-Epizoda01
+#DESCRIPTION (SER) Game of Thrones-Sezona03-Epizoda01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1309.avi:(SER) Game of Thrones-Sezona03-Epizoda02
+#DESCRIPTION (SER) Game of Thrones-Sezona03-Epizoda02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1310.avi:(SER) Game of Thrones-Sezona03-Epizoda03
+#DESCRIPTION (SER) Game of Thrones-Sezona03-Epizoda03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1312.avi:(SER) Game of Thrones-Sezona03-Epizoda04
+#DESCRIPTION (SER) Game of Thrones-Sezona03-Epizoda04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1313.avi:(SER) Game of Thrones-Sezona03-Epizoda05
+#DESCRIPTION (SER) Game of Thrones-Sezona03-Epizoda05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1314.avi:(SER) Game of Thrones-Sezona03-Epizoda06
+#DESCRIPTION (SER) Game of Thrones-Sezona03-Epizoda06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1315.avi:(SER) Game of Thrones-Sezona03-Epizoda07
+#DESCRIPTION (SER) Game of Thrones-Sezona03-Epizoda07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1185.avi:(SER) Game of Thrones Sezona1-Epizoda1
+#DESCRIPTION (SER) Game of Thrones Sezona1-Epizoda1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1186.mkv:(SER) Game of Thrones Sezona1-Epizoda2
+#DESCRIPTION (SER) Game of Thrones Sezona1-Epizoda2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1187.mkv:(SER) Game of Thrones Sezona1-Epizoda3
+#DESCRIPTION (SER) Game of Thrones Sezona1-Epizoda3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1188.mkv:(SER) Game of Thrones Sezona1-Epizoda4
+#DESCRIPTION (SER) Game of Thrones Sezona1-Epizoda4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1189.mkv:(SER) Game of Thrones Sezona1-Epizoda5
+#DESCRIPTION (SER) Game of Thrones Sezona1-Epizoda5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1190.mkv:(SER) Game of Thrones Sezona1-Epizoda6
+#DESCRIPTION (SER) Game of Thrones Sezona1-Epizoda6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1191.mkv:(SER) Game of Thrones Sezona1-Epizoda7
+#DESCRIPTION (SER) Game of Thrones Sezona1-Epizoda7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1192.mkv:(SER) Game of Thrones Sezona1-Epizoda8
+#DESCRIPTION (SER) Game of Thrones Sezona1-Epizoda8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/gof/1193.mkv:(SER) Game of Thrones Sezona1-Epizoda9
+#DESCRIPTION (SER) Game of Thrones Sezona1-Epizoda9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns10e1.ts:(SER) Lud Zbunjen Normalan S10E01
+#DESCRIPTION (SER) Lud Zbunjen Normalan S10E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns10e2.ts:(SER) Lud Zbunjen Normalan S10E02
+#DESCRIPTION (SER) Lud Zbunjen Normalan S10E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns10e3.ts:(SER) Lud Zbunjen Normalan S10E03
+#DESCRIPTION (SER) Lud Zbunjen Normalan S10E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns10e4.ts:(SER) Lud Zbunjen Normalan S10E04
+#DESCRIPTION (SER) Lud Zbunjen Normalan S10E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns10e5.ts:(SER) Lud Zbunjen Normalan S10E05
+#DESCRIPTION (SER) Lud Zbunjen Normalan S10E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns10e6.ts:(SER) Lud Zbunjen Normalan S10E06
+#DESCRIPTION (SER) Lud Zbunjen Normalan S10E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns10e7.ts:(SER) Lud Zbunjen Normalan S10E07
+#DESCRIPTION (SER) Lud Zbunjen Normalan S10E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns10e8.ts:(SER) Lud Zbunjen Normalan S10E08
+#DESCRIPTION (SER) Lud Zbunjen Normalan S10E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns10e9.ts:(SER) Lud Zbunjen Normalan S10E09
+#DESCRIPTION (SER) Lud Zbunjen Normalan S10E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns10e10.ts:(SER) Lud Zbunjen Normalan S10E10
+#DESCRIPTION (SER) Lud Zbunjen Normalan S10E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns10e11.ts:(SER) Lud Zbunjen Normalan S10E11
+#DESCRIPTION (SER) Lud Zbunjen Normalan S10E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns10e12.ts:(SER) Lud Zbunjen Normalan S10E12
+#DESCRIPTION (SER) Lud Zbunjen Normalan S10E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e1.ts:(SER) Lud Zbunjen Normalan S09E01
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e2.ts:(SER) Lud Zbunjen Normalan S09E02
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e3.ts:(SER) Lud Zbunjen Normalan S09E03
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e4.ts:(SER) Lud Zbunjen Normalan S09E04
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e5.mp4:(SER) Lud Zbunjen Normalan S09E05
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e6.ts:(SER) Lud Zbunjen Normalan S09E06
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e7.ts:(SER) Lud Zbunjen Normalan S09E07
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e8.mp4:(SER) Lud Zbunjen Normalan S09E08
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e9.ts:(SER) Lud Zbunjen Normalan S09E09
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e10.ts:(SER) Lud Zbunjen Normalan S09E10
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e11.ts:(SER) Lud Zbunjen Normalan S09E11
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e12.mp4:(SER) Lud Zbunjen Normalan S09E12
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e13.ts:(SER) Lud Zbunjen Normalan S09E13
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e14.ts:(SER) Lud Zbunjen Normalan S09E14
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e15.ts:(SER) Lud Zbunjen Normalan S09E15
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e16.ts:(SER) Lud Zbunjen Normalan S09E16
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e17.ts:(SER) Lud Zbunjen Normalan S09E17
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e18.ts:(SER) Lud Zbunjen Normalan S09E18
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e19.ts:(SER) Lud Zbunjen Normalan S09E19
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e20.ts:(SER) Lud Zbunjen Normalan S09E20
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e21.ts:(SER) Lud Zbunjen Normalan S09E21
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e22.ts:(SER) Lud Zbunjen Normalan S09E22
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e23.ts:(SER) Lud Zbunjen Normalan S09E23
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lzns9e24.ts:(SER) Lud Zbunjen Normalan S09E24
+#DESCRIPTION (SER) Lud Zbunjen Normalan S09E24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E23.ts:(SER) Lud Zbunjen Normalan S08E04
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E24.mp4:(SER) Lud Zbunjen Normalan S08E05
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E25.mp4:(SER) Lud Zbunjen Normalan S08E06
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E26.ts:(SER) Lud Zbunjen Normalan S08E07
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E27.mp4:(SER) Lud Zbunjen Normalan S08E08
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E28.ts:(SER) Lud Zbunjen Normalan S08E09
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E29.ts:(SER) Lud Zbunjen Normalan S08E10
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E30.mp4:(SER) Lud Zbunjen Normalan S08E11
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E31.ts:(SER) Lud Zbunjen Normalan S08E12
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E32.ts:(SER) Lud Zbunjen Normalan S08E13
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E33.mp4:(SER) Lud Zbunjen Normalan S08E14
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E34.ts:(SER) Lud Zbunjen Normalan S08E15
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E35.ts:(SER) Lud Zbunjen Normalan S08E16
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E36.ts:(SER) Lud Zbunjen Normalan S08E17
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E37.ts:(SER) Lud Zbunjen Normalan S08E18
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E38.ts:(SER) Lud Zbunjen Normalan S08E19
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E39.ts:(SER) Lud Zbunjen Normalan S08E20
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E40.ts:(SER) Lud Zbunjen Normalan S08E21
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E41.mp4:(SER) Lud Zbunjen Normalan S08E22
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E42.ts:(SER) Lud Zbunjen Normalan S08E23
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E43.mp4:(SER) Lud Zbunjen Normalan S08E24
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E44.ts:(SER) Lud Zbunjen Normalan S08E25
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E45.mp4:(SER) Lud Zbunjen Normalan S08E26
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E46.ts:(SER) Lud Zbunjen Normalan S08E27
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E47.ts:(SER) Lud Zbunjen Normalan S08E28
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E48.ts:(SER) Lud Zbunjen Normalan S08E29
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E20.mp4:(SER) Lud Zbunjen Normalan S08E01
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E21.ts:(SER) Lud Zbunjen Normalan S08E02
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/lznS09E22.ts:(SER) Lud Zbunjen Normalan S08E03
+#DESCRIPTION (SER) Lud Zbunjen Normalan S08E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/477.mkv:(SER) Lud Zbunjen Normalan S01E01
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/478.mkv:(SER) Lud Zbunjen Normalan S01E02
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/479.mkv:(SER) Lud Zbunjen Normalan S01E03
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/480.mkv:(SER) Lud Zbunjen Normalan S01E04
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/481.mkv:(SER) Lud Zbunjen Normalan S01E05
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/482.mkv:(SER) Lud Zbunjen Normalan S01E06
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/483.mkv:(SER) Lud Zbunjen Normalan S01E07
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/484.mkv:(SER) Lud Zbunjen Normalan S01E08
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/486.mkv:(SER) Lud Zbunjen Normalan S01E09
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/487.mkv:(SER) Lud Zbunjen Normalan S01E10
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/488.mkv:(SER) Lud Zbunjen Normalan S01E11
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/489.mkv:(SER) Lud Zbunjen Normalan S01E12
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/490.mkv:(SER) Lud Zbunjen Normalan S01E13
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/491.mkv:(SER) Lud Zbunjen Normalan S01E14
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/492.mkv:(SER) Lud Zbunjen Normalan S01E15
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/493.mkv:(SER) Lud Zbunjen Normalan S01E16
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/494.mkv:(SER) Lud Zbunjen Normalan S01E17
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/495.mkv:(SER) Lud Zbunjen Normalan S01E18
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/496.mkv:(SER) Lud Zbunjen Normalan S01E19
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/497.mkv:(SER) Lud Zbunjen Normalan S01E20
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/498.mkv:(SER) Lud Zbunjen Normalan S01E21
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/499.mkv:(SER) Lud Zbunjen Normalan S01E22
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/500.mkv:(SER) Lud Zbunjen Normalan S01E23
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/501.mkv:(SER) Lud Zbunjen Normalan S01E24
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/502.mkv:(SER) Lud Zbunjen Normalan S01E25
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/503.mkv:(SER) Lud Zbunjen Normalan S01E26
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/504.mkv:(SER) Lud Zbunjen Normalan S01E27
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/505.mkv:(SER) Lud Zbunjen Normalan S01E28
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/506.mkv:(SER) Lud Zbunjen Normalan S01E29
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/507.mkv:(SER) Lud Zbunjen Normalan S01E30
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/508.mkv:(SER) Lud Zbunjen Normalan S01E31
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/509.mkv:(SER) Lud Zbunjen Normalan S01E32
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E32
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/510.mkv:(SER) Lud Zbunjen Normalan S01E33
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/511.mkv:(SER) Lud Zbunjen Normalan S01E34
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/512.mkv:(SER) Lud Zbunjen Normalan S01E35
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E35
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/513.mkv:(SER) Lud Zbunjen Normalan S01E36
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E36
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/514.mkv:(SER) Lud Zbunjen Normalan S01E37
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E37
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/515.mkv:(SER) Lud Zbunjen Normalan S01E38
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E38
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/516.mkv:(SER) Lud Zbunjen Normalan S01E39
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E39
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/517.mkv:(SER) Lud Zbunjen Normalan S01E40
+#DESCRIPTION (SER) Lud Zbunjen Normalan S01E40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/uncledrew.avi:(STR) Uncle Drew
+#DESCRIPTION (STR) Uncle Drew
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/overlord.avi:(STR) Overlord
+#DESCRIPTION (STR) Overlord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/prodigy.avi:(STR) The Prodigy
+#DESCRIPTION (STR) The Prodigy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/pwar.avi:(STR) A Private War
+#DESCRIPTION (STR) A Private War
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/replicas.avi:(STR) Replicas
+#DESCRIPTION (STR) Replicas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/robinh.avi:(STR) Robin Hood
+#DESCRIPTION (STR) Robin Hood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/romantic.avi:(STR) Isn't It Romantic
+#DESCRIPTION (STR) Isn't It Romantic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/rustcrek.avi:(STR) Rust Creek
+#DESCRIPTION (STR) Rust Creek
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/serenity.avi:(STR) Serenity
+#DESCRIPTION (STR) Serenity
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/shazam.avi:(STR) Shazam!
+#DESCRIPTION (STR) Shazam!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/silence.avi:(STR) Silencer
+#DESCRIPTION (STR) Silencer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/spiderweb.avi:(STR) The Girl in the Spider's Web
+#DESCRIPTION (STR) The Girl in the Spider's Web
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/split.avi:(STR) Split
+#DESCRIPTION (STR) Split
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/staniolie.avi:(STR) Stan & Ollie
+#DESCRIPTION (STR) Stan & Ollie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/supert2.avi:(STR) Super Troopers 2
+#DESCRIPTION (STR) Super Troopers 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/thg.avi:(STR) The Hole in the Ground
+#DESCRIPTION (STR) The Hole in the Ground
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/triplefrontier.avi:(STR) Triple Frontier
+#DESCRIPTION (STR) Triple Frontier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/debtcolector.avi:(STR) The Debt Collector
+#DESCRIPTION (STR) The Debt Collector
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/dragged.avi:(STR) Dragged Across Concrete
+#DESCRIPTION (STR) Dragged Across Concrete
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/escapeplan.avi:(STR) Escape Plan: The Extractors
+#DESCRIPTION (STR) Escape Plan: The Extractors
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/fool.avi:(STR) Nobody's Fool
+#DESCRIPTION (STR) Nobody's Fool
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/gosnell.avi:(STR) Gosnell: The Trial of America's Biggest Seri
+#DESCRIPTION (STR) Gosnell: The Trial of America's Biggest Seri
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/grindewald.avi:(STR) Fantastic Beasts: The Crimes of Grindelwald
+#DESCRIPTION (STR) Fantastic Beasts: The Crimes of Grindelwald
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/highlife.avi:(STR) High Life
+#DESCRIPTION (STR) High Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/hmumbai.avi:(STR) Hotel Mumbai
+#DESCRIPTION (STR) Hotel Mumbai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/holmesiwatson.avi:(STR) Holmes & Watson
+#DESCRIPTION (STR) Holmes & Watson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/hunterkiller.avi:(STR) Hunter Killer
+#DESCRIPTION (STR) Hunter Killer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/inlikeflin.avi:(STR) In Like Flynn
+#DESCRIPTION (STR) In Like Flynn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/io.avi:(STR) IO
+#DESCRIPTION (STR) IO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/ironsky2.avi:(STR) Iron Sky: The Coming Race
+#DESCRIPTION (STR) Iron Sky: The Coming Race
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/kinglear.avi:(STR) King Lear
+#DESCRIPTION (STR) King Lear
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/kingt.avi:(STR) King of Thieves
+#DESCRIPTION (STR) King of Thieves
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/lastman.avi:(STR) The Last Man
+#DESCRIPTION (STR) The Last Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/mule.avi:(STR) The Mule
+#DESCRIPTION (STR) The Mule
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/nevergrow.avi:(STR) Never Grow Old
+#DESCRIPTION (STR) Never Grow Old
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/kategorije.mp4:***** FILMOVI SA PREVODOM *****
+#DESCRIPTION ***** FILMOVI SA PREVODOM *****
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/acev2.avi:(STR) Ace Ventura: When Nature Calls
+#DESCRIPTION (STR) Ace Ventura: When Nature Calls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/acev1.avi:(STR) Ace Ventura: Pet Detective
+#DESCRIPTION (STR) Ace Ventura: Pet Detective
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/alita.avi:(STR) Alita: Battle Angel
+#DESCRIPTION (STR) Alita: Battle Angel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/aquaman.avi:(STR) Aquaman
+#DESCRIPTION (STR) Aquaman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/arctic.avi:(STR) Arctic
+#DESCRIPTION (STR) Arctic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/backr.avi:(STR) Back Roads
+#DESCRIPTION (STR) Back Roads
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/balkanskamedja.avi:(STR) Balkan Line-Balkanska medja
+#DESCRIPTION (STR) Balkan Line-Balkanska medja
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/bumblebe.avi:(STR) Bumblebee
+#DESCRIPTION (STR) Bumblebee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/captivestate.avi:(STR) Captive State
+#DESCRIPTION (STR) Captive State
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/close.avi:(STR) Close
+#DESCRIPTION (STR) Close
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/coldpursuit.avi:(STR) Cold Pursuit
+#DESCRIPTION (STR) Cold Pursuit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/creed2.avi:(STR) Creed II
+#DESCRIPTION (STR) Creed II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/danslb.avi:(STR) Dans la brume
+#DESCRIPTION (STR) Dans la brume
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/darc.avi:(STR) Darc
+#DESCRIPTION (STR) Darc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/402.mkv:(STR) A Most Wanted Man
+#DESCRIPTION (STR) A Most Wanted Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/403.mkv:(STR) Into The Storm
+#DESCRIPTION (STR) Into The Storm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/410.mkv:(STR) Interstellar
+#DESCRIPTION (STR) Interstellar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/421.mkv:(STR) Hercules
+#DESCRIPTION (STR) Hercules
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/423.mkv:(STR) Trash
+#DESCRIPTION (STR) Trash
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/424.mkv:(STR) A Most Wanted Mann
+#DESCRIPTION (STR) A Most Wanted Mann
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/440.mkv:(STR) Fast and Furious 7
+#DESCRIPTION (STR) Fast and Furious 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/443.mkv:(STR) The Boy Next Door
+#DESCRIPTION (STR) The Boy Next Door
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/444.mkv:(STR) Resident Evil: Retribution
+#DESCRIPTION (STR) Resident Evil: Retribution
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/445.mkv:(STR) Everly
+#DESCRIPTION (STR) Everly
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/448.mkv:(STR) The Wedding Ringer
+#DESCRIPTION (STR) The Wedding Ringer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/449.mkv:(STR) The Pyramid
+#DESCRIPTION (STR) The Pyramid
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/452.mkv:(STR) The Cobbler
+#DESCRIPTION (STR) The Cobbler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/kategorije.mp4:***** DOMACI / EX-YU FILMOVI *****
+#DESCRIPTION ***** DOMACI / EX-YU FILMOVI *****
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/kategorije.mp4:***** CRTANI FILMOVI *****
+#DESCRIPTION ***** CRTANI FILMOVI *****
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/346.mkv:(STR) Jack Ryan Shadow Recruit
+#DESCRIPTION (STR) Jack Ryan Shadow Recruit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/equalizer.avi:(STR) The Equalizer
+#DESCRIPTION (STR) The Equalizer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/348.mkv:(STR) Let's Be Cops
+#DESCRIPTION (STR) Let's Be Cops
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/350.mkv:(STR) The Maze Runner
+#DESCRIPTION (STR) The Maze Runner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/361.mkv:(STR) Oblivion
+#DESCRIPTION (STR) Oblivion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/364.mkv:(STR) John Wick
+#DESCRIPTION (STR) John Wick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/365.mkv:(STR) The Hobbit: The Battle Of The Five Armies
+#DESCRIPTION (STR) The Hobbit: The Battle Of The Five Armies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/383.mkv:(STR) Takken 3
+#DESCRIPTION (STR) Takken 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/389.mkv:(STR) The Expendables3
+#DESCRIPTION (STR) The Expendables3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/390.mkv:(STR) Sin City A Dame To Kill For
+#DESCRIPTION (STR) Sin City A Dame To Kill For
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/391.mkv:(STR) Dawn of the Planet of the Apes
+#DESCRIPTION (STR) Dawn of the Planet of the Apes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/395.mkv:(STR) The Imitation Game
+#DESCRIPTION (STR) The Imitation Game
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/311.mkv:(STR) The Truman Show
+#DESCRIPTION (STR) The Truman Show
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/312.mkv:(STR) Undisputed
+#DESCRIPTION (STR) Undisputed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/313.mkv:(STR) The Dictator
+#DESCRIPTION (STR) The Dictator
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/320.mkv:(STR) Man of Steel
+#DESCRIPTION (STR) Man of Steel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/321.mkv:(STR) Rise of the Planet of the Apes
+#DESCRIPTION (STR) Rise of the Planet of the Apes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/322.mkv:(STR) Saw V
+#DESCRIPTION (STR) Saw V
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/323.mkv:(STR) White House Down
+#DESCRIPTION (STR) White House Down
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/324.mkv:(STR) Silent Hill
+#DESCRIPTION (STR) Silent Hill
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/325.mkv:(STR) Transformers: Age of Extinction
+#DESCRIPTION (STR) Transformers: Age of Extinction
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/326.mkv:(STR) Coherence
+#DESCRIPTION (STR) Coherence
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/327.mkv:(STR) RoboCop
+#DESCRIPTION (STR) RoboCop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/333.mkv:(STR) Neighbors
+#DESCRIPTION (STR) Neighbors
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/334.mkv:(STR) Jack Ryan: Shadow Recruit
+#DESCRIPTION (STR) Jack Ryan: Shadow Recruit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/335.mkv:(STR) A Fine Step
+#DESCRIPTION (STR) A Fine Step
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/337.mkv:(STR) Dracula Untold
+#DESCRIPTION (STR) Dracula Untold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/340.mkv:(STR) Glup i Gluplji (1994)
+#DESCRIPTION (STR) Glup i Gluplji (1994)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/342.mkv:(STR) Captain America The Winter Soldier (2014)
+#DESCRIPTION (STR) Captain America The Winter Soldier (2014)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/345.mkv:(STR) Guardians of the Galaxy (2014)
+#DESCRIPTION (STR) Guardians of the Galaxy (2014)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/292.mkv:(STR) Saw 4
+#DESCRIPTION (STR) Saw 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/293.mkv:(STR) Edge of Tomorrow
+#DESCRIPTION (STR) Edge of Tomorrow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/294.mkv:(STR) A Good Day to Die Hard
+#DESCRIPTION (STR) A Good Day to Die Hard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/295.mkv:(STR) Draft Day
+#DESCRIPTION (STR) Draft Day
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/297.mkv:(STR) Pain & Gain
+#DESCRIPTION (STR) Pain & Gain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/298.mkv:(STR) Undisputed 3: Redemption
+#DESCRIPTION (STR) Undisputed 3: Redemption
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/300.mkv:(STR) The Bourne Legacy
+#DESCRIPTION (STR) The Bourne Legacy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/301.mkv:(STR) The Notebook
+#DESCRIPTION (STR) The Notebook
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/302.mkv:(STR) Noah
+#DESCRIPTION (STR) Noah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/304.mkv:(STR) Hotel Rwanda
+#DESCRIPTION (STR) Hotel Rwanda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/306.mkv:(STR) Safe House
+#DESCRIPTION (STR) Safe House
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/307.mkv:(STR) Thor: The Dark World
+#DESCRIPTION (STR) Thor: The Dark World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/308.mkv:(STR) The Bucket List
+#DESCRIPTION (STR) The Bucket List
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/309.mkv:(STR) Battleship
+#DESCRIPTION (STR) Battleship
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/310.mkv:(STR) Undisputed 2: Last Man Standing
+#DESCRIPTION (STR) Undisputed 2: Last Man Standing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/866.mkv:(STR) San Andreas
+#DESCRIPTION (STR) San Andreas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/850.mkv:(STR) Terminator Genisys
+#DESCRIPTION (STR) Terminator Genisys
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/764.mkv:(STR) Ted 2
+#DESCRIPTION (STR) Ted 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/763.mkv:(STR) Fifty Shades of Grey
+#DESCRIPTION (STR) Fifty Shades of Grey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/740.mkv:(STR) MadMax Fury Road
+#DESCRIPTION (STR) MadMax Fury Road
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/730.mkv:(STR) Jurassic World
+#DESCRIPTION (STR) Jurassic World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/711.avi:(STR) Get Hard
+#DESCRIPTION (STR) Get Hard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/575.mkv:(STR) Chappie
+#DESCRIPTION (STR) Chappie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/518.mkv:(STR) Ex Machina
+#DESCRIPTION (STR) Ex Machina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/476.mkv:(STR) Grown UPS 2
+#DESCRIPTION (STR) Grown UPS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/475.mkv:(STR) Grown UPS
+#DESCRIPTION (STR) Grown UPS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/287.mkv:(STR) Dumb and Dumber To
+#DESCRIPTION (STR) Dumb and Dumber To
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/288.mkv:(STR) The Amazing Spider-Man 2
+#DESCRIPTION (STR) The Amazing Spider-Man 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/289.mkv:(STR) Gone girl
+#DESCRIPTION (STR) Gone girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/290.mkv:(STR) How to Train Your Dragon
+#DESCRIPTION (STR) How to Train Your Dragon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/291.mkv:(STR) Elysium
+#DESCRIPTION (STR) Elysium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/883.mkv:(STR) Southpaw
+#DESCRIPTION (STR) Southpaw
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1137.mkv:(STR) Truth
+#DESCRIPTION (STR) Truth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1135.mkv:(STR) Regression
+#DESCRIPTION (STR) Regression
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1125.mkv:(STR) Maze Runner: The Scorch Trials
+#DESCRIPTION (STR) Maze Runner: The Scorch Trials
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1145.mkv:(STR) The Revenant
+#DESCRIPTION (STR) The Revenant
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1144.mkv:(STR) Misconduct
+#DESCRIPTION (STR) Misconduct
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1143.mkv:(STR) The 33
+#DESCRIPTION (STR) The 33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1142.mkv:(STR) Maggie
+#DESCRIPTION (STR) Maggie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1141.mkv:(STR) Trumbo
+#DESCRIPTION (STR) Trumbo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1140.mkv:(STR) 28 days Later
+#DESCRIPTION (STR) 28 days Later
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1139.mkv:(STR) Secret in Their Eyes
+#DESCRIPTION (STR) Secret in Their Eyes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1138.mkv:(STR) Victor Frankenstein
+#DESCRIPTION (STR) Victor Frankenstein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1124.mkv:(STR) 007-Spectre
+#DESCRIPTION (STR) 007-Spectre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/993.avi:(STR) Catch Me If You Can
+#DESCRIPTION (STR) Catch Me If You Can
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/985.mkv:(STR) Ant-Man
+#DESCRIPTION (STR) Ant-Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/966.mkv:(STR) Hitman: Agent 47
+#DESCRIPTION (STR) Hitman: Agent 47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1012.mkv:(STR) The Martian
+#DESCRIPTION (STR) The Martian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1063.mkv:(STR) Conan The Barbarian (2011)
+#DESCRIPTION (STR) Conan The Barbarian (2011)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1146.mkv:(STR) No Escape
+#DESCRIPTION (STR) No Escape
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/cell.avi:(STR) Cell
+#DESCRIPTION (STR) Cell
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/Gridlocked.avi:(STR) Gridlocked
+#DESCRIPTION (STR) Gridlocked
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1217.mkv:(STR) Gods of Egypt
+#DESCRIPTION (STR) Gods of Egypt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1215.mkv:(STR) Jarhead 3
+#DESCRIPTION (STR) Jarhead 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1214.mkv:(STR) Deadpool
+#DESCRIPTION (STR) Deadpool
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1213.mkv:(STR) Pride and Prejudice and Zombies
+#DESCRIPTION (STR) Pride and Prejudice and Zombies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1211.mkv:(STR) Star Wars:Episode VII The Force Awakens
+#DESCRIPTION (STR) Star Wars:Episode VII The Force Awakens
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1184.mkv:(STR) Dirty Grandpa
+#DESCRIPTION (STR) Dirty Grandpa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1183.mkv:(STR) I am Wrath
+#DESCRIPTION (STR) I am Wrath
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1179.mkv:(STR) Ride Along 2
+#DESCRIPTION (STR) Ride Along 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1178.mkv:(STR) Zoolander 2
+#DESCRIPTION (STR) Zoolander 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1172.mp4:(STR) The Trust
+#DESCRIPTION (STR) The Trust
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1171.mkv:(STR) Airlift
+#DESCRIPTION (STR) Airlift
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1149.avi:(STR) Our Brand Is Crisis
+#DESCRIPTION (STR) Our Brand Is Crisis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1148.mkv:(STR) The Transporter Refueled
+#DESCRIPTION (STR) The Transporter Refueled
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1147.mkv:(STR) Sicario
+#DESCRIPTION (STR) Sicario
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/creed.avi:(STR) Creed
+#DESCRIPTION (STR) Creed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/tmn1.mp4:(STR) Tri Metra Iznad Neba
+#DESCRIPTION (STR) Tri Metra Iznad Neba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/zelimte.mp4:(STR) Tengo ganas de ti 2012
+#DESCRIPTION (STR) Tengo ganas de ti 2012
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/borat.mp4:(STR) Borat
+#DESCRIPTION (STR) Borat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/b13.mp4:(STR) District B13 (2004)
+#DESCRIPTION (STR) District B13 (2004)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/nbd2.mp4:(STR) Never Back Down 2: The Beatdown
+#DESCRIPTION (STR) Never Back Down 2: The Beatdown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/nbd11.mp4:(STR) Never Back Down
+#DESCRIPTION (STR) Never Back Down
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/nbd3.avi:(STR) Never Back Down: No Surrender
+#DESCRIPTION (STR) Never Back Down: No Surrender
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/perfekt.avi:(STR) A Perfect Getaway
+#DESCRIPTION (STR) A Perfect Getaway
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ail1.avi:(STR) All Is Lost
+#DESCRIPTION (STR) All Is Lost
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/castaway.avi:(STR) Cast Away
+#DESCRIPTION (STR) Cast Away
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bite.avi:(STR) Bite
+#DESCRIPTION (STR) Bite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/taw.avi:(STR) The Amazing Wizard of Paws
+#DESCRIPTION (STR) The Amazing Wizard of Paws
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/sex2.avi:(STR) Sex and the City 2
+#DESCRIPTION (STR) Sex and the City 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/win.avi:(STR) Where to Invade Next
+#DESCRIPTION (STR) Where to Invade Next
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/tbg.avi:(STR) The Brothers Grimsby
+#DESCRIPTION (STR) The Brothers Grimsby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kum.avi:(STR) The Godfathaer
+#DESCRIPTION (STR) The Godfathaer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/lac.avi:(STR) Law Abiding Citizen
+#DESCRIPTION (STR) Law Abiding Citizen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/toro.avi:(STR) Toro
+#DESCRIPTION (STR) Toro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/tgm.avi:(STR) The Green Mile
+#DESCRIPTION (STR) The Green Mile
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/tsr.avi:(STR) The Shawshank Redemption
+#DESCRIPTION (STR) The Shawshank Redemption
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/twb.avi:(STR) The Way Back
+#DESCRIPTION (STR) The Way Back
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/jounglebook.avi:(STR) The Jungle Book
+#DESCRIPTION (STR) The Jungle Book
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/wstret.avi:(STR) The Wolf of Wall Street
+#DESCRIPTION (STR) The Wolf of Wall Street
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/suk2.avi:(STR) Sam u kuci 2: Izgubljen u New Yorku
+#DESCRIPTION (STR) Sam u kuci 2: Izgubljen u New Yorku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/suk.avi:(STR) Sam u kuci
+#DESCRIPTION (STR) Sam u kuci
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/tgga.avi:(STR) Game of Assassins The Gauntlet
+#DESCRIPTION (STR) Game of Assassins The Gauntlet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/848.mkv:(STR) Bean... film vrhunske katastrofe
+#DESCRIPTION (STR) Bean... film vrhunske katastrofe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/797.mkv:(STR) Strangerland
+#DESCRIPTION (STR) Strangerland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bos2015.avi:(STR) Bridge of Spies
+#DESCRIPTION (STR) Bridge of Spies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kruso.mp4:(STR) Robinson Krusoe 1954
+#DESCRIPTION (STR) Robinson Krusoe 1954
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/raid2.avi:(STR) The Raid 2
+#DESCRIPTION (STR) The Raid 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pompei.avi:(STR) Pompeii
+#DESCRIPTION (STR) Pompeii
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/august.avi:(STR) August: Osage County
+#DESCRIPTION (STR) August: Osage County
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/herkules.avi:(STR) Hercules: The Legend Begins
+#DESCRIPTION (STR) Hercules: The Legend Begins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/osvetnici1.avi:(STR) The Avengers
+#DESCRIPTION (STR) The Avengers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/osvetnici.avi:(STR) Avengers: Age of Ultron
+#DESCRIPTION (STR) Avengers: Age of Ultron
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/gp3.avi:(STR) The Return of the King
+#DESCRIPTION (STR) The Return of the King
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/gp2.avi:(STR) The Two Towers
+#DESCRIPTION (STR) The Two Towers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/gp1.avi:(STR) The Fellowship of the Ring
+#DESCRIPTION (STR) The Fellowship of the Ring
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/tdk.avi:(STR) The Dark Knight
+#DESCRIPTION (STR) The Dark Knight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/fclub.avi:(STR) Fight Club
+#DESCRIPTION (STR) Fight Club
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hachiko.avi:(STR) Hachi: A Dog's Tale
+#DESCRIPTION (STR) Hachi: A Dog's Tale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/slist.avi:(STR) Schindler's List
+#DESCRIPTION (STR) Schindler's List
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/gladiator.avi:(STR) Gladiator
+#DESCRIPTION (STR) Gladiator
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/everest.avi:(STR) Everest
+#DESCRIPTION (STR) Everest
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/inception.avi:(STR) Inception
+#DESCRIPTION (STR) Inception
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/avatar.avi:(STR) Avatar
+#DESCRIPTION (STR) Avatar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/thgame.avi:(STR) The Hunger Games
+#DESCRIPTION (STR) The Hunger Games
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/titanic.avi:(STR) TItanic
+#DESCRIPTION (STR) TItanic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/tisland.avi:(STR) The Island
+#DESCRIPTION (STR) The Island
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ilegend.avi:(STR) I Am Legend
+#DESCRIPTION (STR) I Am Legend
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/masakr.mp4:(STR) The Texas Chainsaw Massacre
+#DESCRIPTION (STR) The Texas Chainsaw Massacre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/chucky.avi:(STR) Curse of Chucky
+#DESCRIPTION (STR) Curse of Chucky
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hanibal.avi:(STR) Hannibal 2001
+#DESCRIPTION (STR) Hannibal 2001
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/lnblago.avi:(STR) Lost City Raiders
+#DESCRIPTION (STR) Lost City Raiders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/tgood.avi:(STR) The Good the Bad and the Ugly
+#DESCRIPTION (STR) The Good the Bad and the Ugly
+#SERVICE 1:64:9C:0:0:0:0:0:0:0::::::__SERIES_VODALL_151.80.100.155__::::
+#DESCRIPTION ::::__SERIES_VODALL_151.80.100.155__::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/983.avi:s13 vikings S04E20 FINAL
 #DESCRIPTION s13 vikings S04E20 FINAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/925.avi:s13 Westworld S01E01
@@ -2543,7 +4385,7 @@
 #DESCRIPTION s13 Viking S04E18
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/982.avi:s13 Viking S04E19
 #DESCRIPTION s13 Viking S04E19
-#SERVICE 1:64:9B:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
+#SERVICE 1:64:9D:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e1.mp4:Game of Thrones Season 1 Episode 1
 #DESCRIPTION Game of Thrones Season 1 Episode 1
