@@ -3,18 +3,8 @@
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//r1---sn-w5nuxa-9ipl.googlevideo.com/videoplayback?expire=1575842513&ei=cR7tXZGmKJqn1Aburp_IBQ&ip=171.5.180.244&id=o-AOW9qk48hE-2YlJOLAluMJUysMdMMrASy8pYIu07IfRY&itag=18&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-w5nuxa-9ipl%2Csn-w5nuxa-c33ll&ms=au%2Crdu&mv=m&mvi=0&pl=21&initcwndbps=1373750&mime=video%2Fmp4&gir=yes&clen=350306243&ratebypass=yes&dur=3798.389&lmt=1540831434232711&mt=1575820838&fvip=5&fexp=23842630&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIgSTV-6o9WfJzinVIR_qVViBAXFx6RcmF0pFf2JxqoLBwCIQDJhRcIhnIHNjDGGPzq38FtwIvuxYPZCQjadAeD9RVdkg%3D%3D&sig=ALgxI2wwRgIhAPnwxmURKd0xrY9Tf1AuxNcPjHnHPu8gisPaofm3MIIbAiEAuo-pWemo3pvjksfcnfr2GtUFMPb6PAOTYF8hByf1UwE%3D&video_id=67HIEoqPVLk&title=Cengiz+Kurto%C4%9Flu%2C+Hakan+Altun+-+Usta+%C3%87%C4%B1rak+%28+Full+Alb%C3%BCm+Dinle+%29+-+%28+Official+Audio+%29:Cengiz Kurtoğlu, Hakan Altun - Usta Çırak ( Ful
 #DESCRIPTION Cengiz Kurtoğlu, Hakan Altun - Usta Çırak ( Ful
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bqgsd19q.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL TV
-#DESCRIPTION KRAL TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8:KRAL HD
-#DESCRIPTION KRAL HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8:KRAL WORLD
-#DESCRIPTION KRAL WORLD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8:KRAL WORLD TV
-#DESCRIPTION KRAL WORLD TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8:DREAM TURK
 #DESCRIPTION DREAM TURK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?:DREAM TV
-#DESCRIPTION DREAM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8:DREAM TV
 #DESCRIPTION DREAM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8:POWER HD
