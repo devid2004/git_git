@@ -2883,28 +2883,28 @@
 #DESCRIPTION 3% 2X10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:****************** ALTERED CARBON *********************************:ALTERED CARBON
 #DESCRIPTION ALTERED CARBON
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E01.mkv: T01E01
-#DESCRIPTION  T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E02.mkv: T01E02
-#DESCRIPTION  T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E03.mkv: T01E03
-#DESCRIPTION  T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E04.mkv: T01E04
-#DESCRIPTION  T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E05.mkv: T01E05
-#DESCRIPTION  T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E06.mkv: T01E06
-#DESCRIPTION  T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E07.mkv: T01E07
-#DESCRIPTION  T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E08.mkv: T01E08
-#DESCRIPTION  T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E09.mkv: T01E09
-#DESCRIPTION  T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E10.mkv: T01E10
-#DESCRIPTION  T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:****************** The Invisible Woman *********************************:КаNAL 59
-#DESCRIPTION КаNAL 59
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E01.mkv:Altered.Carbon T01E01
+#DESCRIPTION Altered.Carbon T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E02.mkv:Altered.Carbon T01E02
+#DESCRIPTION Altered.Carbon T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E03.mkv:Altered.Carbon T01E03
+#DESCRIPTION Altered.Carbon T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E04.mkv:Altered.Carbon T01E04
+#DESCRIPTION Altered.Carbon T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E05.mkv:Altered.Carbon T01E05
+#DESCRIPTION Altered.Carbon T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E06.mkv:Altered.Carbon T01E06
+#DESCRIPTION Altered.Carbon T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E07.mkv:Altered.Carbon T01E07
+#DESCRIPTION Altered.Carbon T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E08.mkv:Altered.Carbon T01E08
+#DESCRIPTION Altered.Carbon T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E09.mkv:Altered.Carbon T01E09
+#DESCRIPTION Altered.Carbon T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Altered.Carbon.1/Altered.Carbon.S01E10.mkv:Altered.Carbon T01E10
+#DESCRIPTION Altered.Carbon T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:****************** The Invisible Woman *********************************:The Invisible Woman
+#DESCRIPTION The Invisible Woman
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.1/T01E01.mp4: The Invisible Woman 1X01
 #DESCRIPTION  The Invisible Woman 1X01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.1/T01E02.mp4: The Invisible Woman 1X02
@@ -2969,28 +2969,28 @@
 #DESCRIPTION American.Crime.Story 2X08
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/ACS.2/American.Crime.Story.S02E09.mkv:American.Crime.Story 2X09
 #DESCRIPTION American.Crime.Story 2X09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:****************** BAND OF BROTHERS *********************************:КаNAL 125
-#DESCRIPTION КаNAL 125
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E01.mkv: T01E01
-#DESCRIPTION  T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E02.mkv: T01E02
-#DESCRIPTION  T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E03.mkv: T01E03
-#DESCRIPTION  T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E04.mkv: T01E04
-#DESCRIPTION  T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E05.mkv: T01E05
-#DESCRIPTION  T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E06.mkv: T01E06
-#DESCRIPTION  T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E07.mkv: T01E07
-#DESCRIPTION  T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E08.mkv: T01E08
-#DESCRIPTION  T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E09.mkv: T01E09
-#DESCRIPTION  T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E10.mkv: T01E10
-#DESCRIPTION  T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:****************** BAND OF BROTHERS *********************************:BAND OF BROTHERS
+#DESCRIPTION BAND OF BROTHERS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E01.mkv:Band.of.Brothers T01E01
+#DESCRIPTION Band.of.Brothers T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E02.mkv:Band.of.Brothers T01E02
+#DESCRIPTION Band.of.Brothers T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E03.mkv:Band.of.Brothers T01E03
+#DESCRIPTION Band.of.Brothers T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E04.mkv:Band.of.Brothers T01E04
+#DESCRIPTION Band.of.Brothers T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E05.mkv:Band.of.Brothers T01E05
+#DESCRIPTION Band.of.Brothers T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E06.mkv:Band.of.Brothers T01E06
+#DESCRIPTION Band.of.Brothers T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E07.mkv:Band.of.Brothers T01E07
+#DESCRIPTION Band.of.Brothers T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E08.mkv:Band.of.Brothers T01E08
+#DESCRIPTION Band.of.Brothers T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E09.mkv:Band.of.Brothers T01E09
+#DESCRIPTION Band.of.Brothers T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Band.of.Brothers.1/BOB-ADALMIR.E10.mkv:Band.of.Brothers T01E10
+#DESCRIPTION Band.of.Brothers T01E10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Black.Sails.1/Black.Sails.S01E01.mkv:BLACK SAILS T01E01
 #DESCRIPTION BLACK SAILS T01E01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Black.Sails.1/Black.Sails.S01E02.mkv:BLACK SAILS T01E02
@@ -3271,194 +3271,194 @@
 #DESCRIPTION Breaking Bad T05E15
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Breaking.Bad.5/16.Felina.Season.Finale.mp4:Breaking Bad T05E16
 #DESCRIPTION Breaking Bad T05E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E01.mkv:BE T01E01
-#DESCRIPTION BE T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E02.mkv:BE T01E02
-#DESCRIPTION BE T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E03.mkv:BE T01E03
-#DESCRIPTION BE T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E04.mkv:BE T01E04
-#DESCRIPTION BE T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E05.mkv:BE T01E05
-#DESCRIPTION BE T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E06.mkv:BE T01E06
-#DESCRIPTION BE T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E07.mkv:BE T01E07
-#DESCRIPTION BE T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E08.mkv:BE T01E08
-#DESCRIPTION BE T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E09.mkv:BE T01E09
-#DESCRIPTION BE T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E10.mkv:BE T01E10
-#DESCRIPTION BE T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E11.mkv:BE T01E11
-#DESCRIPTION BE T01E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E12.mkv:BE T01E12
-#DESCRIPTION BE T01E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E01.mkv:BE T02E01
-#DESCRIPTION BE T02E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E02.mkv:BE T02E02
-#DESCRIPTION BE T02E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E03.mkv:BE T02E03
-#DESCRIPTION BE T02E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E04.mkv:BE T02E04
-#DESCRIPTION BE T02E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E05.mkv:BE T02E05
-#DESCRIPTION BE T02E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E06.mkv:BE T02E06
-#DESCRIPTION BE T02E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E07.mkv:BE T02E07
-#DESCRIPTION BE T02E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E08.mkv:BE T02E08
-#DESCRIPTION BE T02E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E09.mkv:BE T02E09
-#DESCRIPTION BE T02E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E10.mkv:BE T02E10
-#DESCRIPTION BE T02E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E11.mkv:BE T02E11
-#DESCRIPTION BE T02E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E12.mkv:BE T02E12
-#DESCRIPTION BE T02E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E01.mkv:BE T03E01
-#DESCRIPTION BE T03E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E02.mkv:BE T03E02
-#DESCRIPTION BE T03E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E03.mkv:BE T03E03
-#DESCRIPTION BE T03E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E04.mkv:BE T03E04
-#DESCRIPTION BE T03E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E05.mkv:BE T03E05
-#DESCRIPTION BE T03E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E06.mkv:BE T03E06
-#DESCRIPTION BE T03E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E07.mkv:BE T03E07
-#DESCRIPTION BE T03E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E08.mkv:BE T03E08
-#DESCRIPTION BE T03E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E09.mkv:BE T03E09
-#DESCRIPTION BE T03E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E10.mkv:BE T03E10
-#DESCRIPTION BE T03E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E11.mkv:BE T03E11
-#DESCRIPTION BE T03E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E12.mkv:BE T03E12
-#DESCRIPTION BE T03E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E01.mkv:BE T04E01
-#DESCRIPTION BE T04E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E02.mkv:BE T04E02
-#DESCRIPTION BE T04E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E03.mkv:BE T04E03
-#DESCRIPTION BE T04E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E04.mkv:BE T04E04
-#DESCRIPTION BE T04E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E05.mkv:BE T04E05
-#DESCRIPTION BE T04E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E06.mkv:BE T04E06
-#DESCRIPTION BE T04E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E07.mkv:BE T04E07
-#DESCRIPTION BE T04E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E08.mkv:BE T04E08
-#DESCRIPTION BE T04E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E09.mkv:BE T04E09
-#DESCRIPTION BE T04E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E10.mkv:BE T04E10
-#DESCRIPTION BE T04E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E11.mkv:BE T04E11
-#DESCRIPTION BE T04E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E12.mkv:BE T04E12
-#DESCRIPTION BE T04E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E01.mkv:BE T05E01
-#DESCRIPTION BE T05E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E02.mkv:BE T05E02
-#DESCRIPTION BE T05E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E03.mkv:BE T05E03
-#DESCRIPTION BE T05E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E04.mkv:BE T05E04
-#DESCRIPTION BE T05E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E05.mkv:BE T05E05
-#DESCRIPTION BE T05E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E06.mkv:BE T05E06
-#DESCRIPTION BE T05E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E07.mkv:BE T05E07
-#DESCRIPTION BE T05E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E08.mkv:BE T05E08
-#DESCRIPTION BE T05E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E01.mkv:CC T01E01
-#DESCRIPTION CC T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E02.mkv:CC T01E02
-#DESCRIPTION CC T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E03.mkv:CC T01E03
-#DESCRIPTION CC T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E04.mkv:CC T01E04
-#DESCRIPTION CC T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E05.mkv:CC T01E05
-#DESCRIPTION CC T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E06.mkv:CC T01E06
-#DESCRIPTION CC T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E07.mkv:CC T01E07
-#DESCRIPTION CC T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E08.mkv:CC T01E08
-#DESCRIPTION CC T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E09.mkv:CC T01E09
-#DESCRIPTION CC T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E10.mkv:CC T01E10
-#DESCRIPTION CC T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E01.mkv: T01E01
-#DESCRIPTION  T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E02.mkv: T01E02
-#DESCRIPTION  T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E03.mkv: T01E03
-#DESCRIPTION  T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E04.mkv: T01E04
-#DESCRIPTION  T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E05.mkv: T01E05
-#DESCRIPTION  T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E06.mkv: T01E06
-#DESCRIPTION  T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E07.mkv: T01E07
-#DESCRIPTION  T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E08.mkv: T01E08
-#DESCRIPTION  T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E09.mkv: T01E09
-#DESCRIPTION  T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E10.mkv: T01E10
-#DESCRIPTION  T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E01.mkv:DES T01E01
-#DESCRIPTION DES T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E02.mkv:DES T01E02
-#DESCRIPTION DES T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E03.mkv:DES T01E03
-#DESCRIPTION DES T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E04.mkv:DES T01E04
-#DESCRIPTION DES T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E05.mkv:DES T01E05
-#DESCRIPTION DES T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E06.mkv:DES T01E06
-#DESCRIPTION DES T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E07.mkv:DES T01E07
-#DESCRIPTION DES T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E08.mkv:DES T01E08
-#DESCRIPTION DES T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E01.mkv:DES T02E01
-#DESCRIPTION DES T02E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E02.mkv:DES T02E02
-#DESCRIPTION DES T02E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E03.mkv:DES T02E03
-#DESCRIPTION DES T02E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E04.mkv:DES T02E04
-#DESCRIPTION DES T02E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E05.mkv:DES T02E05
-#DESCRIPTION DES T02E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E06.mkv:DES T02E06
-#DESCRIPTION DES T02E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E07.mkv:DES T02E07
-#DESCRIPTION DES T02E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E08.mkv:DES T02E08
-#DESCRIPTION DES T02E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E09.mkv:DES T02E09
-#DESCRIPTION DES T02E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E10.mkv:DES T02E10
-#DESCRIPTION DES T02E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E01.mkv:Boardwalk.Empire T01E01
+#DESCRIPTION Boardwalk.Empire T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E02.mkv:Boardwalk.Empire T01E02
+#DESCRIPTION Boardwalk.Empire T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E03.mkv:Boardwalk.Empire T01E03
+#DESCRIPTION Boardwalk.Empire T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E04.mkv:Boardwalk.Empire T01E04
+#DESCRIPTION Boardwalk.Empire T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E05.mkv:Boardwalk.Empire T01E05
+#DESCRIPTION Boardwalk.Empire T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E06.mkv:Boardwalk.Empire T01E06
+#DESCRIPTION Boardwalk.Empire T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E07.mkv:Boardwalk.Empire T01E07
+#DESCRIPTION Boardwalk.Empire T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E08.mkv:Boardwalk.Empire T01E08
+#DESCRIPTION Boardwalk.Empire T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E09.mkv:Boardwalk.Empire T01E09
+#DESCRIPTION Boardwalk.Empire T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E10.mkv:Boardwalk.Empire T01E10
+#DESCRIPTION Boardwalk.Empire T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E11.mkv:Boardwalk.Empire T01E11
+#DESCRIPTION Boardwalk.Empire T01E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.1/Boardwalk.Empire.S01E12.mkv:Boardwalk.Empire T01E12
+#DESCRIPTION Boardwalk.Empire T01E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E01.mkv:Boardwalk.Empire T02E01
+#DESCRIPTION Boardwalk.Empire T02E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E02.mkv:Boardwalk.Empire T02E02
+#DESCRIPTION Boardwalk.Empire T02E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E03.mkv:Boardwalk.Empire T02E03
+#DESCRIPTION Boardwalk.Empire T02E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E04.mkv:Boardwalk.Empire T02E04
+#DESCRIPTION Boardwalk.Empire T02E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E05.mkv:Boardwalk.Empire T02E05
+#DESCRIPTION Boardwalk.Empire T02E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E06.mkv:Boardwalk.Empire T02E06
+#DESCRIPTION Boardwalk.Empire T02E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E07.mkv:Boardwalk.Empire T02E07
+#DESCRIPTION Boardwalk.Empire T02E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E08.mkv:Boardwalk.Empire T02E08
+#DESCRIPTION Boardwalk.Empire T02E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E09.mkv:Boardwalk.Empire T02E09
+#DESCRIPTION Boardwalk.Empire T02E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E10.mkv:Boardwalk.Empire T02E10
+#DESCRIPTION Boardwalk.Empire T02E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E11.mkv:Boardwalk.Empire T02E11
+#DESCRIPTION Boardwalk.Empire T02E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.2/Boardwalk.Empire.S02E12.mkv:Boardwalk.Empire T02E12
+#DESCRIPTION Boardwalk.Empire T02E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E01.mkv:Boardwalk.Empire T03E01
+#DESCRIPTION Boardwalk.Empire T03E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E02.mkv:Boardwalk.Empire T03E02
+#DESCRIPTION Boardwalk.Empire T03E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E03.mkv:Boardwalk.Empire T03E03
+#DESCRIPTION Boardwalk.Empire T03E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E04.mkv:Boardwalk.Empire T03E04
+#DESCRIPTION Boardwalk.Empire T03E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E05.mkv:Boardwalk.Empire T03E05
+#DESCRIPTION Boardwalk.Empire T03E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E06.mkv:Boardwalk.Empire T03E06
+#DESCRIPTION Boardwalk.Empire T03E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E07.mkv:Boardwalk.Empire T03E07
+#DESCRIPTION Boardwalk.Empire T03E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E08.mkv:Boardwalk.Empire T03E08
+#DESCRIPTION Boardwalk.Empire T03E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E09.mkv:Boardwalk.Empire T03E09
+#DESCRIPTION Boardwalk.Empire T03E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E10.mkv:Boardwalk.Empire T03E10
+#DESCRIPTION Boardwalk.Empire T03E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E11.mkv:Boardwalk.Empire T03E11
+#DESCRIPTION Boardwalk.Empire T03E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.3/boardwalk.Empire.S03E12.mkv:Boardwalk.Empire T03E12
+#DESCRIPTION Boardwalk.Empire T03E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E01.mkv:Boardwalk.Empire T04E01
+#DESCRIPTION Boardwalk.Empire T04E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E02.mkv:Boardwalk.Empire T04E02
+#DESCRIPTION Boardwalk.Empire T04E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E03.mkv:Boardwalk.Empire T04E03
+#DESCRIPTION Boardwalk.Empire T04E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E04.mkv:Boardwalk.Empire T04E04
+#DESCRIPTION Boardwalk.Empire T04E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E05.mkv:Boardwalk.Empire T04E05
+#DESCRIPTION Boardwalk.Empire T04E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E06.mkv:Boardwalk.Empire T04E06
+#DESCRIPTION Boardwalk.Empire T04E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E07.mkv:Boardwalk.Empire T04E07
+#DESCRIPTION Boardwalk.Empire T04E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E08.mkv:Boardwalk.Empire T04E08
+#DESCRIPTION Boardwalk.Empire T04E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E09.mkv:Boardwalk.Empire T04E09
+#DESCRIPTION Boardwalk.Empire T04E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E10.mkv:Boardwalk.Empire T04E10
+#DESCRIPTION Boardwalk.Empire T04E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E11.mkv:Boardwalk.Empire T04E11
+#DESCRIPTION Boardwalk.Empire T04E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.4/boardwalk.Empire.S04E12.mkv:Boardwalk.Empire T04E12
+#DESCRIPTION Boardwalk.Empire T04E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E01.mkv:Boardwalk.Empire T05E01
+#DESCRIPTION Boardwalk.Empire T05E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E02.mkv:Boardwalk.Empire T05E02
+#DESCRIPTION Boardwalk.Empire T05E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E03.mkv:Boardwalk.Empire T05E03
+#DESCRIPTION Boardwalk.Empire T05E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E04.mkv:Boardwalk.Empire T05E04
+#DESCRIPTION Boardwalk.Empire T05E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E05.mkv:Boardwalk.Empire T05E05
+#DESCRIPTION Boardwalk.Empire T05E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E06.mkv:Boardwalk.Empire T05E06
+#DESCRIPTION Boardwalk.Empire T05E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E07.mkv:Boardwalk.Empire T05E07
+#DESCRIPTION Boardwalk.Empire T05E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Boardwalk.Empire.5/boardwalk.Empire.S05E08.mkv:Boardwalk.Empire T05E08
+#DESCRIPTION Boardwalk.Empire T05E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E01.mkv:Cocaine.Coast T01E01
+#DESCRIPTION Cocaine.Coast T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E02.mkv:Cocaine.Coast T01E02
+#DESCRIPTION Cocaine.Coast T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E03.mkv:Cocaine.Coast T01E03
+#DESCRIPTION Cocaine.Coast T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E04.mkv:Cocaine.Coast T01E04
+#DESCRIPTION Cocaine.Coast T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E05.mkv:Cocaine.Coast T01E05
+#DESCRIPTION Cocaine.Coast T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E06.mkv:Cocaine.Coast T01E06
+#DESCRIPTION Cocaine.Coast T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E07.mkv:Cocaine.Coast T01E07
+#DESCRIPTION Cocaine.Coast T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E08.mkv:Cocaine.Coast T01E08
+#DESCRIPTION Cocaine.Coast T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E09.mkv:Cocaine.Coast T01E09
+#DESCRIPTION Cocaine.Coast T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Cocaine.Coast.1/Cocaine.Coast.S01E10.mkv:Cocaine.Coast T01E10
+#DESCRIPTION Cocaine.Coast T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E01.mkv:Dark T01E01
+#DESCRIPTION Dark T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E02.mkv:Dark T01E02
+#DESCRIPTION Dark T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E03.mkv:Dark T01E03
+#DESCRIPTION Dark T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E04.mkv:Dark T01E04
+#DESCRIPTION Dark T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E05.mkv:Dark T01E05
+#DESCRIPTION Dark T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E06.mkv:Dark T01E06
+#DESCRIPTION Dark T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E07.mkv:Dark T01E07
+#DESCRIPTION Dark T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E08.mkv:Dark T01E08
+#DESCRIPTION Dark T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E09.mkv:Dark T01E09
+#DESCRIPTION Dark T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Dark.1/Dark.S01E10.mkv:Dark T01E10
+#DESCRIPTION Dark T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E01.mkv:Talihsiz Serüvenler Dizisi T01E01
+#DESCRIPTION Talihsiz Serüvenler Dizisi T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E02.mkv:Talihsiz Serüvenler Dizisi T01E02
+#DESCRIPTION Talihsiz Serüvenler Dizisi T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E03.mkv:Talihsiz Serüvenler Dizisi T01E03
+#DESCRIPTION Talihsiz Serüvenler Dizisi T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E04.mkv:Talihsiz Serüvenler Dizisi T01E04
+#DESCRIPTION Talihsiz Serüvenler Dizisi T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E05.mkv:Talihsiz Serüvenler Dizisi T01E05
+#DESCRIPTION Talihsiz Serüvenler Dizisi T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E06.mkv:Talihsiz Serüvenler Dizisi T01E06
+#DESCRIPTION Talihsiz Serüvenler Dizisi T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E07.mkv:Talihsiz Serüvenler Dizisi T01E07
+#DESCRIPTION Talihsiz Serüvenler Dizisi T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.1/Lemony.Snicket.S01E08.mkv:Talihsiz Serüvenler Dizisi T01E08
+#DESCRIPTION Talihsiz Serüvenler Dizisi T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E01.mkv:Talihsiz Serüvenler Dizisi T02E01
+#DESCRIPTION Talihsiz Serüvenler Dizisi T02E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E02.mkv:Talihsiz Serüvenler Dizisi T02E02
+#DESCRIPTION Talihsiz Serüvenler Dizisi T02E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E03.mkv:Talihsiz Serüvenler Dizisi T02E03
+#DESCRIPTION Talihsiz Serüvenler Dizisi T02E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E04.mkv:Talihsiz Serüvenler Dizisi T02E04
+#DESCRIPTION Talihsiz Serüvenler Dizisi T02E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E05.mkv:Talihsiz Serüvenler Dizisi T02E05
+#DESCRIPTION Talihsiz Serüvenler Dizisi T02E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E06.mkv:Talihsiz Serüvenler Dizisi T02E06
+#DESCRIPTION Talihsiz Serüvenler Dizisi T02E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E07.mkv:Talihsiz Serüvenler Dizisi T02E07
+#DESCRIPTION Talihsiz Serüvenler Dizisi T02E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E08.mkv:Talihsiz Serüvenler Dizisi T02E08
+#DESCRIPTION Talihsiz Serüvenler Dizisi T02E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E09.mkv:Talihsiz Serüvenler Dizisi T02E09
+#DESCRIPTION Talihsiz Serüvenler Dizisi T02E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Lemony.2/Lemony.Snicket.S02E10.mkv:Talihsiz Serüvenler Dizisi T02E10
+#DESCRIPTION Talihsiz Serüvenler Dizisi T02E10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Game.1/S01E01.Winter.Is.Coming.mp4:GAMES OF THRONES T01E01
 #DESCRIPTION GAMES OF THRONES T01E01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Game.1/S01E02.The.Kingsroad.mp4:GAMES OF THRONES T01E02
@@ -3839,68 +3839,68 @@
 #DESCRIPTION GRIMM T06E12
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Grimm.6/Grimm.S06E13.mkv:GRIMM T06E13
 #DESCRIPTION GRIMM T06E13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E01.mkv:T01E01
-#DESCRIPTION T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E02.mkv:T01E02
-#DESCRIPTION T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E03.mkv:T01E03
-#DESCRIPTION T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E04.mkv:T01E04
-#DESCRIPTION T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E05.mkv:T01E05
-#DESCRIPTION T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E06.mkv:T01E06
-#DESCRIPTION T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E07.mkv:T01E07
-#DESCRIPTION T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E08.mkv:T01E08
-#DESCRIPTION T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E09.mkv:T01E09
-#DESCRIPTION T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E10.mkv:T01E10
-#DESCRIPTION T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E11.mkv:T01E11
-#DESCRIPTION T01E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E12.mkv:T01E12
-#DESCRIPTION T01E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E01.mkv:T01E01
-#DESCRIPTION T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E02.mkv:T01E02
-#DESCRIPTION T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E03.mkv:T01E03
-#DESCRIPTION T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E04.mkv:T01E04
-#DESCRIPTION T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E05.mkv:T01E05
-#DESCRIPTION T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E06.mkv:T01E06
-#DESCRIPTION T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E07.mkv:T01E07
-#DESCRIPTION T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E08.mkv:T01E08
-#DESCRIPTION T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E09.mkv:T01E09
-#DESCRIPTION T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E10.mkv:T01E10
-#DESCRIPTION T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E11.mkv:T01E11
-#DESCRIPTION T01E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E12.mkv:T01E12
-#DESCRIPTION T01E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E13.mkv:T01E13
-#DESCRIPTION T01E13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel2/Papel2.S02E01.mkv:T02E01
-#DESCRIPTION T02E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel2/Papel2.S02E02.mkv:T02E02
-#DESCRIPTION T02E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel2/Papel2.S02E03.mkv:T02E03
-#DESCRIPTION T02E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel2/Papel2.S02E04.mkv:T02E04
-#DESCRIPTION T02E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel2/Papel2.S02E05.mkv:T02E05
-#DESCRIPTION T02E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel2/Papel2.S02E06.mkv:T02E06
-#DESCRIPTION T02E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E01.mkv:Insatiable T01E01
+#DESCRIPTION Insatiable T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E02.mkv:Insatiable T01E02
+#DESCRIPTION Insatiable T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E03.mkv:Insatiable T01E03
+#DESCRIPTION Insatiable T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E04.mkv:Insatiable T01E04
+#DESCRIPTION Insatiable T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E05.mkv:Insatiable T01E05
+#DESCRIPTION Insatiable T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E06.mkv:Insatiable T01E06
+#DESCRIPTION Insatiable T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E07.mkv:Insatiable T01E07
+#DESCRIPTION Insatiable T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E08.mkv:Insatiable T01E08
+#DESCRIPTION Insatiable T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E09.mkv:Insatiable T01E09
+#DESCRIPTION Insatiable T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E10.mkv:Insatiable T01E10
+#DESCRIPTION Insatiable T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E11.mkv:Insatiable T01E11
+#DESCRIPTION Insatiable T01E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Insatiable.1/Insatiable.S01E12.mkv:Insatiable T01E12
+#DESCRIPTION Insatiable T01E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E01.mkv:La Casa de Papel T01E01
+#DESCRIPTION La Casa de Papel T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E02.mkv:La Casa de Papel T01E02
+#DESCRIPTION La Casa de Papel T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E03.mkv:La Casa de Papel T01E03
+#DESCRIPTION La Casa de Papel T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E04.mkv:La Casa de Papel T01E04
+#DESCRIPTION La Casa de Papel T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E05.mkv:La Casa de Papel T01E05
+#DESCRIPTION La Casa de Papel T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E06.mkv:La Casa de Papel T01E06
+#DESCRIPTION La Casa de Papel T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E07.mkv:La Casa de Papel T01E07
+#DESCRIPTION La Casa de Papel T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E08.mkv:La Casa de Papel T01E08
+#DESCRIPTION La Casa de Papel T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E09.mkv:La Casa de Papel T01E09
+#DESCRIPTION La Casa de Papel T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E10.mkv:La Casa de Papel T01E10
+#DESCRIPTION La Casa de Papel T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E11.mkv:La Casa de Papel T01E11
+#DESCRIPTION La Casa de Papel T01E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E12.mkv:La Casa de Papel T01E12
+#DESCRIPTION La Casa de Papel T01E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel1/Papel1.S01E13.mkv:La Casa de Papel T01E13
+#DESCRIPTION La Casa de Papel T01E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel2/Papel2.S02E01.mkv:La Casa de Papel T02E01
+#DESCRIPTION La Casa de Papel T02E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel2/Papel2.S02E02.mkv:La Casa de Papel T02E02
+#DESCRIPTION La Casa de Papel T02E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel2/Papel2.S02E03.mkv:La Casa de Papel T02E03
+#DESCRIPTION La Casa de Papel T02E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel2/Papel2.S02E04.mkv:La Casa de Papel T02E04
+#DESCRIPTION La Casa de Papel T02E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel2/Papel2.S02E05.mkv:La Casa de Papel T02E05
+#DESCRIPTION La Casa de Papel T02E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Papel2/Papel2.S02E06.mkv:La Casa de Papel T02E06
+#DESCRIPTION La Casa de Papel T02E06
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Legiao.1/Legion.S01E01.mp4:Legion T01E01
 #DESCRIPTION Legion T01E01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Legiao.1/Legion.S01E02.mp4:Legion T01E02
@@ -4415,32 +4415,32 @@
 #DESCRIPTION BOSQUE T01E05
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/O.Bosque.1/O.Bosque.S01E06.mkv:BOSQUE T01E06
 #DESCRIPTION BOSQUE T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - The Punisher 2017 - 1.SEZON The Punisher.S01E01.720p.WEB-DL.6CH.x264.DUAL-WESTWORLDW.BLUDV.COM.mkv: T01E01
-#DESCRIPTION  T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - The Punisher 2017 - 1.SEZON The Punisher.S01E02.720p.WEB-DL.6CH.x264.DUAL-WESTWORLDW.BLUDV.COM.mkv: T01E02
-#DESCRIPTION  T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - The Punisher 2017 - 1.SEZON The Punisher.S01E03.720p.WEB-DL.6CH.x264.DUAL-WESTWORLDW.BLUDV.COM.mkv: T01E03
-#DESCRIPTION  T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - The Punisher 2017 - 1.SEZON The Punisher.S01E04.720p.WEB-DL.6CH.x264.DUAL-WESTWORLDW.BLUDV.COM.mkv: T01E04
-#DESCRIPTION  T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - The Punisher 2017 - 1.SEZON The Punisher.S01E05.720p.WEB-DL.6CH.x264.DUAL-WESTWORLDW.BLUDV.COM.mkv: T01E05
-#DESCRIPTION  T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - The Punisher 2017 - 1.SEZON The Punisher.S01E06.720p.WEB-DL.6CH.x264.DUAL-WESTWORLDW.BLUDV.COM.mkv: T01E06
-#DESCRIPTION  T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - The Punisher 2017 - 1.SEZON The Punisher.S01E07.720p.WEB-DL.6CH.x264.DUAL-WESTWORLDW.BLUDV.COM.mkv: T01E07
-#DESCRIPTION  T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - The Punisher 2017 - 1.SEZON The Punisher.S01E08.720p.WEB-DL.6CH.x264.DUAL-WESTWORLDW.BLUDV.COM.mkv: T01E08
-#DESCRIPTION  T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - The Punisher 2017 - 1.SEZON The Punisher.S01E09.720p.WEB-DL.6CH.x264.DUAL-WESTWORLDW.BLUDV.COM.mkv: T01E09
-#DESCRIPTION  T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - The Punisher 2017 - 1.SEZON The Punisher.S01E10.720p.WEB-DL.6CH.x264.DUAL-WESTWORLDW.BLUDV.COM.mkv: T01E10
-#DESCRIPTION  T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - The Punisher 2017 - 1.SEZON The Punisher.S01E11.720p.WEB-DL.6CH.x264.DUAL-WESTWORLDW.BLUDV.COM.mkv: T01E11
-#DESCRIPTION  T01E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - The Punisher 2017 - 1.SEZON The Punisher.S01E12.720p.WEB-DL.6CH.x264.DUAL-WESTWORLDW.BLUDV.COM.mkv: T01E12
-#DESCRIPTION  T01E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - The Punisher 2017 - 1.SEZON The Punisher.S01E13.720p.WEB-DL.6CH.x264.DUAL-WESTWORLDW.BLUDV.COM.mkv: T01E13
-#DESCRIPTION  T01E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E01.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The PunisherThe Punisher T01E01
+#DESCRIPTION The PunisherThe Punisher T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E02.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E02
+#DESCRIPTION The Punisher T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E03.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E03
+#DESCRIPTION The Punisher T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E04.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E04
+#DESCRIPTION The Punisher T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E05.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E05
+#DESCRIPTION The Punisher T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E06.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E06
+#DESCRIPTION The Punisher T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E07.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E07
+#DESCRIPTION The Punisher T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E08.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E08
+#DESCRIPTION The Punisher T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E09.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E09
+#DESCRIPTION The Punisher T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E10.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E10
+#DESCRIPTION The Punisher T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E11.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E11
+#DESCRIPTION The Punisher T01E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E12.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E12
+#DESCRIPTION The Punisher T01E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E13.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E13
+#DESCRIPTION The Punisher T01E13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Ozark.1/Ozark.S01E01.mkv:OZARK T01E01
 #DESCRIPTION OZARK T01E01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Ozark.1/Ozark.S01E02.mkv:OZARK T01E02
@@ -4461,46 +4461,46 @@
 #DESCRIPTION OZARK T01E09
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Ozark.1/Ozark.S01E10.mkv:OZARK T01E10
 #DESCRIPTION OZARK T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E01.mkv:RH T01E01
-#DESCRIPTION RH T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E02.mkv:RH T01E02
-#DESCRIPTION RH T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E03.mkv:RH T01E03
-#DESCRIPTION RH T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E04.mkv:RH T01E04
-#DESCRIPTION RH T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E05.mkv:RH T01E05
-#DESCRIPTION RH T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E06.mkv:RH T01E06
-#DESCRIPTION RH T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E07.mkv:RH T01E07
-#DESCRIPTION RH T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E08.mkv:RH T01E08
-#DESCRIPTION RH T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E09.mkv:RH T01E09
-#DESCRIPTION RH T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E10.mkv:RH T01E10
-#DESCRIPTION RH T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E01.mkv:RH T02E01
-#DESCRIPTION RH T02E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E02.mkv:RH T02E02
-#DESCRIPTION RH T02E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E03.mkv:RH T02E03
-#DESCRIPTION RH T02E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E04.mkv:RH T02E04
-#DESCRIPTION RH T02E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E05.mkv:RH T02E05
-#DESCRIPTION RH T02E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E06.mkv:RH T02E06
-#DESCRIPTION RH T02E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E07.mkv:RH T02E07
-#DESCRIPTION RH T02E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E08.mkv:RH T02E08
-#DESCRIPTION RH T02E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E09.mkv:RH T02E09
-#DESCRIPTION RH T02E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E10.mkv:RH T02E10
-#DESCRIPTION RH T02E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E01.mkv:Real.Humans T01E01
+#DESCRIPTION Real.Humans T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E02.mkv:Real.Humans T01E02
+#DESCRIPTION Real.Humans T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E03.mkv:Real.Humans T01E03
+#DESCRIPTION Real.Humans T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E04.mkv:Real.Humans T01E04
+#DESCRIPTION Real.Humans T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E05.mkv:Real.Humans T01E05
+#DESCRIPTION Real.Humans T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E06.mkv:Real.Humans T01E06
+#DESCRIPTION Real.Humans T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E07.mkv:Real.Humans T01E07
+#DESCRIPTION Real.Humans T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E08.mkv:Real.Humans T01E08
+#DESCRIPTION Real.Humans T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E09.mkv:Real.Humans T01E09
+#DESCRIPTION Real.Humans T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.1/Real.Humans.S01E10.mkv:Real.Humans T01E10
+#DESCRIPTION Real.Humans T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E01.mkv:Real.Humans T02E01
+#DESCRIPTION Real.Humans T02E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E02.mkv:Real.Humans T02E02
+#DESCRIPTION Real.Humans T02E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E03.mkv:Real.Humans T02E03
+#DESCRIPTION Real.Humans T02E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E04.mkv:Real.Humans T02E04
+#DESCRIPTION Real.Humans T02E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E05.mkv:Real.Humans T02E05
+#DESCRIPTION Real.Humans T02E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E06.mkv:Real.Humans T02E06
+#DESCRIPTION Real.Humans T02E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E07.mkv:Real.Humans T02E07
+#DESCRIPTION Real.Humans T02E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E08.mkv:Real.Humans T02E08
+#DESCRIPTION Real.Humans T02E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E09.mkv:Real.Humans T02E09
+#DESCRIPTION Real.Humans T02E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Real.Humans.2/Real.Humans.S02E10.mkv:Real.Humans T02E10
+#DESCRIPTION Real.Humans T02E10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Siren.1/Siren.S01E01.mkv:SIREN T01E01
 #DESCRIPTION SIREN T01E01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Siren.1/Siren.S01E02.mkv:SIREN T01E02
@@ -4521,26 +4521,26 @@
 #DESCRIPTION SIREN T01E09
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Siren.1/Siren.S01E10.mkv:SIREN T01E10
 #DESCRIPTION SIREN T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E01.mkv: T01E01
-#DESCRIPTION  T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E02.mkv: T01E02
-#DESCRIPTION  T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E03.mkv: T01E03
-#DESCRIPTION  T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E04.mkv: T01E04
-#DESCRIPTION  T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E05.mkv: T01E05
-#DESCRIPTION  T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E06.mkv: T01E06
-#DESCRIPTION  T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E07.mkv: T01E07
-#DESCRIPTION  T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E08.mkv: T01E08
-#DESCRIPTION  T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E09.mkv: T01E09
-#DESCRIPTION  T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E10.mkv: T01E10
-#DESCRIPTION  T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E01.mkv:Succession T01E01
+#DESCRIPTION Succession T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E02.mkv:Succession T01E02
+#DESCRIPTION Succession T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E03.mkv:Succession T01E03
+#DESCRIPTION Succession T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E04.mkv:Succession T01E04
+#DESCRIPTION Succession T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E05.mkv:Succession T01E05
+#DESCRIPTION Succession T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E06.mkv:Succession T01E06
+#DESCRIPTION Succession T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E07.mkv:Succession T01E07
+#DESCRIPTION Succession T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E08.mkv:Succession T01E08
+#DESCRIPTION Succession T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E09.mkv:Succession T01E09
+#DESCRIPTION Succession T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Succession.1/Sucession.S01E10.mkv:Succession T01E10
+#DESCRIPTION Succession T01E10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Taboo.1/Taboo.S01E01.mkv:Taboo T01E01
 #DESCRIPTION Taboo T01E01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Taboo.1/Taboo.S01E02.mkv:Taboo T01E02
@@ -4557,106 +4557,106 @@
 #DESCRIPTION Taboo T01E07
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Taboo.1/Taboo.S01E08.mkv:Taboo T01E08
 #DESCRIPTION Taboo T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E01.mkv: T01E01
-#DESCRIPTION  T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E02.mkv: T01E02
-#DESCRIPTION  T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E03.mkv: T01E03
-#DESCRIPTION  T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E04.mkv: T01E04
-#DESCRIPTION  T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E05.mkv: T01E05
-#DESCRIPTION  T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E06.mkv: T01E06
-#DESCRIPTION  T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E07.mkv: T01E07
-#DESCRIPTION  T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E08.mkv: T01E08
-#DESCRIPTION  T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E09.mkv: T01E09
-#DESCRIPTION  T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E10.mkv: T01E10
-#DESCRIPTION  T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E11.mkv: T01E11
-#DESCRIPTION  T01E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E12.mkv: T01E12
-#DESCRIPTION  T01E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E13.mkv: T01E13
-#DESCRIPTION  T01E13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E14.mkv: T01E14
-#DESCRIPTION  T01E14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E15.mkv: T01E15
-#DESCRIPTION  T01E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E16.mkv: T01E16
-#DESCRIPTION  T01E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E17.mkv: T01E17
-#DESCRIPTION  T01E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E18.mkv: T01E18
-#DESCRIPTION  T01E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:****************** THE GIFTED ************************:КаNAL 1772
-#DESCRIPTION КаNAL 1772
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E01.mkv: T01E01
-#DESCRIPTION  T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E02.mkv: T01E02
-#DESCRIPTION  T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E03.mkv: T01E03
-#DESCRIPTION  T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E04.mkv: T01E04
-#DESCRIPTION  T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E05.mkv: T01E05
-#DESCRIPTION  T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E06.mkv: T01E06
-#DESCRIPTION  T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E07.mkv: T01E07
-#DESCRIPTION  T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E08.mkv: T01E08
-#DESCRIPTION  T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E09.mkv: T01E09
-#DESCRIPTION  T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E10.mkv: T01E10
-#DESCRIPTION  T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E11.mkv: T01E11
-#DESCRIPTION  T01E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E12-13.mkv: T01E12/13
-#DESCRIPTION  T01E12/13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E01.mkv: T01E01
-#DESCRIPTION  T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E02.mkv: T01E02
-#DESCRIPTION  T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E03.mkv: T01E03
-#DESCRIPTION  T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E04.mkv: T01E04
-#DESCRIPTION  T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E05.mkv: T01E05
-#DESCRIPTION  T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E06.mkv: T01E06
-#DESCRIPTION  T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E07.mkv: T01E07
-#DESCRIPTION  T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E08.mkv: T01E08
-#DESCRIPTION  T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:****************** TIN STAR ************************:КаNAL 1814
-#DESCRIPTION КаNAL 1814
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E01.mkv: T01E01
-#DESCRIPTION  T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E02.mkv: T01E02
-#DESCRIPTION  T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E03.mkv: T01E03
-#DESCRIPTION  T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E04.mkv: T01E04
-#DESCRIPTION  T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E05.mkv: T01E05
-#DESCRIPTION  T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E06.mkv: T01E06
-#DESCRIPTION  T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E07.mkv: T01E07
-#DESCRIPTION  T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E08.mkv: T01E08
-#DESCRIPTION  T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E09.mkv: T01E09
-#DESCRIPTION  T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E10.mkv: T01E10
-#DESCRIPTION  T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E01.mkv:This.Is.Us T01E01
+#DESCRIPTION This.Is.Us T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E02.mkv:This.Is.Us T01E02
+#DESCRIPTION This.Is.Us T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E03.mkv:This.Is.Us T01E03
+#DESCRIPTION This.Is.Us T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E04.mkv:This.Is.Us T01E04
+#DESCRIPTION This.Is.Us T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E05.mkv:This.Is.Us T01E05
+#DESCRIPTION This.Is.Us T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E06.mkv:This.Is.Us T01E06
+#DESCRIPTION This.Is.Us T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E07.mkv:This.Is.Us T01E07
+#DESCRIPTION This.Is.Us T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E08.mkv:This.Is.Us T01E08
+#DESCRIPTION This.Is.Us T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E09.mkv:This.Is.Us T01E09
+#DESCRIPTION This.Is.Us T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E10.mkv:This.Is.Us T01E10
+#DESCRIPTION This.Is.Us T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E11.mkv:This.Is.Us T01E11
+#DESCRIPTION This.Is.Us T01E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E12.mkv:This.Is.Us T01E12
+#DESCRIPTION This.Is.Us T01E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E13.mkv:This.Is.Us T01E13
+#DESCRIPTION This.Is.Us T01E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E14.mkv:This.Is.Us T01E14
+#DESCRIPTION This.Is.Us T01E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E15.mkv:This.Is.Us T01E15
+#DESCRIPTION This.Is.Us T01E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E16.mkv:This.Is.Us T01E16
+#DESCRIPTION This.Is.Us T01E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E17.mkv:This.Is.Us T01E17
+#DESCRIPTION This.Is.Us T01E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E18.mkv:This.Is.Us T01E18
+#DESCRIPTION This.Is.Us T01E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:****************** THE GIFTED ************************:THE GIFTED
+#DESCRIPTION THE GIFTED
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E01.mkv:The.Gifted T01E01
+#DESCRIPTION The.Gifted T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E02.mkv:The.Gifted T01E02
+#DESCRIPTION The.Gifted T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E03.mkv:The.Gifted T01E03
+#DESCRIPTION The.Gifted T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E04.mkv:The.Gifted T01E04
+#DESCRIPTION The.Gifted T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E05.mkv:The.Gifted T01E05
+#DESCRIPTION The.Gifted T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E06.mkv:The.Gifted T01E06
+#DESCRIPTION The.Gifted T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E07.mkv:The.Gifted T01E07
+#DESCRIPTION The.Gifted T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E08.mkv:The.Gifted T01E08
+#DESCRIPTION The.Gifted T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E09.mkv:The.Gifted T01E09
+#DESCRIPTION The.Gifted T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E10.mkv:The.Gifted T01E10
+#DESCRIPTION The.Gifted T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E11.mkv:The.Gifted T01E11
+#DESCRIPTION The.Gifted T01E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E12-13.mkv:The.Gifted T01E12/13
+#DESCRIPTION The.Gifted T01E12/13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E01.mkv:The.Rain T01E01
+#DESCRIPTION The.Rain T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E02.mkv:The.Rain T01E02
+#DESCRIPTION The.Rain T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E03.mkv:The.Rain T01E03
+#DESCRIPTION The.Rain T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E04.mkv:The.Rain T01E04
+#DESCRIPTION The.Rain T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E05.mkv:The.Rain T01E05
+#DESCRIPTION The.Rain T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E06.mkv:The.Rain T01E06
+#DESCRIPTION The.Rain T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E07.mkv:The.Rain T01E07
+#DESCRIPTION The.Rain T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Rain.1/The.Rain.S01E08.mkv:The.Rain T01E08
+#DESCRIPTION The.Rain T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:****************** TIN STAR ************************:TIN STAR
+#DESCRIPTION TIN STAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E01.mkv:TIN STAR T01E01
+#DESCRIPTION TIN STAR T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E02.mkv:TIN STAR T01E02
+#DESCRIPTION TIN STAR T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E03.mkv:TIN STAR T01E03
+#DESCRIPTION TIN STAR T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E04.mkv:TIN STAR T01E04
+#DESCRIPTION TIN STAR T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E05.mkv:TIN STAR T01E05
+#DESCRIPTION TIN STAR T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E06.mkv:TIN STAR T01E06
+#DESCRIPTION TIN STAR T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E07.mkv:TIN STAR T01E07
+#DESCRIPTION TIN STAR T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E08.mkv:TIN STAR T01E08
+#DESCRIPTION TIN STAR T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E09.mkv:TIN STAR T01E09
+#DESCRIPTION TIN STAR T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Tin.Star.1/Tin.Star.S01E10.mkv:TIN STAR T01E10
+#DESCRIPTION TIN STAR T01E10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:****************** WESTWORLD************************:WESTWORLD
 #DESCRIPTION WESTWORLD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Westworld.1/Westworld.S01E01.mkv:WESTWORLD T01E01
