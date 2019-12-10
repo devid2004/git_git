@@ -203,6 +203,24 @@
 #DESCRIPTION fox sport 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.255.82.82%3a9088/hls/ms_fox_sport_2.m3u8:fox sport 2
 #DESCRIPTION fox sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8:SPORTS | CHINA | CCTV 5 HD
+#DESCRIPTION SPORTS | CHINA | CCTV 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:SPORTS | CHINA | NEW TV Super sports HD
+#DESCRIPTION SPORTS | CHINA | NEW TV Super sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/61109218?ticket=8FC20779B2330F3E201C7FB123D0E147D030B13C&profile=webtv-h264-aac-mpegts:SPORTS | CZ | Eurosport 2 HD
+#DESCRIPTION SPORTS | CZ | Eurosport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/1729617928?ticket=A0F5C7BD48B1DBF3CA0365DC3CBF79FF31229DDD&profile=webtv-h264-aac-mpegts:SPORTS | CZ | FightBox
+#DESCRIPTION SPORTS | CZ | FightBox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/1611977584?ticket=58D6F6F3E1072C27593CD229A147B3B6CFC4C0D1&profile=webtv-h264-aac-mpegts:SPORTS | CZ | Nova Sport 1 HD
+#DESCRIPTION SPORTS | CZ | Nova Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/1413068538?ticket=FFFFFC8D9CC4BBF8DA096FD8D0D4388768F266E4&profile=webtv-h264-aac-mpegts:SPORTS | CZ | Nova Sport 2 HD
+#DESCRIPTION SPORTS | CZ | Nova Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/1743839772?ticket=811A8FA33CED4CDBC2DA956DF99F498A59C23F88&profile=webtv-h264-aac-mpegts:SPORTS | CZ | Sport 1 HD
+#DESCRIPTION SPORTS | CZ | Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/1502877344?ticket=C127092ADB62EA5B44E998824ABEEEE6E3367E4C&profile=webtv-h264-aac-mpegts:SPORTS | CZ | Sport 2 HD
+#DESCRIPTION SPORTS | CZ | Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/998998054?ticket=0C28CE493CBBC5E5542B3781F898737144F2FE7F&profile=webtv-h264-aac-mpegts:SPORTS | CZ | Sport 5
+#DESCRIPTION SPORTS | CZ | Sport 5
 #SERVICE 1:64:A0:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
@@ -283,6 +301,8 @@
 #DESCRIPTION Cdo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8:Cdo Basico
 #DESCRIPTION Cdo Basico
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/darcizzle.m3u8:Darcizzle Offshore (USA)4
+#DESCRIPTION Darcizzle Offshore (USA)4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8:DD Sports
 #DESCRIPTION DD Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8:DD Sports
@@ -315,6 +335,10 @@
 #DESCRIPTION Fight Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/uq2663/h/h05/01.m3u8:Fight Sports
 #DESCRIPTION Fight Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:Fight (USA)6
+#DESCRIPTION Fight (USA)6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:Fox Sports (USA)8
+#DESCRIPTION Fox Sports (USA)8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/index.m3u8:Football
 #DESCRIPTION Football
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8:Fox Sports News
@@ -327,10 +351,14 @@
 #DESCRIPTION GB GAME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.235.41%3a16924:Golf Net
 #DESCRIPTION Golf Net
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:Glory Kickboxing (USA)10
+#DESCRIPTION Glory Kickboxing (USA)10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8:Horizon Sports
 #DESCRIPTION Horizon Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.joinvisions.net%3a1935/jorlive/sport/playlist.m3u8?DVR:Jordan Sport TV
 #DESCRIPTION Jordan Sport TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:Impact Wrestling (USA)11
+#DESCRIPTION Impact Wrestling (USA)11
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8:KIX
 #DESCRIPTION KIX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onlinetv.ktrk.kg%3a1935/live/myStream4/playlist.m3u8:Ktrk Sport
@@ -345,8 +373,22 @@
 #DESCRIPTION Kuwait Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.58.62.92%3a8084:LIVE MOTOR SPORT
 #DESCRIPTION LIVE MOTOR SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.14%3a2025:Match! Football 1
+#DESCRIPTION Match! Football 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.14%3a2010:Match! Football 1 HD
+#DESCRIPTION Match! Football 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.14%3a2026:Match! Football 2
+#DESCRIPTION Match! Football 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.14%3a2011:Match! Football 2 HD
+#DESCRIPTION Match! Football 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.14%3a2027:Match! Football 3
+#DESCRIPTION Match! Football 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.14%3a2012:Match! Football 3 HD
+#DESCRIPTION Match! Football 3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_MATCHPLANETA/variant.m3u8:MATCH! PLANET
 #DESCRIPTION MATCH! PLANET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.191.36.106%3a8080/hls/nashfutbol.m3u8:Match! Premier
+#DESCRIPTION Match! Premier
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8:Mlb Network
 #DESCRIPTION Mlb Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8:Mlb Network
@@ -403,6 +445,8 @@
 #DESCRIPTION Red Bull TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8:Redbull TV HD
 #DESCRIPTION Redbull TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8:Rev'n (USA)14
+#DESCRIPTION Rev'n (USA)14
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/playlist.m3u8:Rtv San Marino Sport
 #DESCRIPTION Rtv San Marino Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/playlist.m3u8:Rtv Sport (san Marino)
@@ -411,6 +455,8 @@
 #DESCRIPTION Ru Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/04.m3u8:S41
 #DESCRIPTION S41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8:Stadium (USA)15
+#DESCRIPTION Stadium (USA)15
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/index.m3u8:Setanta Sport
 #DESCRIPTION Setanta Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/04.m3u8:Setanta Sports (SD)
@@ -461,6 +507,8 @@
 #DESCRIPTION Super Soccer Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8:Telecaribe Deportes
 #DESCRIPTION Telecaribe Deportes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/56377913f7c493ce618c4de1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:The Surf Channel (USA)16
+#DESCRIPTION The Surf Channel (USA)16
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv3.streampulse.eu%3a1935/tilesport/movie1/playlist.m3u8:TILESPORT GREECE
 #DESCRIPTION TILESPORT GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:TJK TV
@@ -479,6 +527,10 @@
 #DESCRIPTION Türkmen Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.50%3a1234:Viasat Sport
 #DESCRIPTION Viasat Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.50%3a1234:Viasat Sport135
+#DESCRIPTION Viasat Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8:World Fishing Network (Canada)17
+#DESCRIPTION World Fishing Network (Canada)17
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8:World Of Free Sports Tv
 #DESCRIPTION World Of Free Sports Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamengine.wosn.tv%3a1935/live/WOSNLive_1/playlist.m3u8:Wosn Tv
