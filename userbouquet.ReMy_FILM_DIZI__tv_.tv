@@ -2905,32 +2905,32 @@
 #DESCRIPTION Altered.Carbon T01E10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:****************** The Invisible Woman *********************************:The Invisible Woman
 #DESCRIPTION The Invisible Woman
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.1/T01E01.mp4: The Invisible Woman 1X01
-#DESCRIPTION  The Invisible Woman 1X01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.1/T01E02.mp4: The Invisible Woman 1X02
-#DESCRIPTION  The Invisible Woman 1X02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.1/T01E03.mp4: The Invisible Woman 1X03
-#DESCRIPTION  The Invisible Woman 1X03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.1/T01E04.mp4: The Invisible Woman 1X04
-#DESCRIPTION  The Invisible Woman 1X04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.1/T01E05.mp4: The Invisible Woman 1X05
-#DESCRIPTION  The Invisible Woman 1X05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E01.mp4: The Invisible Woman 2X01
-#DESCRIPTION  The Invisible Woman 2X01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E02.mp4: The Invisible Woman 2X02
-#DESCRIPTION  The Invisible Woman 2X02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E03.mp4: The Invisible Woman 2X03
-#DESCRIPTION  The Invisible Woman 2X03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E04.mp4: The Invisible Woman 2X04
-#DESCRIPTION  The Invisible Woman 2X04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E05.mp4: The Invisible Woman 2X05
-#DESCRIPTION  The Invisible Woman 2X05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E06.mp4: The Invisible Woman 2X06
-#DESCRIPTION  The Invisible Woman 2X06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E07.mp4: The Invisible Woman 2X07
-#DESCRIPTION  The Invisible Woman 2X07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E08.mp4: The Invisible Woman 2X08
-#DESCRIPTION  The Invisible Woman 2X08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.1/T01E01.mp4:The Invisible Woman 1X01
+#DESCRIPTION The Invisible Woman 1X01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.1/T01E02.mp4:The Invisible Woman 1X02
+#DESCRIPTION The Invisible Woman 1X02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.1/T01E03.mp4:The Invisible Woman 1X03
+#DESCRIPTION The Invisible Woman 1X03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.1/T01E04.mp4:The Invisible Woman 1X04
+#DESCRIPTION The Invisible Woman 1X04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.1/T01E05.mp4:The Invisible Woman 1X05
+#DESCRIPTION The Invisible Woman 1X05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E01.mp4:The Invisible Woman 2X01
+#DESCRIPTION The Invisible Woman 2X01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E02.mp4:The Invisible Woman 2X02
+#DESCRIPTION The Invisible Woman 2X02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E03.mp4:The Invisible Woman 2X03
+#DESCRIPTION The Invisible Woman 2X03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E04.mp4:The Invisible Woman 2X04
+#DESCRIPTION The Invisible Woman 2X04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E05.mp4:The Invisible Woman 2X05
+#DESCRIPTION The Invisible Woman 2X05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E06.mp4:The Invisible Woman 2X06
+#DESCRIPTION The Invisible Woman 2X06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E07.mp4:The Invisible Woman 2X07
+#DESCRIPTION The Invisible Woman 2X07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Mulher.Invisivel.2/T02E08.mp4:The Invisible Woman 2X08
+#DESCRIPTION The Invisible Woman 2X08
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/ACS.1/American.Crime.Story.2016.S01E01.mkv:American.Crime.Story 1X01
 #DESCRIPTION American.Crime.Story 1X01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/ACS.1/American.Crime.Story.2016.S01E02.mkv:American.Crime.Story 1X02
@@ -4557,44 +4557,6 @@
 #DESCRIPTION Taboo T01E07
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Taboo.1/Taboo.S01E08.mkv:Taboo T01E08
 #DESCRIPTION Taboo T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E01.mkv:This.Is.Us T01E01
-#DESCRIPTION This.Is.Us T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E02.mkv:This.Is.Us T01E02
-#DESCRIPTION This.Is.Us T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E03.mkv:This.Is.Us T01E03
-#DESCRIPTION This.Is.Us T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E04.mkv:This.Is.Us T01E04
-#DESCRIPTION This.Is.Us T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E05.mkv:This.Is.Us T01E05
-#DESCRIPTION This.Is.Us T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E06.mkv:This.Is.Us T01E06
-#DESCRIPTION This.Is.Us T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E07.mkv:This.Is.Us T01E07
-#DESCRIPTION This.Is.Us T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E08.mkv:This.Is.Us T01E08
-#DESCRIPTION This.Is.Us T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E09.mkv:This.Is.Us T01E09
-#DESCRIPTION This.Is.Us T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E10.mkv:This.Is.Us T01E10
-#DESCRIPTION This.Is.Us T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E11.mkv:This.Is.Us T01E11
-#DESCRIPTION This.Is.Us T01E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E12.mkv:This.Is.Us T01E12
-#DESCRIPTION This.Is.Us T01E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E13.mkv:This.Is.Us T01E13
-#DESCRIPTION This.Is.Us T01E13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E14.mkv:This.Is.Us T01E14
-#DESCRIPTION This.Is.Us T01E14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E15.mkv:This.Is.Us T01E15
-#DESCRIPTION This.Is.Us T01E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E16.mkv:This.Is.Us T01E16
-#DESCRIPTION This.Is.Us T01E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E17.mkv:This.Is.Us T01E17
-#DESCRIPTION This.Is.Us T01E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/This.Is.Us.1/This.Is.Us.2017.S01E18.mkv:This.Is.Us T01E18
-#DESCRIPTION This.Is.Us T01E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:****************** THE GIFTED ************************:THE GIFTED
-#DESCRIPTION THE GIFTED
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E01.mkv:The.Gifted T01E01
 #DESCRIPTION The.Gifted T01E01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/The.Gifted.1/The.Gifted.S01E02.mkv:The.Gifted T01E02

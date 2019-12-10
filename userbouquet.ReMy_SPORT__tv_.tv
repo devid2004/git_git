@@ -11,8 +11,6 @@
 #DESCRIPTION NTV SPOR 1HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.garaveli.de///tekliphp/gstv.php?&m3u8:GS TV
 #DESCRIPTION GS TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csrv.me%3a80/live/fernanda245/142129/1493.m3u8:SporTV 4K
-#DESCRIPTION SporTV 4K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$DolceSportHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Telekom Sport 1 HD
 #DESCRIPTION Telekom Sport 1 HD
 #SERVICE 4097:0:0:4:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Arena.m3u8:Sky-Sports-Arena
@@ -401,8 +399,6 @@
 #DESCRIPTION NBA BesTV Canlı Oda 7HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8:Newtv boutique sports
 #DESCRIPTION Newtv boutique sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:NewTV Süper sporları HD
-#DESCRIPTION NewTV Süper sporları HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8:Nova Sport (bg)
 #DESCRIPTION Nova Sport (bg)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC1_1.m3u8:Olympic Channel
@@ -527,10 +523,8 @@
 #DESCRIPTION Türkmen Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.50%3a1234:Viasat Sport
 #DESCRIPTION Viasat Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.50%3a1234:Viasat Sport135
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.50%3a1234:Viasat Sport
 #DESCRIPTION Viasat Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8:World Fishing Network (Canada)17
-#DESCRIPTION World Fishing Network (Canada)17
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8:World Of Free Sports Tv
 #DESCRIPTION World Of Free Sports Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamengine.wosn.tv%3a1935/live/WOSNLive_1/playlist.m3u8:Wosn Tv
