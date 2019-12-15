@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | NEWS★★ ==
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/kanal24/smil%3akanal24.smil/chunklist.m3u8:24 HD
 #DESCRIPTION 24 HD
@@ -25,10 +25,24 @@
 #DESCRIPTION TRT WORLD HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8:Al Jazeera HD
 #DESCRIPTION Al Jazeera HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8:Sky News
+#DESCRIPTION Sky News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8?fluxustv.m3u8:Sky News
+#DESCRIPTION Sky News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8:Sky News
+#DESCRIPTION Sky News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8:SKY News
 #DESCRIPTION SKY News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8:Sky News
 #DESCRIPTION Sky News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8:Sky News
+#DESCRIPTION Sky News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.skynewsarabia.com/hls/sna.m3u8:Sky News Arabia
+#DESCRIPTION Sky News Arabia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.skynewsarabia.com/hls/sna_720.m3u8:Sky News Arabia
+#DESCRIPTION Sky News Arabia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8:BBC World News
+#DESCRIPTION BBC World News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/004:BBC World News (EN)
 #DESCRIPTION BBC World News (EN)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/BBC/HLS_encr/index.m3u8:BBC world News
@@ -89,6 +103,8 @@
 #DESCRIPTION Newsmax TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8:NHK World
 #DESCRIPTION NHK World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/live/TV00000000000000000034@HHZT:Reuters
+#DESCRIPTION Reuters
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-usa.secure.footprint.net/1105_2500Kb.m3u8:RT America
 #DESCRIPTION RT America
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-doc.secure.footprint.net/1101_2500Kb.m3u8:RT Documentary (English)
@@ -100,6 +116,8 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-news.secure.footprint.net/1103_2500Kb.m3u8:RT HD
 #DESCRIPTION RT HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-uk.secure.footprint.net/1106_2500Kb.m3u8:RT UK
+#DESCRIPTION RT UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-uk.secure.footprint.net/1106.m3u8?streamType=live:RT UK
 #DESCRIPTION RT UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8:RTE News Now
 #DESCRIPTION RTE News Now

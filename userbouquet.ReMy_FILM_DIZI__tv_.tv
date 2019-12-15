@@ -2845,6 +2845,44 @@
 #DESCRIPTION (STR) The Good the Bad and the Ugly
 #SERVICE 1:64:9C:0:0:0:0:0:0:0:::::::::::________NETFLIX_SERIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_SERIES________:::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AnBsVEjXnAyhhADgQigMHVGcbElA:Chilling Adventures of Sabrina S01 E01
+#DESCRIPTION Chilling Adventures of Sabrina S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AnBsVEjXnAyhg38IBzv2eagv78aR:Chilling Adventures of Sabrina S01 E02
+#DESCRIPTION Chilling Adventures of Sabrina S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AnBsVEjXnAyhg36jGNp5rFlgzYr8:Chilling Adventures of Sabrina S01 E03
+#DESCRIPTION Chilling Adventures of Sabrina S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AnBsVEjXnAyhhALAspabFSF7moyO:Chilling Adventures of Sabrina S01 E04
+#DESCRIPTION Chilling Adventures of Sabrina S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AnBsVEjXnAyhhAGkoAA6fz52YFEW:Chilling Adventures of Sabrina S01 E05
+#DESCRIPTION Chilling Adventures of Sabrina S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AnBsVEjXnAyhhAN8B8nUw34P9RMh:Chilling Adventures of Sabrina S01 E06
+#DESCRIPTION Chilling Adventures of Sabrina S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AnBsVEjXnAyhhAWOl1wY9u2JtxwY:Chilling Adventures of Sabrina S01 E07
+#DESCRIPTION Chilling Adventures of Sabrina S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AnBsVEjXnAyhhATfb1iVO5h9WJBB:Chilling Adventures of Sabrina S01 E08
+#DESCRIPTION Chilling Adventures of Sabrina S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AnBsVEjXnAyhhAa1bYF8No1gRZ0b:Chilling Adventures of Sabrina S01 E09
+#DESCRIPTION Chilling Adventures of Sabrina S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AnBsVEjXnAyhhAdfAoYqrBWbBjeI:Chilling Adventures of Sabrina S01 E10
+#DESCRIPTION Chilling Adventures of Sabrina S01 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLhC4muATyGUDR-Ecr:Chilling Adventures of Sabrina S02 E01
+#DESCRIPTION Chilling Adventures of Sabrina S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLhC0LjUCNYbHLbmI2:Chilling Adventures of Sabrina S02 E02
+#DESCRIPTION Chilling Adventures of Sabrina S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLhCzJmvoEBGo2CZce:Chilling Adventures of Sabrina S02 E03
+#DESCRIPTION Chilling Adventures of Sabrina S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLhCo8Zy6taOUVLvuh:Chilling Adventures of Sabrina S02 E04
+#DESCRIPTION Chilling Adventures of Sabrina S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLhCfJOz40nYuBnhi6:Chilling Adventures of Sabrina S02 E05
+#DESCRIPTION Chilling Adventures of Sabrina S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLhCj-xlnyXJvxZ1N2:Chilling Adventures of Sabrina S02 E06
+#DESCRIPTION Chilling Adventures of Sabrina S02 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLhCYdsnbVsGoJa62x:Chilling Adventures of Sabrina S02 E07
+#DESCRIPTION Chilling Adventures of Sabrina S02 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLhCuRlTYKTe9QSkDq:Chilling Adventures of Sabrina S02 E08
+#DESCRIPTION Chilling Adventures of Sabrina S02 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLhCn6_Mgn6MfmBlMb:Chilling Adventures of Sabrina S02 E09
+#DESCRIPTION Chilling Adventures of Sabrina S02 E09
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E01.mkv:3% 1X01
 #DESCRIPTION 3% 1X01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E02.mkv:3% 1X02
