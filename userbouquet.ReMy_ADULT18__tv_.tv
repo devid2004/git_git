@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | ADULT+18★★ ==
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::== ★★ReMy | ADULT+18★★ ==
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::== ★★ReMy | ADULT+18★★ ==
 #DESCRIPTION == ★★ReMy | ADULT+18★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1fKqcLztRtsljub0?e=YBKrWc:ReMyTeaM- Extasy 4K-20191103 0652
 #DESCRIPTION ReMyTeaM- Extasy 4K-20191103 0652
@@ -35,30 +35,22 @@
 #DESCRIPTION TV8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/ngrp%3atv8.stream_all/playlist.m3u8:Televizia OSEM
 #DESCRIPTION Televizia OSEM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.45.182.172%3a26789/i/ghjnvq5o/984fa1vb/index.m3u8:18 [18+]
-#DESCRIPTION 18 [18+]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5b33420f79f5f.streamlock.net%3a1935/freecamssecure/102/playlist.m3u8:Cam1 [18+]
-#DESCRIPTION Cam1 [18+]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5b33420f79f5f.streamlock.net%3a1935/freecamssecure/101/playlist.m3u8:Cam2 [18+]
-#DESCRIPTION Cam2 [18+]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_BLUEHUSTLER/variant.m3u8?version=2:Blue Hustler (18+)
 #DESCRIPTION Blue Hustler (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.9.60.131%3a8000/play/a00r/index.m3u8:EROXXX HD (18+)
-#DESCRIPTION EROXXX HD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.9.60.131%3a8000/play/a028/index.m3u8:HUSTLER HD (18+)
-#DESCRIPTION HUSTLER HD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a21141/udp/214h:Dorcel TV [18+]
-#DESCRIPTION Dorcel TV [18+]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2:NuArtTV [18+]
 #DESCRIPTION NuArtTV [18+]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2:RussianNight
 #DESCRIPTION RussianNight
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10007/stolen/214g/parasite.install:XXX: Zest TV
-#DESCRIPTION XXX: Zest TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8:PASSIONXXX
-#DESCRIPTION PASSIONXXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a21141/udp/214h:Dorcel TV [18+]
+#DESCRIPTION Dorcel TV [18+]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a21051/udp/071l:RussNoch
 #DESCRIPTION RussNoch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.firestormmedia.tv%3a1935/bsx24/livestream/playlist.m3u8:Babestation Xtreme (18+)
+#DESCRIPTION Babestation Xtreme (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8:PASSIONXXX
+#DESCRIPTION PASSIONXXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10007/stolen/214g/parasite.install:Zest TV
+#DESCRIPTION Zest TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10005/stolen/153a/imposter.rar:Private TV HD
 #DESCRIPTION Private TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10007/stolen/246r/parasite.install:Super One HD
@@ -79,8 +71,6 @@
 #DESCRIPTION Redlight HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%BE%D1%87%D1%8C.ts:Russian night
 #DESCRIPTION Russian night
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.firestormmedia.tv%3a1935/bsx24/livestream/playlist.m3u8:Babestation Xtreme (18+)
-#DESCRIPTION Babestation Xtreme (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigass.m3u8:RedTraffic Big Ass (18+)
 #DESCRIPTION RedTraffic Big Ass (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigdick.m3u8:RedTraffic Big Dick (18+)
@@ -113,7 +103,7 @@
 #DESCRIPTION RedTraffic Teen (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/threesome.m3u8:RedTraffic Threesome (18+)
 #DESCRIPTION RedTraffic Threesome (18+)
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★ADULT-HUB_FHD-1080p_Only_ReMyTeaM★★
+#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★ADULT-HUB_FHD-1080p_Only_ReMyTeaM★★
 #DESCRIPTION === ★★ADULT-HUB_FHD-1080p_Only_ReMyTeaM★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.glav-noe.ru/video/XXX/XXX1.mp4:XXX1
 #DESCRIPTION XXX1
@@ -603,7 +593,7 @@
 #DESCRIPTION 1431_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6489_1080.m3u8:2074_AdultHub
 #DESCRIPTION 2074_AdultHub
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★HİREMCO_SERVER | ADULT-PREMIUM★★ ==
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★HİREMCO_SERVER | ADULT-PREMIUM★★ ==
 #DESCRIPTION === ★★HİREMCO_SERVER | ADULT-PREMIUM★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//ovhv20.twincdn.com/videos/11/11100/11100_720p.mp4:HİREMCO X VOD  1
 #DESCRIPTION HİREMCO X VOD  1
@@ -1187,7 +1177,7 @@
 #DESCRIPTION behaarten Fotze
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv36.twincdn.com/videos/7/7272/7272_720p.mp4:Behaarte Milf
 #DESCRIPTION Behaarte Milf
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::=== ★★RUS_MOVIE | ADULT-SERVER★★ ====
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★RUS_MOVIE | ADULT-SERVER★★ ====
 #DESCRIPTION === ★★RUS_MOVIE | ADULT-SERVER★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/Femme-objet.mp4:Robot Woman (1980)
 #DESCRIPTION Robot Woman (1980)
@@ -1625,7 +1615,7 @@
 #DESCRIPTION Dane Jones - My Sweet Spot
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn2.servitubes.com/videos/d/a/f/a/d/dafad50cac8d089173cda5f183474c3e887e0fda.mp4:Girls and Studs
 #DESCRIPTION Girls and Studs
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::MEGABOX TV-VOD
+#SERVICE 1:64:AD:0:0:0:0:0:0:0::MEGABOX TV-VOD
 #DESCRIPTION MEGABOX TV-VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/34a4ffea6a3b6e7eb540ef2b9c87d1837e979cc4f4/22000/22208/22208_720p.mp4:Angel Lima fazendo dupla penetração
 #DESCRIPTION Angel Lima fazendo dupla penetração
@@ -1665,7 +1655,7 @@
 #DESCRIPTION Pegou na praia e levou para o motel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/154de9282302a6b26fa97650b90a3d5386dc7219ac/2000/2121/2121_480p.mp4:Marido aquecendo para o negrão comerA5Pnx5h
 #DESCRIPTION Marido aquecendo para o negrão comerA5Pnx5h
-#SERVICE 1:64:AF:0:0:0:0:0:0:0::=== ★★VIDEO_CLIPS | HARD★★ ====
+#SERVICE 1:64:AE:0:0:0:0:0:0:0::=== ★★VIDEO_CLIPS | HARD★★ ====
 #DESCRIPTION === ★★VIDEO_CLIPS | HARD★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.servitubes.com/videos/6/f/7/6/4/6f764267353d6fa9108aa3518c817cb195db672a.mp4:69 increibles posturas mas actos bisexuales
 #DESCRIPTION 69 increibles posturas mas actos bisexuales
@@ -2563,7 +2553,7 @@
 #DESCRIPTION SELEN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4:SIGNORE SC@ND@LOSE DI PROVINCI@
 #DESCRIPTION SIGNORE SC@ND@LOSE DI PROVINCI@
-#SERVICE 1:64:B0:0:0:0:0:0:0:0::=== ★★SEXY_CLIPS | EROTIC★★ ====
+#SERVICE 1:64:AF:0:0:0:0:0:0:0::=== ★★SEXY_CLIPS | EROTIC★★ ====
 #DESCRIPTION === ★★SEXY_CLIPS | EROTIC★★ ====
 #SERVICE 4097:0:1:244:0:0:0:0:0:0:http%3a//zazax1.ru/video/barto.mp4:barto
 #DESCRIPTION barto
@@ -2657,7 +2647,7 @@
 #DESCRIPTION 3xru.ru/celebrities/viva-bianca-nude-scenes-sparta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/newvid/tashpro.mp4:3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
 #DESCRIPTION 3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
-#SERVICE 1:64:B1:0:0:0:0:0:0:0::=== ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
+#SERVICE 1:64:B0:0:0:0:0:0:0:0::=== ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
 #DESCRIPTION === ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/movies/xrated/xrayted_ep01_st1-2.mp4:xrayted_ep01_st1-2
 #DESCRIPTION xrayted_ep01_st1-2
