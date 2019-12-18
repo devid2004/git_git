@@ -1,6 +1,8 @@
 #NAME == ★★ReMy | SPORT★★ ==
 #SERVICE 1:64:9D:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportscore.biz/lba/123/g5/beinsport1tur.m3u8:BEIN SPORTS HD 1
+#DESCRIPTION BEIN SPORTS HD 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:BEIN SPORT 1 (TUR)
 #DESCRIPTION BEIN SPORT 1 (TUR)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportscore.biz/lba/123/g5/beinsport1tur.m3u8:BeinSport 1HD Tr
@@ -297,6 +299,8 @@
 #DESCRIPTION Newtv boutique sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8:Nova Sport (bg)
 #DESCRIPTION Nova Sport (bg)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.100.10.162%3a8018/play/s213:ON SPORT
+#DESCRIPTION ON SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC1_1.m3u8:Olympic Channel
 #DESCRIPTION Olympic Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC2_1.m3u8:Olympic Channel 2
