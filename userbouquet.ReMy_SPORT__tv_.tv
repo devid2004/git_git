@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | SPORT★★ ==
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:BEIN SPORT 1 (TUR)
 #DESCRIPTION BEIN SPORT 1 (TUR)
@@ -9,8 +9,6 @@
 #DESCRIPTION ntvspor MAÇ ÖZETLERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/ntvspor.ts:NTV SPOR 1HD
 #DESCRIPTION NTV SPOR 1HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.garaveli.de///tekliphp/gstv.php?&m3u8:GS TV
-#DESCRIPTION GS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$DolceSportHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Telekom Sport 1 HD
 #DESCRIPTION Telekom Sport 1 HD
 #SERVICE 4097:0:0:4:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Arena.m3u8:Sky-Sports-Arena
@@ -37,10 +35,10 @@
 #DESCRIPTION SPORT TV _3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g8/ptsport5.m3u8:SPORT TV _5
 #DESCRIPTION SPORT TV _5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g1/rodigi4.m3u8:DigiSport 4HD
-#DESCRIPTION DigiSport 4HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/digisport2ro.m3u8:Digi Sport 2
 #DESCRIPTION Digi Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g1/rodigi4.m3u8:DigiSport 4HD
+#DESCRIPTION DigiSport 4HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/sportklub1rs.m3u8:sportklub1
 #DESCRIPTION sportklub1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g8/rs3sk.m3u8:sportklub3
@@ -67,38 +65,10 @@
 #DESCRIPTION KSA-Sport1-Bakup
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA-Sport2-Bakup
 #DESCRIPTION KSA-Sport2-Bakup
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.255.82.82%3a9088/hls/ms_sport_tv_1.m3u8:sport tv1 HD
-#DESCRIPTION sport tv1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.255.82.82%3a9088/hls/ms_sport_tv_2.m3u8:Sport 2
-#DESCRIPTION Sport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.255.82.82%3a9088/hls/ms_sport_tv_3.m3u8:Sport 3
-#DESCRIPTION Sport 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.255.82.82%3a9088/hls/ms_fox_sport_1.m3u8:fox sport 1
-#DESCRIPTION fox sport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.255.82.82%3a9088/hls/ms_fox_sport_2.m3u8:fox sport 2
-#DESCRIPTION fox sport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.115.26.93%3a8080/RMCSPORTNEWS_HEVC/mono.m3u8:RMCSPORTNEWS HD
-#DESCRIPTION RMCSPORTNEWS HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.115.26.93%3a8080/INFOSPORT_HEVC/mono.m3u8:INFOSPORT HD
-#DESCRIPTION INFOSPORT HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8:SPORTS | CHINA | CCTV 5 HD
 #DESCRIPTION SPORTS | CHINA | CCTV 5 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:SPORTS | CHINA | NEW TV Super sports HD
 #DESCRIPTION SPORTS | CHINA | NEW TV Super sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/61109218?ticket=8FC20779B2330F3E201C7FB123D0E147D030B13C&profile=webtv-h264-aac-mpegts:SPORTS | CZ | Eurosport 2 HD
-#DESCRIPTION SPORTS | CZ | Eurosport 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/1729617928?ticket=A0F5C7BD48B1DBF3CA0365DC3CBF79FF31229DDD&profile=webtv-h264-aac-mpegts:SPORTS | CZ | FightBox
-#DESCRIPTION SPORTS | CZ | FightBox
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/1611977584?ticket=58D6F6F3E1072C27593CD229A147B3B6CFC4C0D1&profile=webtv-h264-aac-mpegts:SPORTS | CZ | Nova Sport 1 HD
-#DESCRIPTION SPORTS | CZ | Nova Sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/1413068538?ticket=FFFFFC8D9CC4BBF8DA096FD8D0D4388768F266E4&profile=webtv-h264-aac-mpegts:SPORTS | CZ | Nova Sport 2 HD
-#DESCRIPTION SPORTS | CZ | Nova Sport 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/1743839772?ticket=811A8FA33CED4CDBC2DA956DF99F498A59C23F88&profile=webtv-h264-aac-mpegts:SPORTS | CZ | Sport 1 HD
-#DESCRIPTION SPORTS | CZ | Sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/1502877344?ticket=C127092ADB62EA5B44E998824ABEEEE6E3367E4C&profile=webtv-h264-aac-mpegts:SPORTS | CZ | Sport 2 HD
-#DESCRIPTION SPORTS | CZ | Sport 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.254.96.194%3a9981/stream/channelid/998998054?ticket=0C28CE493CBBC5E5542B3781F898737144F2FE7F&profile=webtv-h264-aac-mpegts:SPORTS | CZ | Sport 5
-#DESCRIPTION SPORTS | CZ | Sport 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/933:|NL| Ziggo Sport Select HD
 #DESCRIPTION |NL| Ziggo Sport Select HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/934:|NL| Ziggo Sport Golf HD
@@ -107,32 +77,32 @@
 #DESCRIPTION |NL| Ziggo Sport Racing HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/936:|NL| Ziggo Sport HD
 #DESCRIPTION |NL| Ziggo Sport HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/937:|NL| Ziggo Sport Extra 2 HD
-#DESCRIPTION |NL| Ziggo Sport Extra 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/938:|NL| Ziggo Sport Extra 1 HD
 #DESCRIPTION |NL| Ziggo Sport Extra 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/989:|NL| Fox Sport 6 HD
-#DESCRIPTION |NL| Fox Sport 6 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/990:|NL| Fox Sport 5 HD
-#DESCRIPTION |NL| Fox Sport 5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/991:|NL| Fox Sport 4 HD
-#DESCRIPTION |NL| Fox Sport 4 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/992:|NL| Fox Sport 3 HD
-#DESCRIPTION |NL| Fox Sport 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/993:|NL| Fox Sport 2 HD
-#DESCRIPTION |NL| Fox Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/937:|NL| Ziggo Sport Extra 2 HD
+#DESCRIPTION |NL| Ziggo Sport Extra 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/994:|NL| Fox Sport 1 HD
 #DESCRIPTION |NL| Fox Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/993:|NL| Fox Sport 2 HD
+#DESCRIPTION |NL| Fox Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/992:|NL| Fox Sport 3 HD
+#DESCRIPTION |NL| Fox Sport 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/991:|NL| Fox Sport 4 HD
+#DESCRIPTION |NL| Fox Sport 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/990:|NL| Fox Sport 5 HD
+#DESCRIPTION |NL| Fox Sport 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/989:|NL| Fox Sport 6 HD
+#DESCRIPTION |NL| Fox Sport 6 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/1001:|NL| Extreme Sport
 #DESCRIPTION |NL| Extreme Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/1002:|NL| Eurosport 2 HD
-#DESCRIPTION |NL| Eurosport 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/1003:|NL| Eurosport 1 HD
 #DESCRIPTION |NL| Eurosport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/1048:|NL| FOX Sports EDL 3 HD
-#DESCRIPTION |NL| FOX Sports EDL 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/1002:|NL| Eurosport 2 HD
+#DESCRIPTION |NL| Eurosport 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/1049:|NL| FOX Sports EDL 1 HD
 #DESCRIPTION |NL| FOX Sports EDL 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/1048:|NL| FOX Sports EDL 3 HD
+#DESCRIPTION |NL| FOX Sports EDL 3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourceturkiapro2/8684782188/1341:|TR| SMART SPOR
 #DESCRIPTION |TR| SMART SPOR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourceturkiapro2/8684782188/1460:|TR| S SPORT HD
@@ -145,11 +115,11 @@
 #DESCRIPTION |TR| BEINSPORT 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourceturkiapro2/8684782188/1456:|TR| BEINSPORT 4
 #DESCRIPTION |TR| BEINSPORT 4
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
-#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100%25 Automoto (BG)
+#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8181/ntvspor.ts:1SPOR LİG TV HD
 #DESCRIPTION 1SPOR LİG TV HD

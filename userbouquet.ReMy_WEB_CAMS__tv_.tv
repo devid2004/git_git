@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | WEB_CAMS★★ ==
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
+#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
 #DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/79.stream/chunklist.m3u8:İstanbul Boğaziçi Köprüsü
 #DESCRIPTION İstanbul Boğaziçi Köprüsü
@@ -7,54 +7,54 @@
 #DESCRIPTION 15 Temmuz Şehitler Köprüsü
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/341.stream/playlist.m3u8:Fatih Sultan Mehmet Köprüsü
 #DESCRIPTION Fatih Sultan Mehmet Köprüsü
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/269.stream/playlist.m3u8:Yenikapı Meydanı
-#DESCRIPTION Yenikapı Meydanı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/341.stream/chunklist_w805774042.m3u8:Fatih Sultan Mehmet Köprüsü Mobese Kamera
+#DESCRIPTION Fatih Sultan Mehmet Köprüsü Mobese Kamera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/181.stream/playlist.m3u8:İstanbul Eminönü
 #DESCRIPTION İstanbul Eminönü
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/181.stream/chunklist_w805192527.m3u8:İstanbul Eminönü Canlı Mobese
+#DESCRIPTION İstanbul Eminönü Canlı Mobese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/181.stream/chunklist_w557957452.m3u8:Eminönü Yeni Camii
 #DESCRIPTION Eminönü Yeni Camii
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/43.stream/chunklist_w517754220.m3u8:BESİKTAS MEYDANI
-#DESCRIPTION BESİKTAS MEYDANI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/254.stream/chunklist_w1645739818.m3u8:S. YOLU EMİNÖNÜ SOS.TE
+#DESCRIPTION S. YOLU EMİNÖNÜ SOS.TE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/573.stream/chunklist_w1293060139.m3u8:Avrasya Tüneli - Sahilyolu Kumkapı
+#DESCRIPTION Avrasya Tüneli - Sahilyolu Kumkapı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/20.stream/chunklist_w2077785237.m3u8:BAĞDAT CD. ŞAŞKINBAKKAL
+#DESCRIPTION BAĞDAT CD. ŞAŞKINBAKKAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/257.stream/chunklist_w47539693.m3u8:Bebek Arnavutköy Burun
 #DESCRIPTION Bebek Arnavutköy Burun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/43.stream/chunklist_w517754220.m3u8:BESİKTAS MEYDANI
+#DESCRIPTION BESİKTAS MEYDANI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/455.stream/chunklist_w977417434.m3u8:BEYLERBEYİ İSKELE
+#DESCRIPTION BEYLERBEYİ İSKELE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/173.stream/chunklist_w885489183.m3u8:D.BAHÇE TAKSİM ÇIKIŞ
 #DESCRIPTION D.BAHÇE TAKSİM ÇIKIŞ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/173.stream/chunklist_w1377800503.m3u8:DOLMABAHÇE TAKSİM
 #DESCRIPTION DOLMABAHÇE TAKSİM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/174.stream/chunklist_w1933901234.m3u8:Dolmabahçe Taksim İnişi
 #DESCRIPTION Dolmabahçe Taksim İnişi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/1025.stream/chunklist_w1064250672.m3u8:TAKSİM ALTGEÇİDİ TAŞKIŞLA ÇIKIŞI
-#DESCRIPTION TAKSİM ALTGEÇİDİ TAŞKIŞLA ÇIKIŞI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/194.stream/chunklist_w771482496.m3u8:Harbiye
-#DESCRIPTION Harbiye
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/181.stream/chunklist_w805192527.m3u8:İstanbul Eminönü Canlı Mobese
-#DESCRIPTION İstanbul Eminönü Canlı Mobese
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/398.stream/chunklist_w101409406.m3u8:VATAN CD. İGDAŞ
-#DESCRIPTION VATAN CD. İGDAŞ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/263.stream/chunklist_w1316614603.m3u8:Dragos Sahil Yolu
+#DESCRIPTION Dragos Sahil Yolu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/148.stream/chunklist_w2124049428.m3u8:Haliç Köprüsü Ayvansaray
 #DESCRIPTION Haliç Köprüsü Ayvansaray
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/405.stream/chunklist_w1034819031.m3u8:ÜSKÜDAR MEYDANI
-#DESCRIPTION ÜSKÜDAR MEYDANI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/455.stream/chunklist_w977417434.m3u8:BEYLERBEYİ İSKELE
-#DESCRIPTION BEYLERBEYİ İSKELE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/20.stream/chunklist_w2077785237.m3u8:BAĞDAT CD. ŞAŞKINBAKKAL
-#DESCRIPTION BAĞDAT CD. ŞAŞKINBAKKAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/194.stream/chunklist_w771482496.m3u8:Harbiye
+#DESCRIPTION Harbiye
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/201.stream/chunklist_w294020433.m3u8:KADIKÖY RIHTIM
 #DESCRIPTION KADIKÖY RIHTIM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/114.stream/chunklist_w1088272845.m3u8:S. YOLU HAREM IDO
 #DESCRIPTION S. YOLU HAREM IDO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/254.stream/chunklist_w1645739818.m3u8:S. YOLU EMİNÖNÜ SOS.TE
-#DESCRIPTION S. YOLU EMİNÖNÜ SOS.TE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/573.stream/chunklist_w1293060139.m3u8:Avrasya Tüneli - Sahilyolu Kumkapı
-#DESCRIPTION Avrasya Tüneli - Sahilyolu Kumkapı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/263.stream/chunklist_w1316614603.m3u8:Dragos Sahil Yolu
-#DESCRIPTION Dragos Sahil Yolu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/1025.stream/chunklist_w1064250672.m3u8:TAKSİM ALTGEÇİDİ TAŞKIŞLA ÇIKIŞI
+#DESCRIPTION TAKSİM ALTGEÇİDİ TAŞKIŞLA ÇIKIŞI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/405.stream/chunklist_w1034819031.m3u8:ÜSKÜDAR MEYDANI
+#DESCRIPTION ÜSKÜDAR MEYDANI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/398.stream/chunklist_w101409406.m3u8:VATAN CD. İGDAŞ
+#DESCRIPTION VATAN CD. İGDAŞ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/269.stream/playlist.m3u8:Yenikapı Meydanı
+#DESCRIPTION Yenikapı Meydanı
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/670.stream/chunklist_w1609339905.m3u8:Yavuz Sultan Selim Köprüsü
 #DESCRIPTION Yavuz Sultan Selim Köprüsü
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/664.stream/chunklist_w146936849.m3u8:Yavuz Sultan Selim Reşadiye Kavşağı
 #DESCRIPTION Yavuz Sultan Selim Reşadiye Kavşağı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/341.stream/chunklist_w805774042.m3u8:Fatih Sultan Mehmet Köprüsü Mobese Kamera
-#DESCRIPTION Fatih Sultan Mehmet Köprüsü Mobese Kamera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/269.stream/chunklist_w118518728.m3u8:Yenikapı Meydanı
 #DESCRIPTION Yenikapı Meydanı
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//konya.sehirkameralari.com/live/52f8ad56da5f9/playlist.m3u8?wowzasessionid=1267090667&token=:Konya Mevlana Meydanı Canlı Mobese
@@ -71,8 +71,10 @@
 #DESCRIPTION Times Square (Street Cam)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4017timessquare.flv/chunklist.m3u8:Times Square (South View)
 #DESCRIPTION Times Square (South View)
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::*** Hrvatska ***
+#SERVICE 1:64:A7:0:0:0:0:0:0:0::*** Hrvatska ***
 #DESCRIPTION *** Hrvatska ***
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist.m3u8:TRG KRAJINE, BANJA LUKA
+#DESCRIPTION TRG KRAJINE, BANJA LUKA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_bale02.m3u8:Hrvatska  - Bale - Tomaso Bembo
 #DESCRIPTION Hrvatska  - Bale - Tomaso Bembo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_milna01.m3u8:Hrvatska  - Brac - Milna
@@ -151,7 +153,7 @@
 #DESCRIPTION Hrvatska  - Zagreb - Tomic Strasse
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_sljeme2.m3u8:Hrvatska  - Zagreb - Ski Center Sljeme - Medvednic
 #DESCRIPTION Hrvatska  - Zagreb - Ski Center Sljeme - Medvednic
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::* * * EXYU * * *
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::* * * EXYU * * *
 #DESCRIPTION * * * EXYU * * *
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live/TrgSlobode.stream:NoviSad Trg Slobode
 #DESCRIPTION NoviSad Trg Slobode
@@ -165,7 +167,7 @@
 #DESCRIPTION Zrenjanin
 #SERVICE 4097:0:1:12:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist_w873016047_b350000.m3u8:Banja luka (trg krajine)
 #DESCRIPTION Banja luka (trg krajine)
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
 #DESCRIPTION * * * WEBCAM livespotting * * *
 #SERVICE 4097:0:1:75:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv102_720p.stream:Aachen - Drehturm Belvedere Lousberg
 #DESCRIPTION Aachen - Drehturm Belvedere Lousberg
