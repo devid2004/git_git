@@ -1,7 +1,69 @@
 #NAME == ★★ReMy | ARABIAN★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama:Abu Dhabi Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/20061.m3u8:Bein sport 1 HD [ s 1 ]
+#DESCRIPTION Bein sport 1 HD [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10218.m3u8:Alriadia Sport [ s 1 ]
+#DESCRIPTION Alriadia Sport [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10216.m3u8:Al Aoula Maroc [ s 1 ]
+#DESCRIPTION Al Aoula Maroc [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10003.m3u8:Al Manar [ s 1 ]
+#DESCRIPTION Al Manar [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10151.m3u8:Al Rafidain [ s 1 ]
+#DESCRIPTION Al Rafidain [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10157.m3u8:Al Sharqiya [ s 1 ]
+#DESCRIPTION Al Sharqiya [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10164.m3u8:Al Sumaria [ s 1 ]
+#DESCRIPTION Al Sumaria [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10163.m3u8:Alanwar [ s 1 ]
+#DESCRIPTION Alanwar [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10226.m3u8:Algeria 3 [ s 1 ]
+#DESCRIPTION Algeria 3 [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10175.m3u8:Cairo Cinema [ s 1 ]
+#DESCRIPTION Cairo Cinema [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10176.m3u8:Cairo Drama [ s 1 ]
+#DESCRIPTION Cairo Drama [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10154.m3u8:Dijlah Tv [ s 1 ]
+#DESCRIPTION Dijlah Tv [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10230.m3u8:EL DJAZAIRIA [ s 1 ]
+#DESCRIPTION EL DJAZAIRIA [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10048.m3u8:Elhiwar Ettounsi TV [ s 1 ]
+#DESCRIPTION Elhiwar Ettounsi TV [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10228.m3u8:Ennahar TV [ s 1 ]
+#DESCRIPTION Ennahar TV [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10030.m3u8:France24 Arabic [ s 1 ]
+#DESCRIPTION France24 Arabic [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10049.m3u8:Hannibal TV [ s 1 ]
+#DESCRIPTION Hannibal TV [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10054.m3u8:M Tunisia [ s 1 ]
+#DESCRIPTION M Tunisia [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10219.m3u8:Medi 1 Sat [ s 1 ]
+#DESCRIPTION Medi 1 Sat [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10198.m3u8:Melody Classic [ s 1 ]
+#DESCRIPTION Melody Classic [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10047.m3u8:Nessma TV [ s 1 ]
+#DESCRIPTION Nessma TV [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10104.m3u8:Rotana Cinema [ s 1 ]
+#DESCRIPTION Rotana Cinema [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10105.m3u8:Rotana Classic [ s 1 ]
+#DESCRIPTION Rotana Classic [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10229.m3u8:Samira Tv [ s 1 ]
+#DESCRIPTION Samira Tv [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10044.m3u8:Sky News Ar [ s 1 ]
+#DESCRIPTION Sky News Ar [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10251.m3u8:Sudan Tv [ s 1 ]
+#DESCRIPTION Sudan Tv [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10241.m3u8:Tamazight Algeria [ s 1 ]
+#DESCRIPTION Tamazight Algeria [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10053.m3u8:Tunisna TV [ s 1 ]
+#DESCRIPTION Tunisna TV [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10045.m3u8:TV Tunisia 1 [ s 1 ]
+#DESCRIPTION TV Tunisia 1 [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10046.m3u8:TV Tunisia 2 [ s 1 ]
+#DESCRIPTION TV Tunisia 2 [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10265.m3u8:Universal Somali TV [ s 1 ]
+#DESCRIPTION Universal Somali TV [ s 1 ]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8id=abudhabi_drama:Abu Dhabi Drama
 #DESCRIPTION Abu Dhabi Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula:Abu Dhabi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8id=abudhabi_aloula:Abu Dhabi TV
 #DESCRIPTION Abu Dhabi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8 :Adalemarat
 #DESCRIPTION Adalemarat
@@ -29,13 +91,13 @@
 #DESCRIPTION BBC Arabic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svbps-sambavideos.akamaized.net/voda/_definst_/amlst%3astg;1685,3851,9207bc6b56e486b2fb21cc0bc60d6676;hidden32np;3WUEA6SURIAH2HUAYUEUL56DPXWM5YH7EIW3KNWUX7FCYL2T4P57JSWRFIM5HEMMGNAH6EZMDOYDFTZW3DJDGHIUJDB2MB5ZVMSNOEKHR7FQ2LVIKFFAT3IHUCPLJT7N2HO34JQWIROOAAGAMBDG7MRDFXUHD7DCZFSCITS4YBFPOMVHIO3D7TFZW33OV2AA2W3EYX2COFALG67R5RZMY4PE3COJ4XRTPWVUKWFQ7LVUD4ZJ2BMRVTA5UTSWWNWZQ3RYZQXYJT7XT3FYFN3G3FRONBNH4UD5RTYA!!!!/chunklist_b381952.m3u8:bcc-samba
 #DESCRIPTION bcc-samba
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione:Dubai One**
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8id=dubaione:Dubai One**
 #DESCRIPTION Dubai One**
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv:Dubai TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8id=dubaitv:Dubai TV
 #DESCRIPTION Dubai TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman:Dubai Zaman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8id=dubaizaman:Dubai Zaman
 #DESCRIPTION Dubai Zaman
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat:Emarat TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8id=abudhabi_alemarat:Emarat TV
 #DESCRIPTION Emarat TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8:EMARAT TV HD
 #DESCRIPTION EMARAT TV HD
@@ -45,9 +107,9 @@
 #DESCRIPTION Jorden TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8:KTV 1
 #DESCRIPTION KTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1:KTV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/ktv.m3u8id=ktv1:KTV 1
 #DESCRIPTION KTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2:KTV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/ktv.m3u8id=ktv2:KTV 2
 #DESCRIPTION KTV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8:KTV 2
 #DESCRIPTION KTV 2
@@ -69,7 +131,7 @@
 #DESCRIPTION MBC 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8:MBC Action HD
 #DESCRIPTION MBC Action HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8?sd=10&rebase=on:MBC Action HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8sd=10&rebase=on:MBC Action HD
 #DESCRIPTION MBC Action HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8:MBC Action HD
 #DESCRIPTION MBC Action HD
@@ -87,7 +149,7 @@
 #DESCRIPTION MBC Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8:MBC Drama
 #DESCRIPTION MBC Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8?sd=10&rebase=on:MBC Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8sd=10&rebase=on:MBC Drama
 #DESCRIPTION MBC Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae%3a80/hls/mbc_drama/05.m3u8:MBC Drama
 #DESCRIPTION MBC Drama
@@ -95,7 +157,7 @@
 #DESCRIPTION MBC Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8:MBC Max HD
 #DESCRIPTION MBC Max HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8?sd=10&rebase=on:MBC Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8sd=10&rebase=on:MBC Max HD
 #DESCRIPTION MBC Max HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8:MBC Max HD
 #DESCRIPTION MBC Max HD
@@ -113,7 +175,7 @@
 #DESCRIPTION nat geo AD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adnatgeo/adnatgeo.m3u8:National Geographic
 #DESCRIPTION National Geographic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai:Sama Dubai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8id=samadubai:Sama Dubai
 #DESCRIPTION Sama Dubai
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ns8.indexforce.com%3a1935/alsharqiyalive/mystream/playlist.m3u8:Sharqiya News
 #DESCRIPTION Sharqiya News
@@ -121,9 +183,9 @@
 #DESCRIPTION Star Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8:Star Movies
 #DESCRIPTION Star Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8:Star Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8fluxustv.m3u8:Star Movies
 #DESCRIPTION Star Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8:Star Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8fluxustv.m3u8:Star Movies
 #DESCRIPTION Star Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8:Star Movies HD (Middle East)
 #DESCRIPTION Star Movies HD (Middle East)
@@ -165,3 +227,1351 @@
 #DESCRIPTION adalemarat
 #SERVICE 4097:0:0:34:0:0:0:0:0:0:http%3a//158.69.229.29%3a8081/digital_abr/streamabr/playlist.m3u8:digital_abr
 #DESCRIPTION digital_abr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/2605.m3u8:Tangled
+#DESCRIPTION Tangled
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/2630.m3u8:Olaf&#39;s Frozen Adventure
+#DESCRIPTION Olaf&#39;s Frozen Adventure
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/2637.m3u8:The Jungle Book
+#DESCRIPTION The Jungle Book
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/2638.m3u8:The Pirates! In an Adventure with Scientists!
+#DESCRIPTION The Pirates! In an Adventure with Scientists!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/2667.m3u8:Because I love you
+#DESCRIPTION Because I love you
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/2669.m3u8:Angela & Christmas
+#DESCRIPTION Angela & Christmas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5021.m3u8:Ferdinand
+#DESCRIPTION Ferdinand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5023.m3u8:Moana
+#DESCRIPTION Moana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5024.m3u8:Despicable Me 3
+#DESCRIPTION Despicable Me 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5025.m3u8:A Boy Called Sailboat
+#DESCRIPTION A Boy Called Sailboat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5026.m3u8:Glass
+#DESCRIPTION Glass
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5027.m3u8:Instant Family
+#DESCRIPTION Instant Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5028.m3u8:How to Train Your Dragon: The Hidden World
+#DESCRIPTION How to Train Your Dragon: The Hidden World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5029.m3u8:Bröderna Lejonhjärta
+#DESCRIPTION Bröderna Lejonhjärta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5030.m3u8:Monsieur Ibrahim et les fleurs du Coran
+#DESCRIPTION Monsieur Ibrahim et les fleurs du Coran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5546.m3u8:Bobbos
+#DESCRIPTION Bobbos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5547.m3u8:Devil Island
+#DESCRIPTION Devil Island
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5548.m3u8:Hassan and Murqus
+#DESCRIPTION Hassan and Murqus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5549.m3u8:Message to the Ruler
+#DESCRIPTION Message to the Ruler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5550.m3u8:Zahaymar
+#DESCRIPTION Zahaymar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5551.m3u8:Shams El Zanaati
+#DESCRIPTION Shams El Zanaati
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5552.m3u8:Tuyour Al Dhalam
+#DESCRIPTION Tuyour Al Dhalam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5553.m3u8:A Groom from a Security Agency
+#DESCRIPTION A Groom from a Security Agency
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5554.m3u8:The Yacoubian Building
+#DESCRIPTION The Yacoubian Building
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5555.m3u8:Morgan Ahmed Morgan
+#DESCRIPTION Morgan Ahmed Morgan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5556.m3u8:Mosajal khatar
+#DESCRIPTION Mosajal khatar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5557.m3u8:Bakhit and Adela
+#DESCRIPTION Bakhit and Adela
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5558.m3u8:The Prince of Darkness
+#DESCRIPTION The Prince of Darkness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5559.m3u8:Terrorism and Kebab
+#DESCRIPTION Terrorism and Kebab
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5560.m3u8:The Terrorist
+#DESCRIPTION The Terrorist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5561.m3u8:For a Danish experience
+#DESCRIPTION For a Danish experience
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5562.m3u8:An Embassy in the Building
+#DESCRIPTION An Embassy in the Building
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5563.m3u8:Playing with the Boys
+#DESCRIPTION Playing with the Boys
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5564.m3u8:The Forgotten
+#DESCRIPTION The Forgotten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5565.m3u8:Sleeping in Honey
+#DESCRIPTION Sleeping in Honey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5566.m3u8:Mahrous the Minister Assistant
+#DESCRIPTION Mahrous the Minister Assistant
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5567.m3u8:Bakhit and Adila 2
+#DESCRIPTION Bakhit and Adila 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5568.m3u8:Bakhit and Adila
+#DESCRIPTION Bakhit and Adila
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5569.m3u8:Zafafian
+#DESCRIPTION Zafafian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5655.m3u8:Live Your Life
+#DESCRIPTION Live Your Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5658.m3u8:How to Train Your Dragon: The Hidden World
+#DESCRIPTION How to Train Your Dragon: The Hidden World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5659.m3u8:LEGO Frozen Northern Lights
+#DESCRIPTION LEGO Frozen Northern Lights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5721.m3u8:Big Hero 6
+#DESCRIPTION Big Hero 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11531.m3u8:Ente Min S01E01
+#DESCRIPTION Ente Min S01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11532.m3u8:Ente Min S01E02
+#DESCRIPTION Ente Min S01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11533.m3u8:Ente Min S01E03
+#DESCRIPTION Ente Min S01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11534.m3u8:Ente Min S01E04
+#DESCRIPTION Ente Min S01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11535.m3u8:Ente Min S01E05
+#DESCRIPTION Ente Min S01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11536.m3u8:Ente Min S01E06
+#DESCRIPTION Ente Min S01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11537.m3u8:Ente Min S01E07
+#DESCRIPTION Ente Min S01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11538.m3u8:Ente Min S01E08
+#DESCRIPTION Ente Min S01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11539.m3u8:Ente Min S01E09
+#DESCRIPTION Ente Min S01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11540.m3u8:Ente Min S01E10
+#DESCRIPTION Ente Min S01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11541.m3u8:Ente Min S01E11
+#DESCRIPTION Ente Min S01E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11542.m3u8:Ente Min S01E12
+#DESCRIPTION Ente Min S01E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11543.m3u8:Ente Min S01E13
+#DESCRIPTION Ente Min S01E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11544.m3u8:Ente Min S01E14
+#DESCRIPTION Ente Min S01E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11545.m3u8:Ente Min S01E15
+#DESCRIPTION Ente Min S01E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11546.m3u8:Ente Min S01E16
+#DESCRIPTION Ente Min S01E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11547.m3u8:Ente Min S01E17
+#DESCRIPTION Ente Min S01E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11548.m3u8:Ente Min S01E18
+#DESCRIPTION Ente Min S01E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11549.m3u8:Ente Min S01E19
+#DESCRIPTION Ente Min S01E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11550.m3u8:Ente Min S01E20
+#DESCRIPTION Ente Min S01E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11551.m3u8:Ente Min S01E21
+#DESCRIPTION Ente Min S01E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11552.m3u8:Ente Min S01E22
+#DESCRIPTION Ente Min S01E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11553.m3u8:Ente Min S01E23
+#DESCRIPTION Ente Min S01E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11554.m3u8:Ente Min S01E24
+#DESCRIPTION Ente Min S01E24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11555.m3u8:Ente Min S01E25
+#DESCRIPTION Ente Min S01E25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11556.m3u8:Ente Min S01E26
+#DESCRIPTION Ente Min S01E26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11557.m3u8:Ente Min S01E27
+#DESCRIPTION Ente Min S01E27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11558.m3u8:Ente Min S01E28
+#DESCRIPTION Ente Min S01E28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11559.m3u8:Ente Min S01E29
+#DESCRIPTION Ente Min S01E29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11560.m3u8:Ente Min S01E30
+#DESCRIPTION Ente Min S01E30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11561.m3u8:Madrest Al Hob S01 EP01 - 1
+#DESCRIPTION Madrest Al Hob S01 EP01 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11562.m3u8:Madrest Al Hob S01 EP02 - 2
+#DESCRIPTION Madrest Al Hob S01 EP02 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11563.m3u8:Madrest Al Hob S01 EP03 - 3
+#DESCRIPTION Madrest Al Hob S01 EP03 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11564.m3u8:Madrest Al Hob S01 EP04 - 1
+#DESCRIPTION Madrest Al Hob S01 EP04 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11565.m3u8:Madrest Al Hob S01 EP05 - 2
+#DESCRIPTION Madrest Al Hob S01 EP05 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11566.m3u8:Madrest Al Hob S01 EP06 - 3
+#DESCRIPTION Madrest Al Hob S01 EP06 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11567.m3u8:Madrest Al Hob S01 EP07 - 1
+#DESCRIPTION Madrest Al Hob S01 EP07 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11568.m3u8:Madrest Al Hob S01 EP08 - 2
+#DESCRIPTION Madrest Al Hob S01 EP08 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11569.m3u8:Madrest Al Hob S01 EP09 - 3
+#DESCRIPTION Madrest Al Hob S01 EP09 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11570.m3u8:Madrest Al Hob S01 EP10 - 1
+#DESCRIPTION Madrest Al Hob S01 EP10 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11571.m3u8:Madrest Al Hob S01 EP11 - 2
+#DESCRIPTION Madrest Al Hob S01 EP11 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11572.m3u8:Madrest Al Hob S01 EP12 - 3
+#DESCRIPTION Madrest Al Hob S01 EP12 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11573.m3u8:Madrest Al Hob S01 EP13 - 1
+#DESCRIPTION Madrest Al Hob S01 EP13 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11574.m3u8:Madrest Al Hob S01 EP14 - 2
+#DESCRIPTION Madrest Al Hob S01 EP14 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11575.m3u8:Madrest Al Hob S01 EP15 - 3
+#DESCRIPTION Madrest Al Hob S01 EP15 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11576.m3u8:Madrest Al Hob S01 EP16 - 1
+#DESCRIPTION Madrest Al Hob S01 EP16 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11577.m3u8:Madrest Al Hob S01 EP17 - 2
+#DESCRIPTION Madrest Al Hob S01 EP17 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11578.m3u8:Madrest Al Hob S01 EP18 - 3
+#DESCRIPTION Madrest Al Hob S01 EP18 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11579.m3u8:Madrest Al Hob S01 EP19 - 1
+#DESCRIPTION Madrest Al Hob S01 EP19 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11580.m3u8:Madrest Al Hob S01 EP20 - 2
+#DESCRIPTION Madrest Al Hob S01 EP20 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11581.m3u8:Madrest Al Hob S01 EP21 - 3
+#DESCRIPTION Madrest Al Hob S01 EP21 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11582.m3u8:Madrest Al Hob S01 EP22 - 1
+#DESCRIPTION Madrest Al Hob S01 EP22 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11583.m3u8:Madrest Al Hob S01 EP23 - 2
+#DESCRIPTION Madrest Al Hob S01 EP23 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11584.m3u8:Madrest Al Hob S01 EP24 - 3
+#DESCRIPTION Madrest Al Hob S01 EP24 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11585.m3u8:Madrest Al Hob S01 EP25 - 1
+#DESCRIPTION Madrest Al Hob S01 EP25 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11586.m3u8:Madrest Al Hob S01 EP26 - 2
+#DESCRIPTION Madrest Al Hob S01 EP26 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11587.m3u8:Madrest Al Hob S01 EP27 - 3
+#DESCRIPTION Madrest Al Hob S01 EP27 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11588.m3u8:Madrest Al Hob S01 EP28 - 1
+#DESCRIPTION Madrest Al Hob S01 EP28 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11589.m3u8:Madrest Al Hob S01 EP29 - 2
+#DESCRIPTION Madrest Al Hob S01 EP29 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11590.m3u8:Madrest Al Hob S01 EP30 - 3
+#DESCRIPTION Madrest Al Hob S01 EP30 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11591.m3u8:Madrest Al Hob S01 EP31 - 1
+#DESCRIPTION Madrest Al Hob S01 EP31 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11592.m3u8:Madrest Al Hob S01 EP32 - 2
+#DESCRIPTION Madrest Al Hob S01 EP32 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11593.m3u8:Madrest Al Hob S01 EP33 - 3
+#DESCRIPTION Madrest Al Hob S01 EP33 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11594.m3u8:Madrest Al Hob S01 EP34 - 1
+#DESCRIPTION Madrest Al Hob S01 EP34 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11595.m3u8:Madrest Al Hob S01 EP35 - 2
+#DESCRIPTION Madrest Al Hob S01 EP35 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11596.m3u8:Madrest Al Hob S01 EP36 - 3
+#DESCRIPTION Madrest Al Hob S01 EP36 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11597.m3u8:Madrest Al Hob S01 EP37 - 1
+#DESCRIPTION Madrest Al Hob S01 EP37 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11598.m3u8:Madrest Al Hob S01 EP38 - 2
+#DESCRIPTION Madrest Al Hob S01 EP38 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11599.m3u8:Madrest Al Hob S01 EP39 - 3
+#DESCRIPTION Madrest Al Hob S01 EP39 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11600.m3u8:Madrest Al Hob S01 EP40 - 1
+#DESCRIPTION Madrest Al Hob S01 EP40 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11601.m3u8:Madrest Al Hob S01 EP41 - 2
+#DESCRIPTION Madrest Al Hob S01 EP41 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11602.m3u8:Madrest Al Hob S01 EP42 - 3
+#DESCRIPTION Madrest Al Hob S01 EP42 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11603.m3u8:Madrest Al Hob S01 EP43 - 1
+#DESCRIPTION Madrest Al Hob S01 EP43 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11604.m3u8:Madrest Al Hob S01 EP44 - 2
+#DESCRIPTION Madrest Al Hob S01 EP44 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11605.m3u8:Madrest Al Hob S01 EP45 - 3
+#DESCRIPTION Madrest Al Hob S01 EP45 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11606.m3u8:Madrest Al Hob S01 EP46 - 1
+#DESCRIPTION Madrest Al Hob S01 EP46 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11607.m3u8:Madrest Al Hob S01 EP47 - 2
+#DESCRIPTION Madrest Al Hob S01 EP47 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11608.m3u8:Madrest Al Hob S01 EP48 - 3
+#DESCRIPTION Madrest Al Hob S01 EP48 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11609.m3u8:Madrest Al Hob S01 EP49 - 1
+#DESCRIPTION Madrest Al Hob S01 EP49 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11610.m3u8:Madrest Al Hob S01 EP50 - 2 ?
+#DESCRIPTION Madrest Al Hob S01 EP50 - 2 ?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11611.m3u8:Madrest Al Hob S01 EP51 - 3
+#DESCRIPTION Madrest Al Hob S01 EP51 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11612.m3u8:Madrest Al Hob S01 EP52 - 1
+#DESCRIPTION Madrest Al Hob S01 EP52 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11613.m3u8:Madrest Al Hob S01 EP53 - 2
+#DESCRIPTION Madrest Al Hob S01 EP53 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11614.m3u8:Madrest Al Hob S01 EP54 - 3
+#DESCRIPTION Madrest Al Hob S01 EP54 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11615.m3u8:Madrest Al Hob S01 EP55 - 1
+#DESCRIPTION Madrest Al Hob S01 EP55 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11616.m3u8:Madrest Al Hob S01 EP56 - 2
+#DESCRIPTION Madrest Al Hob S01 EP56 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11617.m3u8:Madrest Al Hob S01 EP57 - 3
+#DESCRIPTION Madrest Al Hob S01 EP57 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11618.m3u8:Madrest Al Hob S01 EP58 - 1
+#DESCRIPTION Madrest Al Hob S01 EP58 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11619.m3u8:Madrest Al Hob S01 EP59 - 2 _
+#DESCRIPTION Madrest Al Hob S01 EP59 - 2 _
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11620.m3u8:Madrest Al Hob S01 EP60 - 3 _
+#DESCRIPTION Madrest Al Hob S01 EP60 - 3 _
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11621.m3u8:Awalem Khafeya Series - S01 Ep 01 -- HD - 1
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 01 -- HD - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11622.m3u8:Awalem Khafeya Series - S01 Ep 02 -- HD - 2
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 02 -- HD - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11623.m3u8:Awalem Khafeya Series - S01 Ep 03- HD - 3
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 03- HD - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11624.m3u8:Awalem Khafeya Series - S01 Ep 04- HD - 4
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 04- HD - 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11625.m3u8:Awalem Khafeya Series - S01 Ep 05- HD - 5
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 05- HD - 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11626.m3u8:Awalem Khafeya Series - S01 Ep 06- HD - 6
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 06- HD - 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11627.m3u8:Awalem Khafeya Series - S01 Ep 07- HD - 7
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 07- HD - 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11628.m3u8:Awalem Khafeya Series - S01 Ep 08- HD - 8
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 08- HD - 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11629.m3u8:Awalem Khafeya Series - S01 Ep 09- HD - 9
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 09- HD - 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11630.m3u8:Awalem Khafeya Series - S01 Ep 10- HD - 10
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 10- HD - 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11631.m3u8:Awalem Khafeya Series - S01 Ep 11_- HD - 11
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 11_- HD - 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11632.m3u8:Awalem Khafeya Series - S01 Ep 12- HD - 12
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 12- HD - 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11633.m3u8:Awalem Khafeya Series - S01 Ep 13- HD - 13
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 13- HD - 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11634.m3u8:Awalem Khafeya Series - S01 Ep 14- HD - 14
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 14- HD - 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11635.m3u8:Awalem Khafeya Series - S01 Ep 15- HD - 15
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 15- HD - 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11636.m3u8:Awalem Khafeya Series - S01 Ep 16- HD - 16
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 16- HD - 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11637.m3u8:Awalem Khafeya Series - S01 Ep 17- HD - 17
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 17- HD - 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11638.m3u8:Awalem Khafeya Series - S01 Ep 18- HD - 18
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 18- HD - 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11639.m3u8:Awalem Khafeya Series - S01 Ep 19- HD - 19
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 19- HD - 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11640.m3u8:Awalem Khafeya Series - S01 Ep 20- HD - 20
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 20- HD - 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11641.m3u8:Awalem Khafeya Series - S01 Ep 21_- HD - 21
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 21_- HD - 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11642.m3u8:Awalem Khafeya Series - S01 Ep 22- HD - 22
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 22- HD - 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11643.m3u8:Awalem Khafeya Series - S01 Ep 23- HD - 23
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 23- HD - 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11644.m3u8:Awalem Khafeya Series - S01 Ep 24- HD - 24
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 24- HD - 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11645.m3u8:Awalem Khafeya Series - S01 Ep 25- HD - 25
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 25- HD - 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11646.m3u8:Awalem Khafeya Series - S01 Ep 26- HD - 26
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 26- HD - 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11647.m3u8:Awalem Khafeya Series - S01 Ep 27- HD - 27
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 27- HD - 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11648.m3u8:Awalem Khafeya Series - S01 Ep 28- HD - 28
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 28- HD - 28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11649.m3u8:Awalem Khafeya Series - S01 Ep 29- HD - 29
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 29- HD - 29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11650.m3u8:Awalem Khafeya Series - S01 Ep 30_- HD?
+#DESCRIPTION Awalem Khafeya Series - S01 Ep 30_- HD?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11651.m3u8:10 Abid Zghar S01 EP 0101
+#DESCRIPTION 10 Abid Zghar S01 EP 0101
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11652.m3u8:10 Abid Zghar S01 EP 0202
+#DESCRIPTION 10 Abid Zghar S01 EP 0202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11653.m3u8:10 Abid Zghar S01 EP 0303
+#DESCRIPTION 10 Abid Zghar S01 EP 0303
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11654.m3u8:10 Abid Zghar S01 EP 0404
+#DESCRIPTION 10 Abid Zghar S01 EP 0404
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11655.m3u8:10 Abid Zghar S01 EP 0505
+#DESCRIPTION 10 Abid Zghar S01 EP 0505
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11656.m3u8:10 Abid Zghar S01 EP 0606
+#DESCRIPTION 10 Abid Zghar S01 EP 0606
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11657.m3u8:10 Abid Zghar S01 EP 0707
+#DESCRIPTION 10 Abid Zghar S01 EP 0707
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11658.m3u8:10 Abid Zghar S01 EP 0808
+#DESCRIPTION 10 Abid Zghar S01 EP 0808
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11659.m3u8:10 Abid Zghar S01 EP 0909
+#DESCRIPTION 10 Abid Zghar S01 EP 0909
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11709.m3u8:10 Abid Zghar S01 EP 1010
+#DESCRIPTION 10 Abid Zghar S01 EP 1010
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11661.m3u8:10 Abid Zghar S01 EP 1111
+#DESCRIPTION 10 Abid Zghar S01 EP 1111
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11662.m3u8:10 Abid Zghar S01 EP 1212
+#DESCRIPTION 10 Abid Zghar S01 EP 1212
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11663.m3u8:10 Abid Zghar S01 EP 1313
+#DESCRIPTION 10 Abid Zghar S01 EP 1313
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11664.m3u8:10 Abid Zghar S01 EP 1414
+#DESCRIPTION 10 Abid Zghar S01 EP 1414
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11665.m3u8:10 Abid Zghar S01 EP 1515
+#DESCRIPTION 10 Abid Zghar S01 EP 1515
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11666.m3u8:10 Abid Zghar S01 EP 1616
+#DESCRIPTION 10 Abid Zghar S01 EP 1616
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11667.m3u8:10 Abid Zghar S01 EP 17 17
+#DESCRIPTION 10 Abid Zghar S01 EP 17 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11668.m3u8:10 Abid Zghar S01 EP 1818
+#DESCRIPTION 10 Abid Zghar S01 EP 1818
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11669.m3u8:10 Abid Zghar S01 EP 19 19
+#DESCRIPTION 10 Abid Zghar S01 EP 19 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11670.m3u8:10 Abid Zghar S01 EP 20 20
+#DESCRIPTION 10 Abid Zghar S01 EP 20 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11671.m3u8:10 Abid Zghar S01 EP 2121
+#DESCRIPTION 10 Abid Zghar S01 EP 2121
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11672.m3u8:10 Abid Zghar S01 EP 22 22
+#DESCRIPTION 10 Abid Zghar S01 EP 22 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11673.m3u8:10 Abid Zghar S01 EP 23 23
+#DESCRIPTION 10 Abid Zghar S01 EP 23 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11674.m3u8:10 Abid Zghar S01 EP 24 24
+#DESCRIPTION 10 Abid Zghar S01 EP 24 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11675.m3u8:10 Abid Zghar S01 EP 25 25
+#DESCRIPTION 10 Abid Zghar S01 EP 25 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11676.m3u8:10 Abid Zghar S01 EP 26 26
+#DESCRIPTION 10 Abid Zghar S01 EP 26 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11677.m3u8:10 Abid Zghar S01 EP 27 27
+#DESCRIPTION 10 Abid Zghar S01 EP 27 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11711.m3u8:10 Abid Zghar S01  EP 28 28
+#DESCRIPTION 10 Abid Zghar S01  EP 28 28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11678.m3u8:10 Abid Zghar S01 EP 29 29
+#DESCRIPTION 10 Abid Zghar S01 EP 29 29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11679.m3u8:10 Abid Zghar S01 EP 30 30
+#DESCRIPTION 10 Abid Zghar S01 EP 30 30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11710.m3u8:10 Abid Zghar S01  EP 31 31
+#DESCRIPTION 10 Abid Zghar S01  EP 31 31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11767.m3u8:Al Basha S01 EP 0101
+#DESCRIPTION Al Basha S01 EP 0101
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11768.m3u8:Al Basha S01 EP 0202
+#DESCRIPTION Al Basha S01 EP 0202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11769.m3u8:Al Basha S01 EP 0303
+#DESCRIPTION Al Basha S01 EP 0303
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11770.m3u8:Al Basha S01 EP 0404
+#DESCRIPTION Al Basha S01 EP 0404
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11771.m3u8:Al Basha S01 EP 0505
+#DESCRIPTION Al Basha S01 EP 0505
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11772.m3u8:Al Basha S01 EP 0606
+#DESCRIPTION Al Basha S01 EP 0606
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11773.m3u8:Al Basha S01 EP 0707
+#DESCRIPTION Al Basha S01 EP 0707
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11774.m3u8:Al Basha S01 EP 0808
+#DESCRIPTION Al Basha S01 EP 0808
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11775.m3u8:Al Basha S01 EP 0909
+#DESCRIPTION Al Basha S01 EP 0909
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11776.m3u8:Al Basha S01 EP 10 10
+#DESCRIPTION Al Basha S01 EP 10 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11777.m3u8:Al Basha S01 EP 1111
+#DESCRIPTION Al Basha S01 EP 1111
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11778.m3u8:Al Basha S01 EP 1212
+#DESCRIPTION Al Basha S01 EP 1212
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11779.m3u8:Al Basha S01 EP 1313
+#DESCRIPTION Al Basha S01 EP 1313
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11780.m3u8:Al Basha S01 EP 14 14
+#DESCRIPTION Al Basha S01 EP 14 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11781.m3u8:Al Basha S01 EP 1515
+#DESCRIPTION Al Basha S01 EP 1515
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11782.m3u8:Al Basha S01 EP 1616
+#DESCRIPTION Al Basha S01 EP 1616
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11783.m3u8:Al Basha S01 EP 1717
+#DESCRIPTION Al Basha S01 EP 1717
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11784.m3u8:Al Basha S01 EP 1818
+#DESCRIPTION Al Basha S01 EP 1818
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11785.m3u8:Al Basha S01 EP 1919
+#DESCRIPTION Al Basha S01 EP 1919
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11786.m3u8:Al Basha S01 EP 2020
+#DESCRIPTION Al Basha S01 EP 2020
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11787.m3u8:Al Basha S01 EP 2121
+#DESCRIPTION Al Basha S01 EP 2121
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11788.m3u8:Al Basha S01 EP 2222
+#DESCRIPTION Al Basha S01 EP 2222
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11789.m3u8:Al Basha S01 EP 2323
+#DESCRIPTION Al Basha S01 EP 2323
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11790.m3u8:Al Basha S01 EP 2424
+#DESCRIPTION Al Basha S01 EP 2424
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11791.m3u8:Al Basha S01 EP 2525
+#DESCRIPTION Al Basha S01 EP 2525
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11792.m3u8:Al Basha S01 EP 2626
+#DESCRIPTION Al Basha S01 EP 2626
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11793.m3u8:Al Basha S01 EP 2727
+#DESCRIPTION Al Basha S01 EP 2727
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11794.m3u8:Al Basha S01 EP 2828
+#DESCRIPTION Al Basha S01 EP 2828
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11795.m3u8:Al Basha S01 EP 2929
+#DESCRIPTION Al Basha S01 EP 2929
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11796.m3u8:Al Basha S01 EP 3030
+#DESCRIPTION Al Basha S01 EP 3030
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11797.m3u8:Al Basha S01 EP 3131
+#DESCRIPTION Al Basha S01 EP 3131
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11798.m3u8:Al Basha S01 EP 3232
+#DESCRIPTION Al Basha S01 EP 3232
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11799.m3u8:Al Basha S01 EP 3333
+#DESCRIPTION Al Basha S01 EP 3333
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11800.m3u8:Al Basha S01 EP 3434
+#DESCRIPTION Al Basha S01 EP 3434
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11801.m3u8:Al Basha S01 EP 3535
+#DESCRIPTION Al Basha S01 EP 3535
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11802.m3u8:Al Basha S01 EP 3636
+#DESCRIPTION Al Basha S01 EP 3636
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11803.m3u8:Al Basha S01 EP 3737
+#DESCRIPTION Al Basha S01 EP 3737
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11804.m3u8:Al Basha S01 EP 3838
+#DESCRIPTION Al Basha S01 EP 3838
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11805.m3u8:Al Basha S01 EP 3939
+#DESCRIPTION Al Basha S01 EP 3939
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11806.m3u8:Al Basha S01 EP 4040
+#DESCRIPTION Al Basha S01 EP 4040
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11807.m3u8:Al Basha S01 EP 4141
+#DESCRIPTION Al Basha S01 EP 4141
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11808.m3u8:Al Basha S01 EP 4242
+#DESCRIPTION Al Basha S01 EP 4242
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11809.m3u8:Al Basha S01 EP 4343
+#DESCRIPTION Al Basha S01 EP 4343
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11810.m3u8:Al Basha S01 EP 4444
+#DESCRIPTION Al Basha S01 EP 4444
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11811.m3u8:Al Basha S01 EP 4545
+#DESCRIPTION Al Basha S01 EP 4545
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11812.m3u8:Al Basha S01 EP 4646
+#DESCRIPTION Al Basha S01 EP 4646
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11813.m3u8:Al Basha S01 EP 4747
+#DESCRIPTION Al Basha S01 EP 4747
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11814.m3u8:Al Basha S01 EP 4848
+#DESCRIPTION Al Basha S01 EP 4848
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11815.m3u8:Al Basha S01 EP 4949
+#DESCRIPTION Al Basha S01 EP 4949
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11816.m3u8:Al Basha S01 EP 5050
+#DESCRIPTION Al Basha S01 EP 5050
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11817.m3u8:Al Basha S01 EP 5151
+#DESCRIPTION Al Basha S01 EP 5151
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11818.m3u8:Al Basha S01 EP 5252
+#DESCRIPTION Al Basha S01 EP 5252
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11819.m3u8:Al Basha S01 EP 5353
+#DESCRIPTION Al Basha S01 EP 5353
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11820.m3u8:Al Basha S01 EP 5454
+#DESCRIPTION Al Basha S01 EP 5454
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11821.m3u8:Al Basha S01 EP 5555
+#DESCRIPTION Al Basha S01 EP 5555
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11822.m3u8:Al Basha S01 EP 5656
+#DESCRIPTION Al Basha S01 EP 5656
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11823.m3u8:Al Basha S01 EP 5757
+#DESCRIPTION Al Basha S01 EP 5757
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11824.m3u8:Al Basha S01 EP 5858
+#DESCRIPTION Al Basha S01 EP 5858
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11825.m3u8:Al Basha S01 EP 5959
+#DESCRIPTION Al Basha S01 EP 5959
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11826.m3u8:Al Basha S01 EP 6060
+#DESCRIPTION Al Basha S01 EP 6060
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11827.m3u8:Al Basha S01 EP 6161
+#DESCRIPTION Al Basha S01 EP 6161
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11828.m3u8:Al Basha S01 EP 6262
+#DESCRIPTION Al Basha S01 EP 6262
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11829.m3u8:Al Basha S01 EP 6363
+#DESCRIPTION Al Basha S01 EP 6363
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11830.m3u8:Oboor S1 - _ 01
+#DESCRIPTION Oboor S1 - _ 01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11831.m3u8:Oboor S1 - _ 02
+#DESCRIPTION Oboor S1 - _ 02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11832.m3u8:Oboor S1 - _ 03
+#DESCRIPTION Oboor S1 - _ 03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11833.m3u8:Oboor S1 - _ 04
+#DESCRIPTION Oboor S1 - _ 04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11834.m3u8:Oboor S1 - _ 05
+#DESCRIPTION Oboor S1 - _ 05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11835.m3u8:Oboor S1 - _ 06
+#DESCRIPTION Oboor S1 - _ 06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11836.m3u8:Oboor S1 - _ 07
+#DESCRIPTION Oboor S1 - _ 07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11837.m3u8:Oboor S1 - _ 08
+#DESCRIPTION Oboor S1 - _ 08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11838.m3u8:Oboor S1 - _ 09
+#DESCRIPTION Oboor S1 - _ 09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11839.m3u8:Oboor S1 - _ 10
+#DESCRIPTION Oboor S1 - _ 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11840.m3u8:Oboor S1 - _ 11
+#DESCRIPTION Oboor S1 - _ 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11841.m3u8:Oboor S1 - _ 12
+#DESCRIPTION Oboor S1 - _ 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11842.m3u8:Oboor S1 - _ 13
+#DESCRIPTION Oboor S1 - _ 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11843.m3u8:Oboor S1 - _ 14
+#DESCRIPTION Oboor S1 - _ 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11844.m3u8:Oboor S1 - _ 15
+#DESCRIPTION Oboor S1 - _ 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11845.m3u8:Oboor S1 - _ 16
+#DESCRIPTION Oboor S1 - _ 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11846.m3u8:Oboor S1 - _ 17
+#DESCRIPTION Oboor S1 - _ 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11847.m3u8:Oboor S1 - _ 18
+#DESCRIPTION Oboor S1 - _ 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11848.m3u8:Oboor S1 - _ 19
+#DESCRIPTION Oboor S1 - _ 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11849.m3u8:Oboor S1 - _ 20
+#DESCRIPTION Oboor S1 - _ 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11850.m3u8:Oboor S1 - _ 21
+#DESCRIPTION Oboor S1 - _ 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11851.m3u8:Oboor S1 - _ 22
+#DESCRIPTION Oboor S1 - _ 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11852.m3u8:Oboor S1 - _ 23
+#DESCRIPTION Oboor S1 - _ 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11853.m3u8:Oboor S1 - _ 24
+#DESCRIPTION Oboor S1 - _ 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11854.m3u8:Oboor S1 - _ 25
+#DESCRIPTION Oboor S1 - _ 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11855.m3u8:Oboor S1 - _ 26
+#DESCRIPTION Oboor S1 - _ 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11856.m3u8:Oboor S1 - _ 27
+#DESCRIPTION Oboor S1 - _ 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11857.m3u8:Oboor S1 - _ 28
+#DESCRIPTION Oboor S1 - _ 28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11858.m3u8:Oboor S1 - _ 29
+#DESCRIPTION Oboor S1 - _ 29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11859.m3u8:Oboor S1 - _ 30
+#DESCRIPTION Oboor S1 - _ 30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11860.m3u8:Masafet Aman S01 E01
+#DESCRIPTION Masafet Aman S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11861.m3u8:Masafet Aman S01 E02
+#DESCRIPTION Masafet Aman S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11862.m3u8:Masafet Aman S01 E03
+#DESCRIPTION Masafet Aman S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11863.m3u8:Masafet Aman S01 E04
+#DESCRIPTION Masafet Aman S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11864.m3u8:Masafet Aman S01 E05
+#DESCRIPTION Masafet Aman S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11865.m3u8:Masafet Aman S01 E06
+#DESCRIPTION Masafet Aman S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11866.m3u8:Masafet Aman S01 E07
+#DESCRIPTION Masafet Aman S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11867.m3u8:Masafet Aman S01 E08
+#DESCRIPTION Masafet Aman S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11868.m3u8:Masafet Aman S01 E09
+#DESCRIPTION Masafet Aman S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11869.m3u8:Masafet Aman S01 E10
+#DESCRIPTION Masafet Aman S01 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11870.m3u8:Masafet Aman S01 E11
+#DESCRIPTION Masafet Aman S01 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11871.m3u8:Masafet Aman S01 E12
+#DESCRIPTION Masafet Aman S01 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11872.m3u8:Masafet Aman S01 E13
+#DESCRIPTION Masafet Aman S01 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11873.m3u8:Masafet Aman S01 E14
+#DESCRIPTION Masafet Aman S01 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11874.m3u8:Masafet Aman S01 E15
+#DESCRIPTION Masafet Aman S01 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11875.m3u8:Masafet Aman S01 E16
+#DESCRIPTION Masafet Aman S01 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11876.m3u8:Masafet Aman S01 E17
+#DESCRIPTION Masafet Aman S01 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11877.m3u8:Masafet Aman S01 E18
+#DESCRIPTION Masafet Aman S01 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11878.m3u8:Masafet Aman S01 E19
+#DESCRIPTION Masafet Aman S01 E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11879.m3u8:Masafet Aman S01 E20
+#DESCRIPTION Masafet Aman S01 E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11880.m3u8:Masafet Aman S01 E21
+#DESCRIPTION Masafet Aman S01 E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11881.m3u8:Masafet Aman S01 E22
+#DESCRIPTION Masafet Aman S01 E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11882.m3u8:Masafet Aman S01 E23
+#DESCRIPTION Masafet Aman S01 E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11883.m3u8:Masafet Aman S01 E24
+#DESCRIPTION Masafet Aman S01 E24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11884.m3u8:Masafet Aman S01 E25
+#DESCRIPTION Masafet Aman S01 E25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11885.m3u8:Masafet Aman S01 E26
+#DESCRIPTION Masafet Aman S01 E26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11886.m3u8:Masafet Aman S01 E27
+#DESCRIPTION Masafet Aman S01 E27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11887.m3u8:Masafet Aman S01 E28
+#DESCRIPTION Masafet Aman S01 E28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11888.m3u8:Masafet Aman S01 E29
+#DESCRIPTION Masafet Aman S01 E29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11889.m3u8:Masafet Aman S01 E30
+#DESCRIPTION Masafet Aman S01 E30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11890.m3u8:Daqiqa Samt S01 E01
+#DESCRIPTION Daqiqa Samt S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11891.m3u8:Daqiqa Samt S01 E02
+#DESCRIPTION Daqiqa Samt S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11892.m3u8:Daqiqa Samt S01 E03
+#DESCRIPTION Daqiqa Samt S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11893.m3u8:Daqiqa Samt S01 E04
+#DESCRIPTION Daqiqa Samt S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11894.m3u8:Daqiqa Samt S01 E05
+#DESCRIPTION Daqiqa Samt S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11895.m3u8:Daqiqa Samt S01 E06
+#DESCRIPTION Daqiqa Samt S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11896.m3u8:Daqiqa Samt S01 E07
+#DESCRIPTION Daqiqa Samt S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11897.m3u8:Daqiqa Samt S01 E08
+#DESCRIPTION Daqiqa Samt S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11898.m3u8:Daqiqa Samt S01 E09
+#DESCRIPTION Daqiqa Samt S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11899.m3u8:Daqiqa Samt S01 E10
+#DESCRIPTION Daqiqa Samt S01 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11900.m3u8:Daqiqa Samt S01 E11
+#DESCRIPTION Daqiqa Samt S01 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11901.m3u8:Daqiqa Samt S01 E12
+#DESCRIPTION Daqiqa Samt S01 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11902.m3u8:Daqiqa Samt S01 E13
+#DESCRIPTION Daqiqa Samt S01 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11903.m3u8:Daqiqa Samt S01 E14
+#DESCRIPTION Daqiqa Samt S01 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11904.m3u8:Daqiqa Samt S01 E15
+#DESCRIPTION Daqiqa Samt S01 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11905.m3u8:Daqiqa Samt S01 E16
+#DESCRIPTION Daqiqa Samt S01 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11906.m3u8:Daqiqa Samt S01 E17
+#DESCRIPTION Daqiqa Samt S01 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11907.m3u8:Daqiqa Samt S01 E18
+#DESCRIPTION Daqiqa Samt S01 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11908.m3u8:Daqiqa Samt S01 E19
+#DESCRIPTION Daqiqa Samt S01 E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11909.m3u8:Daqiqa Samt S01 E20
+#DESCRIPTION Daqiqa Samt S01 E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11910.m3u8:Daqiqa Samt S01 E21
+#DESCRIPTION Daqiqa Samt S01 E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11911.m3u8:Daqiqa Samt S01 E22
+#DESCRIPTION Daqiqa Samt S01 E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11912.m3u8:Daqiqa Samt S01 E23
+#DESCRIPTION Daqiqa Samt S01 E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11913.m3u8:Daqiqa Samt S01 E24
+#DESCRIPTION Daqiqa Samt S01 E24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11914.m3u8:Daqiqa Samt S01 E25
+#DESCRIPTION Daqiqa Samt S01 E25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11915.m3u8:Daqiqa Samt S01 E26
+#DESCRIPTION Daqiqa Samt S01 E26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11916.m3u8:Daqiqa Samt S01 E27
+#DESCRIPTION Daqiqa Samt S01 E27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11917.m3u8:Daqiqa Samt S01 E28
+#DESCRIPTION Daqiqa Samt S01 E28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11918.m3u8:Daqiqa Samt S01 E29
+#DESCRIPTION Daqiqa Samt S01 E29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11919.m3u8:Daqiqa Samt S01 E30
+#DESCRIPTION Daqiqa Samt S01 E30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11920.m3u8:Khamsa Wa Nos S01E01
+#DESCRIPTION Khamsa Wa Nos S01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11921.m3u8:Khamsa Wa Nos S01E02
+#DESCRIPTION Khamsa Wa Nos S01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11922.m3u8:Khamsa Wa Nos S01E03
+#DESCRIPTION Khamsa Wa Nos S01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11923.m3u8:Khamsa Wa Nos S01E04
+#DESCRIPTION Khamsa Wa Nos S01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11924.m3u8:Khamsa Wa Nos S01E05
+#DESCRIPTION Khamsa Wa Nos S01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11925.m3u8:Khamsa Wa Nos S01E06
+#DESCRIPTION Khamsa Wa Nos S01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11926.m3u8:Khamsa Wa Nos S01E07
+#DESCRIPTION Khamsa Wa Nos S01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11927.m3u8:Khamsa Wa Nos S01E08
+#DESCRIPTION Khamsa Wa Nos S01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11928.m3u8:Khamsa Wa Nos S01E09
+#DESCRIPTION Khamsa Wa Nos S01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11929.m3u8:Khamsa Wa Nos S01E10
+#DESCRIPTION Khamsa Wa Nos S01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11930.m3u8:Khamsa Wa Nos S01E11
+#DESCRIPTION Khamsa Wa Nos S01E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11931.m3u8:Khamsa Wa Nos S01E12
+#DESCRIPTION Khamsa Wa Nos S01E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11932.m3u8:Khamsa Wa Nos S01E13
+#DESCRIPTION Khamsa Wa Nos S01E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11933.m3u8:Khamsa Wa Nos S01E14
+#DESCRIPTION Khamsa Wa Nos S01E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11934.m3u8:Khamsa Wa Nos S01E15
+#DESCRIPTION Khamsa Wa Nos S01E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11935.m3u8:Khamsa Wa Nos S01E16
+#DESCRIPTION Khamsa Wa Nos S01E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11936.m3u8:Khamsa Wa Nos S01E17
+#DESCRIPTION Khamsa Wa Nos S01E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11937.m3u8:Khamsa Wa Nos S01E18
+#DESCRIPTION Khamsa Wa Nos S01E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11938.m3u8:Khamsa Wa Nos S01E19
+#DESCRIPTION Khamsa Wa Nos S01E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11939.m3u8:Khamsa Wa Nos S01E20
+#DESCRIPTION Khamsa Wa Nos S01E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11940.m3u8:Khamsa Wa Nos S01E21
+#DESCRIPTION Khamsa Wa Nos S01E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11941.m3u8:Khamsa Wa Nos S01E22
+#DESCRIPTION Khamsa Wa Nos S01E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11942.m3u8:Khamsa Wa Nos S01E23
+#DESCRIPTION Khamsa Wa Nos S01E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11943.m3u8:Khamsa Wa Nos S01E24
+#DESCRIPTION Khamsa Wa Nos S01E24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11944.m3u8:Khamsa Wa Nos S01E25
+#DESCRIPTION Khamsa Wa Nos S01E25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11945.m3u8:Khamsa Wa Nos S01E26
+#DESCRIPTION Khamsa Wa Nos S01E26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11946.m3u8:Khamsa Wa Nos S01E27
+#DESCRIPTION Khamsa Wa Nos S01E27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11947.m3u8:Khamsa Wa Nos S01E28
+#DESCRIPTION Khamsa Wa Nos S01E28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11948.m3u8:Khamsa Wa Nos S01E29
+#DESCRIPTION Khamsa Wa Nos S01E29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11949.m3u8:Khamsa Wa Nos S01E30
+#DESCRIPTION Khamsa Wa Nos S01E30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11950.m3u8:Al Hayba Al Hasad S3E01 HD
+#DESCRIPTION Al Hayba Al Hasad S3E01 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11951.m3u8:Al Hayba Al Hasad S3E02 HD
+#DESCRIPTION Al Hayba Al Hasad S3E02 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11952.m3u8:Al Hayba Al Hasad S3E03 HD
+#DESCRIPTION Al Hayba Al Hasad S3E03 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11953.m3u8:Al Hayba Al Hasad S3E04 HD
+#DESCRIPTION Al Hayba Al Hasad S3E04 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11954.m3u8:Al Hayba Al Hasad S3E05 HD
+#DESCRIPTION Al Hayba Al Hasad S3E05 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11955.m3u8:Al Hayba Al Hasad S3E06 HD
+#DESCRIPTION Al Hayba Al Hasad S3E06 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11956.m3u8:Al Hayba Al Hasad S3E07 HD
+#DESCRIPTION Al Hayba Al Hasad S3E07 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11957.m3u8:Al Hayba Al Hasad S3E08 HD
+#DESCRIPTION Al Hayba Al Hasad S3E08 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11958.m3u8:Al Hayba Al Hasad S3E09 HD
+#DESCRIPTION Al Hayba Al Hasad S3E09 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11959.m3u8:Al Hayba Al Hasad S3E10 HD
+#DESCRIPTION Al Hayba Al Hasad S3E10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11960.m3u8:Al Hayba Al Hasad S3E11 HD
+#DESCRIPTION Al Hayba Al Hasad S3E11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11961.m3u8:Al Hayba Al Hasad S3E12 HD
+#DESCRIPTION Al Hayba Al Hasad S3E12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11962.m3u8:Al Hayba Al Hasad S3E13 HD
+#DESCRIPTION Al Hayba Al Hasad S3E13 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11963.m3u8:Al Hayba Al Hasad S3E14 HD
+#DESCRIPTION Al Hayba Al Hasad S3E14 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11964.m3u8:Al Hayba Al Hasad S3E15 HD
+#DESCRIPTION Al Hayba Al Hasad S3E15 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11965.m3u8:Al Hayba Al Hasad S3E16 HD
+#DESCRIPTION Al Hayba Al Hasad S3E16 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11966.m3u8:Al Hayba Al Hasad S3E17 HD
+#DESCRIPTION Al Hayba Al Hasad S3E17 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11967.m3u8:Al Hayba Al Hasad S3E18 HD
+#DESCRIPTION Al Hayba Al Hasad S3E18 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11968.m3u8:Al Hayba Al Hasad S3E19 HD
+#DESCRIPTION Al Hayba Al Hasad S3E19 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11969.m3u8:Al Hayba Al Hasad S3E20 HD
+#DESCRIPTION Al Hayba Al Hasad S3E20 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11970.m3u8:Al Hayba Al Hasad S3E21 HD
+#DESCRIPTION Al Hayba Al Hasad S3E21 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11971.m3u8:Al Hayba Al Hasad S3E22 HD
+#DESCRIPTION Al Hayba Al Hasad S3E22 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11972.m3u8:Al Hayba Al Hasad S3E23 HD
+#DESCRIPTION Al Hayba Al Hasad S3E23 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11973.m3u8:Al Hayba Al Hasad S3E24 HD
+#DESCRIPTION Al Hayba Al Hasad S3E24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11974.m3u8:Al Hayba Al Hasad S3E25 HD
+#DESCRIPTION Al Hayba Al Hasad S3E25 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11975.m3u8:Al Hayba Al Hasad S3E26 HD
+#DESCRIPTION Al Hayba Al Hasad S3E26 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11976.m3u8:Al Hayba Al Hasad S3E27 HD
+#DESCRIPTION Al Hayba Al Hasad S3E27 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11977.m3u8:Al Hayba Al Hasad S3E28 HD
+#DESCRIPTION Al Hayba Al Hasad S3E28 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11978.m3u8:Al Hayba Al Hasad S3E29 HD
+#DESCRIPTION Al Hayba Al Hasad S3E29 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11979.m3u8:Al Hayba Al Hasad S3E30 HD
+#DESCRIPTION Al Hayba Al Hasad S3E30 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11980.m3u8:Laow S01 EP 01 -?1
+#DESCRIPTION Laow S01 EP 01 -?1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11981.m3u8:Laow S01 EP 02 -?2
+#DESCRIPTION Laow S01 EP 02 -?2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11982.m3u8:Laow S01 EP 03 -?3
+#DESCRIPTION Laow S01 EP 03 -?3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11983.m3u8:Laow S01 EP 04 -?4
+#DESCRIPTION Laow S01 EP 04 -?4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11984.m3u8:Laow S01 EP 05 -?5
+#DESCRIPTION Laow S01 EP 05 -?5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11985.m3u8:Laow S01 EP 06 -?6
+#DESCRIPTION Laow S01 EP 06 -?6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11986.m3u8:Laow S01 EP 07 -?7
+#DESCRIPTION Laow S01 EP 07 -?7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11987.m3u8:Laow S01 EP 08 -?8
+#DESCRIPTION Laow S01 EP 08 -?8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11988.m3u8:Laow S01 EP 09 -?9
+#DESCRIPTION Laow S01 EP 09 -?9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11989.m3u8:Laow S01 EP 10 -? 10
+#DESCRIPTION Laow S01 EP 10 -? 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11990.m3u8:Laow S01 EP 11-?11
+#DESCRIPTION Laow S01 EP 11-?11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11991.m3u8:Laow S01 EP 12 -?12
+#DESCRIPTION Laow S01 EP 12 -?12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11992.m3u8:Laow S01 EP 13 -?13
+#DESCRIPTION Laow S01 EP 13 -?13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11993.m3u8:Laow S01 EP 14 -?14
+#DESCRIPTION Laow S01 EP 14 -?14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11994.m3u8:Laow S01 EP 15 -?15
+#DESCRIPTION Laow S01 EP 15 -?15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11995.m3u8:Laow S01 EP 16 -?16
+#DESCRIPTION Laow S01 EP 16 -?16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11996.m3u8:Laow S01 EP 17 -?17
+#DESCRIPTION Laow S01 EP 17 -?17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11997.m3u8:Laow S01 EP 18 -?18
+#DESCRIPTION Laow S01 EP 18 -?18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11998.m3u8:Laow S01 EP 19 -?19
+#DESCRIPTION Laow S01 EP 19 -?19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/11999.m3u8:Laow S01 EP 20 -?20
+#DESCRIPTION Laow S01 EP 20 -?20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12000.m3u8:Laow S01 EP 21 -?21
+#DESCRIPTION Laow S01 EP 21 -?21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12001.m3u8:Laow S01 EP 22 -?22
+#DESCRIPTION Laow S01 EP 22 -?22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12002.m3u8:Laow S01 EP 23 -?23
+#DESCRIPTION Laow S01 EP 23 -?23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12003.m3u8:Laow S01 EP 24 -?24
+#DESCRIPTION Laow S01 EP 24 -?24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12004.m3u8:Laow S01 EP 25 -?25
+#DESCRIPTION Laow S01 EP 25 -?25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12005.m3u8:Laow S01 EP 26-?26
+#DESCRIPTION Laow S01 EP 26-?26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12006.m3u8:Laow S01 EP 27 -?27
+#DESCRIPTION Laow S01 EP 27 -?27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12007.m3u8:Laow S01 EP 28 -?28
+#DESCRIPTION Laow S01 EP 28 -?28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12008.m3u8:Laow S01 EP 29 -?29
+#DESCRIPTION Laow S01 EP 29 -?29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12009.m3u8:Laow S01 EP 30 -?30
+#DESCRIPTION Laow S01 EP 30 -?30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12010.m3u8:Salasel Dahab S01 E01
+#DESCRIPTION Salasel Dahab S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12011.m3u8:Salasel Dahab S01 E02
+#DESCRIPTION Salasel Dahab S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12012.m3u8:Salasel Dahab S01 E03
+#DESCRIPTION Salasel Dahab S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12013.m3u8:Salasel Dahab S01 E04
+#DESCRIPTION Salasel Dahab S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12014.m3u8:Salasel Dahab S01 E05
+#DESCRIPTION Salasel Dahab S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12015.m3u8:Salasel Dahab S01 E06
+#DESCRIPTION Salasel Dahab S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12016.m3u8:Salasel Dahab S01 E07
+#DESCRIPTION Salasel Dahab S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12017.m3u8:Salasel Dahab S01 E08
+#DESCRIPTION Salasel Dahab S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12018.m3u8:Salasel Dahab S01 E09
+#DESCRIPTION Salasel Dahab S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12019.m3u8:Salasel Dahab S01 E10
+#DESCRIPTION Salasel Dahab S01 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12020.m3u8:Salasel Dahab S01 E11
+#DESCRIPTION Salasel Dahab S01 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12021.m3u8:Salasel Dahab S01 E12
+#DESCRIPTION Salasel Dahab S01 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12022.m3u8:Salasel Dahab S01 E13
+#DESCRIPTION Salasel Dahab S01 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12023.m3u8:Salasel Dahab S01 E14
+#DESCRIPTION Salasel Dahab S01 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12024.m3u8:Salasel Dahab S01 E15
+#DESCRIPTION Salasel Dahab S01 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12025.m3u8:Salasel Dahab S01 E16
+#DESCRIPTION Salasel Dahab S01 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12026.m3u8:Salasel Dahab S01 E17
+#DESCRIPTION Salasel Dahab S01 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12027.m3u8:Salasel Dahab S01 E18
+#DESCRIPTION Salasel Dahab S01 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12028.m3u8:Salasel Dahab S01 E19
+#DESCRIPTION Salasel Dahab S01 E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12029.m3u8:Salasel Dahab S01 E20
+#DESCRIPTION Salasel Dahab S01 E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12030.m3u8:Salasel Dahab S01 E21
+#DESCRIPTION Salasel Dahab S01 E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12031.m3u8:Salasel Dahab S01 E22
+#DESCRIPTION Salasel Dahab S01 E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12032.m3u8:Salasel Dahab S01 E23
+#DESCRIPTION Salasel Dahab S01 E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12033.m3u8:Salasel Dahab S01 E24
+#DESCRIPTION Salasel Dahab S01 E24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12034.m3u8:Salasel Dahab S01 E25
+#DESCRIPTION Salasel Dahab S01 E25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12035.m3u8:Salasel Dahab S01 E26
+#DESCRIPTION Salasel Dahab S01 E26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12036.m3u8:Salasel Dahab S01 E27
+#DESCRIPTION Salasel Dahab S01 E27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12037.m3u8:Salasel Dahab S01 E28
+#DESCRIPTION Salasel Dahab S01 E28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12038.m3u8:Salasel Dahab S01 E29
+#DESCRIPTION Salasel Dahab S01 E29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12039.m3u8:Salasel Dahab S01 E30
+#DESCRIPTION Salasel Dahab S01 E30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12040.m3u8:Salasel Dahab S01 E31
+#DESCRIPTION Salasel Dahab S01 E31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12041.m3u8:Salasel Dahab S01 E32
+#DESCRIPTION Salasel Dahab S01 E32
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12042.m3u8:Salasel Dahab S01 E33
+#DESCRIPTION Salasel Dahab S01 E33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12043.m3u8:Salasel Dahab S01 E34
+#DESCRIPTION Salasel Dahab S01 E34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12044.m3u8:Salasel Dahab S01 E35
+#DESCRIPTION Salasel Dahab S01 E35
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12045.m3u8:Salasel Dahab S01 E36
+#DESCRIPTION Salasel Dahab S01 E36
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12046.m3u8:Badal Al-Hadoot 2019 S03E01
+#DESCRIPTION Badal Al-Hadoot 2019 S03E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12047.m3u8:Badal Al-Hadoot 2019 S03E02
+#DESCRIPTION Badal Al-Hadoot 2019 S03E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12048.m3u8:Badal Al-Hadoot 2019 S03E03
+#DESCRIPTION Badal Al-Hadoot 2019 S03E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12049.m3u8:Badal Al-Hadoot 2019 S03E04
+#DESCRIPTION Badal Al-Hadoot 2019 S03E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12050.m3u8:Badal Al-Hadoot 2019 S03E05
+#DESCRIPTION Badal Al-Hadoot 2019 S03E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12051.m3u8:Badal Al-Hadoot 2019 S03E06
+#DESCRIPTION Badal Al-Hadoot 2019 S03E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12052.m3u8:Badal Al-Hadoot 2019 S03E07
+#DESCRIPTION Badal Al-Hadoot 2019 S03E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12053.m3u8:Badal Al-Hadoot 2019 S03E08
+#DESCRIPTION Badal Al-Hadoot 2019 S03E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12054.m3u8:Badal Al-Hadoot 2019 S03E09
+#DESCRIPTION Badal Al-Hadoot 2019 S03E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12055.m3u8:Badal Al-Hadoot 2019 S03E10
+#DESCRIPTION Badal Al-Hadoot 2019 S03E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12056.m3u8:Badal Al-Hadoot 2019 S03E11
+#DESCRIPTION Badal Al-Hadoot 2019 S03E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12057.m3u8:Badal Al-Hadoot 2019 S03E12
+#DESCRIPTION Badal Al-Hadoot 2019 S03E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12058.m3u8:Badal Al-Hadoot 2019 S03E13
+#DESCRIPTION Badal Al-Hadoot 2019 S03E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12059.m3u8:Badal Al-Hadoot 2019 S03E14
+#DESCRIPTION Badal Al-Hadoot 2019 S03E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12060.m3u8:Badal Al-Hadoot 2019 S03E15
+#DESCRIPTION Badal Al-Hadoot 2019 S03E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12061.m3u8:Badal Al-Hadoot 2019 S03E16
+#DESCRIPTION Badal Al-Hadoot 2019 S03E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12062.m3u8:Badal Al-Hadoot 2019 S03E17
+#DESCRIPTION Badal Al-Hadoot 2019 S03E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12063.m3u8:Badal Al-Hadoot 2019 S03E18
+#DESCRIPTION Badal Al-Hadoot 2019 S03E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12064.m3u8:Badal Al-Hadoot 2019 S03E19
+#DESCRIPTION Badal Al-Hadoot 2019 S03E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12065.m3u8:Badal Al-Hadoot 2019 S03E20
+#DESCRIPTION Badal Al-Hadoot 2019 S03E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12066.m3u8:Badal Al-Hadoot 2019 S03E21
+#DESCRIPTION Badal Al-Hadoot 2019 S03E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12067.m3u8:Badal Al-Hadoot 2019 S03E22
+#DESCRIPTION Badal Al-Hadoot 2019 S03E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12068.m3u8:Badal Al-Hadoot 2019 S03E23
+#DESCRIPTION Badal Al-Hadoot 2019 S03E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12069.m3u8:Badal Al-Hadoot 2019 S03E24
+#DESCRIPTION Badal Al-Hadoot 2019 S03E24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12070.m3u8:Badal Al-Hadoot 2019 S03E25
+#DESCRIPTION Badal Al-Hadoot 2019 S03E25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12071.m3u8:Badal Al-Hadoot 2019 S03E26
+#DESCRIPTION Badal Al-Hadoot 2019 S03E26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12072.m3u8:Badal Al-Hadoot 2019 S03E27
+#DESCRIPTION Badal Al-Hadoot 2019 S03E27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12073.m3u8:Badal Al-Hadoot 2019 S03E28
+#DESCRIPTION Badal Al-Hadoot 2019 S03E28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12074.m3u8:Badal Al-Hadoot 2019 S03E29
+#DESCRIPTION Badal Al-Hadoot 2019 S03E29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12075.m3u8:Badal Al-Hadoot 2019 S03E30
+#DESCRIPTION Badal Al-Hadoot 2019 S03E30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12076.m3u8:Nas Mn Waraq 2019 S01E01 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E01 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12077.m3u8:Nas Mn Waraq 2019 S01E02 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E02 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12078.m3u8:Nas Mn Waraq 2019 S01E04 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E04 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12079.m3u8:Nas Mn Waraq 2019 S01E05 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E05 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12080.m3u8:Nas Mn Waraq 2019 S01E06 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E06 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12081.m3u8:Nas Mn Waraq 2019 S01E07 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E07 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12082.m3u8:Nas Mn Waraq 2019 S01E08 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E08 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12083.m3u8:Nas Mn Waraq 2019 S01E09 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E09 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12084.m3u8:Nas Mn Waraq 2019 S01E10 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12085.m3u8:Nas Mn Waraq 2019 S01E11 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12086.m3u8:Nas Mn Waraq 2019 S01E12 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12087.m3u8:Nas Mn Waraq 2019 S01E13 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E13 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12088.m3u8:Nas Mn Waraq 2019 S01E14 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E14 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12089.m3u8:Nas Mn Waraq 2019 S01E15 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E15 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12090.m3u8:Nas Mn Waraq 2019 S01E16 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E16 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12091.m3u8:Nas Mn Waraq 2019 S01E17 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E17 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12092.m3u8:Nas Mn Waraq 2019 S01E18 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E18 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12093.m3u8:Nas Mn Waraq 2019 S01E19 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E19 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12094.m3u8:Nas Mn Waraq 2019 S01E20 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E20 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12095.m3u8:Nas Mn Waraq 2019 S01E21 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E21 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12096.m3u8:Nas Mn Waraq 2019 S01E22 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E22 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12097.m3u8:Nas Mn Waraq 2019 S01E23 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E23 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12098.m3u8:Nas Mn Waraq 2019 S01E24 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12099.m3u8:Nas Mn Waraq 2019 S01E25 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E25 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12100.m3u8:Nas Mn Waraq 2019 S01E26 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E26 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12101.m3u8:Nas Mn Waraq 2019 S01E27 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E27 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12102.m3u8:Nas Mn Waraq 2019 S01E28 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E28 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12103.m3u8:Nas Mn Waraq 2019 S01E29 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E29 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12104.m3u8:Nas Mn Waraq 2019 S01E30 HD
+#DESCRIPTION Nas Mn Waraq 2019 S01E30 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12106.m3u8:Roundtrip S01 EP 01 - 1
+#DESCRIPTION Roundtrip S01 EP 01 - 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12107.m3u8:Roundtrip S01 EP 02 - 2
+#DESCRIPTION Roundtrip S01 EP 02 - 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12108.m3u8:Roundtrip S01 EP 03 - 3
+#DESCRIPTION Roundtrip S01 EP 03 - 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12109.m3u8:Roundtrip S01 EP 04 - 4
+#DESCRIPTION Roundtrip S01 EP 04 - 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12110.m3u8:Roundtrip S01 EP 05 - 5
+#DESCRIPTION Roundtrip S01 EP 05 - 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12111.m3u8:Roundtrip S01 EP 06 - 6
+#DESCRIPTION Roundtrip S01 EP 06 - 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12112.m3u8:Roundtrip S01 EP 07 - 7
+#DESCRIPTION Roundtrip S01 EP 07 - 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12113.m3u8:Roundtrip S01 EP 08 - 8
+#DESCRIPTION Roundtrip S01 EP 08 - 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12114.m3u8:Roundtrip S01 EP 09 - 9
+#DESCRIPTION Roundtrip S01 EP 09 - 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12115.m3u8:Roundtrip S01 EP 10 - 10
+#DESCRIPTION Roundtrip S01 EP 10 - 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12116.m3u8:Roundtrip S01 EP 11 - 11
+#DESCRIPTION Roundtrip S01 EP 11 - 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12117.m3u8:Roundtrip S01 EP 12 - 12
+#DESCRIPTION Roundtrip S01 EP 12 - 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12118.m3u8:Roundtrip S01 EP 13 - 13
+#DESCRIPTION Roundtrip S01 EP 13 - 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12119.m3u8:Roundtrip S01 EP 14 - 14
+#DESCRIPTION Roundtrip S01 EP 14 - 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12120.m3u8:Roundtrip S01 EP 15 - 15
+#DESCRIPTION Roundtrip S01 EP 15 - 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12121.m3u8:Roundtrip S01 EP 16 - 16
+#DESCRIPTION Roundtrip S01 EP 16 - 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12122.m3u8:Roundtrip S01 EP 17 - 17
+#DESCRIPTION Roundtrip S01 EP 17 - 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12123.m3u8:Roundtrip S01 EP 18 - 18
+#DESCRIPTION Roundtrip S01 EP 18 - 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12124.m3u8:Roundtrip S01 EP 19 - 19
+#DESCRIPTION Roundtrip S01 EP 19 - 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12125.m3u8:Roundtrip S01 EP 20 - 20
+#DESCRIPTION Roundtrip S01 EP 20 - 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12126.m3u8:Roundtrip S01 EP 21 -  21
+#DESCRIPTION Roundtrip S01 EP 21 -  21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12127.m3u8:Roundtrip S01 EP 22 - 22
+#DESCRIPTION Roundtrip S01 EP 22 - 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12128.m3u8:Roundtrip S01 EP 23 - 23
+#DESCRIPTION Roundtrip S01 EP 23 - 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12129.m3u8:Roundtrip S01 EP 24 - 24
+#DESCRIPTION Roundtrip S01 EP 24 - 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12130.m3u8:Roundtrip S01 EP 25 - 25
+#DESCRIPTION Roundtrip S01 EP 25 - 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12131.m3u8:Roundtrip S01 EP 26 - 26
+#DESCRIPTION Roundtrip S01 EP 26 - 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12132.m3u8:Roundtrip S01 EP 27 - 27
+#DESCRIPTION Roundtrip S01 EP 27 - 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12133.m3u8:Roundtrip S01 EP 28 - 28
+#DESCRIPTION Roundtrip S01 EP 28 - 28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12134.m3u8:Roundtrip S01 EP 29 -  29
+#DESCRIPTION Roundtrip S01 EP 29 -  29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12135.m3u8:Roundtrip S01 EP 30 - 30
+#DESCRIPTION Roundtrip S01 EP 30 - 30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12205.m3u8:Mulberry Leaves S01 EP 01 -?
+#DESCRIPTION Mulberry Leaves S01 EP 01 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12206.m3u8:Mulberry Leaves S01 EP 02 -
+#DESCRIPTION Mulberry Leaves S01 EP 02 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12207.m3u8:Mulberry Leaves S01 EP 03 -
+#DESCRIPTION Mulberry Leaves S01 EP 03 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12208.m3u8:Mulberry Leaves S01 EP 04 -?
+#DESCRIPTION Mulberry Leaves S01 EP 04 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12209.m3u8:Mulberry Leaves S01 EP 05 -
+#DESCRIPTION Mulberry Leaves S01 EP 05 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12210.m3u8:Mulberry Leaves S01 EP 06 -
+#DESCRIPTION Mulberry Leaves S01 EP 06 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12211.m3u8:Mulberry Leaves S01 EP 07 -?
+#DESCRIPTION Mulberry Leaves S01 EP 07 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12212.m3u8:Mulberry Leaves S01 EP 08 -
+#DESCRIPTION Mulberry Leaves S01 EP 08 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12213.m3u8:Mulberry Leaves S01 EP 09 -
+#DESCRIPTION Mulberry Leaves S01 EP 09 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12214.m3u8:Mulberry Leaves S01 EP 10 -
+#DESCRIPTION Mulberry Leaves S01 EP 10 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12215.m3u8:Mulberry Leaves S01 EP 11 -?
+#DESCRIPTION Mulberry Leaves S01 EP 11 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12216.m3u8:Mulberry Leaves S01 EP 12 -?
+#DESCRIPTION Mulberry Leaves S01 EP 12 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12217.m3u8:Mulberry Leaves S01 EP 13 -?
+#DESCRIPTION Mulberry Leaves S01 EP 13 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12218.m3u8:Mulberry Leaves S01 EP 14 -
+#DESCRIPTION Mulberry Leaves S01 EP 14 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12219.m3u8:Mulberry Leaves S01 EP 15 -
+#DESCRIPTION Mulberry Leaves S01 EP 15 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12220.m3u8:Mulberry Leaves S01 EP 16 -
+#DESCRIPTION Mulberry Leaves S01 EP 16 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12221.m3u8:Mulberry Leaves S01 EP 17 -
+#DESCRIPTION Mulberry Leaves S01 EP 17 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12222.m3u8:Mulberry Leaves S01 EP 18 -?
+#DESCRIPTION Mulberry Leaves S01 EP 18 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12223.m3u8:Mulberry Leaves S01 EP 19 -
+#DESCRIPTION Mulberry Leaves S01 EP 19 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12224.m3u8:Mulberry Leaves S01 EP 20 -
+#DESCRIPTION Mulberry Leaves S01 EP 20 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12225.m3u8:Mulberry Leaves S01 EP 21 -?
+#DESCRIPTION Mulberry Leaves S01 EP 21 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12226.m3u8:Mulberry Leaves S01 EP 22 -?
+#DESCRIPTION Mulberry Leaves S01 EP 22 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12227.m3u8:Mulberry Leaves S01 EP 23 -?
+#DESCRIPTION Mulberry Leaves S01 EP 23 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12228.m3u8:Mulberry Leaves S01 EP 24 -?
+#DESCRIPTION Mulberry Leaves S01 EP 24 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12229.m3u8:Mulberry Leaves S01 EP 25 -?
+#DESCRIPTION Mulberry Leaves S01 EP 25 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12230.m3u8:Mulberry Leaves S01 EP 26 -?
+#DESCRIPTION Mulberry Leaves S01 EP 26 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12231.m3u8:Mulberry Leaves S01 EP 27 -?
+#DESCRIPTION Mulberry Leaves S01 EP 27 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12232.m3u8:Mulberry Leaves S01 EP 28 -
+#DESCRIPTION Mulberry Leaves S01 EP 28 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12233.m3u8:Mulberry Leaves S01 EP 29 -?
+#DESCRIPTION Mulberry Leaves S01 EP 29 -?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12234.m3u8:Mulberry Leaves S01 EP 30 -
+#DESCRIPTION Mulberry Leaves S01 EP 30 -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12235.m3u8:Suits S08E01
+#DESCRIPTION Suits S08E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12236.m3u8:Suits S08E02
+#DESCRIPTION Suits S08E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12237.m3u8:Suits S08E03
+#DESCRIPTION Suits S08E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12238.m3u8:Suits S08E04
+#DESCRIPTION Suits S08E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12239.m3u8:Suits S08E05
+#DESCRIPTION Suits S08E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12240.m3u8:Suits S08E06
+#DESCRIPTION Suits S08E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12241.m3u8:Suits S08E07
+#DESCRIPTION Suits S08E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12242.m3u8:Suits S08E08
+#DESCRIPTION Suits S08E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12243.m3u8:Suits S08E09
+#DESCRIPTION Suits S08E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12244.m3u8:Suits S08E10
+#DESCRIPTION Suits S08E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12245.m3u8:Suits S08E11
+#DESCRIPTION Suits S08E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12246.m3u8:Suits S08E12
+#DESCRIPTION Suits S08E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12247.m3u8:Suits S08E13
+#DESCRIPTION Suits S08E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12248.m3u8:Suits S08E14
+#DESCRIPTION Suits S08E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12249.m3u8:Suits S08E15
+#DESCRIPTION Suits S08E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12250.m3u8:Ahmad w Christina S01 EP 01 01
+#DESCRIPTION Ahmad w Christina S01 EP 01 01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12251.m3u8:Ahmad w Christina S01 EP 02 02
+#DESCRIPTION Ahmad w Christina S01 EP 02 02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12252.m3u8:Ahmad w Christina S01 EP 03 03
+#DESCRIPTION Ahmad w Christina S01 EP 03 03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12253.m3u8:Ahmad w Christina S01 EP 04 04
+#DESCRIPTION Ahmad w Christina S01 EP 04 04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12254.m3u8:Ahmad w Christina S01 EP 05 05
+#DESCRIPTION Ahmad w Christina S01 EP 05 05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12255.m3u8:Ahmad w Christina S01 EP 06 06
+#DESCRIPTION Ahmad w Christina S01 EP 06 06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12256.m3u8:Ahmad w Christina S01 EP 07 07
+#DESCRIPTION Ahmad w Christina S01 EP 07 07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12257.m3u8:Ahmad w Christina S01 EP 08 08
+#DESCRIPTION Ahmad w Christina S01 EP 08 08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12258.m3u8:Ahmad w Christina S01 EP 09 09
+#DESCRIPTION Ahmad w Christina S01 EP 09 09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12259.m3u8:Ahmad w Christina S01 EP 10 10
+#DESCRIPTION Ahmad w Christina S01 EP 10 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12260.m3u8:Ahmad w Christina S01 EP 11 11
+#DESCRIPTION Ahmad w Christina S01 EP 11 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12261.m3u8:Ahmad w Christina S01 EP 12 12
+#DESCRIPTION Ahmad w Christina S01 EP 12 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12262.m3u8:Ahmad w Christina S01 EP 13 13
+#DESCRIPTION Ahmad w Christina S01 EP 13 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12263.m3u8:Ahmad w Christina S01 EP 14 14
+#DESCRIPTION Ahmad w Christina S01 EP 14 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12264.m3u8:Ahmad w Christina S01 EP 15 15
+#DESCRIPTION Ahmad w Christina S01 EP 15 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12265.m3u8:Ahmad w Christina S01 EP 16 16
+#DESCRIPTION Ahmad w Christina S01 EP 16 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12266.m3u8:Ahmad w Christina S01 EP 17 17
+#DESCRIPTION Ahmad w Christina S01 EP 17 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12267.m3u8:Ahmad w Christina S01 EP 18 18
+#DESCRIPTION Ahmad w Christina S01 EP 18 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12268.m3u8:Ahmad w Christina S01 EP 19 19
+#DESCRIPTION Ahmad w Christina S01 EP 19 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12269.m3u8:Ahmad w Christina S01 EP 20 20
+#DESCRIPTION Ahmad w Christina S01 EP 20 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12270.m3u8:Ahmad w Christina S01 EP 21 21
+#DESCRIPTION Ahmad w Christina S01 EP 21 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12271.m3u8:Ahmad w Christina S01 EP 22 22
+#DESCRIPTION Ahmad w Christina S01 EP 22 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12272.m3u8:Ahmad w Christina S01 EP 23 23
+#DESCRIPTION Ahmad w Christina S01 EP 23 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12273.m3u8:Ahmad w Christina S01 EP 24 24
+#DESCRIPTION Ahmad w Christina S01 EP 24 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12274.m3u8:Ahmad w Christina S01 EP 25 25
+#DESCRIPTION Ahmad w Christina S01 EP 25 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12275.m3u8:Ahmad w Christina S01 EP 26 26
+#DESCRIPTION Ahmad w Christina S01 EP 26 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12276.m3u8:Ahmad w Christina S01 EP 27 27
+#DESCRIPTION Ahmad w Christina S01 EP 27 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12277.m3u8:Ahmad w Christina S01 EP 28 28
+#DESCRIPTION Ahmad w Christina S01 EP 28 28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12278.m3u8:Ahmad w Christina S01 EP 29 29
+#DESCRIPTION Ahmad w Christina S01 EP 29 29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12279.m3u8:Ahmad w Christina S01 EP 30 30
+#DESCRIPTION Ahmad w Christina S01 EP 30 30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12280.m3u8:Ahmad w Christina S01 EP 31 31
+#DESCRIPTION Ahmad w Christina S01 EP 31 31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12281.m3u8:Ahmad w Christina S01 EP 32 32
+#DESCRIPTION Ahmad w Christina S01 EP 32 32
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12282.m3u8:Ahmad w Christina S01 EP 33 33
+#DESCRIPTION Ahmad w Christina S01 EP 33 33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12283.m3u8:Ahmad w Christina S01 EP 34 34
+#DESCRIPTION Ahmad w Christina S01 EP 34 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/12284.m3u8:Ahmad w Christina S01EP 35 35
+#DESCRIPTION Ahmad w Christina S01EP 35 35
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5088.m3u8:S02E01
+#DESCRIPTION S02E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5089.m3u8:S02E02
+#DESCRIPTION S02E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5090.m3u8:S02E03
+#DESCRIPTION S02E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5091.m3u8:S02E04
+#DESCRIPTION S02E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5092.m3u8:S02E05
+#DESCRIPTION S02E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5093.m3u8:S02E06
+#DESCRIPTION S02E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5094.m3u8:S02E07
+#DESCRIPTION S02E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5095.m3u8:S02E08
+#DESCRIPTION S02E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5096.m3u8:S02E09
+#DESCRIPTION S02E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5097.m3u8:S02E10
+#DESCRIPTION S02E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5098.m3u8:S02E11
+#DESCRIPTION S02E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5099.m3u8:S02E12
+#DESCRIPTION S02E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5100.m3u8:S02E13
+#DESCRIPTION S02E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5101.m3u8:S02E14
+#DESCRIPTION S02E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5102.m3u8:S02E15
+#DESCRIPTION S02E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5103.m3u8:S02E16
+#DESCRIPTION S02E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5104.m3u8:S02E17
+#DESCRIPTION S02E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5105.m3u8:S02E18
+#DESCRIPTION S02E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5106.m3u8:S02E19
+#DESCRIPTION S02E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5107.m3u8:S02E20
+#DESCRIPTION S02E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5108.m3u8:S02E21
+#DESCRIPTION S02E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5109.m3u8:S02E22
+#DESCRIPTION S02E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5110.m3u8:S02E23
+#DESCRIPTION S02E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5111.m3u8:S02E24
+#DESCRIPTION S02E24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5112.m3u8:S02E25
+#DESCRIPTION S02E25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5113.m3u8:S02E26
+#DESCRIPTION S02E26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5114.m3u8:S02E27
+#DESCRIPTION S02E27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5115.m3u8:S02E28
+#DESCRIPTION S02E28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5116.m3u8:S02E29
+#DESCRIPTION S02E29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5117.m3u8:S02E30
+#DESCRIPTION S02E30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5118.m3u8:S02E31
+#DESCRIPTION S02E31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/5119.m3u8:S02E32
+#DESCRIPTION S02E32

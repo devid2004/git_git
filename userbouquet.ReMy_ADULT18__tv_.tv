@@ -55,21 +55,21 @@
 #DESCRIPTION Private TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10007/stolen/246r/parasite.install:Super One HD
 #DESCRIPTION Super One HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Brazzers%20TV.ts:Brazzers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Brazzers TV.ts:Brazzers
 #DESCRIPTION Brazzers
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Candy%20HD%20.ts:Candy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Candy HD .ts:Candy HD
 #DESCRIPTION Candy HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Dorcel%20HD.ts:Dorcel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Dorcel HD.ts:Dorcel HD
 #DESCRIPTION Dorcel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Hustler%20HD%20Europe.ts:Hustler HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Hustler HD Europe.ts:Hustler HD
 #DESCRIPTION Hustler HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Nuart.ts:Nuart
 #DESCRIPTION Nuart
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Playboy%20TV.ts:PlayboyTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Playboy TV.ts:PlayboyTV
 #DESCRIPTION PlayboyTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Redlight%20HD.ts:Redlight HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Redlight HD.ts:Redlight HD
 #DESCRIPTION Redlight HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%BE%D1%87%D1%8C.ts:Russian night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Русская ночь.ts:Russian night
 #DESCRIPTION Russian night
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigass.m3u8:RedTraffic Big Ass (18+)
 #DESCRIPTION RedTraffic Big Ass (18+)
@@ -281,8 +281,8 @@
 #DESCRIPTION 1299_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6385_1080.m3u8:1313_AdultHub
 #DESCRIPTION 1313_AdultHub
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6404_1080.m3u8:1313_AdultHub
-#DESCRIPTION 1313_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6404_1080.m3u8:1314_AdultHub
+#DESCRIPTION 1314_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6120_1080.m3u8:1318_AdultHub
 #DESCRIPTION 1318_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6225_1080.m3u8:1325_AdultHub
@@ -331,20 +331,20 @@
 #DESCRIPTION 1499_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6336_1080.m3u8:1500_AdultHub
 #DESCRIPTION 1500_AdultHub
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6368_1080.m3u8:1500_AdultHub
-#DESCRIPTION 1500_AdultHub
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6374_1080.m3u8:1500_AdultHub
-#DESCRIPTION 1500_AdultHub
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6401_1080.m3u8:1500_AdultHub
-#DESCRIPTION 1500_AdultHub
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6418_1080.m3u8:1500_AdultHub
-#DESCRIPTION 1500_AdultHub
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6431_1080.m3u8:1500_AdultHub
-#DESCRIPTION 1500_AdultHub
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6474_1080.m3u8:1500_AdultHub
-#DESCRIPTION 1500_AdultHub
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6477_1080.m3u8:1500_AdultHub
-#DESCRIPTION 1500_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6368_1080.m3u8:1501_AdultHub
+#DESCRIPTION 1501_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6374_1080.m3u8:1502_AdultHub
+#DESCRIPTION 1502_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6401_1080.m3u8:1503_AdultHub
+#DESCRIPTION 1503_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6418_1080.m3u8:1504_AdultHub
+#DESCRIPTION 1504_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6431_1080.m3u8:1505_AdultHub
+#DESCRIPTION 1505_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6474_1080.m3u8:1506_AdultHub
+#DESCRIPTION 1506_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6477_1080.m3u8:1507_AdultHub
+#DESCRIPTION 1507_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6352_1080.m3u8:1512_AdultHub
 #DESCRIPTION 1512_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6342_1080.m3u8:1520_AdultHub
@@ -353,8 +353,8 @@
 #DESCRIPTION 1521_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6212_1080.m3u8:1531_AdultHub
 #DESCRIPTION 1531_AdultHub
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6462_1080.m3u8:1531_AdultHub
-#DESCRIPTION 1531_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6462_1080.m3u8:1532_AdultHub
+#DESCRIPTION 1532_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6175_1080.m3u8:1551_AdultHub
 #DESCRIPTION 1551_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6126_1080.m3u8:1552_AdultHub
@@ -369,12 +369,12 @@
 #DESCRIPTION 1572_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6163_1080.m3u8:1573_AdultHub
 #DESCRIPTION 1573_AdultHub
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6436_1080.m3u8:1573_AdultHub
-#DESCRIPTION 1573_AdultHub
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6480_1080.m3u8:1573_AdultHub
-#DESCRIPTION 1573_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6188_1080.m3u8:1574_AdultHub
 #DESCRIPTION 1574_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6436_1080.m3u8:1575_AdultHub
+#DESCRIPTION 1575_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6480_1080.m3u8:1576_AdultHub
+#DESCRIPTION 1576_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6367_1080.m3u8:1583_AdultHub
 #DESCRIPTION 1583_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6194_1080.m3u8:1630_AdultHub
@@ -893,8 +893,6 @@
 #DESCRIPTION teen Liza opens her holes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv26.twincdn.com/videos/11/11835/11835_720p.mp4:Teen Mary Ann fuck ass
 #DESCRIPTION Teen Mary Ann fuck ass
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv46.twincdn.com/videos/6/6027/6027_720p.mp4:Teen mit kleiner enger Pussy
-#DESCRIPTION Teen mit kleiner enger Pussy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv7.twincdn.com/videos/1/1147/1147_720p.mp4:Teen offers her asshole
 #DESCRIPTION Teen offers her asshole
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv20.twincdn.com/videos/15/15499/15499_720p.mp4:Teen slut is pissing
