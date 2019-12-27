@@ -13,6 +13,8 @@
 #DESCRIPTION Müslüm Gürses feat. Rubato - İsyankar AAC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1eMLSwi9Z_3OS1Zw?e=e3vOE9:Cengiz Kurtoğlu, Hakan Altun - Usta Çırak ( Ful
 #DESCRIPTION Cengiz Kurtoğlu, Hakan Altun - Usta Çırak ( Ful
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Muzik Siteler
+#DESCRIPTION Muzik Siteler
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8:DREAM TURK
 #DESCRIPTION DREAM TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8:DREAM TV
@@ -487,9 +489,9 @@
 #DESCRIPTION GREATEST HITS OF ALL TIME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
