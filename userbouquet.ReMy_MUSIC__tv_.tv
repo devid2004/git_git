@@ -13,8 +13,6 @@
 #DESCRIPTION Müslüm Gürses feat. Rubato - İsyankar AAC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1eMLSwi9Z_3OS1Zw?e=e3vOE9:Cengiz Kurtoğlu, Hakan Altun - Usta Çırak ( Ful
 #DESCRIPTION Cengiz Kurtoğlu, Hakan Altun - Usta Çırak ( Ful
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Muzik Siteler
-#DESCRIPTION Muzik Siteler
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8:DREAM TURK
 #DESCRIPTION DREAM TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8:DREAM TV
@@ -43,6 +41,8 @@
 #DESCRIPTION MAVI KARADENIZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.6/televizyon-live/DugunTv/chunklist.m3u:DugunTv 1
 #DESCRIPTION DugunTv 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Muzik Siteler
+#DESCRIPTION Muzik Siteler
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4Fun TV
@@ -57,12 +57,6 @@
 #DESCRIPTION ALBUK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albmusic.dyndns.tv%3a1935/albuk/albmus.stream/playlist.m3u8:ALB MUSIC HD
 #DESCRIPTION ALB MUSIC HD
-#SERVICE 4097:0:1:136:0:0:0:0:0:0:http%3a//ec.playmedia.fr/beblack/africa/playlist.m3u8:BBlack TV Africa
-#DESCRIPTION BBlack TV Africa
-#SERVICE 4097:0:1:138:0:0:0:0:0:0:http%3a//ec.playmedia.fr/beblack/caribbean/playlist.m3u8:BBlack TV Caribbean
-#DESCRIPTION BBlack TV Caribbean
-#SERVICE 4097:0:1:140:0:0:0:0:0:0:http%3a//ec.playmedia.fr/beblack/classik/playlist.m3u8:BBlack TV Classik
-#DESCRIPTION BBlack TV Classik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
 #DESCRIPTION Box Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2:Brandnite TV HD
@@ -179,9 +173,9 @@
 #DESCRIPTION HIT RU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b4128000.m3u8:HOBOC TV
 #DESCRIPTION HOBOC TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//server10.streaming-pro.com%3a1937/live/ibgtvlive/playlist.m3u8:Ibiza Global TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8:Ibiza Global TV
 #DESCRIPTION Ibiza Global TV
-#SERVICE 4097:0:1:228:0:0:0:0:0:0:http%3a//89.36.10.12%3a8080:IMPACT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c913f7f32c25.streamlock.net/live/smil%3aimpact.smil/chunklist_w1009444843_b1120000_DVR_slEn.m3u8:IMPACT TV
 #DESCRIPTION IMPACT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/rtp/239.0.0.2%3a5000:Kcn 2 Tv
 #DESCRIPTION Kcn 2 Tv
@@ -343,6 +337,12 @@
 #DESCRIPTION ZIK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8:3ABN Praise Him Music Channel
 #DESCRIPTION 3ABN Praise Him Music Channel
+#SERVICE 4097:0:1:136:0:0:0:0:0:0:http%3a//ec.playmedia.fr/beblack/africa/playlist.m3u8:BBlack TV Africa
+#DESCRIPTION BBlack TV Africa
+#SERVICE 4097:0:1:138:0:0:0:0:0:0:http%3a//ec.playmedia.fr/beblack/caribbean/playlist.m3u8:BBlack TV Caribbean
+#DESCRIPTION BBlack TV Caribbean
+#SERVICE 4097:0:1:140:0:0:0:0:0:0:http%3a//ec.playmedia.fr/beblack/classik/playlist.m3u8:BBlack TV Classik
+#DESCRIPTION BBlack TV Classik
 #SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.asymedya.com%3a8020/;stream.mp3:ASK FM
