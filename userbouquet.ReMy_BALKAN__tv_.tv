@@ -3,8 +3,6 @@
 #DESCRIPTION 1Music Channel Hungary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.108.13%3a8000/play/a0cu:4S
 #DESCRIPTION 4S
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.108.13%3a8000/play/a0dr:axn clone
-#DESCRIPTION axn clone
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.adunity.com/b1/b1.m3u8:B1
 #DESCRIPTION B1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.canalc.be%3a1935/matele/smil%3aSMIL-matele-multi.smil/chunklist.m3u8:BE-MA TELE
@@ -145,8 +143,6 @@
 #DESCRIPTION KRONEHIT TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza4.catve.com.br%3a1935/mastertv/livestream/playlist.m3u8:Master TV HD
 #DESCRIPTION Master TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8:NRJ TV
-#DESCRIPTION NRJ TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.115.137.166/hls/ntvm.m3u8:NTV Moldova
 #DESCRIPTION NTV Moldova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8:Ocko
@@ -161,14 +157,8 @@
 #DESCRIPTION oneby
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:oneby
 #DESCRIPTION oneby
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5c4d56be6c927.streamlock.net%3a1935/orbitatv1/livestream/chunklist.m3u8:Orbita FM TV
-#DESCRIPTION Orbita FM TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//p3-6.mov.at%3a1935/live/weekstream/playlist.m3u8:P3 TV HD
-#DESCRIPTION P3 TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//141.136.14.18/kanal1/kanal1_1500/index.m3u8:Plus TV Macedonia
 #DESCRIPTION Plus TV Macedonia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8:POWER TURK HD
-#DESCRIPTION POWER TURK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.167.253.110%3a5000/live/prima/playlist.m3u8:Prima CZ
 #DESCRIPTION Prima CZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sb.top-ix.org/streamtech/tvlive1/playlist.m3u8:Prima Tivvu
@@ -191,12 +181,6 @@
 #DESCRIPTION radio-banovina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8:RCN HD
 #DESCRIPTION RCN HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/realitatea/playlist.m3u8:Realitatea Tv
-#DESCRIPTION Realitatea Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/rtv/playlist.m3u8:Romania Tv
-#DESCRIPTION Romania Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.114.65.202%3a1935/live/rrokumtv/playlist.m3u8:Rrokum TV Albania
-#DESCRIPTION Rrokum TV Albania
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8:RTE Jr
 #DESCRIPTION RTE Jr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.rtkit.com%3a1935/rtk1stream/rtk1.stream/playlist.m3u8:RTK 1 Kosovo
@@ -207,30 +191,6 @@
 #DESCRIPTION RTK 3 Kosovo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.56.10%3a1935/rtk4stream/rtk4.stream/playlist.m3u8:RTK 4 Kosovo
 #DESCRIPTION RTK 4 Kosovo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rts-live.morescreens.com/RTS_1_001/playlist.m3u8?video_id=5&authority_instance_id=spectar-prd-rts&token=xxx&detected_delivery_method=mpegdash:RTS 1 HD
-#DESCRIPTION RTS 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rts-live.morescreens.com/RTS_1_002/playlist.m3u8?video_id=4&authority_instance_id=spectar-prd-rts&token=xxx&detected_delivery_method=mpegdash:RTS 2 HD
-#DESCRIPTION RTS 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rts-live.morescreens.com/RTS_1_013/playlist.m3u8?video_id=2&authority_instance_id=spectar-prd-rts&token=xxx&detected_delivery_method=mpegdash:RTS 3
-#DESCRIPTION RTS 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rts-live.morescreens.com//RTS_1_016/playlist.m3u8?video_id=218325&authority_instance_id=spectar-prd-rts&token=xxx&detected_delivery_method=mpegdash:RTS Direktan prenos
-#DESCRIPTION RTS Direktan prenos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rts-live.morescreens.com/RTS_1_005/playlist.m3u8?video_id=14&authority_instance_id=spectar-prd-rts&token=xxx&detected_delivery_method=mpegdash:RTS DRAMA
-#DESCRIPTION RTS DRAMA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rts-live.morescreens.com/RTS_1_015/playlist.m3u8?video_id=16887&authority_instance_id=spectar-prd-rts&token=xxx&detected_delivery_method=mpegdash:RTS HD
-#DESCRIPTION RTS HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rts-live.morescreens.com/RTS_1_003/playlist.m3u8?video_id=16886&authority_instance_id=spectar-prd-rts&token=xxx&detected_delivery_method=mpegdash:RTS KOLO
-#DESCRIPTION RTS KOLO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rts-live.morescreens.com/RTS_1_007/playlist.m3u8?video_id=8&authority_instance_id=spectar-prd-rts&token=xxx&detected_delivery_method=mpegdash:RTS MUZIKA
-#DESCRIPTION RTS MUZIKA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rts-live.morescreens.com/RTS_1_008/playlist.m3u8?video_id=16883&authority_instance_id=spectar-prd-rts&token=xxx&detected_delivery_method=mpegdash:RTS POLETARAC
-#DESCRIPTION RTS POLETARAC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rts-live.morescreens.com/RTS_1_014/playlist.m3u8?video_id=16889&authority_instance_id=spectar-prd-rts&token=xxx&detected_delivery_method=mpegdash:RTS SVET HD
-#DESCRIPTION RTS SVET HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rts-live.morescreens.com/RTS_1_004/playlist.m3u8?video_id=16&authority_instance_id=spectar-prd-rts&token=xxx&detected_delivery_method=mpegdash:RTS TREZOR
-#DESCRIPTION RTS TREZOR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rts-live.morescreens.com/RTS_1_006/playlist.m3u8?video_id=11&authority_instance_id=spectar-prd-rts&token=xxx&detected_delivery_method=mpegdash:RTS ZIVOT
-#DESCRIPTION RTS ZIVOT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/playlist.m3u8:RTV Zik
 #DESCRIPTION RTV Zik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:RTVZiK
@@ -239,6 +199,8 @@
 #DESCRIPTION Sarajevo 1 Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyfolk.mk/live.m3u8:Sky Folk TV
 #DESCRIPTION Sky Folk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:SilenceTV
+#DESCRIPTION SilenceTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.201.163.244%3a8080/hls/hdmi.m3u8:Slavonska TV
 #DESCRIPTION Slavonska TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s62/index.m3u8:spike tv
@@ -257,15 +219,11 @@
 #DESCRIPTION Tv Kit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livebeta.publika.md/LIVE/P/6810.m3u8:TV Publika Moldava
 #DESCRIPTION TV Publika Moldava
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamcast.oc3n.net%3a1935/TVPI/myStream700.sdp/live.m3u8:TVPI
-#DESCRIPTION TVPI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//141.136.14.18/kanal1/kanal1.m3u8:TVPlus
 #DESCRIPTION TVPlus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.186.146.34%3a8080:TVPlus Suceava
 #DESCRIPTION TVPlus Suceava
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.196.0.126%3a80/utvedge/utvlive/index.m3u8:UTV
-#DESCRIPTION UTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8:UTV
 #DESCRIPTION UTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//139.59.166.48%3a8081/live/live3/playlist.m3u8:V2BEAT TV
 #DESCRIPTION V2BEAT TV
@@ -281,5 +239,3 @@
 #DESCRIPTION YU PLANET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.sloode.com%3a1935/teleluna/live/playlist.m3u8:teleluna
 #DESCRIPTION teleluna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:SilenceTV
-#DESCRIPTION SilenceTV

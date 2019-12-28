@@ -61,16 +61,16 @@
 #DESCRIPTION TV Tunisia 2 [ s 1 ]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10265.m3u8:Universal Somali TV [ s 1 ]
 #DESCRIPTION Universal Somali TV [ s 1 ]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8id=abudhabi_drama:Abu Dhabi Drama
-#DESCRIPTION Abu Dhabi Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8id=abudhabi_aloula:Abu Dhabi TV
-#DESCRIPTION Abu Dhabi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8 :Adalemarat
 #DESCRIPTION Adalemarat
+#SERVICE 4097:0:0:33:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8:adalemarat
+#DESCRIPTION adalemarat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//africatv.live.net.sa%3a1935/live/africatv/playlist.m3u8:africatv
 #DESCRIPTION africatv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.islamexplained.com%3a1935/live/_definst_mp4%3aahme.stream_360p/playlist.m3u8:AL HAYAT
 #DESCRIPTION AL HAYAT
+#SERVICE 4097:0:0:16:0:0:0:0:0:0:http%3a//95.170.215.107%3a80/hls/m3u8/Alhayat-M-Backup.m3u8:Alhayat-M-Backup
+#DESCRIPTION Alhayat-M-Backup
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8:AL HURRA
 #DESCRIPTION AL HURRA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream02.fasttelco.net/4/pub/asset/28/streams.m3u8:Al Rai
@@ -79,38 +79,40 @@
 #DESCRIPTION Al Rasheed
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ns8.indexforce.com%3a1935/home/mystream/playlist.m3u8:Al Sharqiya
 #DESCRIPTION Al Sharqiya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8:Aljazeera documentary
-#DESCRIPTION Aljazeera documentary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8:Aljazeera Documentary
-#DESCRIPTION Aljazeera Documentary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//158.69.229.29%3a8081/digital_abr/streamabr/playlist.m3u8:ARY DIGITAL
-#DESCRIPTION ARY DIGITAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv2.azon.uz/med/stream.m3u8:Azon TV (UZ)
 #DESCRIPTION Azon TV (UZ)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8:BBC Arabic
-#DESCRIPTION BBC Arabic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svbps-sambavideos.akamaized.net/voda/_definst_/amlst%3astg;1685,3851,9207bc6b56e486b2fb21cc0bc60d6676;hidden32np;3WUEA6SURIAH2HUAYUEUL56DPXWM5YH7EIW3KNWUX7FCYL2T4P57JSWRFIM5HEMMGNAH6EZMDOYDFTZW3DJDGHIUJDB2MB5ZVMSNOEKHR7FQ2LVIKFFAT3IHUCPLJT7N2HO34JQWIROOAAGAMBDG7MRDFXUHD7DCZFSCITS4YBFPOMVHIO3D7TFZW33OV2AA2W3EYX2COFALG67R5RZMY4PE3COJ4XRTPWVUKWFQ7LVUD4ZJ2BMRVTA5UTSWWNWZQ3RYZQXYJT7XT3FYFN3G3FRONBNH4UD5RTYA!!!!/chunklist_b381952.m3u8:bcc-samba
 #DESCRIPTION bcc-samba
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8id=dubaione:Dubai One**
-#DESCRIPTION Dubai One**
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8id=dubaitv:Dubai TV
-#DESCRIPTION Dubai TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8id=dubaizaman:Dubai Zaman
-#DESCRIPTION Dubai Zaman
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8id=abudhabi_alemarat:Emarat TV
-#DESCRIPTION Emarat TV
+#SERVICE 4097:0:0:17:0:0:0:0:0:0:http%3a//95.170.215.109%3a80/hls/m3u8/Cairo-Dra-Backup.m3u8:Cairo-Dra
+#DESCRIPTION Cairo-Dra
+#SERVICE 4097:0:0:18:0:0:0:0:0:0:http%3a//95.170.215.109%3a80/hls/m3u8/DUBAIONE-Backup.m3u8:DUBAIONE
+#DESCRIPTION DUBAIONE
+#SERVICE 4097:0:0:19:0:0:0:0:0:0:http%3a//95.170.215.109/hls/m3u8/Dubai-Backup.m3u8:Dubai-Backup
+#DESCRIPTION Dubai-Backup
+#SERVICE 4097:0:0:20:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/Dub-Sport2-Bakup.m3u8:Dub-Sport2
+#DESCRIPTION Dub-Sport2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8:EMARAT TV HD
 #DESCRIPTION EMARAT TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.tootvs.com/8010/8010:Halab Today TV
 #DESCRIPTION Halab Today TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.27.116.54%3a1935/live/amn/chunklist_w1521888123.m3u8:Jorden TV
 #DESCRIPTION Jorden TV
+#SERVICE 4097:0:0:28:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/IRIB-KORDESTAN.m3u8:IRIB-KORDESTAN
+#DESCRIPTION IRIB-KORDESTAN
+#SERVICE 4097:0:0:29:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/IRIB-TV1.m3u8:IRIB-TV1
+#DESCRIPTION IRIB-TV1
+#SERVICE 4097:0:0:30:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/IRIB-TV2.m3u8:IRIB-TV2
+#DESCRIPTION IRIB-TV2
+#SERVICE 4097:0:0:31:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/IRIB-TV4.m3u8:IRIB-TV4
+#DESCRIPTION IRIB-TV4
+#SERVICE 4097:0:0:32:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/IRIB-YAZD.m3u8:IRIB-YAZD
+#DESCRIPTION IRIB-YAZD
+#SERVICE 4097:0:0:24:0:0:0:0:0:0:http%3a//95.170.215.106/hls/m3u8/Kmax-Sh-B-Backup.m3u8:Kmax-Sh
+#DESCRIPTION Kmax-Sh
+#SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:Kurd-Goal
+#DESCRIPTION Kurd-Goal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8:KTV 1
 #DESCRIPTION KTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/ktv.m3u8id=ktv1:KTV 1
-#DESCRIPTION KTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/ktv.m3u8id=ktv2:KTV 2
-#DESCRIPTION KTV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8:KTV 2
 #DESCRIPTION KTV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8:KTV Al Arabi
@@ -119,27 +121,21 @@
 #DESCRIPTION KTV Al Majlis
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8:KTV Plus
 #DESCRIPTION KTV Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/mbc2/index.m3u8:MBC 2 HD
+#DESCRIPTION MBC 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/mbc2/05.m3u8:MBC 2 HD
+#DESCRIPTION MBC 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8:MBC 2 HD
+#DESCRIPTION MBC 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8:MBC 2 HD
 #DESCRIPTION MBC 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8:MBC 2 HD
 #DESCRIPTION MBC 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8:MBC 2 HD
-#DESCRIPTION MBC 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/mbc2/05.m3u8:MBC 2 HD
-#DESCRIPTION MBC 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/mbc2/index.m3u8:MBC 2 HD
-#DESCRIPTION MBC 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8:MBC Action HD
-#DESCRIPTION MBC Action HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8sd=10&rebase=on:MBC Action HD
 #DESCRIPTION MBC Action HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8:MBC Action HD
 #DESCRIPTION MBC Action HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8:MBC Action HD
-#DESCRIPTION MBC Action HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8:MBC Action HD
-#DESCRIPTION MBC Action HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/mbcaction/05.m3u8:MBC Action HD
 #DESCRIPTION MBC Action HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/mbcaction/index.m3u8:MBC Action HD
 #DESCRIPTION MBC Action HD
@@ -149,25 +145,21 @@
 #DESCRIPTION MBC Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8:MBC Drama
 #DESCRIPTION MBC Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8sd=10&rebase=on:MBC Drama
-#DESCRIPTION MBC Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae%3a80/hls/mbc_drama/05.m3u8:MBC Drama
 #DESCRIPTION MBC Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae%3a80/hls/mbc_drama/index.m3u8:MBC Drama
 #DESCRIPTION MBC Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8:MBC Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/mbcmax/index.m3u8:MBC Max HD
 #DESCRIPTION MBC Max HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8sd=10&rebase=on:MBC Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/mbcmax/05.m3u8:MBC Max HD
+#DESCRIPTION MBC Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8:MBC Max HD
+#DESCRIPTION MBC Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8:MBC Max HD
 #DESCRIPTION MBC Max HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8:MBC Max HD
 #DESCRIPTION MBC Max HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8:MBC Max HD
-#DESCRIPTION MBC Max HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8:MBC Max HD
-#DESCRIPTION MBC Max HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/mbcmax/05.m3u8:MBC Max HD
-#DESCRIPTION MBC Max HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/mbcmax/index.m3u8:MBC Max HD
 #DESCRIPTION MBC Max HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107%3a80/hls/MBC-Masr-2-Backu-M.m3u8:MBC-Masr-2
 #DESCRIPTION MBC-Masr-2
@@ -175,10 +167,8 @@
 #DESCRIPTION nat geo AD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adnatgeo/adnatgeo.m3u8:National Geographic
 #DESCRIPTION National Geographic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8id=samadubai:Sama Dubai
-#DESCRIPTION Sama Dubai
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ns8.indexforce.com%3a1935/alsharqiyalive/mystream/playlist.m3u8:Sharqiya News
-#DESCRIPTION Sharqiya News
+#SERVICE 4097:0:0:26:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/ON-Drama.m3u8:ON-Drama
+#DESCRIPTION ON-Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8:Star Movies
 #DESCRIPTION Star Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8:Star Movies
@@ -193,37 +183,7 @@
 #DESCRIPTION Star Movies HD (Middle East)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae%3a80/hls/star_movies/05.m3u8:Star Movies HD (Middle East)
 #DESCRIPTION Star Movies HD (Middle East)
-#SERVICE 4097:0:0:16:0:0:0:0:0:0:http%3a//95.170.215.107%3a80/hls/m3u8/Alhayat-M-Backup.m3u8:Alhayat-M-Backup
-#DESCRIPTION Alhayat-M-Backup
-#SERVICE 4097:0:0:17:0:0:0:0:0:0:http%3a//95.170.215.109%3a80/hls/m3u8/Cairo-Dra-Backup.m3u8:Cairo-Dra
-#DESCRIPTION Cairo-Dra
-#SERVICE 4097:0:0:18:0:0:0:0:0:0:http%3a//95.170.215.109%3a80/hls/m3u8/DUBAIONE-Backup.m3u8:DUBAIONE
-#DESCRIPTION DUBAIONE
-#SERVICE 4097:0:0:19:0:0:0:0:0:0:http%3a//95.170.215.109/hls/m3u8/Dubai-Backup.m3u8:Dubai-Backup
-#DESCRIPTION Dubai-Backup
-#SERVICE 4097:0:0:20:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/Dub-Sport2-Bakup.m3u8:Dub-Sport2
-#DESCRIPTION Dub-Sport2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.106/hls/m3u8/Waar-Backup.m3u8 :Waar-Backup
 #DESCRIPTION Waar-Backup
-#SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:Kurd-Goal
-#DESCRIPTION Kurd-Goal
-#SERVICE 4097:0:0:24:0:0:0:0:0:0:http%3a//95.170.215.106/hls/m3u8/Kmax-Sh-B-Backup.m3u8:Kmax-Sh
-#DESCRIPTION Kmax-Sh
-#SERVICE 4097:0:0:26:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/ON-Drama.m3u8:ON-Drama
-#DESCRIPTION ON-Drama
 #SERVICE 4097:0:0:27:0:0:0:0:0:0:http%3a//95.170.215.106/hls/m3u8/Waar-Backup.m3u8:Waar-Backup
 #DESCRIPTION Waar-Backup
-#SERVICE 4097:0:0:28:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/IRIB-KORDESTAN.m3u8:IRIB-KORDESTAN
-#DESCRIPTION IRIB-KORDESTAN
-#SERVICE 4097:0:0:29:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/IRIB-TV1.m3u8:IRIB-TV1
-#DESCRIPTION IRIB-TV1
-#SERVICE 4097:0:0:30:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/IRIB-TV2.m3u8:IRIB-TV2
-#DESCRIPTION IRIB-TV2
-#SERVICE 4097:0:0:31:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/IRIB-TV4.m3u8:IRIB-TV4
-#DESCRIPTION IRIB-TV4
-#SERVICE 4097:0:0:32:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/IRIB-YAZD.m3u8:IRIB-YAZD
-#DESCRIPTION IRIB-YAZD
-#SERVICE 4097:0:0:33:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8:adalemarat
-#DESCRIPTION adalemarat
-#SERVICE 4097:0:0:34:0:0:0:0:0:0:http%3a//158.69.229.29%3a8081/digital_abr/streamabr/playlist.m3u8:digital_abr
-#DESCRIPTION digital_abr

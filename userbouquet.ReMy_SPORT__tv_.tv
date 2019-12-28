@@ -31,6 +31,10 @@
 #DESCRIPTION bt sport 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/btse.m3u8:bt sport ESPN
 #DESCRIPTION bt sport ESPN
+#SERVICE 4097:0:0:20:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/Dub-Sport2-Bakup.m3u8:Dub-Sport2
+#DESCRIPTION Dub-Sport2
+#SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:Kurd-Goal
+#DESCRIPTION Kurd-Goal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g6/ukrfoot1.m3u8:Footboll 1 ukrain
 #DESCRIPTION Footboll 1 ukrain
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g1/sport2port.m3u8:SPORT TV _2
@@ -111,7 +115,7 @@
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
-#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
+#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100%25 Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8181/ntvspor.ts:1SPOR LİG TV HD
 #DESCRIPTION 1SPOR LİG TV HD

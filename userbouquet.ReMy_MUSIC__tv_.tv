@@ -1,6 +1,8 @@
 #NAME == ★★ReMy | MUSIC★★ ==
 #SERVICE 1:64:9F:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:SilenceTV
+#DESCRIPTION SilenceTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1gQa3Twms4PEWzmPd?e=XM56ZZ:DOGA ICIN CAL 11 - CARSAMBA'YI SEL ALDI
 #DESCRIPTION DOGA ICIN CAL 11 - CARSAMBA'YI SEL ALDI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1gQn0DOp411xyvSo8?e=PHF6VA:Samida - Lazuri nana
@@ -19,6 +21,8 @@
 #DESCRIPTION DREAM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8:POWER HD
 #DESCRIPTION POWER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8:POWER TURK HD
+#DESCRIPTION POWER TURK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b2650000_sltur.m3u8:POWER TURK HD
 #DESCRIPTION POWER TURK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b1428000_sltur.m3u8:POWER TURK SD
@@ -163,12 +167,6 @@
 #DESCRIPTION Gigante TV
 #SERVICE 4097:0:1:1157:0:0:0:0:0:0:rtmp%3a//glasdrine.cutuk.net%3a1935/3ghu788/GlasDrine:GLas Drine Music HD
 #DESCRIPTION GLas Drine Music HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ec.playmedia.fr%3a1935/gong-base/live/playlist.m3u8:Gong Base
-#DESCRIPTION Gong Base
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8:Hit TV HD
-#DESCRIPTION Hit TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1mstream.digicable.hu/hitmusic/hitmusic.m3u8:H!T Music Channel
-#DESCRIPTION H!T Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hithd.camsh.orsk.ru/hls/hithd.m3u8:HIT RU
 #DESCRIPTION HIT RU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b4128000.m3u8:HOBOC TV
@@ -235,6 +233,8 @@
 #DESCRIPTION NRJ TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8:NRJ TV
 #DESCRIPTION NRJ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//st2.worldkast.com/8030/8030/chunklist.m3u8:Q'hubo TV
+#DESCRIPTION Q'hubo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8:Ocko
 #DESCRIPTION Ocko
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8:Ocko Expres
@@ -259,6 +259,8 @@
 #DESCRIPTION Radio 105 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.105.net/live/105Test3/playlist.m3u8:Radio 105 Network TV (IT)
 #DESCRIPTION Radio 105 Network TV (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:radio-banovina
+#DESCRIPTION radio-banovina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.97.59%3a80/beverwijk/studio/playlist.m3u8:Radio Beverwijk
 #DESCRIPTION Radio Beverwijk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8:Radio Bruno
@@ -285,8 +287,8 @@
 #DESCRIPTION ROMAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8:ROMAN TV Tr
 #DESCRIPTION ROMAN TV Tr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/rocktv/playlist.m3u8:Rock TV
-#DESCRIPTION Rock TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.rtkit.com%3a1935/rtk1stream/rtk1.stream/playlist.m3u8:RTK 1 Kosovo
+#DESCRIPTION RTK 1 Kosovo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.56.10%3a1935/rtk4stream/rtk4.stream/playlist.m3u8:RTK 4 Kosovo
 #DESCRIPTION RTK 4 Kosovo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:RTVZiK
@@ -325,6 +327,8 @@
 #DESCRIPTION TV+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8:UTV
 #DESCRIPTION UTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//139.59.166.48%3a8081/live/live3/playlist.m3u8:V2BEAT TV
+#DESCRIPTION V2BEAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8:Vintage Music TV
 #DESCRIPTION Vintage Music TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.231.229.37%3a3401/voxafuk/voxafhlsout/chunklist_w985073329.m3u8:Vox Africa UK
@@ -337,16 +341,8 @@
 #DESCRIPTION ZIK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8:3ABN Praise Him Music Channel
 #DESCRIPTION 3ABN Praise Him Music Channel
-#SERVICE 4097:0:1:136:0:0:0:0:0:0:http%3a//ec.playmedia.fr/beblack/africa/playlist.m3u8:BBlack TV Africa
-#DESCRIPTION BBlack TV Africa
-#SERVICE 4097:0:1:138:0:0:0:0:0:0:http%3a//ec.playmedia.fr/beblack/caribbean/playlist.m3u8:BBlack TV Caribbean
-#DESCRIPTION BBlack TV Caribbean
-#SERVICE 4097:0:1:140:0:0:0:0:0:0:http%3a//ec.playmedia.fr/beblack/classik/playlist.m3u8:BBlack TV Classik
-#DESCRIPTION BBlack TV Classik
 #SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.asymedya.com%3a8020/;stream.mp3:ASK FM
-#DESCRIPTION ASK FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Turk
 #DESCRIPTION Kral Turk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kralpopwmp.radyotvonline.com/;stream.mp3:KRAL FM
@@ -359,6 +355,8 @@
 #DESCRIPTION KRAL POP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.3.246/stream/104/;stream.nsv:Alem FM
 #DESCRIPTION Alem FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.asymedya.com%3a8020/;stream.mp3:ASK FM
+#DESCRIPTION ASK FM
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/30/:ANKARA HAVALARI
 #DESCRIPTION ANKARA HAVALARI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//37.247.100.100/best//babaradyo.stream:Baba Radyo
@@ -489,9 +487,9 @@
 #DESCRIPTION GREATEST HITS OF ALL TIME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
