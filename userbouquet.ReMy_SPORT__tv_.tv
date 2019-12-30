@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | SPORT★★ ==
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
+#SERVICE 1:64:97:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:Bein sport 1 HD
 #DESCRIPTION Bein sport 1 HD
@@ -61,12 +61,12 @@
 #DESCRIPTION KSA-Sport1-Bakup
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA-Sport2-Bakup
 #DESCRIPTION KSA-Sport2-Bakup
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8:SPORTS | CHINA | CCTV 5 HD
-#DESCRIPTION SPORTS | CHINA | CCTV 5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:SPORTS | CHINA | NEW TV Super sports HD
-#DESCRIPTION SPORTS | CHINA | NEW TV Super sports HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8:CCTV-5+
 #DESCRIPTION CCTV-5+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8:CCTV 5 HD
+#DESCRIPTION CCTV 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:NEW TV Super sports HD
+#DESCRIPTION NEW TV Super sports HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/933:|NL| Ziggo Sport Select HD
 #DESCRIPTION |NL| Ziggo Sport Select HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/934:|NL| Ziggo Sport Golf HD
@@ -113,7 +113,7 @@
 #DESCRIPTION |TR| BEINSPORT 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourceturkiapro2/8684782188/1456:|TR| BEINSPORT 4
 #DESCRIPTION |TR| BEINSPORT 4
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
+#SERVICE 1:64:98:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
