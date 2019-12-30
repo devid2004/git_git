@@ -65,6 +65,8 @@
 #DESCRIPTION TeleArena
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale85/mp4%3acanale85/playlist.m3u8:TELE Canale 85
 #DESCRIPTION TELE Canale 85
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.sloode.com%3a1935/teleluna/live/playlist.m3u8:teleluna
+#DESCRIPTION teleluna
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/telemia/telemia/playlist.m3u8:Telemia
 #DESCRIPTION Telemia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/telemonteneve/telemonteneve/live.m3u8:teleMonteneve

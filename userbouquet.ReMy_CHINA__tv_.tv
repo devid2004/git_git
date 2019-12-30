@@ -1,42 +1,42 @@
 #NAME == ★★ReMy | CHINA★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN movie
-#DESCRIPTION CIBN movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Hello broadcast
-#DESCRIPTION CIBN Hello broadcast
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN military
-#DESCRIPTION CIBN military
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Life
-#DESCRIPTION CIBN Life
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Education
-#DESCRIPTION CIBN Education
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Art Academy Line
+#DESCRIPTION CIBN Art Academy Line
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Automotive
 #DESCRIPTION CIBN Automotive
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN mikro movie
-#DESCRIPTION CIBN mikro movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Han College
-#DESCRIPTION CIBN Han College
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN documentary
-#DESCRIPTION CIBN documentary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Movie Guide
-#DESCRIPTION CIBN Movie Guide
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Fine Theater
-#DESCRIPTION CIBN Fine Theater
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Feeling Theater
-#DESCRIPTION CIBN Feeling Theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Child Learning World
+#DESCRIPTION CIBN Child Learning World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Comedy Theater
 #DESCRIPTION CIBN Comedy Theater
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Costume Theater
 #DESCRIPTION CIBN Costume Theater
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Sunshine Theater
-#DESCRIPTION CIBN Sunshine Theater
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Hyunjia Animation
-#DESCRIPTION CIBN Hyunjia Animation
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Child Learning World
-#DESCRIPTION CIBN Child Learning World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Culture China
 #DESCRIPTION CIBN Culture China
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Art Academy Line
-#DESCRIPTION CIBN Art Academy Line
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN documentary
+#DESCRIPTION CIBN documentary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Education
+#DESCRIPTION CIBN Education
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Feeling Theater
+#DESCRIPTION CIBN Feeling Theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Fine Theater
+#DESCRIPTION CIBN Fine Theater
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Han College
+#DESCRIPTION CIBN Han College
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Hello broadcast
+#DESCRIPTION CIBN Hello broadcast
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Hyunjia Animation
+#DESCRIPTION CIBN Hyunjia Animation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Life
+#DESCRIPTION CIBN Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN mikro movie
+#DESCRIPTION CIBN mikro movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN military
+#DESCRIPTION CIBN military
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN movie
+#DESCRIPTION CIBN movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Movie Guide
+#DESCRIPTION CIBN Movie Guide
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86:CIBN Sunshine Theater
+#DESCRIPTION CIBN Sunshine Theater
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225659/index.m3u8:Amdo Satellite TV
 #DESCRIPTION Amdo Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8:Anhui Satellite TV
