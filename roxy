@@ -273,6 +273,12 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Iraqiya Sports
+https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Iraqiya Sports
+https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",KSA Sport 2
+https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Jordan Sport TV
 http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
 #EXTINF:-1 group-title="ReMy_SPORT",jordan sport
