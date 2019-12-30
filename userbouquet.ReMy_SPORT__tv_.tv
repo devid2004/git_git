@@ -249,6 +249,12 @@
 #DESCRIPTION Jordan Sport TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:Impact Wrestling (USA)11
 #DESCRIPTION Impact Wrestling (USA)11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8:Iraqiya Sports
+#DESCRIPTION Iraqiya Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8:Iraqiya Sports
+#DESCRIPTION Iraqiya Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8:KSA Sport 2
+#DESCRIPTION KSA Sport 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8:KIX
 #DESCRIPTION KIX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onlinetv.ktrk.kg%3a1935/live/myStream4/playlist.m3u8:Ktrk Sport
