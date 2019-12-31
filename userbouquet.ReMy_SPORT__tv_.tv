@@ -5,8 +5,6 @@
 #DESCRIPTION Bein sport 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportscore.biz/lba/123/g5/beinsport1tur.m3u8:Bein sport 1 HD
 #DESCRIPTION Bein sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/20061.m3u8:Bein sport 1 HD AR
-#DESCRIPTION Bein sport 1 HD AR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10218.m3u8:Alriadia Sport
 #DESCRIPTION Alriadia Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/hls/ntvspor/playlist.m3u8:NTV SPOR MAC OZETLERI
@@ -15,14 +13,14 @@
 #DESCRIPTION NTV SPOR 1HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$DolceSportHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Telekom Sport 1 HD
 #DESCRIPTION Telekom Sport 1 HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-action.m3u8:Sky-Sports-action
+#DESCRIPTION Sky-Sports-action
 #SERVICE 4097:0:0:4:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Arena.m3u8:Sky-Sports-Arena
 #DESCRIPTION Sky-Sports-Arena
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-action.m3u8:Sky-Sport-action
-#DESCRIPTION Sky-Sport-action
-#SERVICE 4097:0:0:6:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spor-cricket.m3u8:Sky-Spor-cricket
-#DESCRIPTION Sky-Spor-cricket
-#SERVICE 4097:0:0:7:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spo-football.m3u8:Sky-Spo-football
-#DESCRIPTION Sky-Spo-football
+#SERVICE 4097:0:0:6:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spor-cricket.m3u8:Sky-Sports-cricket
+#DESCRIPTION Sky-Sports-cricket
+#SERVICE 4097:0:0:7:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spo-football.m3u8:Sky-Sports-football
+#DESCRIPTION Sky-Sports-football
 #SERVICE 4097:0:0:8:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Golf.m3u8:Sky-Sports-Golf
 #DESCRIPTION Sky-Sports-Golf
 #SERVICE 4097:0:0:20:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/Dub-Sport2-Bakup.m3u8:Dub-Sport2
