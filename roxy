@@ -3,6 +3,8 @@
 ReMy_ReMy_ULUSAL
 #EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
 https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TV HD
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",FX HD
@@ -19,6 +21,8 @@ https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_hd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",HABER TURK HD
 https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",Haber Global HD
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",HALK TV HD
 https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",A SPOR HD

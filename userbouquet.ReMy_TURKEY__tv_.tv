@@ -9,6 +9,8 @@
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_atv/smil%3aatv_hd.smil/playlist.m3u8:ATV HD
 #DESCRIPTION ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_kanald/smil%3akanald_hd.smil/playlist.m3u8:Kanal D HD
+#DESCRIPTION Kanal D HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_showtv/smil%3ashow_hd.smil/playlist.m3u8:SHOW TV HD
 #DESCRIPTION SHOW TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_fx/smil%3afx_hd.smil/playlist.m3u8:FX HD
@@ -25,6 +27,8 @@
 #DESCRIPTION A HABER HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_haberturk/smil%3ahaberturk_hd.smil/playlist.m3u8:HABER TURK HD
 #DESCRIPTION HABER TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_haberglobal/smil%3ahaberglobal_hd.smil/playlist.m3u8:Haber Global HD
+#DESCRIPTION Haber Global HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_halktv/smil%3ahalktv_hd.smil/playlist.m3u8:HALK TV HD
 #DESCRIPTION HALK TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_aspor/smil%3aaspor_hd.smil/playlist.m3u8:A SPOR HD
