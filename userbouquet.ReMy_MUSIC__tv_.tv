@@ -1,6 +1,8 @@
 #NAME == ★★ReMy | MUSIC★★ ==
 #SERVICE 1:64:9F:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AmlGjvQBird1gQrYLRUNHt0P0XTo:Handem Subasi - Uykusuzlar Klubu
+#DESCRIPTION Handem Subasi - Uykusuzlar Klubu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:SilenceTV
 #DESCRIPTION SilenceTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1gQa3Twms4PEWzmPd?e=XM56ZZ:DOGA ICIN CAL 11 - CARSAMBA'YI SEL ALDI
