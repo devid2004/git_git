@@ -5,8 +5,6 @@
 #DESCRIPTION Bein sport 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportscore.biz/lba/123/g5/beinsport1tur.m3u8:Bein sport 1 HD
 #DESCRIPTION Bein sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teledunet.com%3a25461/live/tdn/tdn/10218.m3u8:Alriadia Sport
-#DESCRIPTION Alriadia Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/hls/ntvspor/playlist.m3u8:NTV SPOR MAC OZETLERI
 #DESCRIPTION NTV SPOR MAC OZETLERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/ntvspor.ts:NTV SPOR 1HD
@@ -37,8 +35,8 @@
 #DESCRIPTION Footboll 1 ukrain
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g1/sport2port.m3u8:SPORT TV _2
 #DESCRIPTION SPORT TV _2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g2/pt3sport.m3u8:SPORT TV _3
-#DESCRIPTION SPORT TV _3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g2/pt3sport.m3u8:Sport Tv 3
+#DESCRIPTION Sport Tv 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g8/ptsport5.m3u8:SPORT TV _5
 #DESCRIPTION SPORT TV _5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/digisport2ro.m3u8:Digi Sport 2
@@ -63,6 +61,8 @@
 #DESCRIPTION CCTV-5+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8:CCTV 5 HD
 #DESCRIPTION CCTV 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8:Newtv boutique sports
+#DESCRIPTION Newtv boutique sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:NEW TV Super sports HD
 #DESCRIPTION NEW TV Super sports HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/933:|NL| Ziggo Sport Select HD
@@ -291,10 +291,6 @@
 #DESCRIPTION Mlb Network Hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.upstream-cloud.ch/sstvlinear/ngrp%3asstvlinear_all/playlist.m3u8:My Sports 1
 #DESCRIPTION My Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.170/PLTV/2/224/3221226807/index.m3u8:NBA BesTV Canlı Oda 7HD
-#DESCRIPTION NBA BesTV Canlı Oda 7HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8:Newtv boutique sports
-#DESCRIPTION Newtv boutique sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8:Nova Sport (bg)
 #DESCRIPTION Nova Sport (bg)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.100.10.162%3a8018/play/s213:ON SPORT
@@ -345,12 +341,8 @@
 #DESCRIPTION Rtv San Marino Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/playlist.m3u8:Rtv Sport (san Marino)
 #DESCRIPTION Rtv Sport (san Marino)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.211.143.214/astrakhanrusporthd/tracks-v3a1/index.m3u8:Ru Sport
-#DESCRIPTION Ru Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/04.m3u8:S41
 #DESCRIPTION S41
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8:Stadium (USA)15
-#DESCRIPTION Stadium (USA)15
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/index.m3u8:Setanta Sport
 #DESCRIPTION Setanta Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/04.m3u8:Setanta Sports (SD)
@@ -373,16 +365,8 @@
 #DESCRIPTION SETANTA SPORTS 2 SD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8:Sharjah Sport
 #DESCRIPTION Sharjah Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8:Sharjah Sports
-#DESCRIPTION Sharjah Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8:Sharjah Sports
 #DESCRIPTION Sharjah Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g2/pt3sport.m3u8:Sport Tv 3
-#DESCRIPTION Sport Tv 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-beta.akamaized.net/sportstv/sportstv.smil/playlist.m3u8:SPORTS TV
-#DESCRIPTION SPORTS TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-beta.akamaized.net/sportstv/sportstv.smil/chunklist_b1596000_sltur.m3u8:Sports Tv
-#DESCRIPTION Sports Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8:Sportscast
 #DESCRIPTION Sportscast
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8:Sportskool
@@ -391,14 +375,10 @@
 #DESCRIPTION Sportv (opt-1)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcunilive36-lh.akamaihd.net/i/dclive_1@662153/master.m3u8:Sportv (opt-2)
 #DESCRIPTION Sportv (opt-2)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_720p/chunks.m3u8:Stad'afric
-#DESCRIPTION Stad'afric
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8:Stadium
 #DESCRIPTION Stadium
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8:Stadium Sports Usa
 #DESCRIPTION Stadium Sports Usa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8:Super Soccer Tv
-#DESCRIPTION Super Soccer Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8:Telecaribe Deportes
 #DESCRIPTION Telecaribe Deportes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/56377913f7c493ce618c4de1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:The Surf Channel (USA)16
@@ -415,8 +395,6 @@
 #DESCRIPTION Turkmenistan Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8:Turkmenistan Sport HD
 #DESCRIPTION Turkmenistan Sport HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8:Tv 2 Play
-#DESCRIPTION Tv 2 Play
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004_400/index.m3u8:Türkmen Sport
 #DESCRIPTION Türkmen Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.50%3a1234:Viasat Sport
