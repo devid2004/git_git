@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | RUSSIAN★★ ==
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★ReMy | RUSSIAN★★ ====
+#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★ReMy | RUSSIAN★★ ====
 #DESCRIPTION === ★★ReMy | RUSSIAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a2001:1+1
 #DESCRIPTION 1+1
@@ -293,7 +293,7 @@
 #DESCRIPTION ZIK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a11062/f:ZOOM
 #DESCRIPTION ZOOM
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::=== ★★BOLGESEL |RUSSIAN★★ ====
+#SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★BOLGESEL |RUSSIAN★★ ====
 #DESCRIPTION === ★★BOLGESEL |RUSSIAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/1HDmusic/index.m3u8:1 HD
 #DESCRIPTION 1 HD
@@ -693,7 +693,7 @@
 #DESCRIPTION Zoo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/zvezda/index.m3u8:Zvezda
 #DESCRIPTION Zvezda
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★BOLGESEL |RUSSIAN★★ ====
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★BOLGESEL |RUSSIAN★★ ====
 #DESCRIPTION === ★★BOLGESEL |RUSSIAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mhd.limehd.tv/p/j9JS0HEFxEchkd6GAyn-Ug,1574788647/streaming/11channel/324/1/index.m3u8:11 channel (Penza)
 #DESCRIPTION 11 channel (Penza)
