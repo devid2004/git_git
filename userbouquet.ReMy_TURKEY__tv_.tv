@@ -9,15 +9,23 @@
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_atv/smil%3aatv_hd.smil/playlist.m3u8:ATV HD
 #DESCRIPTION ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smip.tv%3a8080/destekuser/22122019/144:ATV HD
+#DESCRIPTION ATV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_kanald/smil%3akanald_hd.smil/playlist.m3u8:Kanal D HD
 #DESCRIPTION Kanal D HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_showtv/smil%3ashow_hd.smil/playlist.m3u8:SHOW TV HD
+#DESCRIPTION SHOW TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smip.tv%3a8080/destekuser/22122019/145:SHOW TV HD
 #DESCRIPTION SHOW TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_fx/smil%3afx_hd.smil/playlist.m3u8:FX HD
 #DESCRIPTION FX HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_foxtv/smil%3afoxtv_hd.smil/playlist.m3u8:FOX TV HD
 #DESCRIPTION FOX TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smip.tv%3a8080/destekuser/22122019/147:FOX TV HD
+#DESCRIPTION FOX TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_tv8/smil%3atv8_hd1.smil/playlist.m3u8:TV8 HD
+#DESCRIPTION TV8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//smip.tv%3a8080/destekuser/22122019/148:TV8 HD
 #DESCRIPTION TV8 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_beyaztv/smil%3abeyaztv_hd.smil/playlist.m3u8:Beyaz TV HD
 #DESCRIPTION Beyaz TV HD
