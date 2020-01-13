@@ -1,6 +1,30 @@
 #EXTM3U
 #EXTINF:-1 group-title="Adult TV Live","Adult TV Live"
 "Adult TV Live"
+#EXTINF:-1 group-title="Adult TV Live",RedTraffic Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="Adult TV Live",RedTraffic MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="Adult TV Live",RedTraffic Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="Adult TV Live",RedTraffic Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="Adult TV Live",RedTraffic Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="Adult TV Live",RedTraffic Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="Adult TV Live",RedTraffic Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="Adult TV Live",RedTraffic Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="Adult TV Live",RedTraffic Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="Adult TV Live",RedTraffic BigTits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="Adult TV Live",RedTraffic BigDick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 group-title="Adult TV Live",RedTraffic Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1 group-title="Adult TV Live",Babestation Xtreme (18+)
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Adult TV Live",Babestation 24 (DE) (18+)
@@ -29,6 +53,8 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
 #EXTINF:-1 group-title="Adult TV Live",Blue Hustler (18+)
 http://178.124.183.5/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1 group-title="Adult TV Live",BlueHustler HD
+http://213.234.9.46:7088/udp/239.1.13.5:1234
 #EXTINF:-1 group-title="Adult TV Live",Dorcel TV [18+]
 http://188.35.9.11:21141/udp/214h
 #EXTINF:-1 group-title="Adult TV Live",RussNoch
