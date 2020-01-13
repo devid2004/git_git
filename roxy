@@ -3,20 +3,32 @@
 ReMy_ReMy_ULUSAL
 #EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
 https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
+http://smip.tv:8080/destekuser/22122019/144
 #EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TV HD
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TV HD
+http://smip.tv:8080/destekuser/22122019/145
 #EXTINF:-1 group-title="ReMy_ULUSAL",FX HD
 https://mn-nl.mncdn.com/blutv_fx/smil:fx_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",FOX TV HD
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",FOX TV HD
+http://smip.tv:8080/destekuser/22122019/147
 #EXTINF:-1 group-title="ReMy_ULUSAL",TV8 HD
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",TV8 HD
+http://smip.tv:8080/destekuser/22122019/148
 #EXTINF:-1 group-title="ReMy_ULUSAL",Beyaz TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",360 TV
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8?__mn_sid=15075510848414370774
 #EXTINF:-1 group-title="ReMy_ULUSAL",24 TV HD
 https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
 #EXTINF:-1 group-title="ReMy_ULUSAL",A HABER HD
 https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",HABER TURK HD
