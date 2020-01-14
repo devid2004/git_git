@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Adult TV Live","Adult TV Live"
 "Adult TV Live"
+#EXTINF:-1 group-title="Adult TV Live",Banana HD
+http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 #EXTINF:-1 group-title="Adult TV Live",RedTraffic Pornstar
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 group-title="Adult TV Live",RedTraffic MILF
@@ -75,6 +77,8 @@ http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="ADULT_VOD","ADULT_VOD"
 "ADULT_VOD"
+#EXTINF:-1 group-title="Adult TV Live",The Dream of the New Red Chamber
+https://www.182923.com/20190313/afNTXVFx/index.m3u8
 #EXTINF:-1 group-title="Adult TV Live",XXX1
 http://iptv.glav-noe.ru/video/XXX/XXX1.mp4
 #EXTINF:-1 group-title="Adult TV Live",XXX2
