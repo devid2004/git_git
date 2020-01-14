@@ -1,8 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="Adult TV Live","Adult TV Live"
 "Adult TV Live"
-#EXTINF:-1 group-title="Adult TV Live",Banana HD
-http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
+#EXTINF:-1 group-title="Adult TV Live",KOREAN DESIKE
+http://122.38.74.172:9981/stream/channelid/816085039
+#EXTINF:-1 group-title="Adult TV Live",KOREAN HONEY
+http://122.38.74.172:9981/stream/channelid/1463854277
+#EXTINF:-1 group-title="Adult TV Live",KOREAN VIKI
+http://122.38.74.172:9981/stream/channelid/798964177
+#EXTINF:-1 group-title="Adult TV Live",KOREAN PLAYBOY
+http://122.38.74.172:9981/stream/channelid/966306501
+#EXTINF:-1 group-title="Adult TV Live",KOREAN MIDNIGHT
+http://122.38.74.172:9981/stream/channelid/339312133
+#EXTINF:-1 group-title="Adult TV Live",KOREAN PINK TV HD
+http://122.38.74.172:9981/stream/channelid/1086640851
 #EXTINF:-1 group-title="Adult TV Live",RedTraffic Pornstar
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 group-title="Adult TV Live",RedTraffic MILF
