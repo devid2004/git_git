@@ -3,8 +3,8 @@
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:SilenceTV
 #DESCRIPTION SilenceTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AmlGjvQBird1gQrYLRUNHt0P0XTo:Handem Subasi - Uykusuzlar Klubu
-#DESCRIPTION Handem Subasi - Uykusuzlar Klubu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AmlGjvQBird1gQrYLRUNHt0P0XTo:Hande Subasi - Uykusuzlar Klubu
+#DESCRIPTION Hande Subasi - Uykusuzlar Klubu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1gQa3Twms4PEWzmPd?e=XM56ZZ:DOGA ICIN CAL 11 - CARSAMBA'YI SEL ALDI
 #DESCRIPTION DOGA ICIN CAL 11 - CARSAMBA'YI SEL ALDI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1gQn0DOp411xyvSo8?e=PHF6VA:Samida - Lazuri nana
@@ -487,6 +487,22 @@
 #DESCRIPTION Beats of Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17733.live.streamtheworld.com/BABYJOY128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=3beb8d47-271c-4c40-9c9e-a965eff4a101:BABYJOY
 #DESCRIPTION BABYJOY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v5a1/mono.m3u8:Rather Good
+#DESCRIPTION Rather Good
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v4a1/mono.m3u8:Rather Good
+#DESCRIPTION Rather Good
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v3a1/mono.m3u8:Rather Good
+#DESCRIPTION Rather Good
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8:Vintage Music TV
+#DESCRIPTION Vintage Music TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v2a1/mono.m3u8:Vintage Music TV
+#DESCRIPTION Vintage Music TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v6a1/mono.m3u8:Vintage Music audio
+#DESCRIPTION Vintage Music audio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/tracks-v1a1/mono.m3u8:view tv local kapang hd
+#DESCRIPTION view tv local kapang hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/index.m3u8:view tv local kapang hd
+#DESCRIPTION view tv local kapang hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.viastreaming.net%3a8635/;226353695996675stream.nsv:Blue Marlin Ibiza
 #DESCRIPTION Blue Marlin Ibiza
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-ice.musicradio.com/ChillMP3:Chill
