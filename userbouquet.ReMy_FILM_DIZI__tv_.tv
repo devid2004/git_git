@@ -1637,8 +1637,6 @@
 #DESCRIPTION Love (2005)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/411.mkv:Lude Godine 1
 #DESCRIPTION Lude Godine 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/ludegodine10.mp4:Lude godine 10
-#DESCRIPTION Lude godine 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/412.mkv:Lude Godine 2
 #DESCRIPTION Lude Godine 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/413.mkv:Lude Godine 3
@@ -1655,6 +1653,8 @@
 #DESCRIPTION Lude godine 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/ludegodine9.mp4:Lude godine 9
 #DESCRIPTION Lude godine 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/ludegodine10.mp4:Lude godine 10
+#DESCRIPTION Lude godine 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/928.mkv:Macak u Cizmama
 #DESCRIPTION Macak u Cizmama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/madmax.avi:Mad Max: Fury Road
@@ -7917,7 +7917,7 @@
 #DESCRIPTION Shooter S02 E06
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.getdropbox.com/s/64qpxzaedeieca7/O.Shooter.S02E07.mp4:Shooter S02 E07
 #DESCRIPTION Shooter S02 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.getdropbox.com/s/8x8m8i31v2u0vvl/O%20Shooter%202T-E08.mp4:Shooter S02 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.getdropbox.com/s/8x8m8i31v2u0vvl/O Shooter 2T-E08.mp4:Shooter S02 E08
 #DESCRIPTION Shooter S02 E08
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AhfWTxqD2aXCh347d2_wxm5o8pPS:Shooter S03 E01
 #DESCRIPTION Shooter S03 E01
@@ -8701,53 +8701,53 @@
 #DESCRIPTION Supernatural S01 E21
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/-oVOKRB_ppqY/XAWa8QLEilI/AAAAAAAARkk/fTYNVzr-iBQhECTnmR3V697AwGUECcKJgCKgBGAs/m22/[CineRoom]1x22.mp4:Supernatural S01 E22
 #DESCRIPTION Supernatural S01 E22
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/1%20-%20Na%20Hora%20da%20Minha%20Morte.mp4:Supernatural S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/1 - Na Hora da Minha Morte.mp4:Supernatural S02 E01
 #DESCRIPTION Supernatural S02 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/2%20-%20Todos%20Amam%20Um%20Palhaço.mp4:Supernatural S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/2 - Todos Amam Um Palhaço.mp4:Supernatural S02 E02
 #DESCRIPTION Supernatural S02 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/3%20-%20Sede%20de%20Sangue.mp4:Supernatural S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/3 - Sede de Sangue.mp4:Supernatural S02 E03
 #DESCRIPTION Supernatural S02 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/4%20-%20Crianças%20Não%20Devem%20Brincar%20Com%20Coisas%20Mortas.mp4:Supernatural S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/4 - Crianças Não Devem Brincar Com Coisas Mortas.mp4:Supernatural S02 E04
 #DESCRIPTION Supernatural S02 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/5%20-%20Ele%20Disse.mp4:Supernatural S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/5 - Ele Disse.mp4:Supernatural S02 E05
 #DESCRIPTION Supernatural S02 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/6%20-%20Sem%20Saída.mp4:Supernatural S02 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/6 - Sem Saída.mp4:Supernatural S02 E06
 #DESCRIPTION Supernatural S02 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/7%20-%20Os%20Suspeitos%20Habituais.mp4:Supernatural S02 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/7 - Os Suspeitos Habituais.mp4:Supernatural S02 E07
 #DESCRIPTION Supernatural S02 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/8%20-%20O%20Blues%20da%20Encruzilhada.mp4:Supernatural S02 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/8 - O Blues da Encruzilhada.mp4:Supernatural S02 E08
 #DESCRIPTION Supernatural S02 E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/9%20-%20Croatoan.mp4:Supernatural S02 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/9 - Croatoan.mp4:Supernatural S02 E09
 #DESCRIPTION Supernatural S02 E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/10%20-%20Caçado.mp4:Supernatural S02 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/10 - Caçado.mp4:Supernatural S02 E10
 #DESCRIPTION Supernatural S02 E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/11%20-%20Brinquedos.mp4:Supernatural S02 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/11 - Brinquedos.mp4:Supernatural S02 E11
 #DESCRIPTION Supernatural S02 E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/12%20-%20Caminhante%20Noturno.mp4:Supernatural S02 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/12 - Caminhante Noturno.mp4:Supernatural S02 E12
 #DESCRIPTION Supernatural S02 E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/13%20-%20Casas%20do%20Sagrado.mp4:Supernatural S02 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/13 - Casas do Sagrado.mp4:Supernatural S02 E13
 #DESCRIPTION Supernatural S02 E13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/14%20-%20Nascido%20Num%20Signo%20Ruim.mp4:Supernatural S02 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/14 - Nascido Num Signo Ruim.mp4:Supernatural S02 E14
 #DESCRIPTION Supernatural S02 E14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/15%20-%20Exagerado.mp4:Supernatural S02 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/15 - Exagerado.mp4:Supernatural S02 E15
 #DESCRIPTION Supernatural S02 E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/16%20-%20O%20Fantasma%20da%20Estrada.mp4:Supernatural S02 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/16 - O Fantasma da Estrada.mp4:Supernatural S02 E16
 #DESCRIPTION Supernatural S02 E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/17%20-%20Dolorosa%20Missão.mp4:Supernatural S02 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/17 - Dolorosa Missão.mp4:Supernatural S02 E17
 #DESCRIPTION Supernatural S02 E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/18%20-%20Assombração%20em%20Hollywood.mp4:Supernatural S02 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/18 - Assombração em Hollywood.mp4:Supernatural S02 E18
 #DESCRIPTION Supernatural S02 E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/19%20-%20No%20Xadrez.mp4:Supernatural S02 E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/19 - No Xadrez.mp4:Supernatural S02 E19
 #DESCRIPTION Supernatural S02 E19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/20%20-%20Apenas%20um%20Sonho.mp4:Supernatural S02 E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/20 - Apenas um Sonho.mp4:Supernatural S02 E20
 #DESCRIPTION Supernatural S02 E20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/21%20-%20Demônios%20à%20Solta%20-%201ª%20Parte.mp4:Supernatural S02 E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/21 - Demônios à Solta - 1ª Parte.mp4:Supernatural S02 E21
 #DESCRIPTION Supernatural S02 E21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%202%20Temporada%20-%20The%20Pirate%20Filmes/22%20-%20Demônios%20à%20Solta%20-%202ª%20Parte.mp4:Supernatural S02 E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 2 Temporada - The Pirate Filmes/22 - Demônios à Solta - 2ª Parte.mp4:Supernatural S02 E22
 #DESCRIPTION Supernatural S02 E22
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%203%20Temporada%20-%20The%20Pirate%20Filmes/6%20-%20Céu%20Vermelho.mp4:Supernatural S03 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 3 Temporada - The Pirate Filmes/6 - Céu Vermelho.mp4:Supernatural S03 E02
 #DESCRIPTION Supernatural S03 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural%203%20Temporada%20-%20The%20Pirate%20Filmes/8%20-%20Um%20Natal%20Muito%20Sobrenatural.mp4:Supernatural S03 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movieseries.ddns.net/Sobrenatural 3 Temporada - The Pirate Filmes/8 - Um Natal Muito Sobrenatural.mp4:Supernatural S03 E04
 #DESCRIPTION Supernatural S03 E04
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/-6jvOpd9lSIc/XAWbLRx6FjI/AAAAAAAARko/T7fcGWMz-XQBchm3E1GL-Iz2YaPNmPzRQCKgBGAs/m22/[CineRoom]4x01.mp4:Supernatural S04 E01
 #DESCRIPTION Supernatural S04 E01
@@ -9835,31 +9835,31 @@
 #DESCRIPTION The Pacific S01 E09
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.4sync.com/web/directDownload/F3do_LUJ/l2uKTeqg.a211dc5b61ee3426b8b0260175d36011:The Pacific S01 E10
 #DESCRIPTION The Pacific S01 E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E01.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The PunisherThe Punisher T01E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - O Justiceiro 2017 - 1ª Temporada Completa [WEB-DL] WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E01.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The PunisherThe Punisher T01E01
 #DESCRIPTION The PunisherThe Punisher T01E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E02.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - O Justiceiro 2017 - 1ª Temporada Completa [WEB-DL] WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E02.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E02
 #DESCRIPTION The Punisher T01E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E03.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - O Justiceiro 2017 - 1ª Temporada Completa [WEB-DL] WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E03.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E03
 #DESCRIPTION The Punisher T01E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E04.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - O Justiceiro 2017 - 1ª Temporada Completa [WEB-DL] WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E04.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E04
 #DESCRIPTION The Punisher T01E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E05.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - O Justiceiro 2017 - 1ª Temporada Completa [WEB-DL] WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E05.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E05
 #DESCRIPTION The Punisher T01E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E06.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - O Justiceiro 2017 - 1ª Temporada Completa [WEB-DL] WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E06.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E06
 #DESCRIPTION The Punisher T01E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E07.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - O Justiceiro 2017 - 1ª Temporada Completa [WEB-DL] WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E07.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E07
 #DESCRIPTION The Punisher T01E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E08.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - O Justiceiro 2017 - 1ª Temporada Completa [WEB-DL] WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E08.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E08
 #DESCRIPTION The Punisher T01E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E09.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - O Justiceiro 2017 - 1ª Temporada Completa [WEB-DL] WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E09.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E09
 #DESCRIPTION The Punisher T01E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E10.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - O Justiceiro 2017 - 1ª Temporada Completa [WEB-DL] WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E10.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E10
 #DESCRIPTION The Punisher T01E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E11.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - O Justiceiro 2017 - 1ª Temporada Completa [WEB-DL] WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E11.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E11
 #DESCRIPTION The Punisher T01E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E12.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - O Justiceiro 2017 - 1ª Temporada Completa [WEB-DL] WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E12.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E12
 #DESCRIPTION The Punisher T01E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E13.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Marvel.O.Justiceiro.1/Marvel - O Justiceiro 2017 - 1ª Temporada Completa [WEB-DL] WWW.BLUDV.COM/Marvel.O.Justiceiro.S01E13.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv:The Punisher T01E13
 #DESCRIPTION The Punisher T01E13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AnBsVEjXnAyhgyAfIu2dL4W2FyGa:The Purge S01 E01
 #DESCRIPTION The Purge S01 E01
@@ -9961,31 +9961,31 @@
 #DESCRIPTION The Resident S02 E17
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E18.mp4:The Resident S02 E18
 #DESCRIPTION The Resident S02 E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/izat89wpixtdiqo/1%20-%20The%20Sopranos.mp4?dl=1:The Sopranos S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/izat89wpixtdiqo/1 - The Sopranos.mp4?dl=1:The Sopranos S01 E01
 #DESCRIPTION The Sopranos S01 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/j697vtvofjofl21/2%20-%2046%20Long.mp4?dl=1:The Sopranos S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/j697vtvofjofl21/2 - 46 Long.mp4?dl=1:The Sopranos S01 E02
 #DESCRIPTION The Sopranos S01 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/rfm42gv4r3vuyzj/3%20-%20Denial,%20Anger,%20Acceptance.mp4?dl=1:The Sopranos S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/rfm42gv4r3vuyzj/3 - Denial, Anger, Acceptance.mp4?dl=1:The Sopranos S01 E03
 #DESCRIPTION The Sopranos S01 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/y65rz20z21fvvzx/4%20-%20Meadowlands.mp4?dl=1:The Sopranos S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/y65rz20z21fvvzx/4 - Meadowlands.mp4?dl=1:The Sopranos S01 E04
 #DESCRIPTION The Sopranos S01 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/37st4ynh9bpc8nm/5%20-%20College.mp4?dl=1:The Sopranos S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/37st4ynh9bpc8nm/5 - College.mp4?dl=1:The Sopranos S01 E05
 #DESCRIPTION The Sopranos S01 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/rrj0zcyr6dhwncn/6%20-%20Pax%20Soprana.mp4?dl=1:The Sopranos S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/rrj0zcyr6dhwncn/6 - Pax Soprana.mp4?dl=1:The Sopranos S01 E06
 #DESCRIPTION The Sopranos S01 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/jyry7offt8yoy5d/7%20-%20Down%20Neck.mp4?dl=1:The Sopranos S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/jyry7offt8yoy5d/7 - Down Neck.mp4?dl=1:The Sopranos S01 E07
 #DESCRIPTION The Sopranos S01 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/0r390xhx1nr0jxo/8%20-%20The%20Legend%20of%20Tennessee%20Moltisanti.mp4?dl=1:The Sopranos S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/0r390xhx1nr0jxo/8 - The Legend of Tennessee Moltisanti.mp4?dl=1:The Sopranos S01 E08
 #DESCRIPTION The Sopranos S01 E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/ichwouc5g8uwk1n/9%20-%20Boca.mp4?dl=1:The Sopranos S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/ichwouc5g8uwk1n/9 - Boca.mp4?dl=1:The Sopranos S01 E09
 #DESCRIPTION The Sopranos S01 E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/wu8cqluuim0q21v/10%20-%20A%20Hit%20Is%20a%20Hit.mp4?dl=1:The Sopranos S01 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/wu8cqluuim0q21v/10 - A Hit Is a Hit.mp4?dl=1:The Sopranos S01 E10
 #DESCRIPTION The Sopranos S01 E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/isspoe2aiel0eyz/11%20-%20Nobody%20Knows%20Anything.mp4?dl=1:The Sopranos S01 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/isspoe2aiel0eyz/11 - Nobody Knows Anything.mp4?dl=1:The Sopranos S01 E11
 #DESCRIPTION The Sopranos S01 E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/53tjuets6pbf7kk/12%20-%20Isabella.mp4?dl=1:The Sopranos S01 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/53tjuets6pbf7kk/12 - Isabella.mp4?dl=1:The Sopranos S01 E12
 #DESCRIPTION The Sopranos S01 E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/41aqv3qejk7e52e/13%20-%20I%20Dream%20of%20Jeannie%20Cusamano.mp4?dl=1:The Sopranos S01 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/41aqv3qejk7e52e/13 - I Dream of Jeannie Cusamano.mp4?dl=1:The Sopranos S01 E13
 #DESCRIPTION The Sopranos S01 E13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLgTr7XSm8TqKtIWx_:The Sopranos S02 E01
 #DESCRIPTION The Sopranos S02 E01
@@ -10539,45 +10539,45 @@
 #DESCRIPTION Titãs S01 E10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/woas4ivcm0jfx03/Titãs.S01E01.720p.WEB-DL.x264.DUAL.WWW.COMANDOTORRENTS.COM.mkv?dl=1:Titãs S01 E11
 #DESCRIPTION Titãs S01 E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E01.mp4:To de Graca S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E01.mp4:To de Graca S01 E01
 #DESCRIPTION To de Graca S01 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E02.mp4:To de Graca S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E02.mp4:To de Graca S01 E02
 #DESCRIPTION To de Graca S01 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E03.mp4:To de Graca S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E03.mp4:To de Graca S01 E03
 #DESCRIPTION To de Graca S01 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E04.mp4:To de Graca S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E04.mp4:To de Graca S01 E04
 #DESCRIPTION To de Graca S01 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E05.mp4:To de Graca S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E05.mp4:To de Graca S01 E05
 #DESCRIPTION To de Graca S01 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E06.mp4:To de Graca S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E06.mp4:To de Graca S01 E06
 #DESCRIPTION To de Graca S01 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E07.mp4:To de Graca S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E07.mp4:To de Graca S01 E07
 #DESCRIPTION To de Graca S01 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E08.mp4:To de Graca S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E08.mp4:To de Graca S01 E08
 #DESCRIPTION To de Graca S01 E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E09.mp4:To de Graca S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E09.mp4:To de Graca S01 E09
 #DESCRIPTION To de Graca S01 E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E10.mp4:To de Graca S01 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E10.mp4:To de Graca S01 E10
 #DESCRIPTION To de Graca S01 E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E11.mp4:To de Graca S01 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E11.mp4:To de Graca S01 E11
 #DESCRIPTION To de Graca S01 E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E12.mp4:To de Graca S01 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E12.mp4:To de Graca S01 E12
 #DESCRIPTION To de Graca S01 E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E13.mp4:To de Graca S01 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E13.mp4:To de Graca S01 E13
 #DESCRIPTION To de Graca S01 E13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E14.mp4:To de Graca S01 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E14.mp4:To de Graca S01 E14
 #DESCRIPTION To de Graca S01 E14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E15.mp4:To de Graca S01 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E15.mp4:To de Graca S01 E15
 #DESCRIPTION To de Graca S01 E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E16.mp4:To de Graca S01 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E16.mp4:To de Graca S01 E16
 #DESCRIPTION To de Graca S01 E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E17.mp4:To de Graca S01 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E17.mp4:To de Graca S01 E17
 #DESCRIPTION To de Graca S01 E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E18.mp4:To de Graca S01 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E18.mp4:To de Graca S01 E18
 #DESCRIPTION To de Graca S01 E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E19.mp4:To de Graca S01 E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E19.mp4:To de Graca S01 E19
 #DESCRIPTION To de Graca S01 E19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To%20de%20Graça/S01/To.de.Graca.S01E20.mp4:To de Graca S01 E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/To de Graça/S01/To.de.Graca.S01E20.mp4:To de Graca S01 E20
 #DESCRIPTION To de Graca S01 E20
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/Top.Boy/S01/S01E01.mp4:Top Boy S01 E01
 #DESCRIPTION Top Boy S01 E01
@@ -10599,53 +10599,53 @@
 #DESCRIPTION Top Boy S01 E09
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/Top.Boy/S01/S01E10.mp4:Top Boy S01 E10
 #DESCRIPTION Top Boy S01 E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season01/True.Detective.S01E01.mp4:True Detective S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season01/True.Detective.S01E01.mp4:True Detective S01 E01
 #DESCRIPTION True Detective S01 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season01/True.Detective.S01E02.mp4:True Detective S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season01/True.Detective.S01E02.mp4:True Detective S01 E02
 #DESCRIPTION True Detective S01 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season01/True.Detective.S01E03.mp4:True Detective S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season01/True.Detective.S01E03.mp4:True Detective S01 E03
 #DESCRIPTION True Detective S01 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season01/True.Detective.S01E04.mp4:True Detective S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season01/True.Detective.S01E04.mp4:True Detective S01 E04
 #DESCRIPTION True Detective S01 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season01/True.Detective.S01E05.mp4:True Detective S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season01/True.Detective.S01E05.mp4:True Detective S01 E05
 #DESCRIPTION True Detective S01 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season01/True.Detective.S01E06.mp4:True Detective S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season01/True.Detective.S01E06.mp4:True Detective S01 E06
 #DESCRIPTION True Detective S01 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season01/True.Detective.S01E07.mp4:True Detective S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season01/True.Detective.S01E07.mp4:True Detective S01 E07
 #DESCRIPTION True Detective S01 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season01/True.Detective.S01E08.mp4:True Detective S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season01/True.Detective.S01E08.mp4:True Detective S01 E08
 #DESCRIPTION True Detective S01 E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season02/True.Detective.S02E01.mp4:True Detective S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season02/True.Detective.S02E01.mp4:True Detective S02 E01
 #DESCRIPTION True Detective S02 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season02/True.Detective.S02E02.mp4:True Detective S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season02/True.Detective.S02E02.mp4:True Detective S02 E02
 #DESCRIPTION True Detective S02 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season02/True.Detective.S02E03.mp4:True Detective S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season02/True.Detective.S02E03.mp4:True Detective S02 E03
 #DESCRIPTION True Detective S02 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season02/True.Detective.S02E04.mp4:True Detective S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season02/True.Detective.S02E04.mp4:True Detective S02 E04
 #DESCRIPTION True Detective S02 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season02/True.Detective.S02E05.mp4:True Detective S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season02/True.Detective.S02E05.mp4:True Detective S02 E05
 #DESCRIPTION True Detective S02 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season02/True.Detective.S02E06.mp4:True Detective S02 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season02/True.Detective.S02E06.mp4:True Detective S02 E06
 #DESCRIPTION True Detective S02 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season02/True.Detective.S02E07.mp4:True Detective S02 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season02/True.Detective.S02E07.mp4:True Detective S02 E07
 #DESCRIPTION True Detective S02 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season02/True.Detective.S02E08.mp4:True Detective S02 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season02/True.Detective.S02E08.mp4:True Detective S02 E08
 #DESCRIPTION True Detective S02 E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season03/True.Detective.S03E01.mp4:True Detective S03 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season03/True.Detective.S03E01.mp4:True Detective S03 E01
 #DESCRIPTION True Detective S03 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season03/True.Detective.S03E02.mp4:True Detective S03 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season03/True.Detective.S03E02.mp4:True Detective S03 E02
 #DESCRIPTION True Detective S03 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season03/True.Detective.S03E03.mp4:True Detective S03 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season03/True.Detective.S03E03.mp4:True Detective S03 E03
 #DESCRIPTION True Detective S03 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season03/True.Detective.S03E04.mp4:True Detective S03 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season03/True.Detective.S03E04.mp4:True Detective S03 E04
 #DESCRIPTION True Detective S03 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season03/True.Detective.S03E05.mp4:True Detective S03 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season03/True.Detective.S03E05.mp4:True Detective S03 E05
 #DESCRIPTION True Detective S03 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season03/True.Detective.S03E06.mp4:True Detective S03 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season03/True.Detective.S03E06.mp4:True Detective S03 E06
 #DESCRIPTION True Detective S03 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season03/True.Detective.S03E07.mp4:True Detective S03 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season03/True.Detective.S03E07.mp4:True Detective S03 E07
 #DESCRIPTION True Detective S03 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True%20Detective/Season03/True.Detective.S03E08.mp4:True Detective S03 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/True Detective/Season03/True.Detective.S03E08.mp4:True Detective S03 E08
 #DESCRIPTION True Detective S03 E08
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLhCSY1JVNRkdEZJ2K:ULTRAMAN HDR 2019 S01 E01
 #DESCRIPTION ULTRAMAN HDR 2019 S01 E01
