@@ -1,4 +1,6 @@
 #NAME == ★★ReMy | BALKAN★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.goodgame.ru%3a8080/hls/172148.m3u8:KVN HD
+#DESCRIPTION KVN HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.108.13%3a8000/play/a0cu:4S
