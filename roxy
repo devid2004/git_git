@@ -193,6 +193,16 @@ http://188.35.9.14:2027
 http://188.35.9.14:2012
 #EXTINF:-1 group-title="ReMy_SPORT",Match! Premier
 http://188.191.36.106:8080/hls/nashfutbol.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SPORTTV 1 HD
+http://tv.denied.network/sporttv1hd/stream
+#EXTINF:-1 group-title="ReMy_SPORT",SPORTTV 2 HD
+http://tv.denied.network/sporttv2hd/stream
+#EXTINF:-1 group-title="ReMy_SPORT",SPORTTV 3 HD
+http://tv.denied.network/sporttv3hd/stream
+#EXTINF:-1 group-title="ReMy_SPORT",SPORTTV 4 HD
+http://tv.denied.network/sporttv4hd/stream
+#EXTINF:-1 group-title="ReMy_SPORT",SPORTTV 5 HD
+http://tv.denied.network/sporttv5hd/stream
 #EXTINF:-1 group-title="ReMy_SPORT",albaniasport3
 https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",BT SPORT ESPN
