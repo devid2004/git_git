@@ -163,6 +163,8 @@
 #DESCRIPTION 4S
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.adunity.com/b1/b1.m3u8:B1
 #DESCRIPTION B1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.adunity.com/b1/b1_640-.m3u8:B1 HD
+#DESCRIPTION B1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.canalc.be%3a1935/matele/smil%3aSMIL-matele-multi.smil/chunklist.m3u8:BE-MA TELE
 #DESCRIPTION BE-MA TELE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Bollywood HD
@@ -381,6 +383,8 @@
 #DESCRIPTION TVPlus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.186.146.34%3a8080:TVPlus Suceava
 #DESCRIPTION TVPlus Suceava
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.136.209.26%3a1935/liveedge/TVR1.stream/playlist.m3u8:TVR1 HD
+#DESCRIPTION TVR1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.196.0.126%3a80/utvedge/utvlive/index.m3u8:UTV
 #DESCRIPTION UTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//139.59.166.48%3a8081/live/live3/playlist.m3u8:V2BEAT TV

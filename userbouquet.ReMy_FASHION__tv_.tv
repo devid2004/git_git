@@ -5,12 +5,16 @@
 #DESCRIPTION FASHION TV PARIS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8:FASHION TV SPAIN
 #DESCRIPTION FASHION TV SPAIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/058v:Fashion One
+#DESCRIPTION Fashion One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8:Fashion TV Midnight Secrets
 #DESCRIPTION Fashion TV Midnight Secrets
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8:FTV Midnight Secrets (FHD) (New!)
 #DESCRIPTION FTV Midnight Secrets (FHD) (New!)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8:FTV Midnight Secrets (HD) (New!)
 #DESCRIPTION FTV Midnight Secrets (HD) (New!)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/048t:Fashion HD
+#DESCRIPTION Fashion HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_mid/index.m3u8:HD Fashion
 #DESCRIPTION HD Fashion
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8:HD FASHION TV
