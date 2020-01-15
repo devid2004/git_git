@@ -1,6 +1,8 @@
 #NAME == ★★ReMy | SPORT★★ ==
 #SERVICE 1:64:97:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_aspor/smil%3aaspor_hd.smil/playlist.m3u8:A SPOR HD
+#DESCRIPTION A SPOR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:Bein sport 1 HD
 #DESCRIPTION Bein sport 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportscore.biz/lba/123/g5/beinsport1tur.m3u8:Bein sport 1 HD
@@ -9,8 +11,6 @@
 #DESCRIPTION NTV SPOR MAC OZETLERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/ntvspor.ts:NTV SPOR 1HD
 #DESCRIPTION NTV SPOR 1HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$DolceSportHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Telekom Sport 1 HD
-#DESCRIPTION Telekom Sport 1 HD
 #SERVICE 4097:0:0:7:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spo-football.m3u8:Sky-Sports-football
 #DESCRIPTION Sky-Sports-football
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-action.m3u8:Sky-Sports-action
@@ -121,6 +121,8 @@
 #DESCRIPTION |TR| BEINSPORT 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourceturkiapro2/8684782188/1456:|TR| BEINSPORT 4
 #DESCRIPTION |TR| BEINSPORT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/189r:ExTREAM SPORT TV
+#DESCRIPTION ExTREAM SPORT TV
 #SERVICE 1:64:98:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria

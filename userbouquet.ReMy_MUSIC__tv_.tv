@@ -363,6 +363,14 @@
 #DESCRIPTION Zeta TV
 #SERVICE 4097:0:1:1629:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:ZIK
 #DESCRIPTION ZIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a004/index.m3u8:Super ROCK HD
+#DESCRIPTION Super ROCK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a002/index.m3u8:Super Tv HD
+#DESCRIPTION Super Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/082r:Deluxe Music
+#DESCRIPTION Deluxe Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/043m:EU MUSIC HD
+#DESCRIPTION EU MUSIC HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8:3ABN Praise Him Music Channel
 #DESCRIPTION 3ABN Praise Him Music Channel
 #SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★

@@ -1,14 +1,24 @@
 #NAME == ★★ReMy | NEWS★★ ==
 #SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_kanal24/smil%3akanal24_hd.smil/playlist.m3u8:24 TV HD
+#DESCRIPTION 24 TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/kanal24/smil%3akanal24.smil/chunklist.m3u8:24 HD
 #DESCRIPTION 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_ahaber/smil%3aahaber_hd.smil/playlist.m3u8:A HABER HD
+#DESCRIPTION A HABER HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8:CNN TURK HD
 #DESCRIPTION CNN TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8:CNN TURK HD (3)
+#DESCRIPTION CNN TURK HD (3)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV HD
 #DESCRIPTION NTV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.ntv.com.tr/rss/LiveStream:NTV HD
 #DESCRIPTION NTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_haberglobal/smil%3ahaberglobal_hd.smil/playlist.m3u8:Haber Global HD
+#DESCRIPTION Haber Global HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_haberturk/smil%3ahaberturk_hd.smil/playlist.m3u8:HABER TURK HD
+#DESCRIPTION HABER TURK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.streamencoding.com%3a1935/tgrt_haber/tgrt1/playlist.m3u8:TGRT HABER
 #DESCRIPTION TGRT HABER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8:TRT HABER HD
@@ -17,6 +27,12 @@
 #DESCRIPTION TRT WORLD HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akittv-live.ercdn.net/akittv/akittv.m3u8:AKIT TV HD
 #DESCRIPTION AKIT TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/finansturktv/finansturktv/playlist.m3u8:FINANSTURK
+#DESCRIPTION FINANSTURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza1:Istweb TV HD
+#DESCRIPTION Istweb TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv/dp//istanbul2:Istanbul 2
+#DESCRIPTION Istanbul 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8:Al Jazeera HD
 #DESCRIPTION Al Jazeera HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s23/index.m3u8:Al Jazeera English
