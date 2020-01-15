@@ -293,3 +293,5 @@
 #DESCRIPTION Wairarapa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8:WVIT 30 News (Hartford)
 #DESCRIPTION WVIT 30 News (Hartford)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8:CBN News
+#DESCRIPTION CBN News

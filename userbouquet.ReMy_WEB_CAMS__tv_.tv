@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | WEB_CAMS★★ ==
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
 #DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/79.stream/chunklist.m3u8:İstanbul Boğaziçi Köprüsü
 #DESCRIPTION İstanbul Boğaziçi Köprüsü
@@ -83,7 +83,7 @@
 #DESCRIPTION Ireland - Dublin Pub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//57a1a332778cd.streamlock.net%3a1935/danubeHotels-rtplive/_definst_/mp4%3acamera1.stream/playlist.m3u8:Germany - Frankfurt
 #DESCRIPTION Germany - Frankfurt
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::*** Hrvatska ***
+#SERVICE 1:64:AA:0:0:0:0:0:0:0::*** Hrvatska ***
 #DESCRIPTION *** Hrvatska ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist.m3u8:TRG KRAJINE, BANJA LUKA
 #DESCRIPTION TRG KRAJINE, BANJA LUKA
@@ -127,7 +127,7 @@
 #DESCRIPTION Hrvatska  - Varazdin
 #SERVICE 4097:0:1:12:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist_w873016047_b350000.m3u8:Banja luka (trg krajine)
 #DESCRIPTION Banja luka (trg krajine)
-#SERVICE 1:64:A8:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
 #DESCRIPTION * * * WEBCAM livespotting * * *
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4646.flv/playlist.m3u8:Aruba - Bucuti Beach Wing
 #DESCRIPTION Aruba - Bucuti Beach Wing

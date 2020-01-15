@@ -65,6 +65,8 @@
 #DESCRIPTION RAI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8:Reporter
 #DESCRIPTION Reporter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4:Straight (Ukraine)
+#DESCRIPTION Straight (Ukraine)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/stvod/stvod-abr/stvod/stvod/playlist.m3u8:STV Odessa
 #DESCRIPTION STV Odessa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/ngrp%3atv8.stream_all/playlist.m3u8:Televizia OSEM

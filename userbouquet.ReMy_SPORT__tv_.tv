@@ -21,6 +21,16 @@
 #DESCRIPTION Sky-Sports-cricket
 #SERVICE 4097:0:0:8:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Golf.m3u8:Sky-Sports-Golf
 #DESCRIPTION Sky-Sports-Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.denied.network/sporttv1hd/stream:SPORTTV 1 HD
+#DESCRIPTION SPORTTV 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.denied.network/sporttv2hd/stream:SPORTTV 2 HD
+#DESCRIPTION SPORTTV 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.denied.network/sporttv3hd/stream:SPORTTV 3 HD
+#DESCRIPTION SPORTTV 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.denied.network/sporttv4hd/stream:SPORTTV 4 HD
+#DESCRIPTION SPORTTV 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.denied.network/sporttv5hd/stream:SPORTTV 5 HD
+#DESCRIPTION SPORTTV 5 HD
 #SERVICE 4097:0:0:20:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/Dub-Sport2-Bakup.m3u8:Dub-Sport2
 #DESCRIPTION Dub-Sport2
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:Kurd-Goal
