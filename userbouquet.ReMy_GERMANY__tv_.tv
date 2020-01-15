@@ -1,4 +1,12 @@
 #NAME == ★★ReMy | GERMANY★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lci-hls-live-ssl.tf1.fr/lci/1/hls/live_496.m3u8:|FR| LCI
+#DESCRIPTION |FR| LCI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8:|FR| LCI HD
+#DESCRIPTION |FR| LCI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lci-hls-live-ssl.tf1.fr/lci/1/hls/master_2000000.m3u8:|FR| LCI
+#DESCRIPTION |FR| LCI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8:|FR| LCI HD
+#DESCRIPTION |FR| LCI HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8:10 norge
 #DESCRIPTION 10 norge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-kanal10.crossnet.net%3a1935/kanal10/mp4%3ampegts.stream/playlist.m3u8:10 sv
