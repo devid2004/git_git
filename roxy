@@ -2630,231 +2630,535 @@ http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chun
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 group-title="ReMy_BULGARIA",ReMy_BULGARIA
 ReMy_BULGARIA
-#EXTINF:0,24 Kitchen
+#EXTINF:-1 group-title="ReMy_BULGARIA",24 Kitchen
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/110362383?ticket=F0C8753F48E7FD8CE1DBBCD22678B954696D6650&profile=pass
-#EXTINF:0,7/8 TV
+#EXTINF:-1 group-title="ReMy_BULGARIA",7/8 TV
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/612417143?ticket=AD1F00F44DB1B57AD86E3C89C2C47A2C4FBE80B0&profile=pass
-#EXTINF:0,Alfa TV
+#EXTINF:-1 group-title="ReMy_BULGARIA",Alfa TV
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/229349406?ticket=79EC8DA1A8626386D9CCB2B975F9419F6A224C29&profile=pass
-#EXTINF:0,AMC
+#EXTINF:-1 group-title="ReMy_BULGARIA",AMC
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/388974895?ticket=4FA40B42A61EBFA81BFF6AE40FC66A3BD1ABF488&profile=pass
-#EXTINF:0,Animal Planet
+#EXTINF:-1 group-title="ReMy_BULGARIA",Animal Planet
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1160139305?ticket=9AC1166A01BD74D6558301CA8227A8E510CD8306&profile=pass
-#EXTINF:0,AXN
+#EXTINF:-1 group-title="ReMy_BULGARIA",AXN
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1235203986?ticket=FEC0C48E88AFD4B294267248CB8C2EA7D9708AB6&profile=pass
-#EXTINF:0,Balkanika
+#EXTINF:-1 group-title="ReMy_BULGARIA",Balkanika
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1367843658?ticket=7E4564F897AFC6FC23C8C6BA286CA9D50B074513&profile=pass
-#EXTINF:0,BNT 1
+#EXTINF:-1 group-title="ReMy_BULGARIA",BNT 1
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/198020795?ticket=F223FA475C386523021CA633258807F63733B992&profile=pass
-#EXTINF:0,BNT 2
+#EXTINF:-1 group-title="ReMy_BULGARIA",BNT 2
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1068601428?ticket=542BED47D0809FDA9A5E76EA7FA6D2F8A52E0B99&profile=pass
-#EXTINF:0,BNT 3
+#EXTINF:-1 group-title="ReMy_BULGARIA",BNT 3
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1538670544?ticket=042117CEC9D35CDB50AB103E46C2F189FC58604E&profile=pass
-#EXTINF:0,bTV
+#EXTINF:-1 group-title="ReMy_BULGARIA",bTV
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/622539917?ticket=1B44130958A4A6B6E60B8B7996D195A52F9B1C69&profile=pass
-#EXTINF:0,bTV Action
+#EXTINF:-1 group-title="ReMy_BULGARIA",bTV Action
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1328009139?ticket=23BCC53C236DD2F41968E763130091B3C372BACE&profile=pass
-#EXTINF:0,bTV Cinema
+#EXTINF:-1 group-title="ReMy_BULGARIA",bTV Cinema
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1043129853?ticket=570EBE2E9C709BC08C4431C26F42D8425CF5A869&profile=pass
-#EXTINF:0,bTV Comedy
+#EXTINF:-1 group-title="ReMy_BULGARIA",bTV Comedy
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/454876504?ticket=FE675E449E77CC41ED02CE2B002245CADB8B2873&profile=pass
-#EXTINF:0,bTV HD
+#EXTINF:-1 group-title="ReMy_BULGARIA",bTV HD
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/18315878?ticket=34DDE4A7E22085FE9912B40DD1914669C553A8AD&profile=pass
-#EXTINF:0,bTV Lady
+#EXTINF:-1 group-title="ReMy_BULGARIA",bTV Lady
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/2035492266?ticket=7FC60F1DFDADE3BDCCA6955A28ABBD02267F9F05&profile=pass
-#EXTINF:0,Cartoon Network
+#EXTINF:-1 group-title="ReMy_BULGARIA",Cartoon Network
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1269828209?ticket=CE2BAF6E3484F786200357B5D72D1187F13FB736&profile=pass
-#EXTINF:0,Cinema Plus
+#EXTINF:-1 group-title="ReMy_BULGARIA",Cinema Plus
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1271089156?ticket=2E1C933EB8363DAEA5FAF88F917EDC4FC2A9DE6C&profile=pass
-#EXTINF:0,City TV
+#EXTINF:-1 group-title="ReMy_BULGARIA",City TV
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1934419020?ticket=A79DB4B7818C497FB938EBD6C2B4836F84423227&profile=pass
-#EXTINF:0,Comedy Plus
+#EXTINF:-1 group-title="ReMy_BULGARIA",Comedy Plus
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1096891634?ticket=E4217B25A6DED974CFC453465B1863E0FA58E153&profile=pass
-#EXTINF:0,Diema
+#EXTINF:-1 group-title="ReMy_BULGARIA",Diema
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/781346863?ticket=02C1115914889CFC53F6C6286A2AD171AB5C4D3F&profile=pass
-#EXTINF:0,Diema Family
+#EXTINF:-1 group-title="ReMy_BULGARIA",Diema Family
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/513117642?ticket=7AFD844E0812DBDA946ED231A8215CA3BD95017D&profile=pass
-#EXTINF:0,Diema Sport
+#EXTINF:-1 group-title="ReMy_BULGARIA",Diema Sport
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/637612685?ticket=DFBDABA7945C886AB9F1C6FAB3036B60634308BE&profile=pass
-#EXTINF:0,Diema Sport 2
+#EXTINF:-1 group-title="ReMy_BULGARIA",Diema Sport 2
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1307066759?ticket=0D9A92A73006C60B6802DB44735E5170E4B46975&profile=pass
-#EXTINF:0,Discovery Channel
+#EXTINF:-1 group-title="ReMy_BULGARIA",Discovery Channel
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1831741320?ticket=29EB5A3E56973F1C0FF9E107649A44CDCCAB54EF&profile=pass
-#EXTINF:0,Disney Channel
+#EXTINF:-1 group-title="ReMy_BULGARIA",Disney Channel
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/788488806?ticket=C70C3908875698D96F48BC7E2BD4821AFB18572A&profile=pass
-#EXTINF:0,Disney Junior
+#EXTINF:-1 group-title="ReMy_BULGARIA",Disney Junior
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/724242215?ticket=4D610F3F1F46EDA76F02CF7999E83379A545F19E&profile=pass
-#EXTINF:0,DM Sat
+#EXTINF:-1 group-title="ReMy_BULGARIA",DM Sat
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/316334062?ticket=E4343D7BEBBB8BA1F702C5F063ECACCCFB4A1B2C&profile=pass
-#EXTINF:0,Ekids
+#EXTINF:-1 group-title="ReMy_BULGARIA",Ekids
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/2022231752?ticket=4B94595B4708AD345525D1869ECA64B91CCD5556&profile=pass
-#EXTINF:0,Eurosport
+#EXTINF:-1 group-title="ReMy_BULGARIA",Eurosport
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/494964725?ticket=17857E6E64AB922D51D9066129060293610EDFB8&profile=pass
-#EXTINF:0,Eurosport 2
+#EXTINF:-1 group-title="ReMy_BULGARIA",Eurosport 2
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1108055724?ticket=0739A168BE47E0E8D9FE72C286723C752C5DA9DE&profile=pass
-#EXTINF:0,Eurosport HD
+#EXTINF:-1 group-title="ReMy_BULGARIA",Eurosport HD
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/868315384?ticket=0CDFC0CA194730F00310F2C2B3AEA3C245573F5E&profile=pass
-#EXTINF:0,Evrokom
+#EXTINF:-1 group-title="ReMy_BULGARIA",Evrokom
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/264936258?ticket=47B429F9CB09237E77056E2D03A82A72E9F080ED&profile=pass
-#EXTINF:0,F Plus
+#EXTINF:-1 group-title="ReMy_BULGARIA",F Plus
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/885454449?ticket=2D5A2C6767CC825524A5C71DF003249B1055F7C1&profile=pass
-#EXTINF:0,Fen Folk TV
+#EXTINF:-1 group-title="ReMy_BULGARIA",Fen Folk TV
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/610230549?ticket=985D01BCA607D721EF528CA72A85CE47ED1AF536&profile=pass
-#EXTINF:0,FEN TV
+#EXTINF:-1 group-title="ReMy_BULGARIA",FEN TV
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/407664117?ticket=40005FBBD34F4C5D0D925929BE44C507C3FB775D&profile=pass
-#EXTINF:0,FILMBOX
+#EXTINF:-1 group-title="ReMy_BULGARIA",FILMBOX
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/258204106?ticket=0464660BBBCCE758BF120094C1C1B80B583B7B5D&profile=pass
-#EXTINF:0,Fine Living
+#EXTINF:-1 group-title="ReMy_BULGARIA",Fine Living
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1768460721?ticket=0E5190CC5DA32CA771A8F0638826A263A1997550&profile=pass
-#EXTINF:0,Folklor TV
+#EXTINF:-1 group-title="ReMy_BULGARIA",Folklor TV
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/555746181?ticket=443D2A8A46EB434B83645D2BA315534D81962A4E&profile=pass
-#EXTINF:0,FOX
+#EXTINF:-1 group-title="ReMy_BULGARIA",FOX
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/266704623?ticket=A6B622187870E777FEE413ECE52AE96AC6F8433B&profile=pass
-#EXTINF:0,FOX Crime
+#EXTINF:-1 group-title="ReMy_BULGARIA",FOX Crime
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/135147382?ticket=212471D1E59BA85C484BB20D12D8594F5C9BF733&profile=pass
-#EXTINF:0,FOX Life
+#EXTINF:-1 group-title="ReMy_BULGARIA",FOX Life
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/955440131?ticket=D22E9028ECB3F19C02F640F3103FF425EE0337B0&profile=pass
-#EXTINF:0,H2
+#EXTINF:-1 group-title="ReMy_BULGARIA",H2
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/136405183?ticket=ED23B0D9EDD64FE503B8F085290509BEA333785A&profile=pass
-#EXTINF:0,History Channel HD
+#EXTINF:-1 group-title="ReMy_BULGARIA",History Channel HD
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1164698530?ticket=0C0B0D096CBFE2650682B11D5C462BDC0FC5DFCD&profile=pass
-#EXTINF:0,Hobby lov
+#EXTINF:-1 group-title="ReMy_BULGARIA",Hobby lov
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/811219874?ticket=DDE128E0567DD690F06BFF662001B4FF3D494944&profile=pass
-#EXTINF:0,Hobby TV
+#EXTINF:-1 group-title="ReMy_BULGARIA",Hobby TV
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/843433019?ticket=9464E7233EAAEAF68505120C20D1E82CE000B2F6&profile=pass
-#EXTINF:0,Hobby TV HD
+#EXTINF:-1 group-title="ReMy_BULGARIA",Hobby TV HD
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1132723985?ticket=C92D092486DA69E23E0B09FB6044CA9E05EB2AD1&profile=pass
-#EXTINF:0,ID Xtra
+#EXTINF:-1 group-title="ReMy_BULGARIA",ID Xtra
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/224104616?ticket=88E72B4673B8D6B13E31703E988A280582CB8FB2&profile=pass
-#EXTINF:0,Kanal 3
+#EXTINF:-1 group-title="ReMy_BULGARIA",Kanal 3
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/602583683?ticket=A511A97EFCF417F19EFC8F107FA8EB39BA3E52A9&profile=pass
-#EXTINF:0,KinoNova
+#EXTINF:-1 group-title="ReMy_BULGARIA",KinoNova
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/116591016?ticket=D4E0FDF0247C203D62FB594A3F835DC224911E04&profile=pass
-#EXTINF:0,MAGIC TV
+#EXTINF:-1 group-title="ReMy_BULGARIA",MAGIC TV
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1796776113?ticket=76D287F9A9C81BB6234B148FB7448843CE650AAF&profile=pass
-#EXTINF:0,MAX sport 1
+#EXTINF:-1 group-title="ReMy_BULGARIA",MAX sport 1
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/2068352558?ticket=3836374E3C92F611668E40D0D4C3E0A0E7F1CB5E&profile=pass
-#EXTINF:0,MAX sport 2
+#EXTINF:-1 group-title="ReMy_BULGARIA",MAX sport 2
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1945000705?ticket=3E5D285E489870DA23273FD7C41C203385C43FE4&profile=pass
-#EXTINF:0,MAX sport 3
+#EXTINF:-1 group-title="ReMy_BULGARIA",MAX sport 3
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/102311515?ticket=ECA04E91AFB37E58D7D077C481796EE56F7403C5&profile=pass
-#EXTINF:0,National Geographic
+#EXTINF:-1 group-title="ReMy_BULGARIA",National Geographic
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/767694103?ticket=62DA7A07928EF07AEBC9A28613DF7A8F6AF36C88&profile=pass
-#EXTINF:0,National Geographic HD
+#EXTINF:-1 group-title="ReMy_BULGARIA",National Geographic HD
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/148467014?ticket=18FF7AA18D2120C85F1BC9561350B46604F53DAF&profile=pass
-#EXTINF:0,NG WILD
+#EXTINF:-1 group-title="ReMy_BULGARIA",NG WILD
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/195856110?ticket=7439F138FDCBE487E29EC3EEB2774AFEF24D9C34&profile=pass
-#EXTINF:0,NG Wild HD
+#EXTINF:-1 group-title="ReMy_BULGARIA",NG Wild HD
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/2058325538?ticket=4F84B7092A6F5F35CB70BE9448E5D38BD89DA009&profile=pass
-#EXTINF:0,Nick Jr
+#EXTINF:-1 group-title="ReMy_BULGARIA",Nick Jr
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/2069607032?ticket=73D711623D98832F51F66FC8A4A40AF1D4A37F92&profile=pass
-#EXTINF:0,Nickelodeon
+#EXTINF:-1 group-title="ReMy_BULGARIA",Nickelodeon
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1897410448?ticket=6E6E3DF1A08639967C27B3BBDE012D024977A303&profile=pass
-#EXTINF:0,NOVA
+#EXTINF:-1 group-title="ReMy_BULGARIA",NOVA
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1702102722?ticket=DC46CA264082840084E5005F06D3B9D4E0116D1B&profile=pass
-#EXTINF:0,Nova Sport
+#EXTINF:-1 group-title="ReMy_BULGARIA",Nova Sport
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1050736086?ticket=7201F6D5962FC66923608A4BAA838DB44F8E8081&profile=pass
-#EXTINF:0,NRJ
+#EXTINF:-1 group-title="ReMy_BULGARIA",NRJ
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1176767720?ticket=85904BC8DDC6FFE1E5D4F346387EE276F34EF42C&profile=pass
-#EXTINF:0,Perviy Kanal
+#EXTINF:-1 group-title="ReMy_BULGARIA",Perviy Kanal
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1469051880?ticket=855FC4BDFECB2B323C59FDBAF33F729B9AA48D61&profile=pass
-#EXTINF:0,Planeta Folk
+#EXTINF:-1 group-title="ReMy_BULGARIA",Planeta Folk
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/96840001?ticket=5CD0C867E28F2B6735CA9C8FE76ADFA26065D4FC&profile=pass
-#EXTINF:0,Planeta HD
+#EXTINF:-1 group-title="ReMy_BULGARIA",Planeta HD
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/179733707?ticket=20C05FDF390EBBBA6DC926E8798FAE14AAFD0431&profile=pass
-#EXTINF:0,Planeta TV
+#EXTINF:-1 group-title="ReMy_BULGARIA",Planeta TV
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/206608511?ticket=82CC280D94C895C9238EE351070D77DB3AE132F2&profile=pass
-#EXTINF:0,RING BG
+#EXTINF:-1 group-title="ReMy_BULGARIA",RING BG
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1410776171?ticket=6454BB5CED20E4D3D81C82298160100059E19C3F&profile=pass
-#EXTINF:0,Skat TV
+#EXTINF:-1 group-title="ReMy_BULGARIA",Skat TV
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1879847841?ticket=C7F35CEEA83EA64BCFC009511C215FBFECE9A003&profile=pass
-#EXTINF:0,SPORT Plus HD
+#EXTINF:-1 group-title="ReMy_BULGARIA",SPORT Plus HD
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/797945013?ticket=A2E8E68025498AAD0C27EB4CA1DC9EFEE8CA7E3B&profile=pass
-#EXTINF:0,Sport+
+#EXTINF:-1 group-title="ReMy_BULGARIA",Sport+
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1737666294?ticket=694CD34E189F5D920E1CDC977C643D08728AEE03&profile=pass
-#EXTINF:0,TLC
+#EXTINF:-1 group-title="ReMy_BULGARIA",TLC
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1398313909?ticket=BA89FE64BBE55308F554EDE28CE3D0EA3EF69FE1&profile=pass
-#EXTINF:0,Travel Channel
+#EXTINF:-1 group-title="ReMy_BULGARIA",Travel Channel
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1094540955?ticket=08B8E31D8AF417EECE63D7787CA6F9C0414CC79A&profile=pass
-#EXTINF:0,TV Evropa
+#EXTINF:-1 group-title="ReMy_BULGARIA",TV Evropa
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/503491609?ticket=4A5DA7787FBB016C6B1712174915ECC8D509C250&profile=pass
-#EXTINF:0,Viasat Explorer
+#EXTINF:-1 group-title="ReMy_BULGARIA",Viasat Explorer
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1599816524?ticket=CE46232894BB92823F4FA89F282226DF3D31238A&profile=pass
+#EXTINF:-1 group-title="ReMy_LATINO",ReMy_LATINO
+ReMy_LATINO
+#EXTINF:-1 group-title="ReMy_LATINO",13 MAX TELEFE
+http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",ACENTO TV DOMINICANA
+http://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",AIRE SANTA FE
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",AL JAZEERA
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",ANTARES TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",ATB
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",BE MAD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",BETIS TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",BHTV PERU
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL 1 PELICULAS
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL 10 CANCUN
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL 10 RIO NEGRO
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL 11
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1339977921_b1300000_slesp.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL 17 MILENIUM
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL 4 SAN JUAN
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL 6 MEXICO
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL 8 MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL JUDICIAL
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL M
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL OLAVARRIA
+http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL SAN MIGUEL
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CANAL VASCO
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CATOLICA TV
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CBS News achoAPPS.com
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CBTV
+http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
+#EXTINF:-1 group-title="ReMy_LATINO",CDF DEPORTES
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CDO DEPORTES
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w1477672342.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CDO PREMIUM
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CENTRAL TV PERU
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CGTN E
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO", (18) CENTRAL TV - Chosica
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",Cinefil WOWOW | SD
+http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CINEMAWOLD
+http://210.210.155.35/session/f3bb9eba-af11-11e9-bade-8a7691426eef/uq2663/h/h04/01.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",COCINA Tv
+https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",COLOSAL TV COSTA RICA
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",COSMO TV
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",COSMOS
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CUATRO
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",CULTURA 24
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",DIVINITY
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ReMy_LATINO",EITB
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",ENERGY
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",ENLACE
+http://138.117.4.70:8079/streams/d/Canal-21/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",EXTREMA COSTA RICA
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",FARO VISION DOMINICANA
+http://184.173.181.2:1935/8060/8060/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",FIGTH TIME
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",FOROTV
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",FRANCE 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",FRECUENCIA MUSICAL
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",FUEGO TV DOMINICANA
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",FUEGOTV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",HECHOS
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",Historia
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",HQM BALADAS
+https://livelist01.yowi.tv/lista/60bbd07a82cd6bd1f18b4958f9c1b25bbb7b71d7/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",HQM LATINO
+https://livelist01.yowi.tv/lista/beb3dc68b9581e926f166d498fa18fceac8eb346/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",KARAOKE HD
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",La 1 HD
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",LA VOZ DE MARIA
+http://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w477912263.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",LATINOS:WoW Tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",LEBRIJA
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",LEVANTE
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",LOGOS
+http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",LUNA TV DOMINICANA
+http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="ReMy_LATINO",MARIA VISION
+https://5a7dd6e2ce9bc.streamlock.net:8443/l/_jcn_/amlst:Mariavision/chunklist_w1283222492_b1428000.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",MARTI
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",MAXIMA MOVIE
+http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",MEDIOS RIOJA
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO", INGLÉS - Mello TV
+https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",MICROVISION DOMINICANA
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",microvision tv
+http://190.103.183.24:1935/live/MicroHD/chunklist_w28916072.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",MONTE CARLO
+http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",MULTIMEDIOS COSTA RICA
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 group-title="ReMy_LATINO",MULTIVISION SALTA
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",MUNDO MAS COLOMBIA
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",MURCIA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",My Cinema Channel
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",NATGEO
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",NEX TV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",NHK HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",NYC CAMERA
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",OLIMPIC CANAL
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",ORBIT DOMINICANA
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",ORBIT TV
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",OROMAR
+http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",oromar tv
+http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",PANAVISION PANAMA
+http://vcp1.myplaytv.com:1935/panavision/panavision/chunklist_w2101755274.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",PANICO
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",PARAMOUNT
+http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",PAT LA PAZ
+http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",PAT SCZ
+http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",PATAGONIA TV
+https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",RADIO 105
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",RADIO AIRE
+http://streamyes.alsolnet.com/radiodelairetv/live/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",RAI 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",RETRO HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",RETRO PLUS
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",RTN NEUQUEN
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",Star Movies (SD)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",SUPER 3
+http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",SUPER TV DOMINICANA
+http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TEC
+http://tec_tv.secure2.footprint.net/egress/bhandler/streamroot_lsd2latam/tec_tv/manifest.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TELE 12
+https://59f2354c05961.streamlock.net:1443/tele12/_definst_/tele12/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TELE SUR
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TELECANAL
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TELECINCO
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TELECINCO HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TELEMADRID
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TELEMAX
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TELERED COSTA RICA
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TELESAFOR
+http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TELESISTEMA DOMINICANA
+http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TELESUR COSTA RICA
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TELEVALENCIA
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TICAVISION COSTA RICA
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TRECE COLOMBIA
+https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TV DEL ESTE DOMINICANA
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TV GALICIA
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TV PERU
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TV PLATA GUATEMALA
+http://ss6.domint.net:2104/tvp_str/tvplata/chunklist_w780794720.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TV RED
+http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TV SUR COSTA RICA
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TVB DEPORTES
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TVE 24H
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",TVO CANAL 23
+http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",UNICANAL
+http://45.55.127.106/live/unicanal_src.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",UNIMAR
+https://59c5c86e10038.streamlock.net/95621330/95621330/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",VALLEVISION DOMINICANA
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",WOW EL SALVADOR
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_LATINO",ZACATECAS
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",ReMy_NILESAT_ARABIC
 ReMy_NILESAT_ARABIC
 #EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",MBC MAX
