@@ -1736,6 +1736,22 @@ https://aldirect.hls.huya.com/huyalive/30765679-2523205260-10837084072795176960-
 Https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",ReMy_WORLD
 ReMy_WORLD
+#EXTINF:-1 group-title="ReMy_WORLD",Super ROCK HD
+http://91.235.165.77:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",Super Tv
+http://91.235.165.77:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",Super Tv HD
+http://91.235.165.77:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",KVN HD
+http://hls.goodgame.ru:8080/hls/172148.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",|FR| LCI
+http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_496.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",|FR| LCI HD
+http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",|FR| LCI
+http://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_2000000.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",|FR| LCI HD
+http://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",Sky-MoviesFamily
 http://95.170.215.118:80/hls/m3u8/Sky-MoviesFamily.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",Sky-MoviesDrama
@@ -2612,6 +2628,233 @@ rtmp://vod.tv7.fi/tv7-fi/mp4:tv7-fi.stream_360p?PAZ_Chega_de_Guerras
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 group-title="ReMy_BULGARIA",ReMy_BULGARIA
+ReMy_BULGARIA
+#EXTINF:0,24 Kitchen
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/110362383?ticket=F0C8753F48E7FD8CE1DBBCD22678B954696D6650&profile=pass
+#EXTINF:0,7/8 TV
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/612417143?ticket=AD1F00F44DB1B57AD86E3C89C2C47A2C4FBE80B0&profile=pass
+#EXTINF:0,Alfa TV
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/229349406?ticket=79EC8DA1A8626386D9CCB2B975F9419F6A224C29&profile=pass
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/388974895?ticket=4FA40B42A61EBFA81BFF6AE40FC66A3BD1ABF488&profile=pass
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1160139305?ticket=9AC1166A01BD74D6558301CA8227A8E510CD8306&profile=pass
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1235203986?ticket=FEC0C48E88AFD4B294267248CB8C2EA7D9708AB6&profile=pass
+#EXTINF:0,Balkanika
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1367843658?ticket=7E4564F897AFC6FC23C8C6BA286CA9D50B074513&profile=pass
+#EXTINF:0,BNT 1
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/198020795?ticket=F223FA475C386523021CA633258807F63733B992&profile=pass
+#EXTINF:0,BNT 2
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1068601428?ticket=542BED47D0809FDA9A5E76EA7FA6D2F8A52E0B99&profile=pass
+#EXTINF:0,BNT 3
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1538670544?ticket=042117CEC9D35CDB50AB103E46C2F189FC58604E&profile=pass
+#EXTINF:0,bTV
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/622539917?ticket=1B44130958A4A6B6E60B8B7996D195A52F9B1C69&profile=pass
+#EXTINF:0,bTV Action
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1328009139?ticket=23BCC53C236DD2F41968E763130091B3C372BACE&profile=pass
+#EXTINF:0,bTV Cinema
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1043129853?ticket=570EBE2E9C709BC08C4431C26F42D8425CF5A869&profile=pass
+#EXTINF:0,bTV Comedy
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/454876504?ticket=FE675E449E77CC41ED02CE2B002245CADB8B2873&profile=pass
+#EXTINF:0,bTV HD
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/18315878?ticket=34DDE4A7E22085FE9912B40DD1914669C553A8AD&profile=pass
+#EXTINF:0,bTV Lady
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/2035492266?ticket=7FC60F1DFDADE3BDCCA6955A28ABBD02267F9F05&profile=pass
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1269828209?ticket=CE2BAF6E3484F786200357B5D72D1187F13FB736&profile=pass
+#EXTINF:0,Cinema Plus
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1271089156?ticket=2E1C933EB8363DAEA5FAF88F917EDC4FC2A9DE6C&profile=pass
+#EXTINF:0,City TV
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1934419020?ticket=A79DB4B7818C497FB938EBD6C2B4836F84423227&profile=pass
+#EXTINF:0,Comedy Plus
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1096891634?ticket=E4217B25A6DED974CFC453465B1863E0FA58E153&profile=pass
+#EXTINF:0,Diema
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/781346863?ticket=02C1115914889CFC53F6C6286A2AD171AB5C4D3F&profile=pass
+#EXTINF:0,Diema Family
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/513117642?ticket=7AFD844E0812DBDA946ED231A8215CA3BD95017D&profile=pass
+#EXTINF:0,Diema Sport
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/637612685?ticket=DFBDABA7945C886AB9F1C6FAB3036B60634308BE&profile=pass
+#EXTINF:0,Diema Sport 2
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1307066759?ticket=0D9A92A73006C60B6802DB44735E5170E4B46975&profile=pass
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1831741320?ticket=29EB5A3E56973F1C0FF9E107649A44CDCCAB54EF&profile=pass
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/788488806?ticket=C70C3908875698D96F48BC7E2BD4821AFB18572A&profile=pass
+#EXTINF:0,Disney Junior
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/724242215?ticket=4D610F3F1F46EDA76F02CF7999E83379A545F19E&profile=pass
+#EXTINF:0,DM Sat
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/316334062?ticket=E4343D7BEBBB8BA1F702C5F063ECACCCFB4A1B2C&profile=pass
+#EXTINF:0,Ekids
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/2022231752?ticket=4B94595B4708AD345525D1869ECA64B91CCD5556&profile=pass
+#EXTINF:0,Eurosport
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/494964725?ticket=17857E6E64AB922D51D9066129060293610EDFB8&profile=pass
+#EXTINF:0,Eurosport 2
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1108055724?ticket=0739A168BE47E0E8D9FE72C286723C752C5DA9DE&profile=pass
+#EXTINF:0,Eurosport HD
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/868315384?ticket=0CDFC0CA194730F00310F2C2B3AEA3C245573F5E&profile=pass
+#EXTINF:0,Evrokom
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/264936258?ticket=47B429F9CB09237E77056E2D03A82A72E9F080ED&profile=pass
+#EXTINF:0,F Plus
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/885454449?ticket=2D5A2C6767CC825524A5C71DF003249B1055F7C1&profile=pass
+#EXTINF:0,Fen Folk TV
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/610230549?ticket=985D01BCA607D721EF528CA72A85CE47ED1AF536&profile=pass
+#EXTINF:0,FEN TV
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/407664117?ticket=40005FBBD34F4C5D0D925929BE44C507C3FB775D&profile=pass
+#EXTINF:0,FILMBOX
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/258204106?ticket=0464660BBBCCE758BF120094C1C1B80B583B7B5D&profile=pass
+#EXTINF:0,Fine Living
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1768460721?ticket=0E5190CC5DA32CA771A8F0638826A263A1997550&profile=pass
+#EXTINF:0,Folklor TV
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/555746181?ticket=443D2A8A46EB434B83645D2BA315534D81962A4E&profile=pass
+#EXTINF:0,FOX
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/266704623?ticket=A6B622187870E777FEE413ECE52AE96AC6F8433B&profile=pass
+#EXTINF:0,FOX Crime
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/135147382?ticket=212471D1E59BA85C484BB20D12D8594F5C9BF733&profile=pass
+#EXTINF:0,FOX Life
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/955440131?ticket=D22E9028ECB3F19C02F640F3103FF425EE0337B0&profile=pass
+#EXTINF:0,H2
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/136405183?ticket=ED23B0D9EDD64FE503B8F085290509BEA333785A&profile=pass
+#EXTINF:0,History Channel HD
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1164698530?ticket=0C0B0D096CBFE2650682B11D5C462BDC0FC5DFCD&profile=pass
+#EXTINF:0,Hobby lov
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/811219874?ticket=DDE128E0567DD690F06BFF662001B4FF3D494944&profile=pass
+#EXTINF:0,Hobby TV
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/843433019?ticket=9464E7233EAAEAF68505120C20D1E82CE000B2F6&profile=pass
+#EXTINF:0,Hobby TV HD
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1132723985?ticket=C92D092486DA69E23E0B09FB6044CA9E05EB2AD1&profile=pass
+#EXTINF:0,ID Xtra
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/224104616?ticket=88E72B4673B8D6B13E31703E988A280582CB8FB2&profile=pass
+#EXTINF:0,Kanal 3
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/602583683?ticket=A511A97EFCF417F19EFC8F107FA8EB39BA3E52A9&profile=pass
+#EXTINF:0,KinoNova
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/116591016?ticket=D4E0FDF0247C203D62FB594A3F835DC224911E04&profile=pass
+#EXTINF:0,MAGIC TV
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1796776113?ticket=76D287F9A9C81BB6234B148FB7448843CE650AAF&profile=pass
+#EXTINF:0,MAX sport 1
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/2068352558?ticket=3836374E3C92F611668E40D0D4C3E0A0E7F1CB5E&profile=pass
+#EXTINF:0,MAX sport 2
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1945000705?ticket=3E5D285E489870DA23273FD7C41C203385C43FE4&profile=pass
+#EXTINF:0,MAX sport 3
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/102311515?ticket=ECA04E91AFB37E58D7D077C481796EE56F7403C5&profile=pass
+#EXTINF:0,National Geographic
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/767694103?ticket=62DA7A07928EF07AEBC9A28613DF7A8F6AF36C88&profile=pass
+#EXTINF:0,National Geographic HD
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/148467014?ticket=18FF7AA18D2120C85F1BC9561350B46604F53DAF&profile=pass
+#EXTINF:0,NG WILD
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/195856110?ticket=7439F138FDCBE487E29EC3EEB2774AFEF24D9C34&profile=pass
+#EXTINF:0,NG Wild HD
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/2058325538?ticket=4F84B7092A6F5F35CB70BE9448E5D38BD89DA009&profile=pass
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/2069607032?ticket=73D711623D98832F51F66FC8A4A40AF1D4A37F92&profile=pass
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1897410448?ticket=6E6E3DF1A08639967C27B3BBDE012D024977A303&profile=pass
+#EXTINF:0,NOVA
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1702102722?ticket=DC46CA264082840084E5005F06D3B9D4E0116D1B&profile=pass
+#EXTINF:0,Nova Sport
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1050736086?ticket=7201F6D5962FC66923608A4BAA838DB44F8E8081&profile=pass
+#EXTINF:0,NRJ
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1176767720?ticket=85904BC8DDC6FFE1E5D4F346387EE276F34EF42C&profile=pass
+#EXTINF:0,Perviy Kanal
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1469051880?ticket=855FC4BDFECB2B323C59FDBAF33F729B9AA48D61&profile=pass
+#EXTINF:0,Planeta Folk
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/96840001?ticket=5CD0C867E28F2B6735CA9C8FE76ADFA26065D4FC&profile=pass
+#EXTINF:0,Planeta HD
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/179733707?ticket=20C05FDF390EBBBA6DC926E8798FAE14AAFD0431&profile=pass
+#EXTINF:0,Planeta TV
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/206608511?ticket=82CC280D94C895C9238EE351070D77DB3AE132F2&profile=pass
+#EXTINF:0,RING BG
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1410776171?ticket=6454BB5CED20E4D3D81C82298160100059E19C3F&profile=pass
+#EXTINF:0,Skat TV
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1879847841?ticket=C7F35CEEA83EA64BCFC009511C215FBFECE9A003&profile=pass
+#EXTINF:0,SPORT Plus HD
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/797945013?ticket=A2E8E68025498AAD0C27EB4CA1DC9EFEE8CA7E3B&profile=pass
+#EXTINF:0,Sport+
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1737666294?ticket=694CD34E189F5D920E1CDC977C643D08728AEE03&profile=pass
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1398313909?ticket=BA89FE64BBE55308F554EDE28CE3D0EA3EF69FE1&profile=pass
+#EXTINF:0,Travel Channel
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1094540955?ticket=08B8E31D8AF417EECE63D7787CA6F9C0414CC79A&profile=pass
+#EXTINF:0,TV Evropa
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/503491609?ticket=4A5DA7787FBB016C6B1712174915ECC8D509C250&profile=pass
+#EXTINF:0,Viasat Explorer
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/1599816524?ticket=CE46232894BB92823F4FA89F282226DF3D31238A&profile=pass
 #EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",ReMy_NILESAT_ARABIC
 ReMy_NILESAT_ARABIC
 #EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",MBC MAX
