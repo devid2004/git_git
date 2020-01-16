@@ -485,6 +485,8 @@
 #DESCRIPTION TaksimFM - Arabesk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.133.218%3a1078:TURKUAZ FM
 #DESCRIPTION TURKUAZ FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2:Virgin Radio Türkiye
+#DESCRIPTION Virgin Radio Türkiye
 #SERVICE 1:64:A4:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
@@ -511,14 +513,6 @@
 #DESCRIPTION Beats of Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17733.live.streamtheworld.com/BABYJOY128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=3beb8d47-271c-4c40-9c9e-a965eff4a101:BABYJOY
 #DESCRIPTION BABYJOY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v5a1/mono.m3u8:Rather Good
-#DESCRIPTION Rather Good
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v4a1/mono.m3u8:Rather Good
-#DESCRIPTION Rather Good
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v3a1/mono.m3u8:Rather Good
-#DESCRIPTION Rather Good
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v6a1/mono.m3u8:Vintage Music audio
-#DESCRIPTION Vintage Music audio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.viastreaming.net%3a8635/;226353695996675stream.nsv:Blue Marlin Ibiza
 #DESCRIPTION Blue Marlin Ibiza
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-ice.musicradio.com/ChillMP3:Chill
@@ -533,15 +527,11 @@
 #DESCRIPTION Country Rocks Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ledjamradio.ice.infomaniak.ch/ledjamradio.mp3:Djam Radio
 #DESCRIPTION Djam Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//page.streamerportal.com/play/AUDIO/103/play:GRAVEL ROAD on RockyMountainRadio.net
-#DESCRIPTION GRAVEL ROAD on RockyMountainRadio.net
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17703.live.streamtheworld.com/G02_GREATESTHITS128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=2f02854e-3501-4709-9917-60c0df23181e:GREATEST HITS OF ALL TIME
-#DESCRIPTION GREATEST HITS OF ALL TIME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
@@ -567,6 +557,12 @@
 #DESCRIPTION Otvoreni radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.sonicabroadcast.com%3a8750/;stream/1/:puraSonica
 #DESCRIPTION puraSonica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v5a1/mono.m3u8:Rather Good
+#DESCRIPTION Rather Good
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v4a1/mono.m3u8:Rather Good
+#DESCRIPTION Rather Good
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v3a1/mono.m3u8:Rather Good
+#DESCRIPTION Rather Good
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.250.77.9%3a8090:Schlagerparadies
 #DESCRIPTION Schlagerparadies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//HearMe.fm%3a8022/stream:The Very Best of Country
@@ -575,8 +571,8 @@
 #DESCRIPTION Transamérica Pop Curitiba
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ice1.crossradio.com.br%3a8198/live.aac:Transcontinental FM
 #DESCRIPTION Transcontinental FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2:Virgin Radio Türkiye
-#DESCRIPTION Virgin Radio Türkiye
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v6a1/mono.m3u8:Vintage Music audio
+#DESCRIPTION Vintage Music audio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/34/:WORLD HIT
 #DESCRIPTION WORLD HIT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.121.59.45%3a8361/stream:WRCF
@@ -585,5 +581,3 @@
 #DESCRIPTION Z104 Country KSOP-FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3?:Zen fm
 #DESCRIPTION Zen fm
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/ZEPLIN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=b6332e30-5bc1-42c5-c92f-47858fefa5dc:ZEPLIN
-#DESCRIPTION ZEPLIN
