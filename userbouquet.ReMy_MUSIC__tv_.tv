@@ -463,8 +463,8 @@
 #DESCRIPTION Radyo Alaturka
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ahmetkaya.canliyayinda.com%3a9999/;:Radyo Ahmet Kaya
 #DESCRIPTION Radyo Ahmet Kaya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radyoavrasya.radyolarburada.com%3a1071/;:Radyo Avrasya Türk
-#DESCRIPTION Radyo Avrasya Türk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radyoavrasya.radyolarburada.com%3a1071/;:Radyo Avrasya Turk
+#DESCRIPTION Radyo Avrasya Turk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radyo.cc.ankara.edu.tr%3a8089/;:Radyo ilef
 #DESCRIPTION Radyo ilef
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.7.104/;:Radio Slow Time
