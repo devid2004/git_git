@@ -2855,6 +2855,334 @@ http://185.150.27.125:9981/stream/channelid/503491609?ticket=4A5DA7787FBB016C6B1
 #EXTINF:-1 group-title="ReMy_BULGARIA",Viasat Explorer
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/1599816524?ticket=CE46232894BB92823F4FA89F282226DF3D31238A&profile=pass
+#EXTINF:-1 group-title="ReMy_RUSSIAN",ReMy_RUSSIAN
+ReMy_RUSSIAN
+#EXTINF:-1 group-title="ReMy_RUSSIAN",1+1
+http://188.35.9.15:2001
+#EXTINF:-1 group-title="ReMy_RUSSIAN",2+2
+http://188.35.9.15:2030/udp/031v
+#EXTINF:-1 group-title="ReMy_RUSSIAN",2+2
+http://188.35.9.15:2030/udp/040j
+#EXTINF:-1 group-title="ReMy_RUSSIAN",2+2
+http://188.35.9.15:2030/udp/025t
+#EXTINF:-1 group-title="ReMy_RUSSIAN",100 News
+http://188.35.9.15:21031/udp/041b
+#EXTINF:-1 group-title="ReMy_RUSSIAN",112 UKRAINA
+http://188.35.9.15:21031/udp/040v
+#EXTINF:-1 group-title="ReMy_RUSSIAN",24 kanal UA
+http://188.35.9.15:21121/udp/152p
+#EXTINF:-1 group-title="ReMy_RUSSIAN",4 Channel
+http://188.35.9.15:21031/udp/047r
+#EXTINF:-1 group-title="ReMy_RUSSIAN",A HBO
+http://188.35.9.15:21131/udp/164g
+#EXTINF:-1 group-title="ReMy_RUSSIAN",action-packed HD
+http://188.35.9.15:2015
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Amedia Premium HD
+http://188.35.9.15:21031/udp/035c
+#EXTINF:-1 group-title="ReMy_RUSSIAN",AXN HD
+http://188.35.9.15:21111/udp/127b
+#EXTINF:-1 group-title="ReMy_RUSSIAN",AXN Spin HD
+http://188.35.9.15:21111/udp/114r
+#EXTINF:-1 group-title="ReMy_RUSSIAN",BBC Brit
+http://188.35.9.15:21111/udp/162g
+#EXTINF:-1 group-title="ReMy_RUSSIAN",BBC Ceebeebies
+http://188.35.9.15:21111/udp/163h
+#EXTINF:-1 group-title="ReMy_RUSSIAN",BBC FIRST HD
+http://188.35.9.15:21151/udp/155r
+#EXTINF:-1 group-title="ReMy_RUSSIAN",BBC Lifetsyle
+http://188.35.9.15:21111/udp/164j
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Calle 13 HD
+http://188.35.9.15:21031/udp/108c
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Cartoon Network HD
+http://188.35.9.15:21151/udp/185f
+#EXTINF:-1 group-title="ReMy_RUSSIAN",CNL
+http://188.35.9.15:21031/udp/056m
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Comedy Central Austria
+http://188.35.9.15:21031/udp/080w
+#EXTINF:-1 group-title="ReMy_RUSSIAN",CTC
+http://188.35.9.15:21101/udp/131p
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Deluxe Music
+http://188.35.9.15:21031/udp/082r
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Discovery Science HD
+http://188.35.9.15:21151/udp/188k
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Disney Junior
+http://188.35.9.15:21151/udp/191a
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Divinty
+http://188.35.9.15:2030/udp/030p
+#EXTINF:-1 group-title="ReMy_RUSSIAN",DMAX Austria
+http://188.35.9.15:21031/udp/083t
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Dorcel TV HD
+http://188.35.9.15:21141/udp/214h
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Duna (Europa) HD
+http://188.35.9.15:21031/udp/102y
+#EXTINF:-1 group-title="ReMy_RUSSIAN",EU MUSIC HD
+http://188.35.9.15:21031/udp/043m
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Eurosport 1 HD (RU)
+http://188.35.9.15:21031/udp/033z
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Eurosport 2 HD Poland
+http://188.35.9.15:21151/udp/192c
+#EXTINF:-1 group-title="ReMy_RUSSIAN",ExTREAM SPORT TV
+http://188.35.9.15:21151/udp/189r
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Fashion HD
+http://188.35.9.15:21031/udp/048t
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Fashion One
+http://188.35.9.15:21031/udp/058v
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Film Box Action
+http://188.35.9.15:21141/udp/146h
+#EXTINF:-1 group-title="ReMy_RUSSIAN",filmbox family
+http://188.35.9.15:21081/udp/154w
+#EXTINF:-1 group-title="ReMy_RUSSIAN",First Channel HD
+http://188.35.9.15:2003
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Football 1 HD
+http://188.35.9.15:2007
+#EXTINF:-1 group-title="ReMy_RUSSIAN",FOX
+http://188.35.9.15:2030/udp/032b
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Fox Comedy HD
+http://188.35.9.15:21161/udp/173c
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Fox HD
+http://188.35.9.15:21131/udp/147l
+#EXTINF:-1 group-title="ReMy_RUSSIAN",GOL
+http://188.35.9.15:2030/udp/027u
+#EXTINF:-1 group-title="ReMy_RUSSIAN",GTV HD
+http://188.35.9.15:21031/udp/050u
+#EXTINF:-1 group-title="ReMy_RUSSIAN",HBO 2 HD
+http://188.35.9.15:21151/udp/157a
+#EXTINF:-1 group-title="ReMy_RUSSIAN",HBO HD
+http://188.35.9.15:21151/udp/190z
+#EXTINF:-1 group-title="ReMy_RUSSIAN",HD
+http://188.35.9.15:21031/udp/077n
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Heimat Kanal
+http://188.35.9.15:21031/udp/063w
+#EXTINF:-1 group-title="ReMy_RUSSIAN",HGTV HD
+http://188.35.9.15:5031/udp/065c
+#EXTINF:-1 group-title="ReMy_RUSSIAN",History
+http://188.35.9.15:21121/udp/128c
+#EXTINF:-1 group-title="ReMy_RUSSIAN",History HD (RU)
+http://188.35.9.15:21031/udp/036b
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Inter
+http://188.35.9.15:2020
+#EXTINF:-1 group-title="ReMy_RUSSIAN",KIEV STB
+http://188.35.9.15:2002
+#EXTINF:-1 group-title="ReMy_RUSSIAN",M. Deportes HD
+http://188.35.9.15:2030/udp/023e
+#EXTINF:-1 group-title="ReMy_RUSSIAN",M.Dep HD
+http://188.35.9.15:21031/udp/106z
+#EXTINF:-1 group-title="ReMy_RUSSIAN",M1 (Europa) HD
+http://188.35.9.15:21031/udp/100r
+#EXTINF:-1 group-title="ReMy_RUSSIAN",M2 (Europa) HD
+http://188.35.9.15:21031/udp/101t
+#EXTINF:-1 group-title="ReMy_RUSSIAN",M4 Sport (Europa) HD
+http://188.35.9.15:21031/udp/103u
+#EXTINF:-1 group-title="ReMy_RUSSIAN",M5 (Europa) HD
+http://188.35.9.15:21031/udp/104y
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Match TV
+http://188.35.9.15:2019
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Match!
+http://188.35.9.15:5031/udp/092f
+#EXTINF:-1 group-title="ReMy_RUSSIAN",MATCH! FOOTBALL 1
+http://188.35.9.15:2025
+#EXTINF:-1 group-title="ReMy_RUSSIAN",MATCH! FOOTBALL 1 HD
+http://188.35.9.15:2010
+#EXTINF:-1 group-title="ReMy_RUSSIAN",MATCH! FOOTBALL 2
+http://188.35.9.15:2026
+#EXTINF:-1 group-title="ReMy_RUSSIAN",MATCH! FOOTBALL 2 HD
+http://188.35.9.15:2011
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Match! Football 2 HD
+http://188.35.9.15:2030/udp/021w
+#EXTINF:-1 group-title="ReMy_RUSSIAN",MATCH! FOOTBALL 3
+http://188.35.9.15:2027
+#EXTINF:-1 group-title="ReMy_RUSSIAN",MATCH! FOOTBALL 3 HD
+http://188.35.9.15:2012
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Match! Football 3 HD
+http://188.35.9.15:3030/udp/031e
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Match! HD
+http://188.35.9.15:5031/udp/093g
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Match! HD
+http://188.35.9.15:2030/udp/046s
+#EXTINF:-1 group-title="ReMy_RUSSIAN",MATCH! HD
+http://188.35.9.15:2009
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Mezzo
+http://188.35.9.15:2030/udp/034m
+#EXTINF:-1 group-title="ReMy_RUSSIAN",MiniMini+ HD
+http://188.35.9.15:21131/udp/141l
+#EXTINF:-1 group-title="ReMy_RUSSIAN",MoviePremium HD
+http://188.35.9.15:2017
+#EXTINF:-1 group-title="ReMy_RUSSIAN",M KINO
+http://188.35.9.15:2022
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TVT HD
+http://188.35.9.15:2018
+#EXTINF:-1 group-title="ReMy_RUSSIAN",MTV Classic
+http://188.35.9.15:2005
+#EXTINF:-1 group-title="ReMy_RUSSIAN",VOTV
+http://188.35.9.15:21031/udp/055n
+#EXTINF:-1 group-title="ReMy_RUSSIAN",N24 DOKU Austria
+http://188.35.9.15:21031/udp/079q
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Nat Geo People HD
+http://188.35.9.15:21151/udp/186o
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Nat Geo Wild
+http://188.35.9.15:21121/udp/126z
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Nat Geo Wild HD
+http://188.35.9.15:6031/udp/111n
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Natal
+http://188.35.9.15:21031/udp/049y
+#EXTINF:-1 group-title="ReMy_RUSSIAN",National Geographic HD (RU)
+http://188.35.9.15:21031/udp/034x
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Nick Austria
+http://188.35.9.15:21031/udp/081e
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Nick Toons HD
+http://188.35.9.15:2030/udp/042l
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Nickelodeon HD
+http://188.35.9.15:2030/udp/026y
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Nickelodeon HD
+http://188.35.9.15:21031/udp/109b
+#EXTINF:-1 group-title="ReMy_RUSSIAN",NTV World
+http://188.35.9.15:5031/udp/057h
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Otodom
+http://188.35.9.15:21161/udp/176z
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Paramount Channel (RU)
+http://188.35.9.15:2030/udp/039h
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Pink
+http://188.35.9.15:3030/udp/074e
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Pink Folk 2
+http://188.35.9.15:3030/udp/069b
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Pink Hits
+http://188.35.9.15:3030/udp/082a
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Pink Koncert
+http://188.35.9.15:3030/udp/067c
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Pink Style
+http://188.35.9.15:3030/udp/085f
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Pink Thriller
+http://188.35.9.15:3030/udp/060g
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Pink Western
+http://188.35.9.15:3030/udp/084d
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Polsat Sport HD
+http://188.35.9.15:21161/udp/172r
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Polsat Sport News HD
+http://188.35.9.15:21151/udp/194w
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Pravda Tyt SD
+http://188.35.9.15:21131/udp/165l
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Present HD
+http://188.35.9.15:21031/udp/054b
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Present HD
+http://188.35.9.15:21031/udp/053c
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Q2 HD
+http://188.35.9.15:5031/udp/081d
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Rai 1 HD
+http://188.35.9.15:21031/udp/085u
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Rai 2 HD
+http://188.35.9.15:21031/udp/086z
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Rai 3 HD
+http://188.35.9.15:21031/udp/087x
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Rai News 24 HD
+http://188.35.9.15:21031/udp/089b
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Rai Sport HD
+http://188.35.9.15:21031/udp/088c
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Rai Storia HD
+http://188.35.9.15:21031/udp/090n
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Romance TV
+http://188.35.9.15:21031/udp/070c
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Romance TV
+http://188.35.9.15:6031/udp/113q
+#EXTINF:-1 group-title="ReMy_RUSSIAN",RSI LA 1 HD
+http://188.35.9.15:2030/udp/043z
+#EXTINF:-1 group-title="ReMy_RUSSIAN",RSI LA 2 HD
+http://188.35.9.15:2030/udp/044x
+#EXTINF:-1 group-title="ReMy_RUSSIAN",RTL7 HD
+http://188.35.9.15:5031/udp/061i
+#EXTINF:-1 group-title="ReMy_RUSSIAN",RTS Deux HD
+http://188.35.9.15:21031/udp/094b
+#EXTINF:-1 group-title="ReMy_RUSSIAN",RTS Un HD
+http://188.35.9.15:21031/udp/093v
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Rudana HD
+http://188.35.9.15:5031/udp/100h
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Russia 1 HD
+http://188.35.9.15:2004
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Russia 24
+http://188.35.9.15:5031/udp/054d
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Russia1 HD
+http://188.35.9.15:21131/udp/148y
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Russian Night
+http://188.35.9.15:21051/udp/071l
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Satellite TV HD
+http://188.35.9.15:21141/udp/141c
+#EXTINF:-1 group-title="ReMy_RUSSIAN",SCT
+http://188.35.9.15:3030/udp/110c
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Shocking HD
+http://188.35.9.15:2021
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Sirius
+http://188.35.9.15:21031/udp/042n
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Spiegel Geschichte HD
+http://188.35.9.15:6031/udp/107l
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Sport Austria
+http://188.35.9.15:21031/udp/062q
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Sport Austria
+http://188.35.9.15:5031/udp/095a
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Sport Fight HD
+http://188.35.9.15:21151/udp/193i
+#EXTINF:-1 group-title="ReMy_RUSSIAN",SRF 1 HD
+http://188.35.9.15:21031/udp/091m
+#EXTINF:-1 group-title="ReMy_RUSSIAN",SRF zwei HD
+http://188.35.9.15:21031/udp/092n
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Star Cinema
+http://188.35.9.15:5031/udp/116h
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TB Russian cinema
+http://188.35.9.15:2030/udp/037f
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TBN Russia
+http://188.35.9.15:21031/udp/057n
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TELE 5
+http://188.35.9.15:21131/udp/143t
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TLC HD (RU)
+http://188.35.9.15:21031/udp/037n
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TNT HD
+http://188.35.9.15:21151/udp/184g
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TNT Serie HD
+http://188.35.9.15:21131/udp/156i
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Toros
+http://188.35.9.15:2030/udp/024r
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Toros
+http://188.35.9.15:21031/udp/107x
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Travel Channel HD
+http://188.35.9.15:21031/udp/038m
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TV 5 (UA)
+http://188.35.9.15:3030/udp/136b
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TVN 24 HD
+http://188.35.9.15:3030/udp/048e
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TVP 2 HD
+http://188.35.9.15:21131/udp/135g
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TVP abc
+http://188.35.9.15:21111/udp/115r
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TVP HD
+http://188.35.9.15:21121/udp/140g
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TVP Historia
+http://188.35.9.15:21111/udp/113k
+#EXTINF:-1 group-title="ReMy_RUSSIAN",TVP Info
+http://188.35.9.15:21081/udp/135i
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Universal TV HD
+http://188.35.9.15:21131/udp/152s
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Viasat History HD
+http://188.35.9.15:21121/udp/137s
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Viasat Sport (RU)
+http://188.35.9.15:2030/udp/035l
+#EXTINF:-1 group-title="ReMy_RUSSIAN",VIER HD
+http://188.35.9.15:5031/udp/082f
+#EXTINF:-1 group-title="ReMy_RUSSIAN",VIP Comedy
+http://188.35.9.15:5031/udp/113d
+#EXTINF:-1 group-title="ReMy_RUSSIAN",VIP Megahit HD
+http://188.35.9.15:2016
+#EXTINF:-1 group-title="ReMy_RUSSIAN",VIP Premiere HD
+http://188.35.9.15:2013
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Volksmusik
+http://188.35.9.15:2030/udp/022w
+#EXTINF:-1 group-title="ReMy_RUSSIAN",WP
+http://188.35.9.15:21161/udp/225k
+#EXTINF:-1 group-title="ReMy_RUSSIAN",YaTB
+http://188.35.9.15:21031/udp/044q
+#EXTINF:-1 group-title="ReMy_RUSSIAN",ZEE TV (RU)
+http://188.35.9.15:21031/udp/046e
+#EXTINF:-1 group-title="ReMy_RUSSIAN",Zest TV
+http://188.35.9.15:21131/udp/137a
+#EXTINF:-1 group-title="ReMy_RUSSIAN",ZIK HD
+http://188.35.9.15:3030/udp/131e
 #EXTINF:-1 group-title="ReMy_LATINO",ReMy_LATINO
 ReMy_LATINO
 #EXTINF:-1 group-title="ReMy_LATINO",13 MAX TELEFE
@@ -3409,6 +3737,10 @@ https://www.djing.com/tv/27818-03.m3u8
 https://www.djing.com/tv/a-27971-04.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJING ANIMATION HD
 https://www.djing.com/tv/a-27777-04.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJING AVICII
+https://djing.com/tv/s-28416-05-avicii.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJING AVICII HD
+https://djing.com/tv/s-28730-05-avicii.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJING CLASSICS HD
 https://www.djing.com/tv/i-27777-03.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJING DANCE
