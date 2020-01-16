@@ -407,16 +407,10 @@
 #DESCRIPTION Baba Radyo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.100.100/best/babaradyo.stream/chunklist_w1575182589.m3u8:Baba Radyo
 #DESCRIPTION Baba Radyo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.138.1.52%3a17732:BesteFM
-#DESCRIPTION BesteFM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.dancewave.online%3a8080/dance.mp3:Dance Wave!
 #DESCRIPTION Dance Wave!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.dancewave.online%3a8080/retrodance.mp3:Dance Wave! RETRO
 #DESCRIPTION Dance Wave! RETRO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17773.live.streamtheworld.com/EFKAR128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=a516ac84-3bdf-4b8e-f43b-0cf617f364fe:Efkar
-#DESCRIPTION Efkar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17733.live.streamtheworld.com/SEZEN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=1f044f9e-0c7c-437b-a97e-9e70efc35400:Efsane Sezen
-#DESCRIPTION Efsane Sezen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/29/:EGE HAVALARI
 #DESCRIPTION EGE HAVALARI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio:FenomenTurk
@@ -437,32 +431,24 @@
 #DESCRIPTION Fenomen RAP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fenomen.listenfenomen.com/fenomen/128/icecast.audio:Fenomen/SuperHD
 #DESCRIPTION Fenomen/SuperHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17703.live.streamtheworld.com/GENCVEFIT128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=dce3b2e0-c000-46fc-a6e7-c1c63af7ee94:Genc & Fit
-#DESCRIPTION Genc & Fit
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17773.live.streamtheworld.com/GONUL128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=e5db8a60-47e4-4ff9-9a1f-be649e3b3b21:GONUL
-#DESCRIPTION GONUL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17773.live.streamtheworld.com/HOTTICKETS128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=a1bc5789-f152-4511-a71b-330c7233db6c:HOT TICKETS !! Biletix Bileti Kazan!!
-#DESCRIPTION HOT TICKETS !! Biletix Bileti Kazan!!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17733.live.streamtheworld.com/EVENT_RADIO_128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=88f283c4-8a77-4b6a-93af-41b4f2d5d45e:İLKBAHAR
-#DESCRIPTION İLKBAHAR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17773.live.streamtheworld.com%3a3690/JOY_FM_SC:JOY_FM
 #DESCRIPTION JOY_FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/JOYTURK_AKUSTIK128AC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=128eb247-8725-40da-df6f-c986c80bd8f8:JoyTurk Akustik
-#DESCRIPTION JoyTurk Akustik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//18463.live.streamtheworld.com/JOYTURK_ROCK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime:JOYTURK_ROCK_SC
+#DESCRIPTION JOYTURK_ROCK_SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//18463.live.streamtheworld.com/JOY_TURK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime:JOY_TURK_SC
+#DESCRIPTION JOY_TURK_SC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17733.live.streamtheworld.com%3a3690/METRO_FM_SC:METRO_FM_SC
 #DESCRIPTION METRO_FM_SC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//18463.live.streamtheworld.com/DANSTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=6da4c271-c45e-4308-85e3-e93ae3284a7a:MydonoseTurk
-#DESCRIPTION MydonoseTurk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17703.live.streamtheworld.com/POP90128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=cb042a8e-6ab0-40ed-e5dd-104bbd35afe6:Pop90
 #DESCRIPTION Pop90
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//powerfm.listenpowerapp.com/powerfm/abr/powerfm/96/chunks.m3u8:Power FM
 #DESCRIPTION Power FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radyoalaturka.com.tr%3a9100/;:Radyo Alaturka
+#DESCRIPTION Radyo Alaturka
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin1.canliyayin.org%3a7424/;:Radyo 34
 #DESCRIPTION Radyo 34
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sunucu2.radyolarburada.com%3a3636/;stream.mp3:Radyo Derman
 #DESCRIPTION Radyo Derman
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/RADYO_KOMEDI128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=9241f62b-7e72-4cfe-b705-427219136126:Radyo Komedi
-#DESCRIPTION Radyo Komedi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.100.118/stream/70/:Radyo Spor
 #DESCRIPTION Radyo Spor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioturku.com%3a9400/;:Radyo Türkü-izmir
@@ -471,10 +457,6 @@
 #DESCRIPTION RADYO VOKAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/RETROTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=36ce1439-f043-400e-ee65-87b81ecc5933:RetroTurk
 #DESCRIPTION RetroTurk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/31/:RUMELI RADYO
-#DESCRIPTION RUMELI RADYO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.138.1.183%3a10108/stream:S4 Radio | TR
-#DESCRIPTION S4 Radio | TR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dinle.slowkaradenizfm.com%3a9578/;:Slow Karadeniz FM
 #DESCRIPTION Slow Karadeniz FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.175.227.10/SUPER_FM_SC?/;stream.mp3:Super Fm
@@ -529,9 +511,9 @@
 #DESCRIPTION Djam Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
