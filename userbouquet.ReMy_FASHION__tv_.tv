@@ -7,6 +7,10 @@
 #DESCRIPTION FASHION TV SPAIN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/058v:Fashion One
 #DESCRIPTION Fashion One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8:Models Inc.
+#DESCRIPTION Models Inc.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nano.teleservice.su%3a8080/hls/luxury.m3u8:Luxury TV
+#DESCRIPTION Luxury TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8:Fashion TV Midnight Secrets
 #DESCRIPTION Fashion TV Midnight Secrets
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8:FTV Midnight Secrets (FHD) (New!)
@@ -33,5 +37,3 @@
 #DESCRIPTION Victoria’s Secret THE TRAIN LIKE AN ANGEL MASTER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268131403489/VS-download_2000Kbps_720p_desktop.mp4:Victoria’s Secret Fashion Show
 #DESCRIPTION Victoria’s Secret Fashion Show
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nano.teleservice.su%3a8080/hls/luxury.m3u8:Luxury TV
-#DESCRIPTION Luxury TV

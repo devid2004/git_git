@@ -125,6 +125,8 @@
 #DESCRIPTION Fox News Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8:iZ RU News
 #DESCRIPTION iZ RU News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.efir24.tv%3a1935/live/efir24tv/playlist.m3u8:24 AP Tataristan
+#DESCRIPTION 24 AP Tataristan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mr2live.1tvcrimea.ru%3a8080/24tvcrimea.m3u8:KIRIM 24
 #DESCRIPTION KIRIM 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8:Mordovia 24
@@ -139,12 +141,12 @@
 #DESCRIPTION Newsmax TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8:NEWS CENTER 7 OHIO
 #DESCRIPTION NEWS CENTER 7 OHIO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8:TBN TV
-#DESCRIPTION TBN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News UK
 #DESCRIPTION 92 News UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8:NHK World
 #DESCRIPTION NHK World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8:Orient News
+#DESCRIPTION Orient News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/live/TV00000000000000000034@HHZT:Reuters
 #DESCRIPTION Reuters
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-news.secure.footprint.net/1103_2500Kb.m3u8:RT HD
@@ -171,10 +173,10 @@
 #DESCRIPTION Russia Today
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8:Tagesschau 24 HD
 #DESCRIPTION Tagesschau 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8:TBN TV
+#DESCRIPTION TBN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.cds1.yospace.com/csm/live/74246610.m3u8:TG4
 #DESCRIPTION TG4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.efir24.tv%3a1935/live/efir24tv/playlist.m3u8:24 AP Tataristan
-#DESCRIPTION 24 AP Tataristan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvcom.stream.intelema.ru/tvcom/studio/index.m3u8:Tivikom Uland Udje
 #DESCRIPTION Tivikom Uland Udje
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8:Tivicom (Ulan-Ude) [FHD] +5
@@ -193,3 +195,9 @@
 #DESCRIPTION WEATHER NATION HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8:WVIT 30 News (Hartford)
 #DESCRIPTION WVIT 30 News (Hartford)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8:VoA TV
+#DESCRIPTION VoA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8:VoA TV
+#DESCRIPTION VoA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8:VoA TV
+#DESCRIPTION VoA TV

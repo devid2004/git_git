@@ -169,6 +169,8 @@
 #DESCRIPTION DJING UNDERGROUND
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/u-27777-04.m3u8:DİJİNG UNDERGROUND HD
 #DESCRIPTION DİJİNG UNDERGROUND HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.212.74.3%3a8000/live/7514.m3u8:Eamar Music
+#DESCRIPTION Eamar Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8:Efecto TV
 #DESCRIPTION Efecto TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/043m:EU MUSIC HD
@@ -189,6 +191,8 @@
 #DESCRIPTION HOBOC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livelist01.yowi.tv/lista/60bbd07a82cd6bd1f18b4958f9c1b25bbb7b71d7/index-v1-a1.m3u8:HQM BALADAS
 #DESCRIPTION HQM BALADAS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8:JUCE TV
+#DESCRIPTION JUCE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8:Ibiza Global TV
 #DESCRIPTION Ibiza Global TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c913f7f32c25.streamlock.net/live/smil%3aimpact.smil/chunklist_w1009444843_b1120000_DVR_slEn.m3u8:IMPACT TV
@@ -205,6 +209,8 @@
 #DESCRIPTION KURIAKOS MUSIC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8:Kurai (Ufa)
 #DESCRIPTION Kurai (Ufa)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8:Latinos Up! TV
+#DESCRIPTION Latinos Up! TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net%3a80/i/m2oTv_1@186074/index_600_av-b.m3u8:m2otv
 #DESCRIPTION m2otv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on:m2otv
@@ -241,6 +247,12 @@
 #DESCRIPTION MTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on:MTV HD
 #DESCRIPTION MTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8:MTV (Latin America)
+#DESCRIPTION MTV (Latin America)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8:MTV Norge
+#DESCRIPTION MTV Norge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s29:CC, MTV, NIck
+#DESCRIPTION CC, MTV, NIck
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/nasa:Music Box
 #DESCRIPTION Music Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.132.86/hls/mb_ua_2500.m3u8:Music Box UA
@@ -249,6 +261,8 @@
 #DESCRIPTION Music Box Gold
 #SERVICE 4097:0:1:812:0:0:0:0:0:0:http%3a//edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8:Music Choice Play
 #DESCRIPTION Music Choice Play
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8:Music Now
+#DESCRIPTION Music Now
 #SERVICE 4097:0:1:814:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar%3a1935/live/msctphd-720/playlist.m3u8:Music Top
 #DESCRIPTION Music Top
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b2128000.m3u8:New radio TV
@@ -359,15 +373,13 @@
 #DESCRIPTION TRACE Tropical
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//141.136.14.18/kanal1/kanal1.m3u8:TV+
 #DESCRIPTION TV+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.ugratv.cdnvideo.ru/ugratv/smil%3augrastream1.smil/chunklist_b7192000.m3u8:Ugra TV (Khanty-Mansiysk) +2
-#DESCRIPTION Ugra TV (Khanty-Mansiysk) +2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8:UTV
 #DESCRIPTION UTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//139.59.166.48%3a8081/live/live3/playlist.m3u8:V2BEAT TV
 #DESCRIPTION V2BEAT TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/index.m3u8:view tv local kapang hd
-#DESCRIPTION view tv local kapang hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/tracks-v1a1/mono.m3u8:view tv local kapang hd
+#DESCRIPTION view tv local kapang hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/index.m3u8:view tv local kapang hd
 #DESCRIPTION view tv local kapang hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v2a1/mono.m3u8:Vintage Music TV
 #DESCRIPTION Vintage Music TV
@@ -539,9 +551,9 @@
 #DESCRIPTION Djam Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
