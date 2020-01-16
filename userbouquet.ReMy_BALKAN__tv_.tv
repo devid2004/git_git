@@ -401,3 +401,5 @@
 #DESCRIPTION WAU HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.51.131.28%3a8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8:YU PLANET
 #DESCRIPTION YU PLANET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.180.159%3a8081/play/hls/dielli/index.m3u8:TV Dielli
+#DESCRIPTION TV Dielli
