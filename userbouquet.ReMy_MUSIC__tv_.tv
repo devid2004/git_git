@@ -389,6 +389,8 @@
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.232.174.18%3a8000/Stream:Fenerbahçe FM
 #DESCRIPTION Fenerbahçe FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.arabeskfm.biz%3a8042/;:Arabesk FM
+#DESCRIPTION Arabesk FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dinle.arabeskradyo.biz%3a2011/;:Arabesk Radyo
 #DESCRIPTION Arabesk Radyo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Turk
@@ -453,6 +455,8 @@
 #DESCRIPTION METRO_FM_SC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mfm1.webradiostreaming.de%3a8200/;:Metropol FM
 #DESCRIPTION Metropol FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.1.144.106%3a9003/;:Lounge FM istanbul
+#DESCRIPTION Lounge FM istanbul
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17703.live.streamtheworld.com/POP90128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=cb042a8e-6ab0-40ed-e5dd-104bbd35afe6:Pop90
 #DESCRIPTION Pop90
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//powerfm.listenpowerapp.com/powerfm/abr/powerfm/96/chunks.m3u8:Power FM
