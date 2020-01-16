@@ -95,6 +95,8 @@
 #DESCRIPTION Deejay TV (IT)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.onestreaming.com%3a8081/deltatv/live/playlist.m3u8:DELTA TV GREECE
 #DESCRIPTION DELTA TV GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/082r:Deluxe Music
+#DESCRIPTION Deluxe Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza5.video-streams.nl%3a1935/denhaag/denhaag/playlist.m3u8:DHTV denhaag tv
 #DESCRIPTION DHTV denhaag tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.artcom-venture.de%3a1322/dmf/tv_360.m3u8:DMF
@@ -103,8 +105,6 @@
 #DESCRIPTION DSTV BG
 #SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:Duga TV
 #DESCRIPTION Duga TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livelist01.yowi.tv/lista/60bbd07a82cd6bd1f18b4958f9c1b25bbb7b71d7/index-v1-a1.m3u8:HQM BALADAS
-#DESCRIPTION HQM BALADAS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.djing.com/tv/karaoke.m3u8:KARAOKE HD
 #DESCRIPTION KARAOKE HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-02-fta.m3u8:D-HOT
@@ -171,6 +171,8 @@
 #DESCRIPTION DİJİNG UNDERGROUND HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8:Efecto TV
 #DESCRIPTION Efecto TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/043m:EU MUSIC HD
+#DESCRIPTION EU MUSIC HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:First Music Channel
 #DESCRIPTION First Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:First Music Channel HD
@@ -185,6 +187,8 @@
 #DESCRIPTION HIT RU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b4128000.m3u8:HOBOC TV
 #DESCRIPTION HOBOC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livelist01.yowi.tv/lista/60bbd07a82cd6bd1f18b4958f9c1b25bbb7b71d7/index-v1-a1.m3u8:HQM BALADAS
+#DESCRIPTION HQM BALADAS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8:Ibiza Global TV
 #DESCRIPTION Ibiza Global TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c913f7f32c25.streamlock.net/live/smil%3aimpact.smil/chunklist_w1009444843_b1120000_DVR_slEn.m3u8:IMPACT TV
@@ -331,6 +335,10 @@
 #DESCRIPTION steelbirdmusic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/music.m3u8?fluxustv.m3u8:STYLE CITY MUSIC2
 #DESCRIPTION STYLE CITY MUSIC2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a004/index.m3u8:Super ROCK HD
+#DESCRIPTION Super ROCK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a002/index.m3u8:Super Tv HD
+#DESCRIPTION Super Tv HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8:TOP LATINO
 #DESCRIPTION TOP LATINO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist.m3u8:TOP LATINO MUSICA
@@ -357,6 +365,14 @@
 #DESCRIPTION UTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//139.59.166.48%3a8081/live/live3/playlist.m3u8:V2BEAT TV
 #DESCRIPTION V2BEAT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/index.m3u8:view tv local kapang hd
+#DESCRIPTION view tv local kapang hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/tracks-v1a1/mono.m3u8:view tv local kapang hd
+#DESCRIPTION view tv local kapang hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v2a1/mono.m3u8:Vintage Music TV
+#DESCRIPTION Vintage Music TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8:Vintage Music TV
+#DESCRIPTION Vintage Music TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8:Vintage Music TV
 #DESCRIPTION Vintage Music TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.231.229.37%3a3401/voxafuk/voxafhlsout/chunklist_w985073329.m3u8:Vox Africa UK
@@ -367,14 +383,6 @@
 #DESCRIPTION Zeta TV
 #SERVICE 4097:0:1:1629:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:ZIK
 #DESCRIPTION ZIK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a004/index.m3u8:Super ROCK HD
-#DESCRIPTION Super ROCK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a002/index.m3u8:Super Tv HD
-#DESCRIPTION Super Tv HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/082r:Deluxe Music
-#DESCRIPTION Deluxe Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/043m:EU MUSIC HD
-#DESCRIPTION EU MUSIC HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8:3ABN Praise Him Music Channel
 #DESCRIPTION 3ABN Praise Him Music Channel
 #SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
@@ -509,16 +517,8 @@
 #DESCRIPTION Rather Good
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v3a1/mono.m3u8:Rather Good
 #DESCRIPTION Rather Good
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8:Vintage Music TV
-#DESCRIPTION Vintage Music TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v2a1/mono.m3u8:Vintage Music TV
-#DESCRIPTION Vintage Music TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v6a1/mono.m3u8:Vintage Music audio
 #DESCRIPTION Vintage Music audio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/tracks-v1a1/mono.m3u8:view tv local kapang hd
-#DESCRIPTION view tv local kapang hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/index.m3u8:view tv local kapang hd
-#DESCRIPTION view tv local kapang hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.viastreaming.net%3a8635/;226353695996675stream.nsv:Blue Marlin Ibiza
 #DESCRIPTION Blue Marlin Ibiza
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-ice.musicradio.com/ChillMP3:Chill
