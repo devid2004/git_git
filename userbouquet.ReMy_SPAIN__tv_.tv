@@ -173,6 +173,8 @@
 #DESCRIPTION TV Galicia Europa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ventdelnord.tv%3a8080/girona/directe.m3u8:TV Girona
 #DESCRIPTION TV Girona
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.dynalias.com%3a1935/live/tvlive1/playlist.m3u8:tvlive10
+#DESCRIPTION tvlive10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil%3alive.smil/master.m3u8:TV Mediterraneo
 #DESCRIPTION TV Mediterraneo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3atv3_web/.m3u8:TV3

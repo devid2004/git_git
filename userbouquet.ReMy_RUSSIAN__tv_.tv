@@ -37,6 +37,8 @@
 #DESCRIPTION BBC Lifetsyle
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/108c:Calle 13 HD
 #DESCRIPTION Calle 13 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21141/udp/141c:CANAL+ HD
+#DESCRIPTION CANAL+ HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/185f:Cartoon Network HD
 #DESCRIPTION Cartoon Network HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/056m:CNL
@@ -179,26 +181,8 @@
 #DESCRIPTION Nickelodeon HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/109b:Nickelodeon HD
 #DESCRIPTION Nickelodeon HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a5031/udp/057h:NTV World
-#DESCRIPTION NTV World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21161/udp/176z:Otodom
-#DESCRIPTION Otodom
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2030/udp/039h:Paramount Channel (RU)
-#DESCRIPTION Paramount Channel (RU)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a3030/udp/074e:Pink
-#DESCRIPTION Pink
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a3030/udp/069b:Pink Folk 2
-#DESCRIPTION Pink Folk 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a3030/udp/082a:Pink Hits
-#DESCRIPTION Pink Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a3030/udp/067c:Pink Koncert
-#DESCRIPTION Pink Koncert
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a3030/udp/085f:Pink Style
-#DESCRIPTION Pink Style
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a3030/udp/060g:Pink Thriller
-#DESCRIPTION Pink Thriller
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a3030/udp/084d:Pink Western
-#DESCRIPTION Pink Western
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21161/udp/176z:POLSAT SPORT EXTRA
+#DESCRIPTION POLSAT SPORT EXTRA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21161/udp/172r:Polsat Sport HD
 #DESCRIPTION Polsat Sport HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/194w:Polsat Sport News HD
@@ -211,14 +195,14 @@
 #DESCRIPTION Present HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a5031/udp/081d:Q2 HD
 #DESCRIPTION Q2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/089b:Rai News 24 HD
+#DESCRIPTION Rai News 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/085u:Rai 1 HD
 #DESCRIPTION Rai 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/086z:Rai 2 HD
 #DESCRIPTION Rai 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/087x:Rai 3 HD
 #DESCRIPTION Rai 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/089b:Rai News 24 HD
-#DESCRIPTION Rai News 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/088c:Rai Sport HD
 #DESCRIPTION Rai Sport HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/090n:Rai Storia HD
@@ -247,8 +231,6 @@
 #DESCRIPTION Russia1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21051/udp/071l:Russian Night
 #DESCRIPTION Russian Night
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21141/udp/141c:Satellite TV HD
-#DESCRIPTION Satellite TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a3030/udp/110c:SCT
 #DESCRIPTION SCT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2021:Shocking HD
@@ -683,6 +665,8 @@
 #DESCRIPTION Hunter and Angler
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//206.190.141.27%3a1935/live/impact/playlist.m3u8:Impact
 #DESCRIPTION Impact
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.26.128.21%3a8082/stream.flv?stream=33:ISHPIR RU
+#DESCRIPTION ISHPIR RU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s42/index.m3u8:Jan TV
 #DESCRIPTION Jan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/radostmoya_edge/tracks-v1a1/index.m3u8:Joy My
@@ -811,6 +795,8 @@
 #DESCRIPTION Shoxakat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//89.107.113.89%3a1935/live/ktv2:Smile TV/TNT4 +2
 #DESCRIPTION Smile TV/TNT4 +2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//feed.parvaprograma.com/soctv/hd.m3u8:soctv
+#DESCRIPTION soctv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s62/index.m3u8:Spike
 #DESCRIPTION Spike
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8:Stork TV (Irkutsk)

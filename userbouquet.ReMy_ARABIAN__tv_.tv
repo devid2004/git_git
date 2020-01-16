@@ -59,6 +59,14 @@
 #DESCRIPTION KTV Al Majlis
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8:KTV Plus
 #DESCRIPTION KTV Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8:MBC 4 HD
+#DESCRIPTION MBC 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8:MBC 2 HD
+#DESCRIPTION MBC 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8:MBC MAX HD
+#DESCRIPTION MBC MAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8:mbcaction
+#DESCRIPTION mbcaction
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/mbc2/index.m3u8:MBC 2 HD
 #DESCRIPTION MBC 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/mbc2/05.m3u8:MBC 2 HD

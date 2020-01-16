@@ -45,6 +45,8 @@
 #DESCRIPTION Al-Hiwar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8:Astrakhan 24 HD +1
 #DESCRIPTION Astrakhan 24 HD +1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8:ASTRO AWANI ENDONESIA
+#DESCRIPTION ASTRO AWANI ENDONESIA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8:Euronews
 #DESCRIPTION Euronews
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8:Sky News

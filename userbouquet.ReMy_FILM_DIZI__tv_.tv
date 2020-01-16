@@ -35,6 +35,12 @@
 #DESCRIPTION The Hard - Ortak 2019 - AKSİYON
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv37.filmmodu.xyz/tt7772580/720p.tr.m3u8:The Perfection - 2019 - GERİLİM
 #DESCRIPTION The Perfection - 2019 - GERİLİM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//storage.googleapis.com/aqueous-flight-253909.appspot.com/tt10958282_LAT_HD.mp4:BANLIEUSARDS
+#DESCRIPTION BANLIEUSARDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//storage.googleapis.com/aqueous-flight-253909.appspot.com/tt8563452_LAT_HD.mp4:CRYPTO
+#DESCRIPTION CRYPTO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//storage.googleapis.com/aqueous-flight-253909.appspot.com/tt8510488_LAT_HD.mp4:HOLIDAY IN THE WILD
+#DESCRIPTION HOLIDAY IN THE WILD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Acceleration.2019.mkv:Acceleration.2019.mkv
 #DESCRIPTION Acceleration.2019.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Cosmos.2019.mkv:Cosmos.2019.mkv
