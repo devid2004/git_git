@@ -445,24 +445,26 @@
 #DESCRIPTION Fenomen/SuperHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17773.live.streamtheworld.com%3a3690/JOY_FM_SC:JOY_FM
 #DESCRIPTION JOY_FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//18463.live.streamtheworld.com/JOYTURK_ROCK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime:JOYTURK_ROCK_SC
-#DESCRIPTION JOYTURK_ROCK_SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//18463.live.streamtheworld.com/JOYTURK_ROCK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime:JOY_TURK_ROCK_SC
+#DESCRIPTION JOY_TURK_ROCK_SC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//18463.live.streamtheworld.com/JOY_TURK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime:JOY_TURK_SC
 #DESCRIPTION JOY_TURK_SC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//160.75.86.29%3a8088/stream/3/:ITU Radio Jazz/Blues
 #DESCRIPTION ITU Radio Jazz/Blues
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.1.144.106%3a9003/;:Lounge FM istanbul
+#DESCRIPTION Lounge FM istanbul
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17733.live.streamtheworld.com%3a3690/METRO_FM_SC:METRO_FM_SC
 #DESCRIPTION METRO_FM_SC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mfm1.webradiostreaming.de%3a8200/;:Metropol FM
 #DESCRIPTION Metropol FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.1.144.106%3a9003/;:Lounge FM istanbul
-#DESCRIPTION Lounge FM istanbul
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17703.live.streamtheworld.com/POP90128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=cb042a8e-6ab0-40ed-e5dd-104bbd35afe6:Pop90
 #DESCRIPTION Pop90
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//powerfm.listenpowerapp.com/powerfm/abr/powerfm/96/chunks.m3u8:Power FM
 #DESCRIPTION Power FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//18463.live.streamtheworld.com/RETROTURK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime:RETROTURK
-#DESCRIPTION RETROTURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/RETROTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=36ce1439-f043-400e-ee65-87b81ecc5933:RetroTurk
+#DESCRIPTION RetroTurk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//18463.live.streamtheworld.com/RETROTURK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime:RetroTurk 2
+#DESCRIPTION RetroTurk 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radyoalaturka.com.tr%3a9100/;:Radyo Alaturka
 #DESCRIPTION Radyo Alaturka
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ahmetkaya.canliyayinda.com%3a9999/;:Radyo Ahmet Kaya
@@ -483,8 +485,6 @@
 #DESCRIPTION Radyo Türkü-izmir
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/35/:RADYO VOKAL
 #DESCRIPTION RADYO VOKAL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/RETROTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=36ce1439-f043-400e-ee65-87b81ecc5933:RetroTurk
-#DESCRIPTION RetroTurk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dinle.slowkaradenizfm.com%3a9578/;:Slow Karadeniz FM
 #DESCRIPTION Slow Karadeniz FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.175.227.10/SUPER_FM_SC?/;stream.mp3:Super Fm
