@@ -25,6 +25,10 @@ http://smip.tv:8080/destekuser/22122019/148
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",360 TV
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8?__mn_sid=15075510848414370774
+#EXTINF:-1 group-title="ReMy_ULUSAL",Bloomberght AUTO
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1579298706&st=OYDJwo58YPCIODOOaoVa5Q&tv=1&ce=1
+#EXTINF:-1 group-title="ReMy_ULUSAL",Bloomberght_720p
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=1579297925&st=5QiZY3DVhrlw-FnsVZoDNw&tv=1&sid=220uejjeg3xz&ce=1
 #EXTINF:-1 group-title="ReMy_ULUSAL",24 TV HD
 https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",24 TV
@@ -37,6 +41,18 @@ https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",HALK TV HD
 https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",24 HD
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",NTV HD
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",NTV HD
+http://api.ntv.com.tr/rss/LiveStream
+#EXTINF:-1 group-title="ReMy_ULUSAL",TGRT Haber
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w40654798.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",TGRT Haber
+https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w1011305533_b1200096.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",AKIT HD
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",A SPOR HD
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
@@ -55,18 +71,6 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 http://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TGRT BELGESEL
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",24 HD
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",NTV HD
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",NTV HD
-http://api.ntv.com.tr/rss/LiveStream
-#EXTINF:-1 group-title="ReMy_ULUSAL",TGRT Haber
-http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w40654798.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",TGRT Haber
-https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w1011305533_b1200096.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",AKIT HD
-http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TRT 1 HD
@@ -157,10 +161,110 @@ http://217.174.225.146/legacyhls/ch005_400/index.m3u8
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Türkmenistan TV
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",RTK 1
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_WORLD_NEWS
+ReMy_WORLD_NEWS
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Bloomberght AUTO
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1579298706&st=OYDJwo58YPCIODOOaoVa5Q&tv=1&ce=1
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Bloomberght_720p
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=1579297925&st=5QiZY3DVhrlw-FnsVZoDNw&tv=1&sid=220uejjeg3xz&ce=1
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",24 TV HD
+https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",A HABER HD
+https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",HABER TURK HD
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Haber Global HD
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",HALK TV HD
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",24 HD
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",NTV HD
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",NTV HD
+http://api.ntv.com.tr/rss/LiveStream
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",TGRT Haber
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w40654798.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",TGRT Haber
+https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w1011305533_b1200096.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",AKIT HD
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",3 News
+http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Jazeera HD
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC world News
+http://213.252.252.17/live/eds/BBC/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC
+https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC World
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBN HD
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-p.m3u8?sd=10
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBN NEWS
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/master.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Cheddar Big News
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",France24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",24h 
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",24h Catalunya 
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Digi24 
+http://edge76.rcs-rds.ro/digi24edge/digi24hdhqhls/chunklist_w499716744.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Deutsche Welle
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Deutsche Welle
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Fox News
+http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",KMTV 3 NEWS
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",NBC 11 News
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/index_1286_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",NBS News
+http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Newsmax TV HD
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",The Weather Network
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",1+1
+http://188.35.9.11:2001
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",112 UA
+http://112.ua/components/flowplayer/html5/master.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",112 Ukraine HD
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",24 Ukraine HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",24 channel HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",ReMy_SPORT
 ReMy_SPORT
+#EXTINF:-1 group-title="ReMy_SPORT",A SPOR HD
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",BEIN SPORTS HD 1
 https://sportscore.biz/lba/123/g5/beinsport1tur.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",BEIN SPORTS 1
@@ -477,78 +581,6 @@ http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",WOSN TV
 http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_WORLD_NEWS
-ReMy_WORLD_NEWS
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",3 News
-http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Jazeera HD
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC world News
-http://213.252.252.17/live/eds/BBC/HLS_encr/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC
-https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC News
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC World
-http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBN HD
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-p.m3u8?sd=10
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBN NEWS
-http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBS
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Cheddar Big News
-https://live.chdrstatic.com/cbn/primary/1.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",France24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",24h 
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",24h Catalunya 
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Digi24 
-http://edge76.rcs-rds.ro/digi24edge/digi24hdhqhls/chunklist_w499716744.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Deutsche Welle
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Deutsche Welle
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Fox News
-http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",KMTV 3 NEWS
-http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",NBC 11 News
-http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/index_1286_av-p.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",NBS News
-http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",News 12 (The Bronx)
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Newsmax TV HD
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",The Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",The Weather Network
-http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",1+1
-http://188.35.9.11:2001
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",100% News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",112 UA
-http://112.ua/components/flowplayer/html5/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",112 Ukraine HD
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",24 Ukraine HD
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",24 channel HD
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",ReMy_ITALY
 ReMy_ITALY
 #EXTINF:-1 group-title="ReMy_ITALY",Canale 10
@@ -1952,6 +1984,8 @@ http://109.95.47.249:55055/udp/239.0.0.101:4000
 http://46.32.68.167/s/live/250/86.169.51.136/1/0.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",Pro 100 TV
 http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",RTK 1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",RTVI
 http://dmitry-tv.ru/his/itv_blrus/CH_RTVi.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",Renome
@@ -5024,6 +5058,14 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+http://185.150.27.125:9981/stream/channelid/96840001?ticket=5CD0C867E28F2B6735CA9C8FE76ADFA26065D4FC&profile=pass
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Planeta HD
+#EXTVLCOPT:network-caching=333
+http://185.150.27.125:9981/stream/channelid/179733707?ticket=20C05FDF390EBBBA6DC926E8798FAE14AAFD0431&profile=pass
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Planeta TV
+#EXTVLCOPT:network-caching=333
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Planeta Folk
+#EXTVLCOPT:network-caching=333
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",RETRO
