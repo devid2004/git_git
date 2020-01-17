@@ -29,8 +29,6 @@
 #DESCRIPTION POWER TURK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b1428000_sltur.m3u8:POWER TURK SD
 #DESCRIPTION POWER TURK SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1250p_av-p.m3u8?sd=10&rebase=on:TRT MUZIK HD
-#DESCRIPTION TRT MUZIK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8:KRAL HD
 #DESCRIPTION KRAL HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL TV
@@ -47,8 +45,8 @@
 #DESCRIPTION MAVI KARADENIZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.6/televizyon-live/DugunTv/chunklist.m3u:DugunTv 1
 #DESCRIPTION DugunTv 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Muzik Siteler
-#DESCRIPTION Muzik Siteler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/sitelertv/sitelertv/chunklist.m3u8:Siteler Muzik ANGARA
+#DESCRIPTION Siteler Muzik ANGARA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4Fun TV
@@ -525,8 +523,6 @@
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:icyx%3a//144.76.84.153%3a21396/õcu%16æäôùÅçsr£iýÒ±¶ÆU=á6Ñ%17iÉI!Æª¨cw%25,¹2_:radio Beats
-#DESCRIPTION radio Beats
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radio.co/sd1bcd1376/listen:06am Ibiza Underground
 #DESCRIPTION 06am Ibiza Underground
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm112.1.fm/chilloutlounge_mobile_mp3:1.FM - Chillout Lounge
@@ -563,9 +559,9 @@
 #DESCRIPTION Djam Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
