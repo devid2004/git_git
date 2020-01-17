@@ -1,6 +1,14 @@
 #NAME == ★★ReMy | NEWS★★ ==
 #SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1579298706&st=OYDJwo58YPCIODOOaoVa5Q&tv=1&ce=1:Bloomberght HD
+#DESCRIPTION Bloomberght HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=1579297925&st=5QiZY3DVhrlw-FnsVZoDNw&tv=1&sid=220uejjeg3xz&ce=1:Bloomberght_720p
+#DESCRIPTION Bloomberght_720p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght_480p.m3u8?ex=1579297925&st=5QiZY3DVhrlw-FnsVZoDNw&tv=1&sid=220uejjeg3xz&ce=1:Bloomberght
+#DESCRIPTION Bloomberght
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/finansturktv/finansturktv/playlist.m3u8:FINANS TURK
+#DESCRIPTION FINANS TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_kanal24/smil%3akanal24_hd.smil/playlist.m3u8:24 TV HD
 #DESCRIPTION 24 TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/kanal24/smil%3akanal24.smil/chunklist.m3u8:24 HD
@@ -9,8 +17,8 @@
 #DESCRIPTION A HABER HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8:CNN TURK HD
 #DESCRIPTION CNN TURK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8:CNN TURK HD (3)
-#DESCRIPTION CNN TURK HD (3)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8:CNN TURK HD
+#DESCRIPTION CNN TURK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV HD
 #DESCRIPTION NTV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.ntv.com.tr/rss/LiveStream:NTV HD
@@ -27,8 +35,6 @@
 #DESCRIPTION TRT WORLD HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akittv-live.ercdn.net/akittv/akittv.m3u8:AKIT TV HD
 #DESCRIPTION AKIT TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/finansturktv/finansturktv/playlist.m3u8:FINANSTURK
-#DESCRIPTION FINANSTURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza1:Istweb TV HD
 #DESCRIPTION Istweb TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv/dp//istanbul2:Istanbul 2

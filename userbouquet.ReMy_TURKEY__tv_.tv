@@ -29,16 +29,42 @@
 #DESCRIPTION TV8 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_beyaztv/smil%3abeyaztv_hd.smil/playlist.m3u8:Beyaz TV HD
 #DESCRIPTION Beyaz TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1579298706&st=OYDJwo58YPCIODOOaoVa5Q&tv=1&ce=1:Bloomberght AUTO
+#DESCRIPTION Bloomberght AUTO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=1579297925&st=5QiZY3DVhrlw-FnsVZoDNw&tv=1&sid=220uejjeg3xz&ce=1:Bloomberght HD
+#DESCRIPTION Bloomberght HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght_480p.m3u8?ex=1579297925&st=5QiZY3DVhrlw-FnsVZoDNw&tv=1&sid=220uejjeg3xz&ce=1:Bloomberght
+#DESCRIPTION Bloomberght
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/finansturktv/finansturktv/playlist.m3u8:FINANSTURK
+#DESCRIPTION FINANSTURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_kanal24/smil%3akanal24_hd.smil/playlist.m3u8:24 TV HD
 #DESCRIPTION 24 TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/kanal24/smil%3akanal24.smil/chunklist.m3u8:24 HD
+#DESCRIPTION 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_ahaber/smil%3aahaber_hd.smil/playlist.m3u8:A HABER HD
 #DESCRIPTION A HABER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8:CNN TURK HD
+#DESCRIPTION CNN TURK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_haberturk/smil%3ahaberturk_hd.smil/playlist.m3u8:HABER TURK HD
 #DESCRIPTION HABER TURK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_haberglobal/smil%3ahaberglobal_hd.smil/playlist.m3u8:Haber Global HD
 #DESCRIPTION Haber Global HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_halktv/smil%3ahalktv_hd.smil/playlist.m3u8:HALK TV HD
 #DESCRIPTION HALK TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8?:NTV HD
+#DESCRIPTION NTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.ntv.com.tr/rss/LiveStream:NTV HD
+#DESCRIPTION NTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV
+#DESCRIPTION NTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akittv-live.ercdn.net/akittv/akittv.m3u8:AKIT TV HD
+#DESCRIPTION AKIT TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.streamencoding.com%3a1935/tgrt_haber/tgrt1/playlist.m3u8:TGRT HABER
+#DESCRIPTION TGRT HABER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.streamencoding.com%3a1935/tgrt_haber/tgrt1/chunklist_w40654798.m3u8:TGRT HABER
+#DESCRIPTION TGRT HABER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst%3alive-25/chunklist_w1011305533_b1200096.m3u8:TGRT Haber
+#DESCRIPTION TGRT Haber
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_aspor/smil%3aaspor_hd.smil/playlist.m3u8:A SPOR HD
 #DESCRIPTION A SPOR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1 HD
@@ -85,26 +111,6 @@
 #DESCRIPTION ATV HD az
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/brukselturktv/brukselturktv/chunklist.m3u8:Brüksel Türk TV
 #DESCRIPTION Brüksel Türk TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/kanal24/smil%3akanal24.smil/chunklist.m3u8:24 HD
-#DESCRIPTION 24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8:CNN TURK HD
-#DESCRIPTION CNN TURK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8?:NTV HD
-#DESCRIPTION NTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.ntv.com.tr/rss/LiveStream:NTV HD
-#DESCRIPTION NTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV
-#DESCRIPTION NTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akittv-live.ercdn.net/akittv/akittv.m3u8:AKIT TV HD
-#DESCRIPTION AKIT TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/finansturktv/finansturktv/playlist.m3u8:FINANSTURK
-#DESCRIPTION FINANSTURK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.streamencoding.com%3a1935/tgrt_haber/tgrt1/playlist.m3u8:TGRT HABER
-#DESCRIPTION TGRT HABER
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.streamencoding.com%3a1935/tgrt_haber/tgrt1/chunklist_w40654798.m3u8:TGRT HABER
-#DESCRIPTION TGRT HABER
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst%3alive-25/chunklist_w1011305533_b1200096.m3u8:TGRT Haber
-#DESCRIPTION TGRT Haber
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams2.livetv.az/turk/trt1_stream/playlist.m3u8:TRT1
 #DESCRIPTION TRT1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8:TRT 3 - TBMM TV
