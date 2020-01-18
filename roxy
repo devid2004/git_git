@@ -1764,12 +1764,6 @@ https://aldirect.hls.huya.com/huyalive/30765679-2523205260-10837084072795176960-
 Https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",ReMy_WORLD
 ReMy_WORLD
-#EXTINF:-1 group-title="ReMy_WORLD",Super ROCK HD
-http://91.235.165.77:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Super Tv
-http://91.235.165.77:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Super Tv HD
-http://91.235.165.77:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",KVN HD
 http://hls.goodgame.ru:8080/hls/172148.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",|FR| LCI
@@ -5101,6 +5095,12 @@ rtmp://91.148.117.134:1935/radios/radiosweb.stream live=1
 http://skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Somax TV
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Super ROCK HD
+http://91.235.165.77:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Super Tv
+http://91.235.165.77:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Super Tv HD
+http://91.235.165.77:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",TRACE URBAN
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",TRACE Africa
