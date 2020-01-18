@@ -295,6 +295,8 @@
 #DESCRIPTION Planeta HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/206608511?ticket=82CC280D94C895C9238EE351070D77DB3AE132F2&profile=pass:Planeta TV
 #DESCRIPTION Planeta TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/96840001?ticket=5CD0C867E28F2B6735CA9C8FE76ADFA26065D4FC&profile=pass:Planeta FOLK
+#DESCRIPTION Planeta FOLK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8:PBN Music
 #DESCRIPTION PBN Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream85.polskieradio.pl/sat/streamb.stream/playlist.m3u8:Polskie Radio 24 WEB
@@ -567,12 +569,6 @@
 #DESCRIPTION Otvoreni radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.sonicabroadcast.com%3a8750/;stream/1/:puraSonica
 #DESCRIPTION puraSonica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v5a1/mono.m3u8:Rather Good
-#DESCRIPTION Rather Good
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v4a1/mono.m3u8:Rather Good
-#DESCRIPTION Rather Good
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v3a1/mono.m3u8:Rather Good
-#DESCRIPTION Rather Good
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.250.77.9%3a8090:Schlagerparadies
 #DESCRIPTION Schlagerparadies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//HearMe.fm%3a8022/stream:The Very Best of Country
@@ -581,8 +577,6 @@
 #DESCRIPTION Transamérica Pop Curitiba
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ice1.crossradio.com.br%3a8198/live.aac:Transcontinental FM
 #DESCRIPTION Transcontinental FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v6a1/mono.m3u8:Vintage Music audio
-#DESCRIPTION Vintage Music audio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/34/:WORLD HIT
 #DESCRIPTION WORLD HIT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.121.59.45%3a8361/stream:WRCF
