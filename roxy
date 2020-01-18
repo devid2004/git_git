@@ -5058,14 +5058,13 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-http://185.150.27.125:9981/stream/channelid/96840001?ticket=5CD0C867E28F2B6735CA9C8FE76ADFA26065D4FC&profile=pass
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Planeta HD
 #EXTVLCOPT:network-caching=333
 http://185.150.27.125:9981/stream/channelid/179733707?ticket=20C05FDF390EBBBA6DC926E8798FAE14AAFD0431&profile=pass
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Planeta TV
 #EXTVLCOPT:network-caching=333
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Planeta Folk
-#EXTVLCOPT:network-caching=333
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Planeta FOLK
+http://185.150.27.125:9981/stream/channelid/96840001?ticket=5CD0C867E28F2B6735CA9C8FE76ADFA26065D4FC&profile=pass
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",RETRO
@@ -5376,12 +5375,6 @@ http://cdn.nrjaudio.fm/adwz1/fr/30043/mp3_128.mp3?origine=itunes
 http://cdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3?origine=itunes
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",NRJ POP RNB DANCE
 http://cdn.nrjaudio.fm/adwz1/fr/31489/mp3_128.mp3?origine=itunes
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Rather Good
-http://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Rather Good
-http://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Rather Good
-http://streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",WRCF
 http://91.121.59.45:8361/stream
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Z104 Country KSOP-FM
