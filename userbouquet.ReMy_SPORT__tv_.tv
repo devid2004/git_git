@@ -3,6 +3,10 @@
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_aspor/smil%3aaspor_hd.smil/playlist.m3u8:A SPOR HD
 #DESCRIPTION A SPOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca:TRT Spor HD
+#DESCRIPTION TRT Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:TJK TV
+#DESCRIPTION TJK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:Bein sport 1 HD
 #DESCRIPTION Bein sport 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportscore.biz/lba/123/g5/beinsport1tur.m3u8:Bein sport 1 HD
@@ -31,8 +35,12 @@
 #DESCRIPTION SPORTTV 4 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.denied.network/sporttv5hd/stream:SPORTTV 5 HD
 #DESCRIPTION SPORTTV 5 HD
-#SERVICE 4097:0:0:20:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/Dub-Sport2-Bakup.m3u8:Dub-Sport2
-#DESCRIPTION Dub-Sport2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil%3adubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8:Dubai Racing 2
+#DESCRIPTION Dubai Racing 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports:Dubai Sports
+#DESCRIPTION Dubai Sports
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/Dub-Sport2-Bakup.m3u8:Dubai Sports 2
+#DESCRIPTION Dubai Sports 2
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:Kurd-Goal
 #DESCRIPTION Kurd-Goal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/btse.m3u8:bt sport ESPN
@@ -71,10 +79,12 @@
 #DESCRIPTION CCTV-5+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8:CCTV 5 HD
 #DESCRIPTION CCTV 5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8:Newtv boutique sports
-#DESCRIPTION Newtv boutique sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8:Newtv CCTV Sports
+#DESCRIPTION Newtv CCTV Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:NEW TV Super sports HD
 #DESCRIPTION NEW TV Super sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/189r:EXTREAM SPORTS TV
+#DESCRIPTION EXTREAM SPORTS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/933:|NL| Ziggo Sport Select HD
 #DESCRIPTION |NL| Ziggo Sport Select HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourcenederlandpro2/6544963080/934:|NL| Ziggo Sport Golf HD
@@ -121,8 +131,30 @@
 #DESCRIPTION |TR| BEINSPORT 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourceturkiapro2/8684782188/1456:|TR| BEINSPORT 4
 #DESCRIPTION |TR| BEINSPORT 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/189r:ExTREAM SPORT TV
-#DESCRIPTION ExTREAM SPORT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.39.105.79%3a1935/santraltv_925/santraltv_925/playlist.m3u8:YENI MALATYA SPOR
+#DESCRIPTION YENI MALATYA SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/637612685?ticket=DFBDABA7945C886AB9F1C6FAB3036B60634308BE&profile=pass:Diema Sport
+#DESCRIPTION Diema Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/1307066759?ticket=0D9A92A73006C60B6802DB44735E5170E4B46975&profile=pass:Diema Sport 2
+#DESCRIPTION Diema Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/494964725?ticket=17857E6E64AB922D51D9066129060293610EDFB8&profile=pass:Eurosport
+#DESCRIPTION Eurosport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/1108055724?ticket=0739A168BE47E0E8D9FE72C286723C752C5DA9DE&profile=pass:Eurosport 2
+#DESCRIPTION Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/868315384?ticket=0CDFC0CA194730F00310F2C2B3AEA3C245573F5E&profile=pass:Eurosport HD
+#DESCRIPTION Eurosport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/2068352558?ticket=3836374E3C92F611668E40D0D4C3E0A0E7F1CB5E&profile=pass:MAX sport 1
+#DESCRIPTION MAX sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/1945000705?ticket=3E5D285E489870DA23273FD7C41C203385C43FE4&profile=pass:MAX sport 2
+#DESCRIPTION MAX sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/102311515?ticket=ECA04E91AFB37E58D7D077C481796EE56F7403C5&profile=pass:MAX sport 3
+#DESCRIPTION MAX sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/1050736086?ticket=7201F6D5962FC66923608A4BAA838DB44F8E8081&profile=pass:Nova Sport
+#DESCRIPTION Nova Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/797945013?ticket=A2E8E68025498AAD0C27EB4CA1DC9EFEE8CA7E3B&profile=pass:SPORT Plus HD
+#DESCRIPTION SPORT Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/1737666294?ticket=694CD34E189F5D920E1CDC977C643D08728AEE03&profile=pass:Sport+
+#DESCRIPTION Sport+
 #SERVICE 1:64:98:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
@@ -239,12 +271,12 @@
 #DESCRIPTION Fight Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:Fight (USA)6
 #DESCRIPTION Fight (USA)6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8:Fox Sports News
+#DESCRIPTION Fox Sports News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:Fox Sports (USA)8
 #DESCRIPTION Fox Sports (USA)8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/index.m3u8:Football
 #DESCRIPTION Football
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8:Fox Sports News
-#DESCRIPTION Fox Sports News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/smil%3agarage.smil/master.m3u8:GARAGE TV
 #DESCRIPTION GARAGE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8:Garage TV
@@ -401,10 +433,6 @@
 #DESCRIPTION The Surf Channel (USA)16
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv3.streampulse.eu%3a1935/tilesport/movie1/playlist.m3u8:TILESPORT GREECE
 #DESCRIPTION TILESPORT GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:TJK TV
-#DESCRIPTION TJK TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca:TRT Spor HD
-#DESCRIPTION TRT Spor HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004.m3u8:Turkman Sport
 #DESCRIPTION Turkman Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alpha.tv.online.tm/hls/ch004_720/index.m3u8:Turkmenistan Sport

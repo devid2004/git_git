@@ -21,6 +21,8 @@
 #DESCRIPTION PortalFoxMix Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8:Prima
 #DESCRIPTION Prima
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sb.top-ix.org/streamtech/tvlive1/playlist.m3u8:Prima Tivvu
+#DESCRIPTION Prima Tivvu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livebeta.publika.md/LIVE/P/1500.m3u8:Publika TV HD (Moldova)
 #DESCRIPTION Publika TV HD (Moldova)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.105.net/live/105Test3/playlist.m3u8:Radio 105 Network TV (IT)

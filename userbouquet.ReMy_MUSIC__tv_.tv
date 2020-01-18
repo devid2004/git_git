@@ -107,12 +107,10 @@
 #DESCRIPTION DSTV BG
 #SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:Duga TV
 #DESCRIPTION Duga TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.djing.com/tv/karaoke.m3u8:KARAOKE HD
-#DESCRIPTION KARAOKE HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-02-fta.m3u8:D-HOT
 #DESCRIPTION D-HOT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-01-fta.m3u8:DJING HOT HOT
-#DESCRIPTION DJING HOT HOT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-01-fta.m3u8:DJING HOT
+#DESCRIPTION DJING HOT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/28031-04.m3u8:DJing HOT Live
 #DESCRIPTION DJing HOT Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/27963-03.m3u8:DJING
@@ -157,6 +155,8 @@
 #DESCRIPTION DJING IBIZA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/d-27963-04.m3u8:DJING IBIZA HD
 #DESCRIPTION DJING IBIZA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.djing.com/tv/karaoke.m3u8:DJING KARAOKE HD
+#DESCRIPTION DJING KARAOKE HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/k-27963-03.m3u8:DJING KARAOKE
 #DESCRIPTION DJING KARAOKE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/k-27963-04.m3u8:DJING KARAOKE M
@@ -183,24 +183,28 @@
 #DESCRIPTION First Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:First Music Channel HD
 #DESCRIPTION First Music Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2200:First Music Channel Ru
+#DESCRIPTION First Music Channel Ru
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2300:First Music Channel Russia HD
 #DESCRIPTION First Music Channel Russia HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.214.130.95%3a8080/live/stream.m3u8:Gigante TV
 #DESCRIPTION Gigante TV
 #SERVICE 4097:0:1:1157:0:0:0:0:0:0:rtmp%3a//glasdrine.cutuk.net%3a1935/3ghu788/GlasDrine:GLas Drine Music HD
 #DESCRIPTION GLas Drine Music HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hitmusic.hu/hitmusic.m3u8:Hit Music Channel (Hungary)
+#DESCRIPTION Hit Music Channel (Hungary)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hithd.camsh.orsk.ru/hls/hithd.m3u8:HIT RU
 #DESCRIPTION HIT RU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b4128000.m3u8:HOBOC TV
 #DESCRIPTION HOBOC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livelist01.yowi.tv/lista/60bbd07a82cd6bd1f18b4958f9c1b25bbb7b71d7/index-v1-a1.m3u8:HQM BALADAS
 #DESCRIPTION HQM BALADAS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8:JUCE TV
-#DESCRIPTION JUCE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8:Ibiza Global TV
 #DESCRIPTION Ibiza Global TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c913f7f32c25.streamlock.net/live/smil%3aimpact.smil/chunklist_w1009444843_b1120000_DVR_slEn.m3u8:IMPACT TV
 #DESCRIPTION IMPACT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8:JUCE TV
+#DESCRIPTION JUCE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/rtp/239.0.0.2%3a5000:Kcn 2 Tv
 #DESCRIPTION Kcn 2 Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/rtp/239.0.0.3%3a5000:Kcn 3 Tv
@@ -255,8 +259,8 @@
 #DESCRIPTION MTV (Latin America)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8:MTV Norge
 #DESCRIPTION MTV Norge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s29:CC, MTV, NIck
-#DESCRIPTION CC, MTV, NIck
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s29:MTV, NIck,CC
+#DESCRIPTION MTV, NIck,CC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/nasa:Music Box
 #DESCRIPTION Music Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.132.86/hls/mb_ua_2500.m3u8:Music Box UA
@@ -287,8 +291,6 @@
 #DESCRIPTION Ocko Star
 #SERVICE 4097:0:1:1617:0:0:0:0:0:0:http%3a//ip.opoja.tv%3a1935/tvopoja/tvopoja/playlist.m3u8:OPOJA
 #DESCRIPTION OPOJA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2200:oneby
-#DESCRIPTION oneby
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/179733707?ticket=20C05FDF390EBBBA6DC926E8798FAE14AAFD0431&profile=pass:Planeta HD
 #DESCRIPTION Planeta HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/206608511?ticket=82CC280D94C895C9238EE351070D77DB3AE132F2&profile=pass:Planeta TV
@@ -375,10 +377,6 @@
 #DESCRIPTION view tv local kapang hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/index.m3u8:view tv local kapang hd
 #DESCRIPTION view tv local kapang hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v2a1/mono.m3u8:Vintage Music TV
-#DESCRIPTION Vintage Music TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8:Vintage Music TV
-#DESCRIPTION Vintage Music TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.51.131.28%3a8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8:YU PLANET
 #DESCRIPTION YU PLANET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8:Zeta TV
@@ -541,9 +539,9 @@
 #DESCRIPTION Djam Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
