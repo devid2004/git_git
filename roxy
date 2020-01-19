@@ -884,25 +884,16 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m
 https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",ReMy_CHINA
 ReMy_CHINA
-Carousel Channel, # genre #
-#EXTINF:-1 group-title="ReMy_CHINA",Science fiction movie
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Hollywood Movies
-http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Monster sci-fi
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Marvel Movies
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Disaster movie
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Zombie movie
-http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",HBO (Asia)
+http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 group-title="ReMy_CHINA",Anime big movie
 http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Asian Movie
 http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Asian good movie
 http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Asian Zombie movie
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Movie guide
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1 group-title="ReMy_CHINA",Film synthesis
@@ -919,6 +910,42 @@ http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c2
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1 group-title="ReMy_CHINA",Feedback exchange group
 https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
+#EXTINF:-1 group-title="ReMy_CHINA",Fan TV
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Henan Satellite TV
+http://ivi.bupt.edu.cn/hls/hntv.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",CCTV-14
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229157/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",CCTV-15
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229103/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Monster sci-fi
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Huyalive Hollywood Films 7 
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Hollywood Films 8 
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Huyalive FİLMİ 4 
+http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Max Financial Media 
+http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NEWS24 
+http://ax.micaesoft.com/YMitv/YMITV_CN_SHKnews24_1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",5 HD 3 
+http://ax.micaesoft.com/YMitv/YMITV_CN_CNcctv05_2.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",5 HD 4 
+http://ax.micaesoft.com/YMitv/YMITV_CN_CNcctv05_3.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AAA 
+http://dianjianglive.cbg.cn:8010/hls/stream/dxxwp33w.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Aniu TV 
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",BABY 
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",HOPE CH 
+http://bcliveuniv-lh.akamaihd.net:80/i/Live_1@384161/index_500_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",ICS Şangay LANGUAGE 
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",MASTV 
+http://stream.mastvnet.com/MSTV/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",CCTV-1 integrated HD
 http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 #EXTINF:-1 group-title="ReMy_CHINA",CCTV-2Finance
@@ -953,8 +980,6 @@ http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ys
 http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
 #EXTINF:-1 group-title="ReMy_CHINA",CCTV-17 Rural Agriculture
 http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
-#EXTINF:-1 group-title="ReMy_CHINA",Fan TV
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Hunan Satellite TV HD
 http://39.135.34.150:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
 #EXTINF:-1 group-title="ReMy_CHINA",Beijing Satellite TV HD
@@ -983,8 +1008,6 @@ http://39.135.34.152:18890/000000001000/6956052407855047826/1.m3u8?channel-id=ys
 http://39.135.34.142:18890/000000001000/1000000001000012807/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012807&owchid=ystenlive&owsid=1106497909461291586&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR3cBsIsjm7UHdGO3a4NjD1C4TiYtYt%2by66pvMI%2bkz57DAkgjzetftIzpJRR8RWa0K
 #EXTINF:-1 group-title="ReMy_CHINA",Chongqing Satellite TV HD
 http://39.135.34.150:18890/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000018937&owchid=ystenlive&owsid=1106497909461333042&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUG5grAC0rFEDUfNPlNhZzLoghzkGon0cjoqXWi7%2bGPbWnsToB9Z5BcGamUzvzuTi
-#EXTINF:-1 group-title="ReMy_CHINA",Henan Satellite TV
-http://ivi.bupt.edu.cn/hls/hntv.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Shaanxi Satellite TV
 http://39.135.34.139:18890/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000007495&owchid=ystenlive&owsid=1106497909461393057&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhC1U23M2CL94H7Jl9UsXCcDV0kHzvpufT%2f4%2bgoUc31ou2LTka7qAY0hPTMutW5mQ%2b
 #EXTINF:-1 group-title="ReMy_CHINA",Jilin Satellite TV
@@ -1015,44 +1038,10 @@ http://39.135.34.154:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ys
 http://39.135.34.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
 #EXTINF:-1 group-title="ReMy_CHINA",Gansu Satellite TV
 http://39.135.34.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN movie
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Hello broadcast 
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN military
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Life 
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Education
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Automotive
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN mikro movie 
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Han College
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN documentary 
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Movie Guide 
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Fine Theater 
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Feeling Theater 
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Comedy Theater 
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Costume Theater 
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Sunshine Theater 
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Hyunjia Animation 
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Child Learning World 
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Culture China 
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 group-title="ReMy_CHINA",CIBN Art Academy Line 
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+#EXTINF:-1 group-title="ReMy_CHINA",CBN Mutlu THEATER 
+http://42.48.60.248:8082/live/gqys-800k.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",CBN Daily Cinema 
+http://42.48.60.248:8082/live/gqts-800k.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",CCTV 5 HD
 http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",NEW TV Super sports HD
@@ -1061,8 +1050,6 @@ http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",CCTV-1
 http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-4
-http://192.154.103.74:8080/ZZ_cctv4/ZZ_cctv4.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",CCTV-5+
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",CCTV-5
@@ -1079,22 +1066,12 @@ http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",CCTV-12
 http://111.40.205.87/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-13
-http://192.154.103.74:8080/ZZ_cctv13/ZZ_cctv13.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",CCTV-14
 http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",CCTV-15
 http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",CCTV-15
 http://111.40.205.87/PLTV/88888888/224/3221225721/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",dongfangweishi
-http://192.154.103.74:8080/ZZ_dongfangweishi/ZZ_dongfangweishi.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Jiangsu Satellite TV
-http://192.154.103.74:8080/ZZ_jiangsuweishi/ZZ_jiangsuweishi.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Dongsen News
-http://192.154.103.74:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Phoenix Information
-http://192.154.103.74:8080/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Zhejiang Satellite TV
 http://111.40.205.87/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Jiangsu Satellite TV
@@ -1229,7 +1206,7 @@ http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Newtv is healthy
 http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv electricity, actually
+#EXTINF:-1 group-title="ReMy_CHINA",Newtv electricity,actually
 http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Newtv Military Theatre
 http://111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8
@@ -1239,10 +1216,60 @@ http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Newtv Chinese Kung Fu
 http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-14
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229157/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-15
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229103/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",HRB FUN 
+http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",HRB FILM 
+http://111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",HRB NEWS 
+http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",HRB Life 
+http://111.40.205.87/PLTV/88888888/224/3221225762/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",HRB INFO 
+http://111.40.205.87/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Süper sporları HD 
+http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Çin Kung Fu 
+http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Health has an appointment 
+http://111.40.205.76/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV MILITARY EXAMINATION 
+http://111.40.205.76/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV MILITARY THEATER 
+http://111.40.205.76/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV ACTION FILM 
+http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Animation KINGDOM 
+http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV COSTUM THEATER 
+http://111.40.205.76/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV FAMILY THEATER 
+http://111.40.205.76/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV fear 
+http://111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV fight THEATER 
+http://111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV star blockbuster 
+http://111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Overseas THEATER 
+http://111.40.205.76/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Love Comedy 
+http://111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV electricity 
+http://111.40.205.76/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ DRAMA 
+http://111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ FILM 
+http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ registration 
+http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Gold Variety 
+http://111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Health has an appointment 
+http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV fight THEATER 
+http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ registration 
+http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",ZJ-shaoer
 http://112.17.40.140/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",ZJ_shumashidai
@@ -1251,194 +1278,142 @@ http://112.17.40.140/PLTV/88888888/224/3221226638/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226595/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",CCTV1
 http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Hollywood Filmleri 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Hollywood Filmleri 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Hollywood Filmleri 8 
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Kuroko Basketbol ​​
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Reality TV 2 
-http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",5 HD 3 
-http://ax.micaesoft.com/YMitv/YMITV_CN_CNcctv05_2.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",5 HD 4 
-http://ax.micaesoft.com/YMitv/YMITV_CN_CNcctv05_3.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",AAA 
-http://dianjianglive.cbg.cn:8010/hls/stream/dxxwp33w.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Aniu TV 
-http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",AYSAR Hollywood Filmleri 11 
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",AYSAR Hollywood Filmleri 7 
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 11 
-https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 12 
-https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 15 
-https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 2 
-https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 4 
-http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 4 
-https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 6 
-http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLM 7 
-http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",AYSAR Filmi 9 
-http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",AYSAR Filmi 9 
-http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",BABY ebeveyn-çocuk 
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",bestTV 4K 
-http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",bestTV Sporları FHD 
-http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",BesTV 
-http://39.134.52.162/wh7f454c46tw3730304110_1867932700/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226031/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Fox filmleri asya 
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 
-http://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 15 
-http://live.streamingfast.net/osmflivech15.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 16 
-http://live.streamingfast.net/osmflivech16.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 17 
-http://live.streamingfast.net/osmflivech17.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 18 
-http://live.streamingfast.net/osmflivech18.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 19 
-http://live.streamingfast.net/osmflivech19.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 20 
-http://live.streamingfast.net/osmflivech20.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 21 
-http://live.streamingfast.net/osmflivech21.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 22 
-http://live.streamingfast.net/osmflivech22.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 23 
-http://live.streamingfast.net/osmflivech23.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 24 
-http://live.streamingfast.net/osmflivech24.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 25 
-http://live.streamingfast.net/osmflivech25.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 26 
-http://live.streamingfast.net/osmflivech26.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 27 
-http://live.streamingfast.net/osmflivech27.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 28 
-http://live.streamingfast.net/osmflivech28.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 29 
-http://live.streamingfast.net/osmflivech29.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 30 
-http://live.streamingfast.net/osmflivech30.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 31 
-http://live.streamingfast.net/osmflivech31.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 32 
-http://live.streamingfast.net/osmflivech32.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 33 
-http://live.streamingfast.net/osmflivech33.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 34 
-http://live.streamingfast.net/osmflivech34.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 35 
-http://live.streamingfast.net/osmflivech35.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 36 
-http://live.streamingfast.net/osmflivech36.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 37 
-http://live.streamingfast.net/osmflivech37.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 38 
-http://live.streamingfast.net/osmflivech38.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 39 
-http://live.streamingfast.net/osmflivech39.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 41 
-http://live.streamingfast.net/osmflivech41.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 42 
-http://live.streamingfast.net/osmflivech42.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 43 
-http://live.streamingfast.net/osmflivech43.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 45 
-http://live.streamingfast.net/osmflivech45.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 46 
-http://live.streamingfast.net/osmflivech46.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 47 
-http://live.streamingfast.net/osmflivech47.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 48 
-http://live.streamingfast.net/osmflivech48.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 49 
-http://live.streamingfast.net/osmflivech49.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 50 
-http://live.streamingfast.net/osmflivech50.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV gerçek istasyonu 
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",İyi TV kompleksi 
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",HBO 
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1 group-title="ReMy_CHINA",Umut Kanalı 
-http://bcliveuniv-lh.akamaihd.net:80/i/Live_1@384161/index_500_av-p.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",HRB Eğlence 
-http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",HRB filmi 
-http://111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",HRB Haber Sentezi 
-http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",HRB Life 
-http://111.40.205.87/PLTV/88888888/224/3221225762/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",HRB bilgileri 
-http://111.40.205.87/PLTV/88888888/224/3221225761/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",ICS Şangay Yabancı Dil 
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Hyun The Future of Dance 
+http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV SUper FILM 
+http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",TVB Pearl 
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=PPentu_
+#EXTINF:-1 group-title="ReMy_CHINA",TVB Fei - Yeşil - Tayvan 
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8Fsv_cid=1034&Fsv_chan_hls_se_idx=30Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp?=240veFsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+#EXTINF:-1 group-title="ReMy_CHINA",TVB Jade 
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=PPentu
 #EXTINF:-1 group-title="ReMy_CHINA",IPTV5 + 
 http://117.156.28.119/270000001111/1110000054/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",IPTV8 + 
 http://117.156.28.119/270000001111/1110000057/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV Askeri İnceleme 
-http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV Askeri Tiyatrosu 
-http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV aksiyon filmi 
-http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV Animasyon Krallığı 
-http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV Kostüm Tiyatrosu 
-http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV Ev Sineması 
-http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV’nin sürpriz endişesi 
-http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV yıldızı gişe rekorları kıran 
-http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV hukukun üstünlüğü 
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV rule of law 
 http://117.156.28.119/270000001111/1110000111/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV Denizaşırı Tiyatrosu 
-http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV Aşk Komedisi 
-http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV çizgi roman deneyi 
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV comic book experiment 
 http://117.156.28.119/270000001111/1110000112/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV butik draması 
-http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV butik filmi 
-http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV butik çeşitliliği 
-http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV butik kaydı 
-http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV Casus Oyun Tiyatrosu 
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV Spy Game THEATER 
 http://117.156.28.119/270000001111/1110000110/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",IPTV Altın Çeşitliliği 
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV star blockbuster FHD 
+http://117.148.187.37/PLTV/88888888/224/3221226751/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Chao Ma Spicy 
+http://117.148.187.37/PLTV/88888888/224/3221226666/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV MILITARY EXAMINATION 
+http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV MILITARY THEATER 
+http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV ACTION FILM 
+http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV ANIMATION KINGDOM 
+http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV COSTUM THEATER 
+http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV HOME CINEMA 
+http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV SUPRISE 
+http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV star blockbuster 
+http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV Overseas THEATER 
+http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV LOVE COMEDY 
+http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV BOUTIQ DRAMA 
+http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV BOUTIQ FILM 
+http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV BOUTIQ variety 
+http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV BOUTIQ registration 
+http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV Gold Variety 
 http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",KAKU çocukları 
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Çin Kung Fu 
+http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV MILITARY CHANNEL 
+http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV MILITARY THEATER 
+http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Rich in agriculture 
+http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV ACTION FILM HD 
+http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV ANIMATION KINGDOM HHD 
+http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV COSTUM THEATER 
+http://121.31.30.90:8085/ysten-business/live/guzhuangjc/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV perfect game 
+http://121.31.30.90:8085/ysten-business/live/wmyx/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV FAMILY THEATER HHD 
+http://121.31.30.90:8085/ysten-business/live/jiatingjc/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV fear anxiety HD 
+http://121.31.30.90:8085/ysten-business/live/jingsongxy/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV WAR 
+http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV star blockbuster HD 
+http://121.31.30.90:8085/ysten-business/live/mingxingdp/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Overseas THEATER 
+http://121.31.30.90:8085/ysten-business/live/xiqumd/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Love Comedy 
+http://121.31.30.90:8085/ysten-business/live/aiqingxj/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Premium Sports HD 
+http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ DRAMA HD 
+http://121.31.30.90:8085/ysten-business/live/jdaju/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Premium Movie HD 
+http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ record HHD 
+http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Gold Variety HD 
+http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Blockbusters 
+http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Suspense 
+http://183.207.249.15/PLTV/3/224/3221225561/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Çin Kung Fu 
+http://183.207.248.71/cntv/live1/SD-1500k-576P-gzkongfu/SD-1500k-576P-gzkongfu
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV ACTION FILM 
+http://183.207.249.15/PLTV/3/224/3221225529/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV ANIMATION KINGDOM 2 
+http://183.207.249.8/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV FAMILY THEATER
+http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Overseas THEATER 
+http://183.207.249.16/PLTV/3/224/3221225547/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Love Comedy 
+http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Premium Sports 
+http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ Sporları 
+http://183.207.249.8/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Premium Sports
+http://183.207.249.15/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ DRAMA 
+http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ FILM
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ registration 
+http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Gold Variety 
+http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",CCTV-4
+http://192.154.103.74:8080/ZZ_cctv4/ZZ_cctv4.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",CCTV-13
+http://192.154.103.74:8080/ZZ_cctv13/ZZ_cctv13.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",dongfangweishi
+http://192.154.103.74:8080/ZZ_dongfangweishi/ZZ_dongfangweishi.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Jiangsu Satellite TV
+http://192.154.103.74:8080/ZZ_jiangsuweishi/ZZ_jiangsuweishi.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Dongsen News
+http://192.154.103.74:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Phoenix Information
+http://192.154.103.74:8080/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",KAKU KIDS 
 http://223.110.242.130:6610/cntv/live1/kakukaton/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",MASTV 
-http://stream.mastvnet.com/MSTV/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Max Financial Media 
-http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",NBA BesTV Canlı Oda 1HD 
 http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",NBA BesTV Live 2HD 
@@ -1453,143 +1428,61 @@ http://223.110.243.170/PLTV/2/224/3221226803/index.m3u8
 http://223.110.243.170/PLTV/2/224/3221226805/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",NBA BesTV Canlı Oda 7HD 
 http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NEWS24 
-http://ax.micaesoft.com/YMitv/YMITV_CN_SHKnews24_1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Blockbusters 
-http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Süper sporları HD 
-http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Suspense 
-http://183.207.249.15/PLTV/3/224/3221225561/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Çin Kung Fu 
-http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Health'in bir randevusu var 
-http://111.40.205.76/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Askeri İnceleme 
-http://111.40.205.76/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Askeri Tiyatrosu 
-http://111.40.205.76/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV aksiyon filmi 
-http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Canlandırma Krallığı 
-http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Kostüm Tiyatrosu 
-http://111.40.205.76/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aile Tiyatrosu 
-http://111.40.205.76/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV korku 
-http://111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Dövüş Tiyatrosu 
-http://111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV yıldızı gişe rekorları kıran 
-http://111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Denizaşırı Tiyatrosu 
-http://111.40.205.76/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Hyun Dans Geleceği 
-http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aşk Komedi 
-http://111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV elektriği 
-http://111.40.205.76/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik draması 
-http://111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik filmi 
-http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik kaydı 
-http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Altın Çeşitliliği 
-http://111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Çin Kung Fu 
-http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Çin Kung Fu 
-http://183.207.248.71/cntv/live1/SD-1500k-576P-gzkongfu/SD-1500k-576P-gzkongfu
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Health'in bir randevusu var 
-http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Health'in bir randevusu var 
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Health has an appointment 
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225545/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Askeri Kanalı 
-http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Askeri Tiyatrosu 
-http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Tarımı zengin 
-http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV aksiyon filmi 
-http://183.207.249.15/PLTV/3/224/3221225529/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aksiyon Filmi HD 
-http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Animasyon Krallığı 2 
-http://183.207.249.8/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Animasyon Krallığı FHD 
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV ANIMATION KINGDOM FHD 
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Animasyon Krallığı HHD 
-http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Kostüm Tiyatrosu 
-http://121.31.30.90:8085/ysten-business/live/guzhuangjc/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV mükemmel oyun 
-http://121.31.30.90:8085/ysten-business/live/wmyx/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aile Tiyatrosu
-http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aile Tiyatrosu HHD 
-http://121.31.30.90:8085/ysten-business/live/jiatingjc/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV korku endişesi HD 
-http://121.31.30.90:8085/ysten-business/live/jingsongxy/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",YeniTV savaşı 
-http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Kavgası 
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV fight 
 http://223.110.245.134/PLTV/3/224/3221226656/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Dövüş Tiyatrosu 
-http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV yıldızı gişe rekorları kıran FHD 
-http://117.148.187.37/PLTV/88888888/224/3221226751/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV yıldızı gişe rekorları kıran HD 
-http://121.31.30.90:8085/ysten-business/live/mingxingdp/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Denizaşırı Tiyatrosu 
-http://121.31.30.90:8085/ysten-business/live/xiqumd/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Denizaşırı Tiyatrosu 
-http://183.207.249.16/PLTV/3/224/3221225547/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Chao Ma Baharatlı 
-http://117.148.187.37/PLTV/88888888/224/3221226666/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Chao Ma Baharatlı 
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Chao Ma Spicy 
 http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226983/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aşk Komedi 
-http://121.31.30.90:8085/ysten-business/live/aiqingxj/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aşk Komedi 
-http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Premium Sports 
-http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Butik Sporları 
-http://183.207.249.8/PLTV/3/224/3221225543/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Premium Sports
-http://183.207.249.15/PLTV/3/224/3221225543/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Premium Sports HD 
-http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik draması 
-http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik draması HD 
-http://121.31.30.90:8085/ysten-business/live/jdaju/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik filmi
-http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Premium Movie HD 
-http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik kaydı 
-http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik kaydı 
-http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Butik Kayıt FHD 
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ registration FHD 
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225557/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik rekor HHD 
-http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Süper Filmi 
-http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Altın Çeşitliliği 
-http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Gold Variety HD 
-http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CBN Mutlu Tiyatrosu 
-http://42.48.60.248:8082/live/gqys-800k.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CBN Günlük Sinema 
-http://42.48.60.248:8082/live/gqts-800k.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (
+#EXTINF:-1 group-title="ReMy_CHINA",SDETV 
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",TVS2 
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Xuzhou TV 1 Şangay 
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Xuzhou TV 2 Şangay 
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8 
+#EXTINF:-1 group-title="ReMy_CHINA",Science fiction movie
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Hollywood Movies
+http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Marvel Movies
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Disaster movie
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Hollywood Films 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Hollywood Films 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Kuroko Basketbol ​​
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Reality TV 2 
+http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Huyalive Hollywood Films 11 
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Huyalive FİLMİ 2 
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Huyalive FİLMİ 4 
+https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Huyalive FİLMİ 6 
+http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Huyalive FİLM 7 
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Huyalive FILM 9 
+http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Huyalive FILM 9 
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Huyalive FİLMİ 11 
+https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Huyalive FİLMİ 12 
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Huyalive FİLMİ 15 
+https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ
 http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8)
 #EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (Bao thanh thiên) 
 http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
@@ -1603,7 +1496,7 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2
 http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (Doraemon Dorah) 
 http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ
 http://aldirect.hls.huya.com/huyalive/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_1200.m3u8)
 #EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (Lứu Đức Hòa) 
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
@@ -1617,8 +1510,116 @@ http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (RăngđồngắtJiXiaolan) 
 http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",SDETV 
-http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Speed ​​and Passion
+https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Zhao Jiaban Series
+https://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-1525339704-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Science Fiction Movie
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Hong Kong Movies
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",happy ghost
+https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Archaeological Series
+https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Night Legend
+https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Western mythology
+https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Unsolved mystery
+https://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Brave Game 3
+https://aldirect.hls.huya.com/huyalive/94525224-2702136290-11605586994884771840-4573721796-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Shaped monster
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Resident Evil
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Red Classic Movies
+https://aldirect.hls.huya.com/huyalive/30765679-2533224718-10880117317228822528-3049003134-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",China on the tip of the tongue
+http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",cat and mouse
+https://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Fire Blue Blade Cinema
+https://aldirect.hls.huya.com/huyalive/94525224-2672445369-11478065460201652224-2777037926-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Love Apartment
+https://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Bright sword
+https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Military drama
+https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Magic Phone
+https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",New Three Kingdoms
+https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Male god
+https://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Deer Ding Ji
+https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Tiě yá tóng yá jì lán
+https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Blue Ball Fire
+https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",The Condor Heroes
+https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Super War Movies
+https://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Wild Food Brother
+https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Movie-Goddess Series 2
+https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Goddess series
+https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Yī tiān túlóngjì
+https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",The ultimate class
+https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Xuanyuanjian
+https://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",The Romance of the Three Kingdoms
+https://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",six cases
+https://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Kangxi Dynasty
+https://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Tiānlóng bā bù
+https://aldirect.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Longmen Escort
+https://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Let's get married.
+https://aldirect.hls.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Tiandi Xuanhuang
+https://aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Lotus Lantern
+https://aldirect.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Shaolin Temple Legend
+https://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Dàzháimén
+https://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Four Kings
+https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Legend of Bruce Lee
+https://aldirect.hls.huya.com/huyalive/28466698-2686637732-11539021195139612672-3048959574-10057-A-1524196077-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Xiao Li Feidao
+https://aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",EXTINF: -1
+https://aldirect.hls.huya.com/huyalive/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Daqin Empire
+https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Datang Shuanglongchuan
+https://aldirect.hls.huya.com/huyalive/30765679-2554414910-10971128498864783360-3049003166-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Shaolin Football
+https://aldirect.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Journey to the West
+https://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",have children
+https://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",soldier assault
+http://aldirect.hls.huya.com/huyalive/94525224-2579683622-11079656790516826112-2789274566-10057-A-1521167951-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",My brother is called Shun
+https://aldirect.hls.huya.com/huyalive/30765679-2523205260-10837084072795176960-2789274532-10057-A-1511870010-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Kangxi Microservice Private Visit
+https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",SinoVision 
 http://ec.sinovision.net/video/ts/lv.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",SinoVision 
@@ -1629,14 +1630,6 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 http://tvbilive14-i.akamaihd.net/hls/live/496344/CTVB8/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",TVB Kablosuz Yeşim 
 http://tvbilive17-i.akamaihd.net/hls/live/624328/CJMandarin5/CJMandarin5-04.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",TVB Pearl 
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=PPentu_
-#EXTINF:-1 group-title="ReMy_CHINA",TVB Fei - Yeşil - Tayvan 
-http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8Fsv_cid=1034&Fsv_chan_hls_se_idx=30Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp?=240veFsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-#EXTINF:-1 group-title="ReMy_CHINA",TVB Jade 
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=PPentu
-#EXTINF:-1 group-title="ReMy_CHINA",TVS2 
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",XMTV 1 
 http://cstvpull.live.wscdns.com/live/xiamen1.flv
 #EXTINF:-1 group-title="ReMy_CHINA",XMTV 2 
@@ -1645,127 +1638,8 @@ http://cstvpull.live.wscdns.com/live/xiamen2.flv
 http://cstvpull.live.wscdns.com/live/xiamen3.flv
 #EXTINF:-1 group-title="ReMy_CHINA",XMTV Yıldızı 
 http://cstvpull.live.wscdns.com/live/xiamen4.flv
-#EXTINF:-1 group-title="ReMy_CHINA",Xuzhou TV 1 Şangay 
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Xuzhou TV 2 Şangay 
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8 
-#EXTINF:-1 group-title="ReMy_JAPAN",ReMy_JAPAN
-ReMy_JAPAN
-#EXTINF:-1 group-title="ReMy_JAPAN",Speed ​​and Passion
-https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Zhao Jiaban Series
-https://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-1525339704-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Science Fiction Movie
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Hong Kong Movies
-https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",happy ghost
-https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Archaeological Series
-https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Night Legend
-https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Western mythology
-https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Unsolved mystery
-https://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Brave Game 3
-https://aldirect.hls.huya.com/huyalive/94525224-2702136290-11605586994884771840-4573721796-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Shaped monster
-https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Resident Evil
-https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Red Classic Movies
-https://aldirect.hls.huya.com/huyalive/30765679-2533224718-10880117317228822528-3049003134-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",China on the tip of the tongue
-http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",cat and mouse
-https://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Fire Blue Blade Cinema
-https://aldirect.hls.huya.com/huyalive/94525224-2672445369-11478065460201652224-2777037926-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Love Apartment
-https://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Bright sword
-https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Military drama
-https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Magic Phone
-Https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",New Three Kingdoms
-https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Male god
-Https://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Deer Ding Ji
-https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Tiě yá tóng yá jì lán
-https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Blue Ball Fire
-Https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",The Condor Heroes
-Https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Super War Movies
-Https://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Wild Food Brother
-https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Goddess Series 
-https://www.tvonlinestreams.com
-https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Goddess series
-https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Yī tiān túlóngjì
-Https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",The ultimate class
-Https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Xuanyuanjian
-https://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",The Romance of the Three Kingdoms
-https://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",six cases
-https://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Kangxi Dynasty
-https://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Tiānlóng bā bù
-https://aldirect.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Longmen Escort
-Https://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Let's get married.
-https://aldirect.hls.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Tiandi Xuanhuang
-Https://aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Lotus Lantern
-Https://aldirect.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Shaolin Temple Legend
-https://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Dàzháimén
-https://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Four Kings
-https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Legend of Bruce Lee
-Https://aldirect.hls.huya.com/huyalive/28466698-2686637732-11539021195139612672-3048959574-10057-A-1524196077-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Xiao Li Feidao
-https://aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN", EXTINF: -1
-https://aldirect.hls.huya.com/huyalive/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Daqin Empire
-https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Datang Shuanglongchuan
-https://aldirect.hls.huya.com/huyalive/30765679-2554414910-10971128498864783360-3049003166-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Shaolin Football
-https://aldirect.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Journey to the West
-https://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",have children
-https://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",soldier assault
-Http://aldirect.hls.huya.com/huyalive/94525224-2579683622-11079656790516826112-2789274566-10057-A-1521167951-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",My brother is called Shun
-https://aldirect.hls.huya.com/huyalive/30765679-2523205260-10837084072795176960-2789274532-10057-A-1511870010-1_1200.m3u8
-#EXTINF:-1 group-title="ReMy_JAPAN",Kangxi Microservice Private Visit
-Https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",ReMy_WORLD
 ReMy_WORLD
-#EXTINF:-1 group-title="ReMy_WORLD",KVN HD
-http://hls.goodgame.ru:8080/hls/172148.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",|FR| LCI
 http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_496.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",|FR| LCI HD
@@ -1774,663 +1648,69 @@ http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 http://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_2000000.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",|FR| LCI HD
 http://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Sky-MoviesFamily
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesFamily.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Sky-MoviesDrama
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesDrama.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Sky-MoviesAction
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesAction.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Sky-MoviesPremie
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesPremie.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Sky-Spo-football
-http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Sky-MoviesDisney
-http://95.170.215.118:80/hls/m3u8/Sky-MoviesDisney.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",HBO (Asia)
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:-1 group-title="ReMy_WORLD",4U occidental
-https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",3AW Melbourne
-http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",4BC Brisbane
-http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",MTV
-http://31.177.62.139:8011/play/s28
-#EXTINF:-1 group-title="ReMy_WORLD",Comedy Central/VIVA
-http://31.177.62.139:8011/play/s27
-#EXTINF:-1 group-title="ReMy_WORLD",CC, MTV, NIck
-http://31.177.62.139:8011/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Impact Wrestling HD USA
-http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 group-title="ReMy_WORLD",Inspiration TV (USA)
-http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",MUSIC CHOICE USA
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",North Bent Washington USA
-http://74.93.101.73:80/mjpg/video.mjpg
-#EXTINF:-1 group-title="ReMy_WORLD",Sintel
-http://51.15.253.75:8008/manifest.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",43 channel HD
-http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",channel 47
-http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",49 channel
-http://37.194.184.105:81/udp/239.1.10.8:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Channel 5 (Ukraine)
-http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8?codec=mpeg4
-#EXTINF:-1 group-title="ReMy_WORLD",7 Channel HD (Odessa)
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",78
-http://gorod.tv/s/live/22/ssiptv/0/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",channel 78
-http://46.32.68.167/s/live/22/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",9 канал (Израиль)
-http://109.248.203.104:6883/ace/getstream?id=2ab21170654a4c063d867907e3c828d6814e2fe5&.mp4
-#EXTINF:-1 group-title="ReMy_WORLD",Amedia 1
-http://89.223.6.7/amedia/mono.m3u8?token=yugtelset
-#EXTINF:-1 group-title="ReMy_WORLD",Amedia 2
-http://89.223.6.7/amedia-2/mono.m3u8?token=yugtelset
-#EXTINF:-1 group-title="ReMy_WORLD",Amedia HBO
-http://178.163.89.138:4022/udp/234.0.0.169:2000
-#EXTINF:-1 group-title="ReMy_WORLD",Amedia Hit
-http://46.32.68.167/s/live/210/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Amedia Premium
-http://178.163.14.190:4022/udp/234.0.0.209:2000
-#EXTINF:-1 group-title="ReMy_WORLD",Amedia Premium HD
-http://178.124.183.14:80/hls/CH_AMEDIAPREMIUM/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",BBC World News (EN)
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 group-title="ReMy_WORLD",BOLT
-http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",Bollywood HD
-http://178.163.47.249:4022/udp/234.0.0.195:2000
-#EXTINF:-1 group-title="ReMy_WORLD",Bolt
-http://178.124.183.5/hls/CH_BOLT/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Brodilo.TV
-http://brodilo.tv/channel.php
-#EXTINF:-1 group-title="ReMy_WORLD",CBN News
-http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",CGTN Русский
-http://live.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",DTX
-http://46.32.68.167/s/live/410/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",DTX
-http://46.32.68.167/s/live/410/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",DTX HD
-http://212.12.194.10/dtxhd/live.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Da Vinci
-http://213.174.8.7:11111/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Discovery Channel
-http://213.174.8.7:8000/play/24/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Discovery Channel
-http://109.248.236.41:4433/udp/238.1.1.124:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Discovery Science
-http://109.95.47.249:55055/udp/239.0.0.48:4000
-#EXTINF:-1 group-title="ReMy_WORLD",Discovery Showcase HD
-http://185.22.183.155:8085/media/hls_183_155/discov_showcasehd/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",DocuBox HD
-http://195.138.78.66:8001/udp/239.2.153.110:1234
-#EXTINF:-1 group-title="ReMy_WORLD",EARTH TV [WebCam]
-http://strm.yandex.ru/kal/worldlife/worldlife0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",EUROSPORT 2
-http://109.248.236.41:4433/udp/238.1.1.115:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Earth TV
-https://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Epic Drama HD
-http://46.37.210.19:34040/udp/238.39.40.213:5000
-#EXTINF:-1 group-title="ReMy_WORLD",Epoque
-http://195.138.79.232:4022/udp/239.0.251.45:1234
-#EXTINF:-1 group-title="ReMy_WORLD",FOX
-http://dmitry-tv.ru/his/itv_blrus/CH_FOX.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",FOX Life
-http://dmitry-tv.ru/his/itv_blrus/CH_FOXLIFE.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Film Box
-http://195.138.78.66:8001/udp/239.2.153.106:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Filmzone ATV
-http://ott-cdn.ucom.am/s48/04.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Food Network
-http://46.180.99.15:81/udp/239.255.42.201:1234
-#EXTINF:-1 group-title="ReMy_WORLD",FoodMan Club
-https://strm.yandex.ru/kal/joycook/joycook0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Fox
-http://178.124.183.5/hls/CH_FOX/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Fox Life
-http://178.124.183.5/hls/CH_FOXL/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",France 24
-http://dmitry-tv.ru/his/yatv/CH_FRANCE24.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Galaxy
-http://178.124.183.5/hls/CH_GALAXY/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Galaxy
-http://178.124.183.14:80/hls/CH_GALAXY/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Glazella HD
-http://188.242.237.246:65535/udp/239.239.3.72:5239
-#EXTINF:-1 group-title="ReMy_WORLD",Global Star
-http://109.248.88.228:4044/udp/239.195.0.60:1234
-#EXTINF:-1 group-title="ReMy_WORLD",HBO HD
-http://109.248.236.41:4433/udp/238.1.1.150:1234
-#EXTINF:-1 group-title="ReMy_WORLD",HD КИНО
-http://188.35.9.11:2017
-#EXTINF:-1 group-title="ReMy_WORLD",HDL
-http://78.111.93.102:53022/udp/225.101.15.16:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Hollywood
-http://46.32.68.167/s/live/256/86.169.51.136/0/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",ICTV
-http://195.162.90.141:8080/d85ab661beb3f234a4e840242fa1d6fa
-#EXTINF:-1 group-title="ReMy_WORLD",Iнтер
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",JOY COOK
-http://strm.yandex.ru/kal/joycook/joycook0_169_480p.json/index-v1-a1.m3u8?s-m-a-k.ru/
-#EXTINF:-1 group-title="ReMy_WORLD",KINO 24
-http://82.193.71.93/Kino24LV/video.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Kinoman ATV
-http://ott-cdn.ucom.am/s94/04.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Leomax
-http://tvshops.bonus-tv.ru:80/cdn/leomax/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Nano
-http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Nano TV
-http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Naroddip
-http://hls.goodgame.ru/hls/33226.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Nasa TV HD
-http://188.35.9.5:10020/stolen/483x/hot.dll
-#EXTINF:-1 group-title="ReMy_WORLD",Nat Geo Wild
-http://188.35.9.5:10020/stolen/487n/hot.dll
-#EXTINF:-1 group-title="ReMy_WORLD",Nat Geo Wild
-http://188.35.9.5:10020/stolen/487n/hot.dll
-#EXTINF:-1 group-title="ReMy_WORLD",Nat Geo Wild
-http://dmitry-tv.ru/his/itv_blrus/CH_NATGEO_WILD.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Nat Geo Wild HD
-http://46.32.68.167/s/live/915/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",National Geographic
-http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",National Geographic HD
-http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Ocean TV
-http://91.192.168.242:9091
-#EXTINF:-1 group-title="ReMy_WORLD",Ocean TV (HD)
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Ocean TV HD
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Paramount Comedy
-http://109.95.47.249:55055/udp/239.0.0.101:4000
-#EXTINF:-1 group-title="ReMy_WORLD",Paramount Comedy
-http://46.32.68.167/s/live/250/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Pro 100 TV
-http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",RTK 1
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",RTVI
-http://dmitry-tv.ru/his/itv_blrus/CH_RTVi.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Renome
-http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Renome (Одесса)
-http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Russian Extreme
-http://178.163.24.181:4022/udp/234.0.0.173:2000
-#EXTINF:-1 group-title="ReMy_WORLD",STAR CINEMA
-http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Shop 24
-http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Shop and Show
-http://46.180.99.15:81/udp/239.255.42.206:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Shopping Live
-http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Sony Sci-Fi
-http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Sony Sci-Fi
-http://178.124.183.14:80/hls/EDVYQYGHF8/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Sony Turbo
-http://46.32.68.167/s/live/260/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Star Cinema
-http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Star Family
-http://178.124.183.5/hls/CH_FAMILY/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",TV1000
-http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",TV1000
-http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",TV1000 ACTION
-http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",TV1000 Action
-http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",TV1000 Premium
-http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",TV1000 Premium HD
-http://185.175.92.10:8080/vip_premiere/mono.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",TV1000 World Kino
-http://188.35.9.26:5031/udp/112s
-#EXTINF:-1 group-title="ReMy_WORLD",TV1000 РУССКОЕ КИНО
-http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",TV1000 Русское кино
-http://dmitry-tv.ru/his/itv_blrus/CH_TV1000RUSKINO.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",TV Dielli
-http://51.15.180.159:8081/play/hls/dielli/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Teletravel HD
-http://95.67.17.105:8812/http/185.160.90.17:19124/1fdcd927e96ec217b44ac6fbf29c770e
-#EXTINF:-1 group-title="ReMy_WORLD",Top Shop
-http://46.181.229.228:81/udp/239.255.42.148:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Travel + Adventure
-http://37.192.143.70:4022/udp/239.1.5.7:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Travel Channel
-http://188.35.9.11:21031/udp/038m
-#EXTINF:-1 group-title="ReMy_WORLD",Travel Channel HD
-http://46.32.68.167/s/live/925/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Travel Guide TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Travel+Adventure
-http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/850/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",VIASAT EXPLORE
-http://178.124.183.5/hls/JQQ83OBHTQ/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",VIASAT HISTORY
-https://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095
-#EXTINF:-1 group-title="ReMy_WORLD",VIASAT NATURE
-http://178.124.183.5/hls/BN3FTDY3T8/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",VIP Comedy
-http://ott-cdn.ucom.am/s97/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",VIP Megahit HD
-http://188.35.9.11:2016
-#EXTINF:-1 group-title="ReMy_WORLD",ViP Megahit
-http://188.35.9.11:2016
-#EXTINF:-1 group-title="ReMy_WORLD",Viasat Explorer
-http://213.252.252.17/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Viasat History
-http://213.252.252.17/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Viasat Nature
-http://213.252.252.17/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",ZIK
-http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",ZOO TV
-http://109.171.7.31:81/udp/239.54.6.141:1224
-#EXTINF:-1 group-title="ReMy_WORLD",ZOOM
-http://188.35.9.11:11062/f
-#EXTINF:-1 group-title="ReMy_WORLD",Інтер
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Auto 24
-http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/538/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Auto Plus
-http://109.95.47.249/105055/udp/239.0.0.137-00-00000
-#EXTINF:-1 group-title="ReMy_WORLD",Beaver
-http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/725/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Beaver
-http://46.180.99.15:81/udp/239.255.42.207:1234
-#EXTINF:-1 group-title="ReMy_WORLD",In Animal World HD
-http://178.163.24.181:4022/udp/234.0.0.97:2000
-#EXTINF:-1 group-title="ReMy_WORLD",TV Showcase
-http://46.180.99.15:81/udp/239.255.42.127:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Tasty TV
-http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Through the Eyes of a Tourist
-http://176.62.191.181:19000/dop20503/glazamiturista/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",DR. DEGREE
-http://live.planeta-online.tv:1935/public/smil:channel_22.smil/chunklist_b858000.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Cottage
-http://195.138.78.66:8001/udp/239.2.153.73:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Fishing Dialogs
-http://strm.yandex.ru/kal/dialogi/dialogi0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Wild
-http://109.248.88.228:4044/udp/239.195.1.138:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Discount
-http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Rain
-http://dmitry-tv.ru/his/yatv/CH_DOZHD.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Rain
-https://37.9.112.35/kal/tvrain/tvrain0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Rain
-http://dmitry-tv.ru/his/yatv/CH_DOZHD.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Rain HD
-http://5.59.200.247:81/udp/239.72.4.30:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Doctor
-http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Doctor
-http://178.163.24.181:4022/udp/234.0.0.232:2000
-#EXTINF:-1 group-title="ReMy_WORLD",Dr. Degree
-http://77.222.34.38:1935/public/channel_22/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Drama
-http://37.192.143.70:4022/udp/239.1.21.56:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Drive
-http://178.124.183.5/hls/6UTCEG6ATO/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Eurocinema
-http://dmitry-tv.ru/his/itv_blrus/CH_EUROKINO.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Euronews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Food
-http://109.248.90.69:4044/udp/239.195.0.24:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Premium Food
-http://178.124.183.5/hls/BCPKKUK5NT/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",Food Premium HD
-http://178.124.183.14:80/hls/BCPKKUK5NT/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Aesculapius TV
-http://46.175.163.130:7000/Eskulap
-#EXTINF:-1 group-title="ReMy_WORLD",Espreso TV
-http://api.tv.ipnet.ua:80/api/v1/manifest/2007567821.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",COUNTRY LIFE
-http://109.248.90.69:4044/udp/239.195.1.78:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Country
-http://strm.yandex.ru/kal/zagorod/zagorod0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Country
-http://ott-cdn.ucom.am/s31/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Zoo
-http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/731/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",IKS TV
-http://ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",ITV Crimea
-http://195.5.108.14:1935/live/itv1/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",News
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Illusion +
-http://dmitry-tv.ru/his/itv_blrus/CH_ILLUZION_PLYUS.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Indian cinema
-http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",Indian cinema
-http://178.124.183.14:80/hls/CH_INDIYATV/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",India
-http://109.248.88.228:4044/udp/239.195.1.12:1234
-#EXTINF:-1 group-title="ReMy_WORLD",History
-http://46.32.68.167/s/live/419/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",K16 (Sarov)
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",MOVIE PREMIERE HD
-http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",CINEMA
-http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",KITCHEN TV
-http://178.124.183.5/hls/EPX2UEHLPK/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",Katun 24
-http://dmitry-tv.ru/his/yatv/CH_KATUN24.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Katun 24
-http://83.246.178.12:81/udp/239.54.5.147:1224
-#EXTINF:-1 group-title="ReMy_WORLD",Kiev TV
-http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Movie TV
-http://195.162.90.141:8080/ca11d23839ef9e958ff6a6cd020f6e7d
-#EXTINF:-1 group-title="ReMy_WORLD",Movie Comedy
-http://109.95.47.249∗5055/udp/239.0.0.19:4000
-#EXTINF:-1 group-title="ReMy_WORLD",Movie Comedy
-http://109.248.236.41:4433/udp/238.1.1.133:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Kinomix
-http://dmitry-tv.ru/his/itv_blrus/CH_KINOMIKS.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Kinomix HD
-http://176.101.120.183:1234/udp/239.255.128.85:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Film screening
-http://37.192.143.70:4022/udp/239.1.21.20:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Film screening 2 HD
-http://autopilot.myowntv.org:80/content/35448/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Movie Premium HD
-http://188.35.9.26:14051/udp/238.0.14.2:69000
-#EXTINF:-1 group-title="ReMy_WORLD",Movie premiere
-http://109.248.236.41:4433/udp/238.1.1.19:1234
-#EXTINF:-1 group-title="ReMy_WORLD",The movie family
-http://178.124.183.14:80/hls/FEDXG8XPOR/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Newsreel
-http://109.248.236.41:4433/udp/238.1.1.57:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Movie Hit
-http://dmitry-tv.ru/his/itv_blrus/CH_KINOHIT.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Kiev TV
-http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Movie Classic
-http://dmitry-tv.ru/his/yatv/CH_MOVIECLASSIC.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Classic Movie HD
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Movie classic
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Comedy TV
-http://46.180.99.15:81/udp/239.255.42.43:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Horse World
-http://188.35.9.5:10007/stolen/162z/parasite.install
-#EXTINF:-1 group-title="ReMy_WORLD",Horse World HD
-http://95.67.17.105:8812/http/185.160.90.17:19124/0e27364911ec70c34f39a3e29e8f1ea7
-#EXTINF:-1 group-title="ReMy_WORLD",Crimea 24
-http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Who Is Who
-http://78.111.93.102DUC3022/udp/225.101.15.53:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Kitchen TV
-http://dmitry-tv.ru/his/itv_blrus/CH_KUHNYATV.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Favorite TV
-http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",МАТЧ! HD
-http://46.32.68.167/s/live/939/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",МАТЧ! АРЕНА
-http://46.32.68.167/s/live/506/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",MATCH! GAME HD
-http://178.163.84.233:4022/udp/234.0.0.6:2000
-#EXTINF:-1 group-title="ReMy_WORLD",MATCH! PLANET
-http://178.124.183.5/hls/CH_MATCHPLANETA/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",WORLD Premium
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",SERIES WORLD
-http://strm.yandex.ru/kal/mirseriala/mirseriala0_43_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",MEN'S MOVIE
-http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",World
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",World 24
-http://sc.id-tv.kz/Mir24_38_39.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",World 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Premium World
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",World of Hobbies
-http://dmitry-tv.ru/his/yatv/CH_MIRUVLECHENIY.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Lots of TV
-http://109.248.88.228:4044/udp/239.195.1.64:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Marine
-http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/742/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Moscow 24
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Moscow 24
-http://109.248.90.69:4044/udp/239.195.0.94:1234
-#EXTINF:-1 group-title="ReMy_WORLD",My Planet
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",My Planet
-http://dmitry-tv.ru/his/itv_blrus/CH_MOYAPLANETA.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",My Planet HD
-http://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Men's Cinema
-http://dmitry-tv.ru/his/itv_blrus/CH_MUZHSKOEKINO.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Male
-http://46.32.68.167/s/live/805/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",НСТ
-http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",НТВ Мир
-http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",NTV Series
-http://188.35.9.26:11031/udp/150t
-#EXTINF:-1 group-title="ReMy_WORLD",NTV Style
-http://176.101.120.183:1234/udp/239.255.128.128:1234
-#EXTINF:-1 group-title="ReMy_WORLD",NTS (Sevastopol)
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Present
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Present HD
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Present HD
-http://dmitry-tv.ru/his/CH_NVREMYAHD.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Science
-http://178.124.183.5/hls/LWWBCKZAPZ/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",Science
-http://178.124.183.14:80/hls/LWWBCKZAPZ/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Science 2.0
-http://185.22.183.151:8085/media/hls_183_151/nauka/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Our Detective HD
-http://95.67.17.105:8812/http/185.160.90.17:19124/c036038a436e68d08d953b35d54b94ae
-#EXTINF:-1 group-title="ReMy_WORLD",Our Home
-http://85.234.33.60/stream/c11.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Our Home
-http://188.35.9.11:21161/udp/187u
-#EXTINF:-1 group-title="ReMy_WORLD",Our Kinoroman HD
-http://95.67.17.105:8812/http/185.160.90.17:19124/dbf028f8ec1b881f63c9321bd55fb2eb
-#EXTINF:-1 group-title="ReMy_WORLD",Our Favorite Movie
-http://178.124.183.14:80/hls/CH_NASHEKINO/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Our New Movie
-http://dmitry-tv.ru/his/itv_blrus/CH_NASHENOVOEKINO.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Our favorite
-http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Unknown planet
-http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",New World
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",ОТВ
-http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",OTV
-http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",OTV 24
-http://dmitry-tv.ru/his/yatv/CH_OTV24.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",OTV Chelyabinsk
-http://188.35.9.5:10007/stolen/218n/parasite.install
-#EXTINF:-1 group-title="ReMy_WORLD",OTP
-http://46.32.68.167/s/live/9/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",OTC
-http://176.101.224.21:8080/udp/239.195.41.165:1234
-#EXTINF:-1 group-title="ReMy_WORLD",OTC HD
-http://176.62.191.181:19002/dop20309/ots/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Public TV
-http://85.238.112.40:8810/hls_sec/239.17.75.33-.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Bastion
-http://185.114.136.25/oplot-tv
-#EXTINF:-1 group-title="ReMy_WORLD",Bastion
-http://185.114.136.25/oplot-tv
-#EXTINF:-1 group-title="ReMy_WORLD",Weapon
-http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Weapon
-http://dmitry-tv.ru/his/itv_blrus/CH_ORUZHIE.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Open World
-http://178.163.122.244:4022/udp/234.0.0.238:2000
-#EXTINF:-1 group-title="ReMy_WORLD",Hunting and fishing
-http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",Hunter and Fisherman
-http://ott-cdn.ucom.am/s55/04.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Hunter and Fisherman HD
-http://dmitry-tv.ru/his/itv_blrus/CH_OHOTNIKIRYBOLOVHD.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",FIRST VEGETARIAN
-http://strm.yandex.ru/kal/1vegetarian_supres/1vegetarian_supres0_2011_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Pepper
-http://37.193.58.164:4022/udp/239.1.15.14:1234
-#EXTINF:-1 group-title="ReMy_WORLD",Premiere
-http://live.planeta-online.tv:1935/public/smil:channel_5.smil/chunklist_w1606083291_b858000.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",TV Premiere
-http://live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Adventure HD
-http://ott-cdn.ucom.am/s99/04.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Direct
-http://api.tv.ipnet.ua:80/api/v1/manifest/1293294600.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Direct HD
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Direct HD
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Friday
-http://gorod.tv/s/live/16/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
-#EXTINF:-1 group-title="ReMy_WORLD",Channel Five
-http://gorod.tv/s/live/5/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
-#EXTINF:-1 group-title="ReMy_WORLD",Channel Five
-http://178.163.24.181:4022/udp/234.0.0.205:2000
-#EXTINF:-1 group-title="ReMy_WORLD",RBC
-http://strm.yandex.ru/kal/rbc_supres/rbc_supres0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",RBC
-http://178.163.24.181:4022/udp/234.0.0.151:2000
-#EXTINF:-1 group-title="ReMy_WORLD",REN TV HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",RUSSIAN ILLUSION
-http://178.124.183.5/hls/CMV4SNACFQ/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",RUSSIAN ROMAN
-http://188.35.9.5:10007/stolen/127k/parasite.install
-#EXTINF:-1 group-title="ReMy_WORLD",Ren TV HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Native Movie
-http://178.124.183.14:80/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Native movie
-http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
-#EXTINF:-1 group-title="ReMy_WORLD",Russia 1
-http://hls-mycdn01792630458.cdnvideo.ru/mycdn01792630458/chechnyatoday/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Russia 1
-http://46.32.68.167/s/live/2/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Russia 24
-http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r24.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Russia 24
-http://ott-cdn.ucom.am/s21/04.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Russia To
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Russian Bestseller
-http://ott-cdn.ucom.am/s52/03.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Russian Illusion
-http://178.124.183.5/hls/CMV4SNACFQ/variant.m3u8?version=2
-#EXTINF: -1 group-title = "ReMy_WORLD", Russian Roman HD
-http://188.35.9.5:10007/stolen/127k/parasite.install
-#EXTINF:-1 group-title="ReMy_WORLD",СТС
-http://gorod.tv/s/live/13/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
-#EXTINF:-1 group-title="ReMy_WORLD",СТС Love
-http://46.32.68.167/s/live/807/86.169.51.136/0/0.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", St. Petersburg
-http://188.242.199.174:81/udp/239.239.3.67/10239
-#EXTINF: -1 group-title = "ReMy_WORLD", Top Secret HD
-http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovsec_supres/sovsec_supres0_54_720p.json/index-v1-a1.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Soviet Cinema
-http://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_480p.json/index-v1-a1.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Soviet Cinema
-http://178.124.183.5/hls/CH_SOVKINO/variant.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Fear HD
+#EXTINF: -1 group-title = "ReMy_WORLD",Fear HD
 http://what.strah.video/hls/what.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Scary HD
+#EXTINF: -1 group-title = "ReMy_WORLD",Scary HD
 http://91.212.80.14/channel/226.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Super
+#EXTINF: -1 group-title = "ReMy_WORLD",Super
 http://212.29.231.242:8080/btv_353/mpegts
-#EXTINF: -1 group-title = "ReMy_WORLD", Super
+#EXTINF: -1 group-title = "ReMy_WORLD",Super
 http://46.180.99.15:81/udp/239.255.42.120:1234
-#EXTINF: -1 group-title = "ReMy_WORLD", TIC (Odessa)
+#EXTINF: -1 group-title = "ReMy_WORLD",TIC (Odessa)
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", TV Center
+#EXTINF: -1 group-title = "ReMy_WORLD",TV Center
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", TV-3
+#EXTINF: -1 group-title = "ReMy_WORLD",TV-3
 http://gorod.tv/s/live/15/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
-#EXTINF: -1 group-title = "ReMy_WORLD", TV3
+#EXTINF: -1 group-title = "ReMy_WORLD",TV3
 http://178.124.183.13/hls/KLQQ9ECGSQ/bw1200000/playlist.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", TVC
+#EXTINF: -1 group-title = "ReMy_WORLD",TVC
 http://ott-cdn.ucom.am/s54/04.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", TON
+#EXTINF: -1 group-title = "ReMy_WORLD",TON
 http://strm.yandex.ru/kal/tnomer_supres/tnomer_supres0_2011_480p.json/index-v1-a1.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", TNT 4
+#EXTINF: -1 group-title = "ReMy_WORLD",TNT 4
 http://ott-cdn.ucom.am/s100/04.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Your Home
+#EXTINF: -1 group-title = "ReMy_WORLD",Your Home
 http://178.163.24.181:4022/udp/234.0.0.106:2000
-#EXTINF: -1 group-title = "ReMy_WORLD", Telecafe
+#EXTINF: -1 group-title = "ReMy_WORLD",Telecafe
 http://178.163.24.181:4022/udp/234.0.0.249:2000
-#EXTINF: -1 group-title = "ReMy_WORLD", TV Travel
+#EXTINF: -1 group-title = "ReMy_WORLD",TV Travel
 http://ott-cdn.ucom.am/s71/index.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Techno 24
+#EXTINF: -1 group-title = "ReMy_WORLD",Techno 24
 http://178.124.183.4:80/hls/ZIVFRAFR2I/variant.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Number
+#EXTINF: -1 group-title = "ReMy_WORLD",Number
 https://strm.yandex.ru/kal/tnomer_supres/tnomer_supres0_2011_480p.json/index-v1-a1.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Trophy
+#EXTINF: -1 group-title = "ReMy_WORLD",Trophy
 http://88.216.8.122:8080/trofey/index.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", HOME
+#EXTINF: -1 group-title = "ReMy_WORLD",HOME
 http://178.124.183.5/hls/XMC4NSRVN9/variant.m3u8?version=2
-#EXTINF: -1 group-title = "ReMy_WORLD", Ukraine
+#EXTINF: -1 group-title = "ReMy_WORLD",Ukraine
 http://78.26.128.52:6666
-#EXTINF: -1 group-title = "ReMy_WORLD", Sci-Fi HD
+#EXTINF: -1 group-title = "ReMy_WORLD",Sci-Fi HD
 http://s2.myowntv.org/hls/what.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Fauna
+#EXTINF: -1 group-title = "ReMy_WORLD",Fauna
 http://195.138.68.58:64040/udp/239.2.174.91:1234
-#EXTINF: -1 group-title = "ReMy_WORLD", Phoenix Plus Movie
+#EXTINF: -1 group-title = "ReMy_WORLD",Phoenix Plus Movie
 http://uiptv.do.am/1ufc/229011129/playlist.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Central Television
+#EXTINF: -1 group-title = "ReMy_WORLD",Central Television
 http://ott-cdn.ucom.am/s20/04.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", CHE!
+#EXTINF: -1 group-title = "ReMy_WORLD",CHE!
 http://46.32.68.167/s/live/802/86.169.51.136/1/0.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", state of emergency.INFO
+#EXTINF: -1 group-title = "ReMy_WORLD",state of emergency.INFO
 http://109.68.40.67/life/magnolia.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", state of emergency.INFO
+#EXTINF: -1 group-title = "ReMy_WORLD",state of emergency.INFO
 http://109.68.40.67/life/magnolia.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Che
+#EXTINF: -1 group-title = "ReMy_WORLD",Che
 http://109.95.47.249∗5055/udp/239.0.0.43-00-00000
-#EXTINF: -1 group-title = "ReMy_WORLD", Eureka
+#EXTINF: -1 group-title = "ReMy_WORLD",Eureka
 http://ott-cdn.ucom.am/s44/index.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Express
+#EXTINF: -1 group-title = "ReMy_WORLD",Express
 http://serv25.vintera.tv:8081/expres_penza/penzatv/chunks.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", S (+7)
+#EXTINF: -1 group-title = "ReMy_WORLD",S (+7)
 http://194.125.255.9:81/udp/239.100.2.25:1234
-#EXTINF: -1 group-title = "ReMy_WORLD", Jewel
+#EXTINF: -1 group-title = "ReMy_WORLD",Jewel
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka/playlist.m3u8
-#EXTINF: -1 group-title = "ReMy_WORLD", Ugra
+#EXTINF: -1 group-title = "ReMy_WORLD",Ugra
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
@@ -2862,8 +2142,18 @@ http://185.150.27.125:9981/stream/channelid/1599816524?ticket=CE46232894BB92823F
 #EXTINF:-1 group-title="ReMy_U.S.A",ReMy_U.S.A
 ReMy_U.S.A
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="ReMy_U.S.A",23 ABC (KERO)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",Sky-MoviesFamily
+http://95.170.215.118:80/hls/m3u8/Sky-MoviesFamily.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",Sky-MoviesDrama
+http://95.170.215.118:80/hls/m3u8/Sky-MoviesDrama.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",Sky-MoviesAction
+http://95.170.215.118:80/hls/m3u8/Sky-MoviesAction.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",Sky-MoviesPremie
+http://95.170.215.118:80/hls/m3u8/Sky-MoviesPremie.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",Sky-Spo-football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",Sky-MoviesDisney
+http://95.170.215.118:80/hls/m3u8/Sky-MoviesDisney.m3u8
 #EXTINF:-1 group-title="ReMy_U.S.A",ADVENTURE
 http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca670f6593a5d78f0e85aed/featuredImage.jpg" group-title="ReMy_U.S.A",BET
@@ -2924,6 +2214,8 @@ http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="ReMy_U.S.A",7News Boston (WHDH)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="ReMy_U.S.A",23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" group-title="ReMy_U.S.A",ABC 10 Miami FL (WPLG)
 http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="ReMy_U.S.A",ABC 2 Baton Rouge LA (WBRZ-HD)
@@ -3406,6 +2698,8 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
 http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zJ5idav.jpg" group-title="ReMy_U.S.A",It’s At The Movies
 https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",Inspiration TV (USA)
+http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/pHJm3I0.png" group-title="ReMy_U.S.A",JBS
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/1HJraea.png" group-title="ReMy_U.S.A",Jewelry Television
@@ -4228,6 +3522,556 @@ http://188.35.9.15:21031/udp/046e
 http://188.35.9.15:21131/udp/137a
 #EXTINF:-1 group-title="ReMy_RUSSIAN",ZIK HD
 http://188.35.9.15:3030/udp/131e
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",3AW Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",43 channel HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",49 channel
+http://37.194.184.105:81/udp/239.1.10.8:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",4BC Brisbane
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",4U occidental
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",7 Channel HD (Odessa)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",gorod.tv 78
+http://gorod.tv/s/live/22/ssiptv/0/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Aesculapius TV
+http://46.175.163.130:7000/Eskulap
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Amedia 1
+http://89.223.6.7/amedia/mono.m3u8?token=yugtelset
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Amedia 2
+http://89.223.6.7/amedia-2/mono.m3u8?token=yugtelset
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Amedia HBO
+http://178.163.89.138:4022/udp/234.0.0.169:2000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Amedia Hit
+http://46.32.68.167/s/live/210/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Amedia Premium
+http://178.163.14.190:4022/udp/234.0.0.209:2000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Amedia Premium HD
+http://178.124.183.14:80/hls/CH_AMEDIAPREMIUM/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Auto 24
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/538/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Auto Plus
+http://109.95.47.249/105055/udp/239.0.0.137-00-00000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Bastion
+http://185.114.136.25/oplot-tv
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Bastion
+http://185.114.136.25/oplot-tv
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",BBC World News (EN)
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Beaver
+http://46.180.99.15:81/udp/239.255.42.207:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Beaver
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/725/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Bollywood HD
+http://178.163.47.249:4022/udp/234.0.0.195:2000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Bolt
+http://178.124.183.5/hls/CH_BOLT/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",BOLT
+http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Brodilo.TV
+http://brodilo.tv/channel.php
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",CBN News
+http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",CGTN 
+http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",channel 47
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Channel 5 (Ukraine)
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Channel 5
+http://gorod.tv/s/live/5/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",channel 78
+http://46.32.68.167/s/live/22/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",CINEMA
+http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Classic Movie HD
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Comedy Central/VIVA
+http://31.177.62.139:8011/play/s27
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Comedy TV
+http://46.180.99.15:81/udp/239.255.42.43:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Cottage
+http://195.138.78.66:8001/udp/239.2.153.73:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Country
+http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Country
+http://strm.yandex.ru/kal/zagorod/zagorod0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",COUNTRY LIFE
+http://109.248.90.69:4044/udp/239.195.1.78:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Crimea 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Da Vinci
+http://213.174.8.7:11111/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Direct HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Direct HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Discount
+http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Discovery Channel
+http://109.248.236.41:4433/udp/238.1.1.124:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Discovery Channel
+http://213.174.8.7:8000/play/24/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Discovery Science
+http://109.95.47.249:55055/udp/239.0.0.48:4000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Discovery Showcase HD
+http://185.22.183.155:8085/media/hls_183_155/discov_showcasehd/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Doctor
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Doctor
+http://178.163.24.181:4022/udp/234.0.0.232:2000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",DocuBox HD
+http://195.138.78.66:8001/udp/239.2.153.110:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",DR.DEGREE
+http://live.planeta-online.tv:1935/public/smil:channel_22.smil/chunklist_b858000.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Dr.Degree
+http://77.222.34.38:1935/public/channel_22/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Drama
+http://37.192.143.70:4022/udp/239.1.21.56:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Drive
+http://178.124.183.5/hls/6UTCEG6ATO/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",DTX
+http://46.32.68.167/s/live/410/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",DTX
+http://46.32.68.167/s/live/410/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",DTX HD
+http://212.12.194.10/dtxhd/live.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Earth TV
+https://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",EARTH TV [WebCam]
+http://strm.yandex.ru/kal/worldlife/worldlife0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Epic Drama HD
+http://46.37.210.19:34040/udp/238.39.40.213:5000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Epoque
+http://195.138.79.232:4022/udp/239.0.251.45:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Espreso TV
+http://api.tv.ipnet.ua:80/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Eurocinema
+http://dmitry-tv.ru/his/itv_blrus/CH_EUROKINO.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",EUROSPORT 2
+http://109.248.236.41:4433/udp/238.1.1.115:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Favorite TV
+http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Film Box
+http://195.138.78.66:8001/udp/239.2.153.106:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Film screening
+http://37.192.143.70:4022/udp/239.1.21.20:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Film screening 2 HD
+http://autopilot.myowntv.org:80/content/35448/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Filmzone ATV
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",FIRST VEGETARIAN
+http://strm.yandex.ru/kal/1vegetarian_supres/1vegetarian_supres0_2011_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Fishing Dialogs
+http://strm.yandex.ru/kal/dialogi/dialogi0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Food
+http://109.248.90.69:4044/udp/239.195.0.24:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Food Network
+http://46.180.99.15:81/udp/239.255.42.201:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Food Premium HD
+http://178.124.183.14:80/hls/BCPKKUK5NT/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",FoodMan Club
+https://strm.yandex.ru/kal/joycook/joycook0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Fox
+http://178.124.183.5/hls/CH_FOX/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",FOX
+http://dmitry-tv.ru/his/itv_blrus/CH_FOX.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Fox Life
+http://178.124.183.5/hls/CH_FOXL/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",FOX Life
+http://dmitry-tv.ru/his/itv_blrus/CH_FOXLIFE.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",France 24
+http://dmitry-tv.ru/his/yatv/CH_FRANCE24.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Friday
+http://gorod.tv/s/live/16/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Galaxy
+http://178.124.183.5/hls/CH_GALAXY/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Galaxy
+http://178.124.183.14:80/hls/CH_GALAXY/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Glazella HD
+http://188.242.237.246:65535/udp/239.239.3.72:5239
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Global Star
+http://109.248.88.228:4044/udp/239.195.0.60:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",HBO HD
+http://109.248.236.41:4433/udp/238.1.1.150:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",НСТ
+http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",HDL
+http://78.111.93.102:53022/udp/225.101.15.16:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",History
+http://46.32.68.167/s/live/419/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Hollywood
+http://46.32.68.167/s/live/256/86.169.51.136/0/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Horse World
+http://188.35.9.5:10007/stolen/162z/parasite.install
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Horse World HD
+http://95.67.17.105:8812/http/185.160.90.17:19124/0e27364911ec70c34f39a3e29e8f1ea7
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Hunter and Fisherman
+http://ott-cdn.ucom.am/s55/04.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Hunter and Fisherman HD
+http://dmitry-tv.ru/his/itv_blrus/CH_OHOTNIKIRYBOLOVHD.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Hunting and fishing
+http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",ICTV
+http://195.162.90.141:8080/d85ab661beb3f234a4e840242fa1d6fa
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",IKS TV
+http://ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Illusion +
+http://dmitry-tv.ru/his/itv_blrus/CH_ILLUZION_PLYUS.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",In Animal World HD
+http://178.163.24.181:4022/udp/234.0.0.97:2000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",India
+http://109.248.88.228:4044/udp/239.195.1.12:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Indian cinema
+http://178.124.183.14:80/hls/CH_INDIYATV/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Indian cinema
+http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Inter
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",ITV Crimea
+http://195.5.108.14:1935/live/itv1/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Inter
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",JOY COOK
+http://strm.yandex.ru/kal/joycook/joycook0_169_480p.json/index-v1-a1.m3u8?s-m-a-k.ru/
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",K16 (Sarov)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Katun 24
+http://dmitry-tv.ru/his/yatv/CH_KATUN24.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Katun 24
+http://83.246.178.12:81/udp/239.54.5.147:1224
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Kiev TV
+http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",KINO 24
+http://82.193.71.93/Kino24LV/video.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Kinoman ATV
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Kinomix
+http://dmitry-tv.ru/his/itv_blrus/CH_KINOMIKS.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Kinomix HD
+http://176.101.120.183:1234/udp/239.255.128.85:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",KITCHEN TV
+http://178.124.183.5/hls/EPX2UEHLPK/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Kitchen TV
+http://dmitry-tv.ru/his/itv_blrus/CH_KUHNYATV.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",KVN HD
+http://hls.goodgame.ru:8080/hls/172148.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Leomax
+http://tvshops.bonus-tv.ru:80/cdn/leomax/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Lots of TV
+http://109.248.88.228:4044/udp/239.195.1.64:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Male
+http://46.32.68.167/s/live/805/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Marine
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/742/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Match! HD
+http://46.32.68.167/s/live/939/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Match! Arena
+http://46.32.68.167/s/live/506/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",MATCH! GAME HD
+http://178.163.84.233:4022/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",MATCH! PLANET
+http://178.124.183.5/hls/CH_MATCHPLANETA/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Men's Cinema
+http://dmitry-tv.ru/his/itv_blrus/CH_MUZHSKOEKINO.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",MEN'S MOVIE
+http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Moscow 24
+http://109.248.90.69:4044/udp/239.195.0.94:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Moscow 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie Classic
+http://dmitry-tv.ru/his/yatv/CH_MOVIECLASSIC.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie classic
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie Comedy
+http://109.248.236.41:4433/udp/238.1.1.133:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie Comedy
+http://109.95.47.249%E2%88%975055/udp/239.0.0.19:4000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie Hit
+http://dmitry-tv.ru/his/itv_blrus/CH_KINOHIT.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie premiere
+http://109.248.236.41:4433/udp/238.1.1.19:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",MOVIE PREMIERE HD
+http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie Premium HD
+http://188.35.9.26:14051/udp/238.0.14.2:69000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie Premium HD 
+http://188.35.9.11:2017
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Movie TV
+http://195.162.90.141:8080/ca11d23839ef9e958ff6a6cd020f6e7d
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",MTV
+http://31.177.62.139:8011/play/s28
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",MTV,NIck,CC
+http://31.177.62.139:8011/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",My Planet
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",My Planet
+http://dmitry-tv.ru/his/itv_blrus/CH_MOYAPLANETA.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",My Planet HD
+http://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Nano
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Naroddip
+http://hls.goodgame.ru/hls/33226.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Nasa TV HD
+http://188.35.9.5:10020/stolen/483x/hot.dll
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Nat Geo Wild
+http://dmitry-tv.ru/his/itv_blrus/CH_NATGEO_WILD.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Nat Geo Wild
+http://188.35.9.5:10020/stolen/487n/hot.dll
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Nat Geo Wild
+http://188.35.9.5:10020/stolen/487n/hot.dll
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Nat Geo Wild HD
+http://46.32.68.167/s/live/915/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",National Geographic
+http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",National Geographic HD
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Native Movie
+http://178.124.183.14:80/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Native movie
+http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",New World
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",News
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Newsreel
+http://109.248.236.41:4433/udp/238.1.1.57:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",NTS (Sevastopol)
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",NTV Series
+http://188.35.9.26:11031/udp/150t
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",NTV Style
+http://176.101.120.183:1234/udp/239.255.128.128:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",NTV WORLD
+http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Ocean TV (HD)
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Open World
+http://178.163.122.244:4022/udp/234.0.0.238:2000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",OTC
+http://176.101.224.21:8080/udp/239.195.41.165:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",OTC HD
+http://176.62.191.181:19002/dop20309/ots/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",OTP
+http://46.32.68.167/s/live/9/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",OTV (Dnipro)
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",OTV 24
+http://dmitry-tv.ru/his/yatv/CH_OTV24.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",OTV Chelyabinsk
+http://188.35.9.5:10007/stolen/218n/parasite.install
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our Detective HD
+http://95.67.17.105:8812/http/185.160.90.17:19124/c036038a436e68d08d953b35d54b94ae
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our favorite
+http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our Favorite Movie
+http://178.124.183.14:80/hls/CH_NASHEKINO/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our Home
+http://188.35.9.11:21161/udp/187u
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our Home
+http://85.234.33.60/stream/c11.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our Kinoroman HD
+http://95.67.17.105:8812/http/185.160.90.17:19124/dbf028f8ec1b881f63c9321bd55fb2eb
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Our New Movie
+http://dmitry-tv.ru/his/itv_blrus/CH_NASHENOVOEKINO.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Paramount Comedy
+http://46.32.68.167/s/live/250/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Paramount Comedy
+http://109.95.47.249:55055/udp/239.0.0.101:4000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Pepper
+http://37.193.58.164:4022/udp/239.1.15.14:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Premiere
+http://live.planeta-online.tv:1935/public/smil:channel_5.smil/chunklist_w1606083291_b858000.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Premium Food
+http://178.124.183.5/hls/BCPKKUK5NT/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Premium World
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Present
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Present HD
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Present HD
+http://dmitry-tv.ru/his/CH_NVREMYAHD.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Pro 100 TV
+http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",pryamyi
+http://api.tv.ipnet.ua:80/api/v1/manifest/1293294600.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Public TV
+http://85.238.112.40:8810/hls_sec/239.17.75.33-.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Rain
+http://dmitry-tv.ru/his/yatv/CH_DOZHD.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Rain
+https://37.9.112.35/kal/tvrain/tvrain0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Rain
+http://dmitry-tv.ru/his/yatv/CH_DOZHD.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Rain HD
+http://5.59.200.247:81/udp/239.72.4.30:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",REN TV HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Renome
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Renome
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",RTK 1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",RTVI
+http://dmitry-tv.ru/his/itv_blrus/CH_RTVi.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russia 1
+http://46.32.68.167/s/live/2/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russia 1
+http://hls-mycdn01792630458.cdnvideo.ru/mycdn01792630458/chechnyatoday/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russia 24
+http://ott-cdn.ucom.am/s21/04.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russia 24
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russia To
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russian Bestseller
+http://ott-cdn.ucom.am/s52/03.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russian Extreme
+http://178.163.24.181:4022/udp/234.0.0.173:2000
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russian Illusion
+http://178.124.183.5/hls/CMV4SNACFQ/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russian Roman HD
+http://188.35.9.5:10007/stolen/127k/parasite.install
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Russkij illuzion (640x360p25 @ 1200 kbps)
+http://178.124.183.5/hls/CMV4SNACFQ/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Science
+http://178.124.183.5/hls/LWWBCKZAPZ/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Science
+http://178.124.183.14:80/hls/LWWBCKZAPZ/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Science 2.0
+http://185.22.183.151:8085/media/hls_183_151/nauka/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",SERIES WORLD
+http://strm.yandex.ru/kal/mirseriala/mirseriala0_43_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Shop 24
+http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Shop and Show
+http://46.180.99.15:81/udp/239.255.42.206:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Shopping Live
+http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Sintel
+http://51.15.253.75:8008/manifest.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Sony Sci-Fi
+http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Sony Sci-Fi
+http://178.124.183.14:80/hls/EDVYQYGHF8/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Sony Turbo
+http://46.32.68.167/s/live/260/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Soviet Cinema
+http://178.124.183.5/hls/CH_SOVKINO/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Soviet Cinema
+http://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",STAR CINEMA
+http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Star Cinema
+http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Star Family
+http://178.124.183.5/hls/CH_FAMILY/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",St. Petersburg
+http://188.242.199.174:81/udp/239.239.3.67/10239
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Tasty TV
+http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Teletravel HD
+http://95.67.17.105:8812/http/185.160.90.17:19124/1fdcd927e96ec217b44ac6fbf29c770e
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",The movie family
+http://178.124.183.14:80/hls/FEDXG8XPOR/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Through the Eyes of a Tourist
+http://176.62.191.181:19000/dop20503/glazamiturista/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Top Secret HD
+http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/sovsec_supres/sovsec_supres0_54_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Top Shop
+http://46.181.229.228:81/udp/239.255.42.148:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Travel + Adventure
+http://37.192.143.70:4022/udp/239.1.5.7:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Travel Channel
+http://188.35.9.11:21031/udp/038m
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Travel Channel HD
+http://46.32.68.167/s/live/925/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Travel+Adventure
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/850/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV Dielli
+http://51.15.180.159:8081/play/hls/dielli/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV Premiere
+http://live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV Showcase
+http://46.180.99.15:81/udp/239.255.42.127:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000
+http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000
+http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 ACTION
+http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 Action
+http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 Premium
+http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 Premium HD
+http://185.175.92.10:8080/vip_premiere/mono.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 World Kino
+http://188.35.9.26:5031/udp/112s
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 
+http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 
+http://dmitry-tv.ru/his/itv_blrus/CH_TV1000RUSKINO.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Unknown planet
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIASAT EXPLORE
+http://178.124.183.5/hls/JQQ83OBHTQ/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Viasat Explorer
+http://213.252.252.17/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIASAT HISTORY
+https://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Viasat History
+http://213.252.252.17/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Viasat Nature
+http://213.252.252.17/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIASAT NATURE
+http://178.124.183.5/hls/BN3FTDY3T8/variant.m3u8?version=2
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIP Comedy
+http://ott-cdn.ucom.am/s97/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",ViP Megahit
+http://188.35.9.11:2016
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIP Megahit HD
+http://188.35.9.11:2016
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Weapon
+http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Weapon
+http://dmitry-tv.ru/his/itv_blrus/CH_ORUZHIE.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Who Is Who
+http://78.111.93.102DUC3022/udp/225.101.15.53:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Wild
+http://109.248.88.228:4044/udp/239.195.1.138:1234
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",World
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",World 24
+http://sc.id-tv.kz/Mir24_38_39.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",World 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",World of Hobbies
+http://dmitry-tv.ru/his/yatv/CH_MIRUVLECHENIY.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",WORLD Premium
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",ZIK
+http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",Zoo
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/731/index.m3u8
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",ZOO TV
+http://109.171.7.31:81/udp/239.54.6.141:1224
+#EXTINF:-1 group-title="ReMy_RUSSIAN_2",ZOOM
+http://188.35.9.11:11062/f
 #EXTINF:-1 group-title="ReMy_LATINO",ReMy_LATINO
 ReMy_LATINO
 #EXTINF:-1 group-title="ReMy_LATINO",13 MAX TELEFE
@@ -4298,7 +4142,7 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_LATINO",CGTN E
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_LATINO", (18) CENTRAL TV - Chosica
+#EXTINF:-1 group-title="ReMy_LATINO",(18) CENTRAL TV - Chosica
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_LATINO",Cinefil WOWOW | SD
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
@@ -4384,7 +4228,7 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_LATINO",MEDIOS RIOJA
 http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
-#EXTINF:-1 group-title="ReMy_LATINO", INGLÉS - Mello TV
+#EXTINF:-1 group-title="ReMy_LATINO",INGLÉS - Mello TV
 https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_LATINO",MICROVISION DOMINICANA
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
@@ -4815,7 +4659,7 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/aNM8KfS.png" group-title="ReMy_NILESAT_ARABIC",Orient News
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="ReMy_NILESAT_ARABIC",Peace TV
-http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+http://peacetv.api.visionip.tv/live/AShttp/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="Sama Dubai ARB" tvg-name="Sama Dubai ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="ReMy_NILESAT_ARABIC",Sama Dubai
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="Sama Dubai ARB" tvg-name="Sama Dubai ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="ReMy_NILESAT_ARABIC",Sama Dubai
@@ -4870,7 +4714,7 @@ https://1drv.ws/u/s!AmlGjvQBird1gQa3Twms4PEWzmPd?e=XM56ZZ
 https://1drv.ws/u/s!AmlGjvQBird1gQn0DOp411xyvSo8?e=PHF6VA
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Müslüm Gürses feat. Rubato - İsyankar AAC
 https://1drv.ws/v/s!AmlGjvQBird1gQczNrD2btKomNWR?e=llYz9Z
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Cengiz Kurtoglu, Hakan Altun - Usta Cirak FulL
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Cengiz Kurtoglu,Hakan Altun - Usta Cirak FulL
 https://1drv.ws/u/s!AmlGjvQBird1eMLSwi9Z_3OS1Zw?e=e3vOE9
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Siteler Muzik ANGARA
 http://live.arkumedia.com:1935/sitelertv/sitelertv/chunklist.m3u8
