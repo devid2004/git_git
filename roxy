@@ -1885,15 +1885,9 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Grand Lille
 rtmp://str81.creacast.com/grandlilletv/high
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",H 3D Media
-http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",ILTV 
 rtmp://str81.creacast.com:80/iltv/high
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Israel 2
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Kanal 43
-http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",KCN1.rs
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",KCN 1
 http://212.200.102.3:5000/rtp/239.0.0.1:5000
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",KURIAKOS CINE
 http://c2.manasat.com:1935/kcine/kcine3/remy.m3u8
@@ -1911,11 +1905,11 @@ http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 http://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_2000000.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",|FR| LCI HD
 http://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",FILM SELECT [240p]
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",FILM SELECT 
 http://195.29.70.67/PLTV/88888888/224/3221226027/01.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",FILM SELECT [360p]
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",FILM SELECT 
 http://195.29.70.67/PLTV/88888888/224/3221226027/02.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",FILM SELECT [480p]
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",FILM SELECT 
 http://195.29.70.67/PLTV/88888888/224/3221226027/03.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",FILM SELECT [528p]
 http://195.29.70.67/PLTV/88888888/224/3221226027/04.m3u8
@@ -1949,11 +1943,11 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",HRT 4
 http://195.29.70.67/PLTV/88888888/224/3221226281/05.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",HRT 4 [240p]
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",HRT 4
 http://195.29.70.67/PLTV/88888888/224/3221226281/01.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",HRT 4 [360p]
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",HRT 4 
 http://195.29.70.67/PLTV/88888888/224/3221226281/02.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",HRT 4 [480p]
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",HRT 4 
 http://195.29.70.67/PLTV/88888888/224/3221226281/03.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",HRT 4 [528p]
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
@@ -1963,34 +1957,28 @@ http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226407/04.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",NB Comedy Channel
 http://195.29.70.89/PLTV/88888888/224/3221226407/04.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",News bar TV [240p]
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",News bar TV 
 http://195.29.70.67/PLTV/88888888/224/3221226407/01.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",News bar TV [360p]
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",News bar TV 
 http://195.29.70.67/PLTV/88888888/224/3221226407/02.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",News bar TV [480p]
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",News bar TV 
 http://195.29.70.67/PLTV/88888888/224/3221226407/03.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",News bar TV [only audio]
 http://195.29.70.67/PLTV/88888888/224/3221226407/05.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RTL
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RTL Hrvatska [240p]
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RTL Hrvatska 
 http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RTL Hrvatska [360p]
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RTL Hrvatska 
 http://195.29.70.67/PLTV/88888888/224/3221226195/02.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RTL Hrvatska [480p]
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RTL Hrvatska 
 http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RTL Hrvatska [only audio]
 http://195.29.70.67/PLTV/88888888/224/3221226195/05.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Locomotion
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Locomotion
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",LUX
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",LUX TV
 http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",MAGDEBURG
 http://62.113.210.250/medienasa-live/ok-magdeburg_high/ReMy.m3u8?bitrate=800
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Marti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",MDF.1
 http://62.113.210.250/medienasa-live/mdf1_high/remy.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Nova Era TV
@@ -2015,14 +2003,10 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RAI Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",rbw
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RBW
 http://62.113.210.250/medienasa-live/rbw_high/ReMy.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RCG Televisión LATINO
 http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Realitatea Tv
-http://46.20.136.59/live3/_definst_/realitatea/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Romania Tv
-http://46.20.136.59/live3/_definst_/rtv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Rrokum
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RTP 1
@@ -2031,24 +2015,18 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RTK1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",TELEMADRID
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Tirol
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Tvi Reality
-http://85.244.70.140:7000/play/a00x
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",TVI 24
-http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Travel TV Rus
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",TravelHD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Travel HD Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",Travel HD Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?hash=?
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",TravelHD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",TV+
 http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",TV5 MONDE
