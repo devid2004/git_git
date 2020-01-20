@@ -251,14 +251,14 @@
 #DESCRIPTION MONTE CARLO HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Mooz Dance HD
 #DESCRIPTION Mooz Dance HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768812494:MOOZ DANCE
-#DESCRIPTION MOOZ DANCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768812494:Mooz DANCE
+#DESCRIPTION Mooz DANCE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Mooz HD
 #DESCRIPTION Mooz HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044:MOOZ HD
-#DESCRIPTION MOOZ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768646553:MOOZ HITS
-#DESCRIPTION MOOZ HITS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044:Mooz HD
+#DESCRIPTION Mooz HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768646553:Mooz HITS
+#DESCRIPTION Mooz HITS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/247.m3u8/Level(1677721)?start=LIVE&end=END:Mooz RO
 #DESCRIPTION Mooz RO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8:MTV_Hits
@@ -281,8 +281,8 @@
 #DESCRIPTION MTV Norge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s29:MTV, NIck,CC
 #DESCRIPTION MTV, NIck,CC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpso.com%3a1936/hls/music1.m3u8:music1 gr
-#DESCRIPTION music1 gr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpso.com%3a1936/hls/music1.m3u8:Music1 gr
+#DESCRIPTION Music1 gr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/nasa:Music Box
 #DESCRIPTION Music Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.132.86/hls/mb_ua_2500.m3u8:Music Box UA
@@ -591,9 +591,9 @@
 #DESCRIPTION Djam Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
