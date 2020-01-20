@@ -175,8 +175,6 @@
 #DESCRIPTION DJING UNDERGROUND HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.212.74.3%3a8000/live/7514.m3u8:Eamar Music
 #DESCRIPTION Eamar Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8:Efecto TV
-#DESCRIPTION Efecto TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/043m:EU MUSIC HD
 #DESCRIPTION EU MUSIC HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/407664117?ticket=40005FBBD34F4C5D0D925929BE44C507C3FB775D&profile=pass:FEN TV
@@ -519,26 +517,26 @@
 #DESCRIPTION RetroTurk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//18463.live.streamtheworld.com/RETROTURK_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime:RetroTurk 2
 #DESCRIPTION RetroTurk 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radyoalaturka.com.tr%3a9100/;:Radyo Alaturka
-#DESCRIPTION Radyo Alaturka
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ahmetkaya.canliyayinda.com%3a9999/;:Radyo Ahmet Kaya
-#DESCRIPTION Radyo Ahmet Kaya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radyoavrasya.radyolarburada.com%3a1071/;:Radyo Avrasya Turk
-#DESCRIPTION Radyo Avrasya Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radyoalaturka.com.tr%3a9100/;:Radio Alaturka
+#DESCRIPTION Radio Alaturka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ahmetkaya.canliyayinda.com%3a9999/;:Radio Ahmet Kaya
+#DESCRIPTION Radio Ahmet Kaya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radyoavrasya.radyolarburada.com%3a1071/;:Radio Avrasya Turk
+#DESCRIPTION Radio Avrasya Turk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.97.59%3a80/beverwijk/studio/playlist.m3u8:Radio Beverwijk
 #DESCRIPTION Radio Beverwijk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radyo.cc.ankara.edu.tr%3a8089/;:Radyo ilef
-#DESCRIPTION Radyo ilef
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radyo.cc.ankara.edu.tr%3a8089/;:Radio ilef
+#DESCRIPTION Radio ilef
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.7.104/;:Radio Slow Time
 #DESCRIPTION Radio Slow Time
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin1.canliyayin.org%3a7424/;:Radyo 34
-#DESCRIPTION Radyo 34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sunucu2.radyolarburada.com%3a3636/;stream.mp3:Radyo Derman
-#DESCRIPTION Radyo Derman
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioturku.com%3a9400/;:Radyo Türkü-izmir
-#DESCRIPTION Radyo Türkü-izmir
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/35/:RADYO VOKAL
-#DESCRIPTION RADYO VOKAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin1.canliyayin.org%3a7424/;:Radio 34
+#DESCRIPTION Radio 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sunucu2.radyolarburada.com%3a3636/;stream.mp3:Radio Derman
+#DESCRIPTION Radio Derman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioturku.com%3a9400/;:Radio Türkü-izmir
+#DESCRIPTION Radio Türkü-izmir
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/35/:Radio VOKAL
+#DESCRIPTION Radio VOKAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dinle.slowkaradenizfm.com%3a9578/;:Slow Karadeniz FM
 #DESCRIPTION Slow Karadeniz FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.175.227.10/SUPER_FM_SC?/;stream.mp3:Super Fm
@@ -591,9 +589,9 @@
 #DESCRIPTION Djam Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
@@ -617,8 +615,8 @@
 #DESCRIPTION Ocean Ibiza Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.71.219%3a7412:Otvoreni radio
 #DESCRIPTION Otvoreni radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.sonicabroadcast.com%3a8750/;stream/1/:puraSonica
-#DESCRIPTION puraSonica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.sonicabroadcast.com%3a8750/;stream/1/:Pura Sonica
+#DESCRIPTION Pura Sonica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.250.77.9%3a8090:Schlagerparadies
 #DESCRIPTION Schlagerparadies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//HearMe.fm%3a8022/stream:The Very Best of Country
