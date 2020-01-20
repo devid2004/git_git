@@ -281,6 +281,8 @@
 #DESCRIPTION MTV Norge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s29:MTV, NIck,CC
 #DESCRIPTION MTV, NIck,CC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpso.com%3a1936/hls/music1.m3u8:music1 gr
+#DESCRIPTION music1 gr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/nasa:Music Box
 #DESCRIPTION Music Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.132.86/hls/mb_ua_2500.m3u8:Music Box UA
@@ -297,6 +299,8 @@
 #DESCRIPTION New Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.60.237.32%3a1935/live/nisville/playlist.m3u8:Nisville TV
 #DESCRIPTION Nisville TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.nrg91.gr%3a1935/onweb/live/master.m3u8:NRG91.gr TV
+#DESCRIPTION NRG91.gr TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge9.vedge.infomaniak.com/livecast/smil%3aenergytv.smil/manifest.m3u8:NRJ TV
 #DESCRIPTION NRJ TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8:NRJ TV
@@ -587,9 +591,9 @@
 #DESCRIPTION Djam Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
