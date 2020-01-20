@@ -271,6 +271,8 @@ https://sportscore.biz/lba/123/g5/beinsport1tur.m3u8
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",YENI MALATYA SPOR 
 http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Bein Sport 1 FHD
+http://95.170.215.101:80/hls/m3u8/Bein-S1-a58.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",beIN Sports 1
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",TRT Spor HD
@@ -385,6 +387,8 @@ http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",CDO
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv
+#EXTINF:-1 group-title="ReMy_SPORT",D Sport_HD
+http://49.44.124.179:80/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",D Sport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",D Sport
