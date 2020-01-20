@@ -103,6 +103,8 @@
 #DESCRIPTION UCAN KUS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s01.vpis.io/wmtv/wmtv.m3u8:WOMAN  KADIN TV
 #DESCRIPTION WOMAN  KADIN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/fanatik_livestream/smil%3afanatik.smil/chunklist_b996000.m3u8:Fanatik TV
+#DESCRIPTION Fanatik TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.39.105.79%3a1935/santraltv_925/santraltv_925/playlist.m3u8:YENI MALATYA SPOR
 #DESCRIPTION YENI MALATYA SPOR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8:TV4
