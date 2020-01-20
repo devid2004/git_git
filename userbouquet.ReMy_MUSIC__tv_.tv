@@ -91,6 +91,8 @@
 #DESCRIPTION Country FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8:CzWORKA
 #DESCRIPTION CzWORKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on:DeejayTv
+#DESCRIPTION DeejayTv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8:Deejay TV (IT)
 #DESCRIPTION Deejay TV (IT)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.onestreaming.com%3a8081/deltatv/live/playlist.m3u8:DELTA TV GREECE
@@ -187,6 +189,8 @@
 #DESCRIPTION First Music Channel Ru
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2300:First Music Channel Russia HD
 #DESCRIPTION First Music Channel Russia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8?fluxustv.m3u8:GENIAL TV
+#DESCRIPTION GENIAL TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.214.130.95%3a8080/live/stream.m3u8:Gigante TV
 #DESCRIPTION Gigante TV
 #SERVICE 4097:0:1:1157:0:0:0:0:0:0:rtmp%3a//glasdrine.cutuk.net%3a1935/3ghu788/GlasDrine:GLas Drine Music HD
@@ -201,10 +205,18 @@
 #DESCRIPTION HQM BALADAS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8:Ibiza Global TV
 #DESCRIPTION Ibiza Global TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cast-control.eu%3a1935/VitezevoTv/VitezevoTv/playlist.m3u8:I Dj Music Srbija Tv
+#DESCRIPTION I Dj Music Srbija Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5c913f7f32c25.streamlock.net/live/smil%3aimpact.smil/chunklist_w1009444843_b1120000_DVR_slEn.m3u8:IMPACT TV
 #DESCRIPTION IMPACT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rjtv.tv/live/smil%3arjtv.smil/playlist.m3u8:Javan TV
+#DESCRIPTION Javan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8:JUCE TV
 #DESCRIPTION JUCE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playout395.livestreamingcdn.com/live/Stream1/chunklist_w1161490152.m3u8:Kayhan TV HD
+#DESCRIPTION Kayhan TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live.m3u8:Keep It Country TV * UK
+#DESCRIPTION Keep It Country TV * UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/rtp/239.0.0.2%3a5000:Kcn 2 Tv
 #DESCRIPTION Kcn 2 Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/rtp/239.0.0.3%3a5000:Kcn 3 Tv
@@ -249,14 +261,22 @@
 #DESCRIPTION MOOZ HITS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/247.m3u8/Level(1677721)?start=LIVE&end=END:Mooz RO
 #DESCRIPTION Mooz RO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8:MTV_Hits
+#DESCRIPTION MTV_Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8:MTV_Hits
+#DESCRIPTION MTV_Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.2/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8:MTV_Hits
+#DESCRIPTION MTV_Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8:MTV (Latin America)
+#DESCRIPTION MTV (Latin America)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s28:MTV
-#DESCRIPTION MTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8:MTV
 #DESCRIPTION MTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on:MTV HD
 #DESCRIPTION MTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8:MTV (Latin America)
-#DESCRIPTION MTV (Latin America)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8:MTV
+#DESCRIPTION MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?sd=10&rebase=on:MTV Music
+#DESCRIPTION MTV Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8:MTV Norge
 #DESCRIPTION MTV Norge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s29:MTV, NIck,CC
@@ -309,20 +329,46 @@
 #DESCRIPTION Power TV HD (ARG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8:Q Music (NL)
 #DESCRIPTION Q Music (NL)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale51/canale51/chunklist_w1897160883.m3u8:RADIO 51
+#DESCRIPTION RADIO 51
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:radio-banovina
 #DESCRIPTION radio-banovina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/chunklist_w1052766946.m3u8:Radio Belllae monellaTV
+#DESCRIPTION Radio Belllae monellaTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w130186106.m3u8:Radio BirikinaTV
+#DESCRIPTION Radio BirikinaTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8:Radio Bruno
 #DESCRIPTION Radio Bruno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8:radio Country FM TV
 #DESCRIPTION radio Country FM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8:Radio Contact Vision
 #DESCRIPTION Radio Contact Vision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?:Radio Futuro Tv
+#DESCRIPTION Radio Futuro Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8:Radio Italia TV
 #DESCRIPTION Radio Italia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5bb65e9de3fdf.streamlock.net/live/RadiolinaTV/playlist.m3u8:Radio LinaTV
+#DESCRIPTION Radio LinaTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8:Radio Lombardia TV
+#DESCRIPTION Radio Lombardia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1
 #DESCRIPTION Radio M-1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist.m3u8:Radio PiterpanTV
+#DESCRIPTION Radio PiterpanTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/chunklist_w800169359.m3u8:Radio SorrrisoTV
+#DESCRIPTION Radio SorrrisoTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.224.142%3a1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8:Radio Tivu
 #DESCRIPTION Radio Tivu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash2.xdevel.com/rtptv/rtptv/playlist.m3u8:Radio TV Peloritana
+#DESCRIPTION Radio TV Peloritana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itv.streams.ovh/priggipesa/priggipesa/chunklist_w1272924610.m3u8:Radio TV Priggipesa
+#DESCRIPTION Radio TV Priggipesa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8:Radio Zero Tv
+#DESCRIPTION Radio Zero Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8:Radio TV USA
+#DESCRIPTION Radio TV USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4%3alivestreamTV/playlist.m3u8:Radio Weser TV Bremen
+#DESCRIPTION Radio Weser TV Bremen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8:RETRO
 #DESCRIPTION RETRO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.46.161.3/hls/sd.m3u8:ROMAN TV
@@ -541,9 +587,9 @@
 #DESCRIPTION Djam Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
