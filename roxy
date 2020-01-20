@@ -4859,6 +4859,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV,NIck,CC
 http://31.177.62.139:8011/play/s29
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Music1 gr
+http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Music Box
 http://213.81.153.221:8080/nasa
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Music Box UA
@@ -4881,6 +4883,8 @@ http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
 http://92.60.237.32:1935/live/nisville/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",NRJ TV
 http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",NRG91.gr TV
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Q'hubo TV
 http://st2.worldkast.com/8030/8030/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Ocko
