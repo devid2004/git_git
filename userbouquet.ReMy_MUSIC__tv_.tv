@@ -109,12 +109,12 @@
 #DESCRIPTION DSTV BG
 #SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:Duga TV
 #DESCRIPTION Duga TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-02-fta.m3u8:D-HOT
-#DESCRIPTION D-HOT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-02-fta.m3u8:DJING HOT
+#DESCRIPTION DJING HOT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-01-fta.m3u8:DJING HOT
 #DESCRIPTION DJING HOT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/28031-04.m3u8:DJing HOT Live
-#DESCRIPTION DJing HOT Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/28031-04.m3u8:DJING HOT Live
+#DESCRIPTION DJING HOT Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/27963-03.m3u8:DJING
 #DESCRIPTION DJING
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/27971-04.m3u8:DJING M
@@ -171,8 +171,8 @@
 #DESCRIPTION DJING SUMMER VIBES HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/u-27971-04.m3u8:DJING UNDERGROUND
 #DESCRIPTION DJING UNDERGROUND
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/u-27777-04.m3u8:DİJİNG UNDERGROUND HD
-#DESCRIPTION DİJİNG UNDERGROUND HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/u-27777-04.m3u8:DJING UNDERGROUND HD
+#DESCRIPTION DJING UNDERGROUND HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.212.74.3%3a8000/live/7514.m3u8:Eamar Music
 #DESCRIPTION Eamar Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8:Efecto TV
@@ -241,8 +241,8 @@
 #DESCRIPTION Melody Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//186.155.200.118%3a1935/live/MelodyChannel:Melody Channel
 #DESCRIPTION Melody Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/messinia/messinia/master.m3u8:messinia
-#DESCRIPTION messinia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/messinia/messinia/master.m3u8:MESSINIA
+#DESCRIPTION MESSINIA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//176.9.123.140%3a1935/messinia/messinia:MESSINIA WEB TV
 #DESCRIPTION MESSINIA WEB TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s35/index.m3u8:Mezzo
@@ -281,8 +281,8 @@
 #DESCRIPTION MTV Norge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s29:MTV, NIck,CC
 #DESCRIPTION MTV, NIck,CC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpso.com%3a1936/hls/music1.m3u8:Music1 gr
-#DESCRIPTION Music1 gr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpso.com%3a1936/hls/music1.m3u8:Music 1 GR
+#DESCRIPTION Music 1 GR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/nasa:Music Box
 #DESCRIPTION Music Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.132.86/hls/mb_ua_2500.m3u8:Music Box UA
@@ -299,8 +299,8 @@
 #DESCRIPTION New Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.60.237.32%3a1935/live/nisville/playlist.m3u8:Nisville TV
 #DESCRIPTION Nisville TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.nrg91.gr%3a1935/onweb/live/master.m3u8:NRG91.gr TV
-#DESCRIPTION NRG91.gr TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.nrg91.gr%3a1935/onweb/live/master.m3u8:NRG91.GR TV
+#DESCRIPTION NRG91.GR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge9.vedge.infomaniak.com/livecast/smil%3aenergytv.smil/manifest.m3u8:NRJ TV
 #DESCRIPTION NRJ TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8:NRJ TV
@@ -333,10 +333,10 @@
 #DESCRIPTION Power TV HD (ARG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8:Q Music (NL)
 #DESCRIPTION Q Music (NL)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale51/canale51/chunklist_w1897160883.m3u8:RADIO 51
-#DESCRIPTION RADIO 51
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:radio-banovina
-#DESCRIPTION radio-banovina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale51/canale51/chunklist_w1897160883.m3u8:Radio 51
+#DESCRIPTION Radio 51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:Radio Banovina
+#DESCRIPTION Radio Banovina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/chunklist_w1052766946.m3u8:Radio Belllae monellaTV
 #DESCRIPTION Radio Belllae monellaTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w130186106.m3u8:Radio BirikinaTV
@@ -357,16 +357,16 @@
 #DESCRIPTION Radio Lombardia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1
 #DESCRIPTION Radio M-1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash2.xdevel.com/rtptv/rtptv/playlist.m3u8:Radio Peloritana TV
+#DESCRIPTION Radio Peloritana TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist.m3u8:Radio Piterpan TV
 #DESCRIPTION Radio Piterpan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itv.streams.ovh/priggipesa/priggipesa/chunklist_w1272924610.m3u8:Radio Priggipesa TV
+#DESCRIPTION Radio Priggipesa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/chunklist_w800169359.m3u8:Radio Sorrriso TV
 #DESCRIPTION Radio Sorrriso TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.224.142%3a1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8:Radio Tivu
 #DESCRIPTION Radio Tivu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//flash2.xdevel.com/rtptv/rtptv/playlist.m3u8:Radio Peloritana TV
-#DESCRIPTION Radio Peloritana TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itv.streams.ovh/priggipesa/priggipesa/chunklist_w1272924610.m3u8:Radio Priggipesa TV
-#DESCRIPTION Radio Priggipesa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8:Radio TV USA
 #DESCRIPTION Radio TV USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8:Radio Zero Tv
@@ -381,8 +381,8 @@
 #DESCRIPTION RTK 1 Kosovo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.56.10%3a1935/rtk4stream/rtk4.stream/playlist.m3u8:RTK 4 Kosovo
 #DESCRIPTION RTK 4 Kosovo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:RTVZiK
-#DESCRIPTION RTVZiK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:RTV ZiK
+#DESCRIPTION RTV ZiK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/playlist.m3u8:RTV Zik
 #DESCRIPTION RTV Zik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//91.148.117.134%3a1935/radios/radiosweb.stream live=1:Sarajevo 1 Tv
@@ -393,8 +393,8 @@
 #DESCRIPTION Somax TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.226.83%3a1935/public/stream_720p/playlist.m3u8:SoNus FM [18+]
 #DESCRIPTION SoNus FM [18+]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8:steelbirdmusic
-#DESCRIPTION steelbirdmusic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8:Steel Bird Music
+#DESCRIPTION Steel Bird Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/music.m3u8?fluxustv.m3u8:STYLE CITY MUSIC2
 #DESCRIPTION STYLE CITY MUSIC2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a004/index.m3u8:Super ROCK HD
