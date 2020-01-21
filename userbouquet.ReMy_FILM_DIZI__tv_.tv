@@ -1,8 +1,146 @@
 #NAME == ★★ReMy | FILM | DIZI ★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true:Black Cinema
+#DESCRIPTION Black Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8:Celestial Movies
+#DESCRIPTION Celestial Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8:Cinema World
+#DESCRIPTION Cinema World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8:Cinemax
+#DESCRIPTION Cinemax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8:Crime Investigation
+#DESCRIPTION Crime Investigation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8:FX
+#DESCRIPTION FX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.linknetott.swiftserve.com/live/BSgroup/amlst%3ajgoch/chunklist_b2288000.m3u8:First Movie
+#DESCRIPTION First Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8:FOX
+#DESCRIPTION FOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8:FOX Crime
+#DESCRIPTION FOX Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8:HBO Hits HD
+#DESCRIPTION HBO Hits HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8:HBO Signature HD
+#DESCRIPTION HBO Signature HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8:Hits
+#DESCRIPTION Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8:Hits Movies
+#DESCRIPTION Hits Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8:Kix
+#DESCRIPTION Kix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8:TvN
+#DESCRIPTION TvN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8:TvN movies
+#DESCRIPTION TvN movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8:Thrill
+#DESCRIPTION Thrill
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8:Waku-Waku Japan
+#DESCRIPTION Waku-Waku Japan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8:WarnerTV
+#DESCRIPTION WarnerTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.126.83.51/dr9445/h/h15/index.m3u8:Blue Ant Extreme
+#DESCRIPTION Blue Ant Extreme
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.126.83.51/session/d65c030a-01a0-11ea-810d-82939a388d5a/dr9445/h/h16/01.m3u8:Blue Ant Entertainment
+#DESCRIPTION Blue Ant Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.126.83.51/qwr9ew/s/s33/index.m3u8:Celestial Movies (Opt-2)
+#DESCRIPTION Celestial Movies (Opt-2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.126.83.51/uq2663/h/h04/index2.m3u8:CINEMA WORLD
+#DESCRIPTION CINEMA WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.126.83.51%3a443/uq2663/h/h04/01.m3u8:CinemaWorld Malaysia
+#DESCRIPTION CinemaWorld Malaysia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.126.83.51/uq2663/h/h37/01.m3u8:HITS
+#DESCRIPTION HITS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.126.83.51/uq2663/h/h143/index.m3u8:Sony One
+#DESCRIPTION Sony One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.66/h/h141/01.m3u8:AXN HD
+#DESCRIPTION AXN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.66/h/h141/01.m3u8:AXN
+#DESCRIPTION AXN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35%3a80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/02.m3u8:AXN
+#DESCRIPTION AXN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35%3a80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8:AXN
+#DESCRIPTION AXN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/qwr9ew/s/s33/index.m3u8:CELESTIAL MOVIES
+#DESCRIPTION CELESTIAL MOVIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8:CELESTIAL MOVIES
+#DESCRIPTION CELESTIAL MOVIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35%3a80/session/c226d988-7252-11e9-8337-aa49a6967466/qwr9ew/s/s33/01.m3u8:CELESTIAL MOVIES
+#DESCRIPTION CELESTIAL MOVIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35%3a80/session/18437ccc-73b6-11e9-9278-9c128a7729b7/qwr9ew/s/s33/01.m3u8:CELESTIAL MOVIES
+#DESCRIPTION CELESTIAL MOVIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8:CINEMA WORLD
+#DESCRIPTION CINEMA WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35%3a80/session/1be19ff4-7252-11e9-8405-a92a8c3111c3/uq2663/h/h04/02.m3u8:CINEMA WORLD
+#DESCRIPTION CINEMA WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/uq2663/h/h04/02.m3u8:CinemaWorld Malaysia
+#DESCRIPTION CinemaWorld Malaysia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/uq2663/h/h11/index.m3u8:Diva
+#DESCRIPTION Diva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35%3a80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8:HITS HD
+#DESCRIPTION HITS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/qwr9ew/s/s42/01.m3u8?fluxustv.m3u8:K DRAMA
+#DESCRIPTION K DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/uq2663/h/h08/index.m3u8:K Plus
+#DESCRIPTION K Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/e3afc732-c3a1-11e8-bfe5-8e058f0468b5/uq2663/h/h08/02.m3u8:K plus
+#DESCRIPTION K plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8:KIX
+#DESCRIPTION KIX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/x6bnqe/s/s31/index2.m3u8:My Cinema
+#DESCRIPTION My Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8:MY CINEMA
+#DESCRIPTION MY CINEMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35%3a80/session/670515de-73b9-11e9-8f02-846587341add/x6bnqe/s/s71/S4/mnf.m3u8:SINEMA INDONESIA
+#DESCRIPTION SINEMA INDONESIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/a3ebedb4-512d-11e9-bf37-c81f66f89318/uq2663/h/h143/index.m3u8:Sony One
+#DESCRIPTION Sony One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8:Sony One
+#DESCRIPTION Sony One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8:Thrill
+#DESCRIPTION Thrill
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8:Thrill
+#DESCRIPTION Thrill
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8:ZEE BIOSKOP
+#DESCRIPTION ZEE BIOSKOP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.207.56.228/live/iptv006.m3u8:HBO Signature ID
+#DESCRIPTION HBO Signature ID
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.207.56.228/live/iptv004.m3u8:HBO Family ID
+#DESCRIPTION HBO Family ID
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.207.56.228/live/iptv009.m3u8:TvN Movies
+#DESCRIPTION TvN Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.207.56.228/live/iptv033.m3u8:Warner TV ID
+#DESCRIPTION Warner TV ID
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pockettv.xyz/api/zee.m3u8?c=andprivehd:And Prive
+#DESCRIPTION And Prive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jago2.tv21.me/live/Rockstar1926/u8pe/premium/foxmovie/index.m3u8:FOX Movies
+#DESCRIPTION FOX Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jago2.tv21.me/live/Rockstar1926/u8pe/premium/foxaction/index.m3u8:FOX Action Movies
+#DESCRIPTION FOX Action Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.secretly.tech%3a8888/live/Da3QzCutDR/6Ogqc5QLEp/219.m3u8:Fox Movies
+#DESCRIPTION Fox Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv.secretly.tech%3a8888/live/Da3QzCutDR/6Ogqc5QLEp/220.m3u8:Fox Action Movies
+#DESCRIPTION Fox Action Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timesnow.airtel.tv/live/MN_pull/master.m3u8:Movies Now
+#DESCRIPTION Movies Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropbox.com/s/nzd3ekunnrbkh60/Dubaimovie.m3u8?dl=0:Netflix LIVE Movies 11
+#DESCRIPTION Netflix LIVE Movies 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8:Rai Movie
+#DESCRIPTION Rai Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8:Romedy Now
+#DESCRIPTION Romedy Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rr.dens.tv/h/h19/index.m3u8:Sony Gem
+#DESCRIPTION Sony Gem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae%3a80/hls/star_movies/05.m3u8:STAR MOVIES
+#DESCRIPTION STAR MOVIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8:The Works
+#DESCRIPTION The Works
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae%3a80/hls/zeeaflam/index.m3u8:ZEE Aflam
+#DESCRIPTION ZEE Aflam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd:Zee Bioskop
+#DESCRIPTION Zee Bioskop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.7/PLTV/88888888/224/3221226542/index.m3u8:ZEE World
+#DESCRIPTION ZEE World
 #SERVICE 1:64:99:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_MOVIES________:::::::::
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::::::____ReMy_TURKISH_MOVIES_4K_1080P____::::
-#DESCRIPTION ::::____ReMy_TURKISH_MOVIES_4K_1080P____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv28.filmmodu.xyz/tt5941692/720p.tr.m3u8:Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
 #DESCRIPTION Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv19.filmmodu.xyz/tt6292852/720p.tr.m3u8:Ben Bir Anneyim - 2019 - Gerilim, Bilimkurgu
@@ -61,6 +199,10 @@
 #DESCRIPTION Joker.2019.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Lion.King.2019.mkv:Lion.King.2019.mkv
 #DESCRIPTION Lion.King.2019.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ns567684.ip-51-79-72.net/K/kim-%20no-suizou-wo-tabetai-%20i-want-eat-your-pancreas-(hd)/01filme.mp4:KIMI NO SUIZOU WA TABETAI
+#DESCRIPTION KIMI NO SUIZOU WA TABETAI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//server12.anitube.info/appsd/76170.mp4/playlist.m3u8:5 CENTIMETROS POR SEGUNDO
+#DESCRIPTION 5 CENTIMETROS POR SEGUNDO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Manifest.Destiny.Down.Spacetime.2019.mkv:Manifest.Destiny.Down.Spacetime.2019.mkv
 #DESCRIPTION Manifest.Destiny.Down.Spacetime.2019.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/Nightcrawler.2014.mkv:Nightcrawler.2014.mkv
@@ -85,6 +227,108 @@
 #DESCRIPTION Wake.Up.2019.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/What.Death.Leaves.Behind.2018.mkv:What.Death.Leaves.Behind.2018.mkv
 #DESCRIPTION What.Death.Leaves.Behind.2018.mkv
+#SERVICE 1:64:9A:0:0:0:0:0:0:0::::::___MIX_(2019)MOVIES____::::
+#DESCRIPTION ::::___MIX_(2019)MOVIES____::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/990fb8a6754c326f63dc80302bbaa510/990fb8a6754c326f63dc80302bbaa510.m3u8:10 Minutes Gone (2019)
+#DESCRIPTION 10 Minutes Gone (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/13b_vLwMkFVp3W8HgBi21pt6I91uQjVec?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:6 Underground(2019)
+#DESCRIPTION 6 Underground(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Abominable(2019)
+#DESCRIPTION Abominable(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:AD Astra(2019)
+#DESCRIPTION AD Astra(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Aeronauts(2019)
+#DESCRIPTION Aeronauts(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/edc613216de32e6a9d16aa86d4949ba3/edc613216de32e6a9d16aa86d4949ba3.m3u8:Aladdin (2019)
+#DESCRIPTION Aladdin (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/9p9ir5n323ubkod/Aladdin.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1:Aladdin (2019)
+#DESCRIPTION Aladdin (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1fVuB4camSZcd8y1wVuzQUwPAmc5pIIpT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Alien : Covenant(2017)
+#DESCRIPTION Alien : Covenant(2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default:Aquaman(2018)
+#DESCRIPTION Aquaman(2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.clonefile.icu/drive/index.php?id=41IpLKLI0NntH%2FJngglgMApGgMjmgZzjpUcCRuyBP5noKWK4V8MO%2FteNVF49vg34IKWy02snXkeSKRobIbK3XTjXZdhGIZ%2BB%2BywV5gUyqo7P0anLUitmN%2FEZ161D8gJkg%3D&ref=&res=720:Asterix: The Secret of the Magic Potion(2018)
+#DESCRIPTION Asterix: The Secret of the Magic Potion(2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream04.cdncv.net/hls/mfqjy6okxto6sr7qw74uziatxfbhws76mklz76v54pa7bpneuyvm2theph5q/index-v1-a1.m3u8:AVENGERS: ENDGAME (2019)
+#DESCRIPTION AVENGERS: ENDGAME (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Avengers:Endgame(2019)
+#DESCRIPTION Avengers:Endgame(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/69c90b3db10efca37716e0f58ea4f978/69c90b3db10efca37716e0f58ea4f978.m3u8:Captain Marvel (2019)
+#DESCRIPTION Captain Marvel (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.clonefile.icu/drive/index.php?id=yhoaj%2F6%2FSOEs%2FdJSRXbtYAVsj8t3MJBajUHW0YvvGGW6KtS9AKrbiDIS0ASHkgl8nhCq9uZ%2BudMidHP73eWMpSuF9zqhliPFFMCgRS%2B9oi2qmNm%2BkE0VNPj1WHo3e7sTg%3D&ref=&res=720:Captive State(2019)
+#DESCRIPTION Captive State(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1oSWO6PTNM1nb6TnS6PDXj0C0JdNJqRMG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Cold Pursuit(2019)
+#DESCRIPTION Cold Pursuit(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default:Dreadout(2019)
+#DESCRIPTION Dreadout(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.clonefile.icu/drive/index.php?id=3UqhbCMEm2QSI4Znspu%2BTgWjaEHvfLLRWyVhRTdJdlHQxD6XSebaWIcqWewKF0Fj1b1%2B%2FAE5VOdsYJ%2BvANObFADrDC3UPK8hJRnzx6hv5AHQfJI44CseKWn8OR0VFvDrs%3D&ref=&res=720:Dumbo(2019)
+#DESCRIPTION Dumbo(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gdrivecdn.us/drive/index.php?id=E7bh4FOWcYbqG4dgwq2DxwHcS3JkR59%2FdkUGLCM%2Bg2VTDZ8HwhiOyoyZstBRWhXuvn4i5mHHiAO6s0URqdoCi%2FseBoDrDez2ZxMSG5FdEB0sPdRZSewiCO0ieVa0738YU%3D&ref=&res=720:Fantastic Beasts: The Crimes of Grindelwald(2018)
+#DESCRIPTION Fantastic Beasts: The Crimes of Grindelwald(2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/461c13af16e9c998bca41e33808d83c4/461c13af16e9c998bca41e33808d83c4.m3u8:Fast Furious Presents: Hobbs & Shaw (2019)
+#DESCRIPTION Fast Furious Presents: Hobbs & Shaw (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1vUTJDejYeyg4sPklmsPk6RtzA1u-lMEB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Fast&Furious Presents : Hobbs & Shaw(2019)
+#DESCRIPTION Fast&Furious Presents : Hobbs & Shaw(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jurndk12.ostreamcdn.com/hls/u5kjznxmbphlsdgge4vwglyejqupruz6ngbzl3aesplks22syofj3i24rpnq/index-v1-a1.m3u8:Hellboy (2019)
+#DESCRIPTION Hellboy (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.apidev.icu/drive/index.php?id=iGQ7vCgWQYAH5sNrzEQxHAdTaBqaae%2Fmr41MVX0qm9g8FxjWLdYlueNyz9uUc%2FLjIqJsP0LN%2F1Lj0BrfHZdbwjopXUoSXqwZMmSCD2%2B2Ig294DaPba5ir0dlK%2Fob3UpZY%3D&ref=&res=720:Hotel Mumbai(2018)
+#DESCRIPTION Hotel Mumbai(2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/28a759a242ec91d31f736253e400bcc7/28a759a242ec91d31f736253e400bcc7.m3u8:Inside Man: Most Wanted (2019)
+#DESCRIPTION Inside Man: Most Wanted (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/ffc41db043bf1441e3343cb65c71c283/ffc41db043bf1441e3343cb65c71c283.m3u8:Ip Man and Four Kings (2019)
+#DESCRIPTION Ip Man and Four Kings (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/9bf5152d435728f23f5f922a87e12af5/9bf5152d435728f23f5f922a87e12af5.m3u8:It Chapter Two (2019)
+#DESCRIPTION It Chapter Two (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/rme7r96ezkq6ceq/John.Wick.Chapter.3.Parabellum.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1:John Wick 3 : Parabellum(2019)
+#DESCRIPTION John Wick 3 : Parabellum(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/181685a19f0457ef47e62143f999ed47/181685a19f0457ef47e62143f999ed47.m3u8:John Wick 3 Parabellum (2019)
+#DESCRIPTION John Wick 3 Parabellum (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1gdsesv39yVSPlRY7WM9GyJDgTiHkeZv6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Joker (2019)
+#DESCRIPTION Joker (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/43f46451c80d1c60a1ef6f6ffd7a0c48/43f46451c80d1c60a1ef6f6ffd7a0c48.m3u8:Joker (2019) HDCAM
+#DESCRIPTION Joker (2019) HDCAM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/4fe503242dbbbe985dfd4a274d0ca759/4fe503242dbbbe985dfd4a274d0ca759.m3u8:Kill Chain (2019)
+#DESCRIPTION Kill Chain (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/3d0a381051f4583839d759cae336287a/3d0a381051f4583839d759cae336287a.m3u8:Lancaster Skies (2019)
+#DESCRIPTION Lancaster Skies (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/648ae9c12973490bf4c915d1089e3366/648ae9c12973490bf4c915d1089e3366.m3u8:Lintervention (2019)
+#DESCRIPTION Lintervention (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/b6dcfc175c0de7bdbc26f564d3c0fdca/b6dcfc175c0de7bdbc26f564d3c0fdca.m3u8:Men in Black: International (2019)
+#DESCRIPTION Men in Black: International (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1YsXH2V6TbScWzERFrACm9lTvBLuLobcs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Mule(2019)
+#DESCRIPTION Mule(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/37053e9e463e9c3aa8fa25e60da727f2/37053e9e463e9c3aa8fa25e60da727f2.m3u8:Parasite (2019)
+#DESCRIPTION Parasite (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1:Pokemon : Detective Pikachu(2019)
+#DESCRIPTION Pokemon : Detective Pikachu(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gdrivecdn.us/drive/index.php?id=UvXgzIIzIZXJLVdsKqnslAzmjY6or72z7As3wgmvba8XGhEHb31Bxunb693RDTVy3pwJlA72jH3YzArgv8U1TEEOfRhyMX6bh9LcEF4UZTGMId9xzAw1jvY%2BRVjdgsEGM%3D&ref=&res=720:Skyscraper(2018)
+#DESCRIPTION Skyscraper(2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/67ca5ea70d4efade2acec2adf336a644/67ca5ea70d4efade2acec2adf336a644.m3u8:Spider-Man Far From Home (2019)
+#DESCRIPTION Spider-Man Far From Home (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/e2cb53989a3aa71988ddf7f822a89db1/e2cb53989a3aa71988ddf7f822a89db1.m3u8:Stuber (2019)
+#DESCRIPTION Stuber (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/e320f5245cd448d6a66376994085ff91/e320f5245cd448d6a66376994085ff91.m3u8:Terminator Dark Fate (2019) HDCAM
+#DESCRIPTION Terminator Dark Fate (2019) HDCAM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/8073dddb0028da7697492471265c06f7/8073dddb0028da7697492471265c06f7.m3u8:The Bravest (2019)
+#DESCRIPTION The Bravest (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default:The Cabin(2018)
+#DESCRIPTION The Cabin(2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/4bbf9b05bae6c3e8a8ac0fea114e9bb7/4bbf9b05bae6c3e8a8ac0fea114e9bb7.m3u8:The Death and Return of Superman (2019)
+#DESCRIPTION The Death and Return of Superman (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/0683618bcbd6697b7252ed2af69b2df4/0683618bcbd6697b7252ed2af69b2df4.m3u8:The Kitchen (2019)
+#DESCRIPTION The Kitchen (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/40c66613310f8e42b705c533cec9d704/40c66613310f8e42b705c533cec9d704.m3u8:The Lion King (2019)
+#DESCRIPTION The Lion King (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1AYka1PFma7JZZFNS3AwxCD2Anfa43x9k?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:The Lion King(2019)
+#DESCRIPTION The Lion King(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default:The NuN(2018)
+#DESCRIPTION The NuN(2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1B2DoTYlQAGN6wE2ZRkCUfnvH0tMkr1Ya?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:The Nutcracker and the four realms(2018)
+#DESCRIPTION The Nutcracker and the four realms(2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gdrivecdn.us/drive/index.php?id=7ShwPFRIovlOpJ6HiWoztAM8ZKv4%2Fdd1M4W9WvlGsMFis0BlYqbl8idIKeUe%2FC4ZKGP%2FYH0LObsYIhP2ASuIE%2Fgh5MoiJMeSnl9lw82UqLq2rlZl60FTtDXNANVveypGE%3D&ref=&res=720:Triple Threat(2019)
+#DESCRIPTION Triple Threat(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/12d455a29835681e28840127fac14e81/12d455a29835681e28840127fac14e81.m3u8:X-Men: Dark Phoenix (2019)
+#DESCRIPTION X-Men: Dark Phoenix (2019)
 #SERVICE 1:64:9B:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_MOVIES____::::
 #DESCRIPTION ::::___DEADLYBLOGGER_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/dal1.mp4:101 DALMATIONS

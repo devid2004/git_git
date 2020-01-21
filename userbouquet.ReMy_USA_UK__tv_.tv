@@ -1,8 +1,4 @@
 #NAME == ★★ReMy | U.S.A & U.K★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//granicusliveus9-a.akamaihd.net/miamifl/G2076_002/playlist.m3u8:Miami City TV
-#DESCRIPTION Miami City TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtm2mobile.secureswiftcontent.com/Origin01/ngrp%3aRTM1/chunklist_b3696000.m3u8:TV2 HD
-#DESCRIPTION TV2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mediaworks-i.akamaihd.net%3a80/hls/live/220435/3812193411001/3news_live/master.m3u8:+HR=E
 #DESCRIPTION +HR=E
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//247retrotv.com%3a1935/live/smil%3a247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8:24/7 Retro TV
@@ -739,6 +735,8 @@
 #DESCRIPTION Manoto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8:MAX TV
 #DESCRIPTION MAX TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//granicusliveus9-a.akamaihd.net/miamifl/G2076_002/playlist.m3u8:Miami City TV
+#DESCRIPTION Miami City TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.mcn6.org%3a8180/live/CELL-496k-270p/CELL-496k-270p.m3u8:MCN6
 #DESCRIPTION MCN6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ec5453559f0.streamlock.net/miamitv/smil%3amiamitvROKU/chunklist_w1195980091_b2592000.m3u8:Miami TV
@@ -1223,6 +1221,8 @@
 #DESCRIPTION TSTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8:TSTV TEXAS
 #DESCRIPTION TSTV TEXAS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtm2mobile.secureswiftcontent.com/Origin01/ngrp%3aRTM1/chunklist_b3696000.m3u8:TV2 HD
+#DESCRIPTION TV2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8:TVSN
 #DESCRIPTION TVSN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp%3aTVWAIR_all/chucklist.m3u8:TVW
