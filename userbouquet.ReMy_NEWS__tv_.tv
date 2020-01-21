@@ -103,8 +103,12 @@
 #DESCRIPTION CBS NEWS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8:CBC News
 #DESCRIPTION CBC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cclive.aniu.tv/live/anzb.m3u8:CCLIVE.Aniu TV
+#DESCRIPTION CCLIVE.Aniu TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s27/index.m3u8:CNN
 #DESCRIPTION CNN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8:cnn-indonesia
+#DESCRIPTION cnn-indonesia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_b384000_sleng.m3u8:CNN Indonesia
 #DESCRIPTION CNN Indonesia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//54.251.134.121%3a1935/live/15273.sdp/playlist.m3u8:CNN Philippines

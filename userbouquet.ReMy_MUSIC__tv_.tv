@@ -277,8 +277,8 @@
 #DESCRIPTION MTV Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8:MTV Norge
 #DESCRIPTION MTV Norge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s29:MTV, NIck,CC
-#DESCRIPTION MTV, NIck,CC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s29:MTV,NIck,CC
+#DESCRIPTION MTV,NIck,CC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpso.com%3a1936/hls/music1.m3u8:Music 1 GR
 #DESCRIPTION Music 1 GR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/nasa:Music Box
@@ -293,6 +293,8 @@
 #DESCRIPTION Music Now
 #SERVICE 4097:0:1:814:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar%3a1935/live/msctphd-720/playlist.m3u8:Music Top
 #DESCRIPTION Music Top
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.1.117.5%3a1935/live/livestream/chunklist_w1290911642.m3u8:NexTV
+#DESCRIPTION NexTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b2128000.m3u8:New Radio TV
 #DESCRIPTION New Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.60.237.32%3a1935/live/nisville/playlist.m3u8:Nisville TV
@@ -425,6 +427,8 @@
 #DESCRIPTION TV+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8:UTV
 #DESCRIPTION UTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8:XCORPS-TV
+#DESCRIPTION XCORPS-TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/tracks-v1a1/mono.m3u8:view tv local kapang hd
 #DESCRIPTION view tv local kapang hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/index.m3u8:view tv local kapang hd
