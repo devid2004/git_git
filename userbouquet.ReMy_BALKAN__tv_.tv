@@ -1,10 +1,4 @@
 #NAME == ★★ReMy | BALKAN★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.19.228.102%3a8000/play/HBO_HD_GR/index.m3u8:HBO_HD
-#DESCRIPTION HBO_HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.19.228.102%3a8000/play/HBO_HD3_GR/index.m3u8:HBO_HD3
-#DESCRIPTION HBO_HD3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.goodgame.ru%3a8080/hls/172148.m3u8:KVN HD
-#DESCRIPTION KVN HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a004/index.m3u8:Super ROCK HD
 #DESCRIPTION Super ROCK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a001/index.m3u8:Super Tv
@@ -307,6 +301,8 @@
 #DESCRIPTION KCN3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8:KRONEHIT TV HD
 #DESCRIPTION KRONEHIT TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.goodgame.ru%3a8080/hls/172148.m3u8:KVN HD
+#DESCRIPTION KVN HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza4.catve.com.br%3a1935/mastertv/livestream/playlist.m3u8:Master TV HD
 #DESCRIPTION Master TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8:MAX TV
@@ -389,8 +385,26 @@
 #DESCRIPTION TVPlus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.186.146.34%3a8080:TVPlus Suceava
 #DESCRIPTION TVPlus Suceava
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.136.209.26%3a1935/liveedge/TVRHD.stream/playlist.m3u8:TVR HD
+#DESCRIPTION TVR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.136.209.26%3a1935/liveedge/TVR1.stream/playlist.m3u8:TVR1 HD
 #DESCRIPTION TVR1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.136.209.26%3a1935/liveedge/TVR2.stream/playlist.m3u8:TVR2
+#DESCRIPTION TVR2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.136.209.26%3a1935/liveedge/TVR3.stream/playlist.m3u8:TVR3
+#DESCRIPTION TVR3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.136.209.26%3a1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8:TVR MOLDOVA
+#DESCRIPTION TVR MOLDOVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.136.209.26%3a1935/liveedge/TVRCLUJ.stream/playlist.m3u8:TVR CLUJ
+#DESCRIPTION TVR CLUJ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.136.209.26%3a1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8:TVR CRAIOVA
+#DESCRIPTION TVR CRAIOVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.136.209.26%3a1935/liveedge/TVRIASI.stream/playlist.m3u8:TVR IASI
+#DESCRIPTION TVR IASI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.136.209.26%3a1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8:TVR TIMISOARA
+#DESCRIPTION TVR TIMISOARA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/tvr_tirgumures_live/tvr_tirgumures_live2/playlist.m3u8:TVR Tirgumures
+#DESCRIPTION TVR Tirgumures
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.196.0.126%3a80/utvedge/utvlive/index.m3u8:UTV
 #DESCRIPTION UTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:mmsh%3a//212.200.255.151/rtv1?MSWMExt=.asf:Vojvodina 1 Tv
