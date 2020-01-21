@@ -3347,6 +3347,24 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_U.S.A",ReMy_U.S.A
 ReMy_U.S.A
+#EXTINF:-1 group-title="ReMy_U.S.A",AXN HD
+http://210.210.155.66/h/h141/01.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",AXN
+http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",Crime Investigation
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",FX HD
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",HBO Hits HD
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",HBO Signature HD
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",Warner TV HD
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",First Movie
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",Zee Bioskop
+https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 #EXTINF:-1 group-title="ReMy_U.S.A",Sky-MoviesFamily
 http://95.170.215.118:80/hls/m3u8/Sky-MoviesFamily.m3u8
 #EXTINF:-1 group-title="ReMy_U.S.A",Sky-MoviesDrama

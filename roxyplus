@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Adult TV Live","Adult TV Live"
 "Adult TV Live"
+#EXTINF:-1 group-title="Adult TV Live",PENTHOUSE HD
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/80
 #EXTINF:-1 group-title="Adult TV Live",BRAZZER TV EUROPA
 http://51.79.81.97:25461/ITV/4RTYUI/78
 #EXTINF:-1 group-title="Adult TV Live",PLAYBOY TV
@@ -99,7 +101,7 @@ http://5.9.84.209:8081/torrenttv/channel/Brazzers TV.ts
 http://5.9.84.209:8081/torrenttv/channel/Candy HD.ts
 #EXTINF:-1 group-title="Adult TV Live",Dorcel HD
 http://5.9.84.209:8081/torrenttv/channel/Dorcel HD.ts
-#EXTINF:-1 group-title="Adult TV Live",KOREAN DESIKE
+#EXTINF:-1 group-title="Adult TV Live",KOREAN DESIRE
 http://122.38.74.172:9981/stream/channelid/816085039
 #EXTINF:-1 group-title="Adult TV Live",KOREAN HONEY
 http://122.38.74.172:9981/stream/channelid/1463854277
