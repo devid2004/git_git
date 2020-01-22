@@ -145,7 +145,7 @@
 #DESCRIPTION Zee Bioskop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.7/PLTV/88888888/224/3221226542/index.m3u8:ZEE World
 #DESCRIPTION ZEE World
-#SERVICE 1:64:99:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a________NETFLIX_MOVIES________%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:99:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_MOVIES________:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv28.filmmodu.xyz/tt5941692/720p.tr.m3u8:Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
 #DESCRIPTION Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
@@ -233,7 +233,7 @@
 #DESCRIPTION Wake.Up.2019.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/What.Death.Leaves.Behind.2018.mkv:What.Death.Leaves.Behind.2018.mkv
 #DESCRIPTION What.Death.Leaves.Behind.2018.mkv
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::%3a%3a%3a%3a___MIX_(2019)MOVIES____%3a%3a%3a%3a
+#SERVICE 1:64:9A:0:0:0:0:0:0:0::::::___MIX_(2019)MOVIES____::::
 #DESCRIPTION ::::___MIX_(2019)MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/990fb8a6754c326f63dc80302bbaa510/990fb8a6754c326f63dc80302bbaa510.m3u8:10 Minutes Gone (2019)
 #DESCRIPTION 10 Minutes Gone (2019)
@@ -249,15 +249,15 @@
 #DESCRIPTION Aladdin (2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/9p9ir5n323ubkod/Aladdin.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1:Aladdin (2019)
 #DESCRIPTION Aladdin (2019)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1fVuB4camSZcd8y1wVuzQUwPAmc5pIIpT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Alien %3a Covenant(2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1fVuB4camSZcd8y1wVuzQUwPAmc5pIIpT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Alien : Covenant(2017)
 #DESCRIPTION Alien : Covenant(2017)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw+99w1AH/nB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA/HnF3+EMf6sgbo8bWRFld8+LAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R+gpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU=&ref=https%3a//bos21.bid/aquaman/&res=default:Aquaman(2018)
 #DESCRIPTION Aquaman(2018)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.clonefile.icu/drive/index.php?id=41IpLKLI0NntH/JngglgMApGgMjmgZzjpUcCRuyBP5noKWK4V8MO/teNVF49vg34IKWy02snXkeSKRobIbK3XTjXZdhGIZ+B+ywV5gUyqo7P0anLUitmN/EZ161D8gJkg=&ref=&res=720:Asterix%3a The Secret of the Magic Potion(2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.clonefile.icu/drive/index.php?id=41IpLKLI0NntH/JngglgMApGgMjmgZzjpUcCRuyBP5noKWK4V8MO/teNVF49vg34IKWy02snXkeSKRobIbK3XTjXZdhGIZ+B+ywV5gUyqo7P0anLUitmN/EZ161D8gJkg=&ref=&res=720:Asterix: The Secret of the Magic Potion(2018)
 #DESCRIPTION Asterix: The Secret of the Magic Potion(2018)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream04.cdncv.net/hls/mfqjy6okxto6sr7qw74uziatxfbhws76mklz76v54pa7bpneuyvm2theph5q/index-v1-a1.m3u8:AVENGERS%3a ENDGAME (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream04.cdncv.net/hls/mfqjy6okxto6sr7qw74uziatxfbhws76mklz76v54pa7bpneuyvm2theph5q/index-v1-a1.m3u8:AVENGERS: ENDGAME (2019)
 #DESCRIPTION AVENGERS: ENDGAME (2019)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Avengers%3aEndgame(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Avengers:Endgame(2019)
 #DESCRIPTION Avengers:Endgame(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/69c90b3db10efca37716e0f58ea4f978/69c90b3db10efca37716e0f58ea4f978.m3u8:Captain Marvel (2019)
 #DESCRIPTION Captain Marvel (2019)
@@ -269,23 +269,23 @@
 #DESCRIPTION Dreadout(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.clonefile.icu/drive/index.php?id=3UqhbCMEm2QSI4Znspu+TgWjaEHvfLLRWyVhRTdJdlHQxD6XSebaWIcqWewKF0Fj1b1+/AE5VOdsYJ+vANObFADrDC3UPK8hJRnzx6hv5AHQfJI44CseKWn8OR0VFvDrs=&ref=&res=720:Dumbo(2019)
 #DESCRIPTION Dumbo(2019)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gdrivecdn.us/drive/index.php?id=E7bh4FOWcYbqG4dgwq2DxwHcS3JkR59/dkUGLCM+g2VTDZ8HwhiOyoyZstBRWhXuvn4i5mHHiAO6s0URqdoCi/seBoDrDez2ZxMSG5FdEB0sPdRZSewiCO0ieVa0738YU=&ref=&res=720:Fantastic Beasts%3a The Crimes of Grindelwald(2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gdrivecdn.us/drive/index.php?id=E7bh4FOWcYbqG4dgwq2DxwHcS3JkR59/dkUGLCM+g2VTDZ8HwhiOyoyZstBRWhXuvn4i5mHHiAO6s0URqdoCi/seBoDrDez2ZxMSG5FdEB0sPdRZSewiCO0ieVa0738YU=&ref=&res=720:Fantastic Beasts: The Crimes of Grindelwald(2018)
 #DESCRIPTION Fantastic Beasts: The Crimes of Grindelwald(2018)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/461c13af16e9c998bca41e33808d83c4/461c13af16e9c998bca41e33808d83c4.m3u8:Fast Furious Presents%3a Hobbs & Shaw (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/461c13af16e9c998bca41e33808d83c4/461c13af16e9c998bca41e33808d83c4.m3u8:Fast Furious Presents: Hobbs & Shaw (2019)
 #DESCRIPTION Fast Furious Presents: Hobbs & Shaw (2019)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1vUTJDejYeyg4sPklmsPk6RtzA1u-lMEB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Fast&Furious Presents %3a Hobbs & Shaw(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1vUTJDejYeyg4sPklmsPk6RtzA1u-lMEB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Fast&Furious Presents : Hobbs & Shaw(2019)
 #DESCRIPTION Fast&Furious Presents : Hobbs & Shaw(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jurndk12.ostreamcdn.com/hls/u5kjznxmbphlsdgge4vwglyejqupruz6ngbzl3aesplks22syofj3i24rpnq/index-v1-a1.m3u8:Hellboy (2019)
 #DESCRIPTION Hellboy (2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.apidev.icu/drive/index.php?id=iGQ7vCgWQYAH5sNrzEQxHAdTaBqaae/mr41MVX0qm9g8FxjWLdYlueNyz9uUc/LjIqJsP0LN/1Lj0BrfHZdbwjopXUoSXqwZMmSCD2+2Ig294DaPba5ir0dlK/ob3UpZY=&ref=&res=720:Hotel Mumbai(2018)
 #DESCRIPTION Hotel Mumbai(2018)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/28a759a242ec91d31f736253e400bcc7/28a759a242ec91d31f736253e400bcc7.m3u8:Inside Man%3a Most Wanted (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/28a759a242ec91d31f736253e400bcc7/28a759a242ec91d31f736253e400bcc7.m3u8:Inside Man: Most Wanted (2019)
 #DESCRIPTION Inside Man: Most Wanted (2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/ffc41db043bf1441e3343cb65c71c283/ffc41db043bf1441e3343cb65c71c283.m3u8:Ip Man and Four Kings (2019)
 #DESCRIPTION Ip Man and Four Kings (2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/9bf5152d435728f23f5f922a87e12af5/9bf5152d435728f23f5f922a87e12af5.m3u8:It Chapter Two (2019)
 #DESCRIPTION It Chapter Two (2019)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/rme7r96ezkq6ceq/John.Wick.Chapter.3.Parabellum.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1:John Wick 3 %3a Parabellum(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/rme7r96ezkq6ceq/John.Wick.Chapter.3.Parabellum.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1:John Wick 3 : Parabellum(2019)
 #DESCRIPTION John Wick 3 : Parabellum(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/181685a19f0457ef47e62143f999ed47/181685a19f0457ef47e62143f999ed47.m3u8:John Wick 3 Parabellum (2019)
 #DESCRIPTION John Wick 3 Parabellum (2019)
@@ -299,13 +299,13 @@
 #DESCRIPTION Lancaster Skies (2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/648ae9c12973490bf4c915d1089e3366/648ae9c12973490bf4c915d1089e3366.m3u8:Lintervention (2019)
 #DESCRIPTION Lintervention (2019)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/b6dcfc175c0de7bdbc26f564d3c0fdca/b6dcfc175c0de7bdbc26f564d3c0fdca.m3u8:Men in Black%3a International (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/b6dcfc175c0de7bdbc26f564d3c0fdca/b6dcfc175c0de7bdbc26f564d3c0fdca.m3u8:Men in Black: International (2019)
 #DESCRIPTION Men in Black: International (2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1YsXH2V6TbScWzERFrACm9lTvBLuLobcs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Mule(2019)
 #DESCRIPTION Mule(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/37053e9e463e9c3aa8fa25e60da727f2/37053e9e463e9c3aa8fa25e60da727f2.m3u8:Parasite (2019)
 #DESCRIPTION Parasite (2019)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1:Pokemon %3a Detective Pikachu(2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1:Pokemon : Detective Pikachu(2019)
 #DESCRIPTION Pokemon : Detective Pikachu(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gdrivecdn.us/drive/index.php?id=UvXgzIIzIZXJLVdsKqnslAzmjY6or72z7As3wgmvba8XGhEHb31Bxunb693RDTVy3pwJlA72jH3YzArgv8U1TEEOfRhyMX6bh9LcEF4UZTGMId9xzAw1jvY+RVjdgsEGM=&ref=&res=720:Skyscraper(2018)
 #DESCRIPTION Skyscraper(2018)
@@ -333,9 +333,9 @@
 #DESCRIPTION The Nutcracker and the four realms(2018)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gdrivecdn.us/drive/index.php?id=7ShwPFRIovlOpJ6HiWoztAM8ZKv4/dd1M4W9WvlGsMFis0BlYqbl8idIKeUe/C4ZKGP/YH0LObsYIhP2ASuIE/gh5MoiJMeSnl9lw82UqLq2rlZl60FTtDXNANVveypGE=&ref=&res=720:Triple Threat(2019)
 #DESCRIPTION Triple Threat(2019)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/12d455a29835681e28840127fac14e81/12d455a29835681e28840127fac14e81.m3u8:X-Men%3a Dark Phoenix (2019)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//w3.bagicdn.pro/drive//hls/12d455a29835681e28840127fac14e81/12d455a29835681e28840127fac14e81.m3u8:X-Men: Dark Phoenix (2019)
 #DESCRIPTION X-Men: Dark Phoenix (2019)
-#SERVICE 1:64:9B:0:0:0:0:0:0:0::%3a%3a%3a%3a___DEADLYBLOGGER_MOVIES____%3a%3a%3a%3a
+#SERVICE 1:64:9B:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_MOVIES____::::
 #DESCRIPTION ::::___DEADLYBLOGGER_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/dal1.mp4:101 DALMATIONS
 #DESCRIPTION 101 DALMATIONS
@@ -349,11 +349,11 @@
 #DESCRIPTION 3 DAYS TO KILL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/3ninja1.mp4:3 NINJA
 #DESCRIPTION 3 NINJA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/3ninja2.mp4:3 NINJA 2%3a KICK BACK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/3ninja2.mp4:3 NINJA 2: KICK BACK
 #DESCRIPTION 3 NINJA 2: KICK BACK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/3ninja3.mp4:3 NINJA 3%3a KNUCKLE UP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/3ninja3.mp4:3 NINJA 3: KNUCKLE UP
 #DESCRIPTION 3 NINJA 3: KNUCKLE UP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/3ninja4.mp4:3 NINJA 4%3a HIGH NOON AT MEGA MOUNTIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/3ninja4.mp4:3 NINJA 4: HIGH NOON AT MEGA MOUNTIN
 #DESCRIPTION 3 NINJA 4: HIGH NOON AT MEGA MOUNTIN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/300rise.mp4:300 RISE OF AN EMPIRE
 #DESCRIPTION 300 RISE OF AN EMPIRE
@@ -379,7 +379,7 @@
 #DESCRIPTION AMERICAN GANGSTER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hustle2013.mp4:AMERICAN HUSTLE
 #DESCRIPTION AMERICAN HUSTLE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/anchorman2.mp4:ANCHORMAN 2%3a THE LEGEND CONTINUES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/anchorman2.mp4:ANCHORMAN 2: THE LEGEND CONTINUES
 #DESCRIPTION ANCHORMAN 2: THE LEGEND CONTINUES
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/anchorman.mp4:ANCHORMAN THE LEGEND OF RON BURGUNDY
 #DESCRIPTION ANCHORMAN THE LEGEND OF RON BURGUNDY
@@ -387,7 +387,7 @@
 #DESCRIPTION ANIMAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/austin1.mp4:AUSTIN POWERS
 #DESCRIPTION AUSTIN POWERS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/austin2.mp4:AUSTIN POWERS%3a THE SPY WHO SHAGGED ME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/austin2.mp4:AUSTIN POWERS: THE SPY WHO SHAGGED ME
 #DESCRIPTION AUSTIN POWERS: THE SPY WHO SHAGGED ME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/badboys1.mp4:BAD BOYS
 #DESCRIPTION BAD BOYS
@@ -447,7 +447,7 @@
 #DESCRIPTION CHILDS PLAY 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/childsplay3.mp4:CHILDS PLAY 3
 #DESCRIPTION CHILDS PLAY 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/curseofchucky.mp4:CHILDS PLAY 4%3a CURSE OF CHUCKY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/curseofchucky.mp4:CHILDS PLAY 4: CURSE OF CHUCKY
 #DESCRIPTION CHILDS PLAY 4: CURSE OF CHUCKY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/cinder1.mp4:CINDERELLA (1950)
 #DESCRIPTION CINDERELLA (1950)
@@ -483,7 +483,7 @@
 #DESCRIPTION DONT BE A MENACE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/babysitter1991.mp4:DONT TELL MOM THE BABYSITTERS DEAD
 #DESCRIPTION DONT TELL MOM THE BABYSITTERS DEAD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/ducktales1990.mp4:DUCKTALES%3a TREASURE OF THE LOST LAMP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/ducktales1990.mp4:DUCKTALES: TREASURE OF THE LOST LAMP
 #DESCRIPTION DUCKTALES: TREASURE OF THE LOST LAMP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/elf1.mp4:ELF
 #DESCRIPTION ELF
@@ -609,7 +609,7 @@
 #DESCRIPTION JUICE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/Jumanji1.mp4:JUMANJI
 #DESCRIPTION JUMANJI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/kevin.mp4:KEVIN HART%3a LET ME EXPLAIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/kevin.mp4:KEVIN HART: LET ME EXPLAIN
 #DESCRIPTION KEVIN HART: LET ME EXPLAIN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/kickass2.mp4:KICK ASS 2
 #DESCRIPTION KICK ASS 2
@@ -627,7 +627,7 @@
 #DESCRIPTION LAST VEGAS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/lawcitizen.mp4:LAW ABIDING CITIZEN
 #DESCRIPTION LAW ABIDING CITIZEN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/legoyoda1.mp4:LEGO STAR WARS%3a THE YODA CHRONICLES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/legoyoda1.mp4:LEGO STAR WARS: THE YODA CHRONICLES
 #DESCRIPTION LEGO STAR WARS: THE YODA CHRONICLES
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/lifebrian.mp4:LIFE OF BRIAN
 #DESCRIPTION LIFE OF BRIAN
@@ -695,7 +695,7 @@
 #DESCRIPTION PACIFIC RIM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/paidin.mp4:PAID IN FULL
 #DESCRIPTION PAID IN FULL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/markedones.mp4:PARANORMAL ACTIVITY%3a THE MARKED ONES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/markedones.mp4:PARANORMAL ACTIVITY: THE MARKED ONES
 #DESCRIPTION PARANORMAL ACTIVITY: THE MARKED ONES
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/peeles.mp4:PEEPLES
 #DESCRIPTION PEEPLES
@@ -799,7 +799,7 @@
 #DESCRIPTION STEP BROTHERS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/strikeback.mp4:STRIKE BACK
 #DESCRIPTION STRIKE BACK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/steel.mp4:SUPERMAN%3a MAN OF STEELS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/steel.mp4:SUPERMAN: MAN OF STEELS
 #DESCRIPTION SUPERMAN: MAN OF STEELS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/talla.mp4:TALLADEGA NIGHTS
 #DESCRIPTION TALLADEGA NIGHTS
@@ -849,7 +849,7 @@
 #DESCRIPTION THE FAST AND THE FURIOUS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fast2.mp4:THE FAST AND THE FURIOUS 2
 #DESCRIPTION THE FAST AND THE FURIOUS 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fast3.mp4:THE FAST AND THE FURIOUS 3%3aTOKYO DRIFT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fast3.mp4:THE FAST AND THE FURIOUS 3:TOKYO DRIFT
 #DESCRIPTION THE FAST AND THE FURIOUS 3:TOKYO DRIFT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thefox.mp4:THE FOX & THE HOUND
 #DESCRIPTION THE FOX & THE HOUND
@@ -881,7 +881,7 @@
 #DESCRIPTION THE HOUSE BUNNY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hungergame1.mp4:THE HUNGER GAMES
 #DESCRIPTION THE HUNGER GAMES
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hungergames2.mp4:THE HUNGER GAMES%3a CATCHING FIRE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hungergames2.mp4:THE HUNGER GAMES: CATCHING FIRE
 #DESCRIPTION THE HUNGER GAMES: CATCHING FIRE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/internship2013.mp4:THE INTERNSHIP
 #DESCRIPTION THE INTERNSHIP
@@ -899,11 +899,11 @@
 #DESCRIPTION THE LITTLE MERMAID
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/lone.mp4:THE LONE RANGERS
 #DESCRIPTION THE LONE RANGERS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/twotowers.mp4:THE LORD OF THE RINGS%3aTHE 2 TOWERS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/twotowers.mp4:THE LORD OF THE RINGS:THE 2 TOWERS
 #DESCRIPTION THE LORD OF THE RINGS:THE 2 TOWERS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fellowship1.mp4:THE LORD OF THE RINGS%3aTHE FELLOWSHIP OF THE RING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fellowship1.mp4:THE LORD OF THE RINGS:THE FELLOWSHIP OF THE RING
 #DESCRIPTION THE LORD OF THE RINGS:THE FELLOWSHIP OF THE RING
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/returnking1.mp4:THE LORD OF THE RINGS%3aTHE RETURN OF THE KING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/returnking1.mp4:THE LORD OF THE RINGS:THE RETURN OF THE KING
 #DESCRIPTION THE LORD OF THE RINGS:THE RETURN OF THE KING
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/lovebug1.mp4:THE LOVE BUG
 #DESCRIPTION THE LOVE BUG
@@ -973,9 +973,9 @@
 #DESCRIPTION TRAINING DAY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/transformers1.mp4:TRANSFORMERS
 #DESCRIPTION TRANSFORMERS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/transformers3.mp4:TRANSFORMERS%3aDARK OF THE MOON
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/transformers3.mp4:TRANSFORMERS:DARK OF THE MOON
 #DESCRIPTION TRANSFORMERS:DARK OF THE MOON
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/transformers2.mp4:TRANSFORMERS%3aREVENGE OF THE FALLEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/transformers2.mp4:TRANSFORMERS:REVENGE OF THE FALLEN
 #DESCRIPTION TRANSFORMERS:REVENGE OF THE FALLEN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/.mp4:TROLL
 #DESCRIPTION TROLL
@@ -983,7 +983,7 @@
 #DESCRIPTION TROLL 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/turbo.mp4:TURBO
 #DESCRIPTION TURBO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fromhell2014.mp4:TYLER PERRYS MADEAS NEIGHBORS%3a FROM HELL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fromhell2014.mp4:TYLER PERRYS MADEAS NEIGHBORS: FROM HELL
 #DESCRIPTION TYLER PERRYS MADEAS NEIGHBORS: FROM HELL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/unstoppable.mp4:UNSTOPPABLE
 #DESCRIPTION UNSTOPPABLE
@@ -1021,7 +1021,7 @@
 #DESCRIPTION XMEN ORIGIN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/yournext.mp4:YOU'RE NEXT
 #DESCRIPTION YOU'RE NEXT
-#SERVICE 1:64:9C:0:0:0:0:0:0:0::%3a%3a%3a%3a___DEADLYBLOGGER_SERIES____%3a%3a%3a%3a
+#SERVICE 1:64:9C:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_SERIES____::::
 #DESCRIPTION ::::___DEADLYBLOGGER_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e1.mp4:Game of Thrones Season 1 Episode 1
 #DESCRIPTION Game of Thrones Season 1 Episode 1
@@ -1233,7 +1233,7 @@
 #DESCRIPTION Scandal Season 3 Episode 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e11.mp4:Scandal Season 3 Episode 11
 #DESCRIPTION Scandal Season 3 Episode 11
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::%3a%3a%3a%3a____ReMy_filmovi_MOVIES____%3a%3a%3a%3a
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::::::____ReMy_filmovi_MOVIES____::::
 #DESCRIPTION ::::____ReMy_filmovi_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1124.mkv:007-Spectre
 #DESCRIPTION 007-Spectre
@@ -1269,9 +1269,9 @@
 #DESCRIPTION A-X-L
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/tuerus.avi:Above the Law
 #DESCRIPTION Above the Law
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/acev1.avi:Ace Ventura%3a Pet Detective
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/acev1.avi:Ace Ventura: Pet Detective
 #DESCRIPTION Ace Ventura: Pet Detective
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/acev2.avi:Ace Ventura%3a When Nature Calls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/acev2.avi:Ace Ventura: When Nature Calls
 #DESCRIPTION Ace Ventura: When Nature Calls
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/aov.avi:Acts Of Vengeance
 #DESCRIPTION Acts Of Vengeance
@@ -1281,7 +1281,7 @@
 #DESCRIPTION Air Strike
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1171.mkv:Airlift
 #DESCRIPTION Airlift
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/alita.avi:Alita%3a Battle Angel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/alita.avi:Alita: Battle Angel
 #DESCRIPTION Alita: Battle Angel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ail1.avi:All Is Lost
 #DESCRIPTION All Is Lost
@@ -1289,7 +1289,7 @@
 #DESCRIPTION All the Money in the World Sav novac svijeta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/alpha.avi:Alpha
 #DESCRIPTION Alpha
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/alvinivjeverice.avi:Alvin i vjeverice%3a Velika alvintura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/alvinivjeverice.avi:Alvin i vjeverice: Velika alvintura
 #DESCRIPTION Alvin i vjeverice: Velika alvintura
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/aassassin2.avi:American Assassin 2
 #DESCRIPTION American Assassin 2
@@ -1323,15 +1323,15 @@
 #DESCRIPTION Asterix-Grad Bogova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/atomicblonde.avi:Atomic Blonde
 #DESCRIPTION Atomic Blonde
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/august.avi:August%3a Osage County
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/august.avi:August: Osage County
 #DESCRIPTION August: Osage County
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/780.mkv:Avanture Borivoja Surdilovica
 #DESCRIPTION Avanture Borivoja Surdilovica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/avatar.avi:Avatar
 #DESCRIPTION Avatar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/osvetnici.avi:Avengers%3a Age of Ultron
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/osvetnici.avi:Avengers: Age of Ultron
 #DESCRIPTION Avengers: Age of Ultron
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/aiw.avi:Avengers%3a Infinity War
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/aiw.avi:Avengers: Infinity War
 #DESCRIPTION Avengers: Infinity War
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/330.mkv:Avioni
 #DESCRIPTION Avioni
@@ -1397,7 +1397,7 @@
 #DESCRIPTION Bitka na Neretvi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/black47.avi:Black '47
 #DESCRIPTION Black '47
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/blackmiror.avi:Black Mirror%3a Bandersnatch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/blackmiror.avi:Black Mirror: Bandersnatch
 #DESCRIPTION Black Mirror: Bandersnatch
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/blackpanter.avi:Black Panther
 #DESCRIPTION Black Panther
@@ -1427,7 +1427,7 @@
 #DESCRIPTION Bourneov ultimatum (The Bourne Ultimatum)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bourne2.avi:Bourneova nadmoc (The Bourne Supremacy)
 #DESCRIPTION Bourneova nadmoc (The Bourne Supremacy)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/box.mkv:Boxing WBO%3a Anthony Joshua vs Wladimir Klits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/box.mkv:Boxing WBO: Anthony Joshua vs Wladimir Klits
 #DESCRIPTION Boxing WBO: Anthony Joshua vs Wladimir Klits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/boy7.avi:Boy 7
 #DESCRIPTION Boy 7
@@ -1443,7 +1443,7 @@
 #DESCRIPTION Bumblebee
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/342.mkv:Captain America The Winter Soldier (2014)
 #DESCRIPTION Captain America The Winter Soldier (2014)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/civilwar.avi:Captain America%3a Civil War
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/civilwar.avi:Captain America: Civil War
 #DESCRIPTION Captain America: Civil War
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/captivestate.avi:Captive State
 #DESCRIPTION Captive State
@@ -1521,7 +1521,7 @@
 #DESCRIPTION Den of Thieves
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/296.mkv:Despicable Me 2
 #DESCRIPTION Despicable Me 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/devils.avi:Devil's Tree%3a Rooted Evil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/devils.avi:Devil's Tree: Rooted Evil
 #DESCRIPTION Devil's Tree: Rooted Evil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/dzsmrt.avi:Diploma za smrt
 #DESCRIPTION Diploma za smrt
@@ -1559,7 +1559,7 @@
 #DESCRIPTION Draft Day
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/dragged.avi:Dragged Across Concrete
 #DESCRIPTION Dragged Across Concrete
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/dragozmaj.avi:Dragonheart%3a Battle for the Heartfire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/dragozmaj.avi:Dragonheart: Battle for the Heartfire
 #DESCRIPTION Dragonheart: Battle for the Heartfire
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/287.mkv:Dumb and Dumber To
 #DESCRIPTION Dumb and Dumber To
@@ -1579,7 +1579,7 @@
 #DESCRIPTION Eragon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/bsz.avi:Escape from Planet Earth
 #DESCRIPTION Escape from Planet Earth
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/escapeplan.avi:Escape Plan%3a The Extractors
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/escapeplan.avi:Escape Plan: The Extractors
 #DESCRIPTION Escape Plan: The Extractors
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/eroom.avi:Escape Room
 #DESCRIPTION Escape Room
@@ -1597,7 +1597,7 @@
 #DESCRIPTION Family Is Family
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/fantasticbeasts.avi:Fantastic Beasts and Where to Find Them
 #DESCRIPTION Fantastic Beasts and Where to Find Them
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/grindewald.avi:Fantastic Beasts%3a The Crimes of Grindelwald
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/grindewald.avi:Fantastic Beasts: The Crimes of Grindelwald
 #DESCRIPTION Fantastic Beasts: The Crimes of Grindelwald
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ff6.avi:Fast and Furious 6
 #DESCRIPTION Fast and Furious 6
@@ -1649,11 +1649,11 @@
 #DESCRIPTION Gone girl
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ddjeca2016.avi:Good kids
 #DESCRIPTION Good kids
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bumps.avi:Goosebumps 2%3a Haunted Halloween
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bumps.avi:Goosebumps 2: Haunted Halloween
 #DESCRIPTION Goosebumps 2: Haunted Halloween
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/427.mkv:Gori vatra
 #DESCRIPTION Gori vatra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/gosnell.avi:Gosnell%3a The Trial of America's Biggest Seri
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/gosnell.avi:Gosnell: The Trial of America's Biggest Seri
 #DESCRIPTION Gosnell: The Trial of America's Biggest Seri
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/Gridlocked.avi:Gridlocked
 #DESCRIPTION Gridlocked
@@ -1669,7 +1669,7 @@
 #DESCRIPTION Guardians of the Galaxy (2014)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/guardian2.avi:Guardians of the Galaxy Vol. 2
 #DESCRIPTION Guardians of the Galaxy Vol. 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hachiko.avi:Hachi%3a A Dog's Tale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hachiko.avi:Hachi: A Dog's Tale
 #DESCRIPTION Hachi: A Dog's Tale
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hkridge.avi:Hacksaw Ridge
 #DESCRIPTION Hacksaw Ridge
@@ -1689,17 +1689,17 @@
 #DESCRIPTION Hannibal 2001
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hhenry.avi:Hardcore Henry
 #DESCRIPTION Hardcore Henry
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hellraiser.avi:Hellraiser%3a Judgment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hellraiser.avi:Hellraiser: Judgment
 #DESCRIPTION Hellraiser: Judgment
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/421.mkv:Hercules
 #DESCRIPTION Hercules
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/herkules.avi:Hercules%3a The Legend Begins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/herkules.avi:Hercules: The Legend Begins
 #DESCRIPTION Hercules: The Legend Begins
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/highlife.avi:High Life
 #DESCRIPTION High Life
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/1208.mkv:Hiljadarka
 #DESCRIPTION Hiljadarka
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/966.mkv:Hitman%3a Agent 47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/966.mkv:Hitman: Agent 47
 #DESCRIPTION Hitman: Agent 47
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/holmesiwatson.avi:Holmes & Watson
 #DESCRIPTION Holmes & Watson
@@ -1715,7 +1715,7 @@
 #DESCRIPTION Hotel Rwanda
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/1128.mkv:Hotel Transilvanija 2
 #DESCRIPTION Hotel Transilvanija 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/hoteltranslivanija3.avi:Hotel Transylvania 3%3a Summer Vacation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/hoteltranslivanija3.avi:Hotel Transylvania 3: Summer Vacation
 #DESCRIPTION Hotel Transylvania 3: Summer Vacation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/latinlover.avi:How to Be a Latin Lover
 #DESCRIPTION How to Be a Latin Lover
@@ -1749,7 +1749,7 @@
 #DESCRIPTION Into The Storm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/io.avi:IO
 #DESCRIPTION IO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/ironsky2.avi:Iron Sky%3a The Coming Race
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/ironsky2.avi:Iron Sky: The Coming Race
 #DESCRIPTION Iron Sky: The Coming Race
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/islandzero.avi:Island Zero
 #DESCRIPTION Island Zero
@@ -1765,7 +1765,7 @@
 #DESCRIPTION Izvrnuto obrnuto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/346.mkv:Jack Ryan Shadow Recruit
 #DESCRIPTION Jack Ryan Shadow Recruit
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/334.mkv:Jack Ryan%3a Shadow Recruit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/334.mkv:Jack Ryan: Shadow Recruit
 #DESCRIPTION Jack Ryan: Shadow Recruit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/785.mkv:Jagode u Grlu
 #DESCRIPTION Jagode u Grlu
@@ -1795,13 +1795,13 @@
 #DESCRIPTION Johnny English Strikes Again
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/896.mkv:Juhu-hu
 #DESCRIPTION Juhu-hu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/dzungla2017.avi:Jumanji%3a Welcome to the Jungle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/dzungla2017.avi:Jumanji: Welcome to the Jungle
 #DESCRIPTION Jumanji: Welcome to the Jungle
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/331.mkv:Juraj i hrabri vitezovi
 #DESCRIPTION Juraj i hrabri vitezovi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/730.mkv:Jurassic World
 #DESCRIPTION Jurassic World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/jwfk.avi:Jurassic World%3a Fallen Kingdom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/jwfk.avi:Jurassic World: Fallen Kingdom
 #DESCRIPTION Jurassic World: Fallen Kingdom
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/gettingstarted.avi:Just Getting Started
 #DESCRIPTION Just Getting Started
@@ -1821,9 +1821,9 @@
 #DESCRIPTION Kamijondzije 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/karaula.avi:Karaula
 #DESCRIPTION Karaula
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kickboxer.avi:Kickboxer%3a Retaliation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kickboxer.avi:Kickboxer: Retaliation
 #DESCRIPTION Kickboxer: Retaliation
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bokser1.avi:Kickboxer%3a Vengeance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/bokser1.avi:Kickboxer: Vengeance
 #DESCRIPTION Kickboxer: Vengeance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/korder.avi:Kill Order
 #DESCRIPTION Kill Order
@@ -1833,13 +1833,13 @@
 #DESCRIPTION King Lear
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/kingt.avi:King of Thieves
 #DESCRIPTION King of Thieves
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kingsman2.avi:Kingsman%3a The Golden Circle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kingsman2.avi:Kingsman: The Golden Circle
 #DESCRIPTION Kingsman: The Golden Circle
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/kototamopeva.avi:Ko To Tamo Peva
 #DESCRIPTION Ko To Tamo Peva
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kolibausumi.avi:Koliba u sumi The Cabin in the Woods
 #DESCRIPTION Koliba u sumi The Cabin in the Woods
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kong2017.avi:Kong%3a Skull Island
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/kong2017.avi:Kong: Skull Island
 #DESCRIPTION Kong: Skull Island
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/kizlet.avi:Kratki Izlet
 #DESCRIPTION Kratki Izlet
@@ -1913,7 +1913,7 @@
 #DESCRIPTION Lude godine 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/928.mkv:Macak u Cizmama
 #DESCRIPTION Macak u Cizmama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/madmax.avi:Mad Max%3a Fury Road
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/madmax.avi:Mad Max: Fury Road
 #DESCRIPTION Mad Max: Fury Road
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/mad1.avi:Madagascar 1
 #DESCRIPTION Madagascar 1
@@ -1951,9 +1951,9 @@
 #DESCRIPTION Matrix reloaded
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/matrix3.avi:Matrix revolutions
 #DESCRIPTION Matrix revolutions
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mazerunner3.avi:Maze Runner%3a The Death Cure
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mazerunner3.avi:Maze Runner: The Death Cure
 #DESCRIPTION Maze Runner: The Death Cure
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1125.mkv:Maze Runner%3a The Scorch Trials
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1125.mkv:Maze Runner: The Scorch Trials
 #DESCRIPTION Maze Runner: The Scorch Trials
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mechanic.avi:Mechanic Resurrection
 #DESCRIPTION Mechanic Resurrection
@@ -1979,7 +1979,7 @@
 #DESCRIPTION Miracle on 34th Street
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1144.mkv:Misconduct
 #DESCRIPTION Misconduct
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mi6.avi:Mission%3a Impossible Fallout
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mi6.avi:Mission: Impossible Fallout
 #DESCRIPTION Mission: Impossible Fallout
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/moana.avi:Moana
 #DESCRIPTION Moana
@@ -1989,7 +1989,7 @@
 #DESCRIPTION Montevideo Bog te video!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/315.mkv:Montevideo vidimo se!
 #DESCRIPTION Montevideo vidimo se!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mowgli.avi:Mowgli%3a Legend of the Jungle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/mowgli.avi:Mowgli: Legend of the Jungle
 #DESCRIPTION Mowgli: Legend of the Jungle
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/329.mkv:Mr. Peabody & Sherman
 #DESCRIPTION Mr. Peabody & Sherman
@@ -2025,9 +2025,9 @@
 #DESCRIPTION Nerve
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/nbd11.mp4:Never Back Down
 #DESCRIPTION Never Back Down
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/nbd2.mp4:Never Back Down 2%3a The Beatdown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/nbd2.mp4:Never Back Down 2: The Beatdown
 #DESCRIPTION Never Back Down 2: The Beatdown
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/nbd3.avi:Never Back Down%3a No Surrender
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/nbd3.avi:Never Back Down: No Surrender
 #DESCRIPTION Never Back Down: No Surrender
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/nevergrow.avi:Never Grow Old
 #DESCRIPTION Never Grow Old
@@ -2065,11 +2065,11 @@
 #DESCRIPTION Overlord
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/omd.mp4:Ovo Malo Duse
 #DESCRIPTION Ovo Malo Duse
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/brziozi.avi:Ozzy%3a Fast & Furry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/brziozi.avi:Ozzy: Fast & Furry
 #DESCRIPTION Ozzy: Fast & Furry
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/escobar.avi:Pablo Escobar%3a Paradise Lost
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/escobar.avi:Pablo Escobar: Paradise Lost
 #DESCRIPTION Pablo Escobar: Paradise Lost
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pacificrim2.avi:Pacific Rim%3a Uprising
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pacificrim2.avi:Pacific Rim: Uprising
 #DESCRIPTION Pacific Rim: Uprising
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/297.mkv:Pain & Gain
 #DESCRIPTION Pain & Gain
@@ -2083,9 +2083,9 @@
 #DESCRIPTION Paranormal Activity 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pan3.avi:Paranormal Activity 3
 #DESCRIPTION Paranormal Activity 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pan5.avi:Paranormal Activity%3a The Ghost Dimension
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pan5.avi:Paranormal Activity: The Ghost Dimension
 #DESCRIPTION Paranormal Activity: The Ghost Dimension
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pan4m.avi:Paranormal Activity%3a The Marked Ones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pan4m.avi:Paranormal Activity: The Marked Ones
 #DESCRIPTION Paranormal Activity: The Marked Ones
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/pe.avi:Partizanska Eskadrila
 #DESCRIPTION Partizanska Eskadrila
@@ -2103,7 +2103,7 @@
 #DESCRIPTION Pinokio i zlatni kljuc
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/pipi1.avi:Pipi Duga Carapa
 #DESCRIPTION Pipi Duga Carapa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pirati5.avi:Pirates of the Caribbean%3a Dead Men Tell No T
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pirati5.avi:Pirates of the Caribbean: Dead Men Tell No T
 #DESCRIPTION Pirates of the Caribbean: Dead Men Tell No T
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/pzdm.mp4:Pismo za deda mraza
 #DESCRIPTION Pismo za deda mraza
@@ -2115,7 +2115,7 @@
 #DESCRIPTION Podzemlje (Underground)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pompei.avi:Pompeii
 #DESCRIPTION Pompeii
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pompeja.avi:Pompeii%3a New Secrets Revealed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/pompeja.avi:Pompeii: New Secrets Revealed
 #DESCRIPTION Pompeii: New Secrets Revealed
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/pkumonici.avi:Poslednji krug u Monci
 #DESCRIPTION Poslednji krug u Monci
@@ -2157,7 +2157,7 @@
 #DESCRIPTION Replicas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/repisal.avi:Reprisal
 #DESCRIPTION Reprisal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/444.mkv:Resident Evil%3a Retribution
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/444.mkv:Resident Evil: Retribution
 #DESCRIPTION Resident Evil: Retribution
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/revolt.avi:Revolt
 #DESCRIPTION Revolt
@@ -2211,7 +2211,7 @@
 #DESCRIPTION Salas u malom ritu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/suk.avi:Sam u kuci
 #DESCRIPTION Sam u kuci
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/suk2.avi:Sam u kuci 2%3a Izgubljen u New Yorku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/suk2.avi:Sam u kuci 2: Izgubljen u New Yorku
 #DESCRIPTION Sam u kuci 2: Izgubljen u New Yorku
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/suk3.avi:Sam u kuci 3
 #DESCRIPTION Sam u kuci 3
@@ -2299,7 +2299,7 @@
 #DESCRIPTION Skyscraper
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/smrtusarajevu.avi:Smrt u Sarajevu
 #DESCRIPTION Smrt u Sarajevu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/smurfs4.avi:Smurfs%3a The Lost Village
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/smurfs4.avi:Smurfs: The Lost Village
 #DESCRIPTION Smurfs: The Lost Village
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/snitch.avi:Snitch
 #DESCRIPTION Snitch
@@ -2315,7 +2315,7 @@
 #DESCRIPTION Spasavanje Djeda Mraza
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/sv.avi:Specijalno Vaspitanje
 #DESCRIPTION Specijalno Vaspitanje
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/spidermanhomecoming.avi:Spider-Man%3a Homecoming
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/spidermanhomecoming.avi:Spider-Man: Homecoming
 #DESCRIPTION Spider-Man: Homecoming
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/chihiro.avi:Spirited Away
 #DESCRIPTION Spirited Away
@@ -2333,11 +2333,11 @@
 #DESCRIPTION Star Wars Episode 5 The Empire Strikes Back
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/swars6.avi:Star Wars Episode 6 Return of the Jedi
 #DESCRIPTION Star Wars Episode 6 Return of the Jedi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/swars2.avi:Star Wars%3a Episode 2  Attack of the Clones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/swars2.avi:Star Wars: Episode 2  Attack of the Clones
 #DESCRIPTION Star Wars: Episode 2  Attack of the Clones
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/swars3.avi:Star Wars%3a Episode 3  Revenge of the Sith
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/swars3.avi:Star Wars: Episode 3  Revenge of the Sith
 #DESCRIPTION Star Wars: Episode 3  Revenge of the Sith
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1211.mkv:Star Wars%3aEpisode VII The Force Awakens
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1211.mkv:Star Wars:Episode VII The Force Awakens
 #DESCRIPTION Star Wars:Episode VII The Force Awakens
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/stillb.avi:Still/Born
 #DESCRIPTION Still/Born
@@ -2453,7 +2453,7 @@
 #DESCRIPTION The Happytime Murders
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/hitmanb.avi:The Hitman's Bodyguard
 #DESCRIPTION The Hitman's Bodyguard
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/365.mkv:The Hobbit%3a The Battle Of The Five Armies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/365.mkv:The Hobbit: The Battle Of The Five Armies
 #DESCRIPTION The Hobbit: The Battle Of The Five Armies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/filmovijuni/thg.avi:The Hole in the Ground
 #DESCRIPTION The Hole in the Ground
@@ -2517,7 +2517,7 @@
 #DESCRIPTION The Santa Clause
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/tsr.avi:The Shawshank Redemption
 #DESCRIPTION The Shawshank Redemption
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/1180.mkv:The SpongeBob Movie%3a Sponge Out of Water (20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/1180.mkv:The SpongeBob Movie: Sponge Out of Water (20
 #DESCRIPTION The SpongeBob Movie: Sponge Out of Water (20
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/ukradenaprinceza.avi:The Stolen Princess
 #DESCRIPTION The Stolen Princess
@@ -2541,9 +2541,9 @@
 #DESCRIPTION The Week Of
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/wstret.avi:The Wolf of Wall Street
 #DESCRIPTION The Wolf of Wall Street
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ragnarok.avi:Thor%3a Ragnarok
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/ragnarok.avi:Thor: Ragnarok
 #DESCRIPTION Thor: Ragnarok
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/307.mkv:Thor%3a The Dark World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/307.mkv:Thor: The Dark World
 #DESCRIPTION Thor: The Dark World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/tripp1.avi:Three Palms for Two Punks and a Babe
 #DESCRIPTION Three Palms for Two Punks and a Babe
@@ -2559,9 +2559,9 @@
 #DESCRIPTION Toro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/tgirls.avi:Tragedy Girls
 #DESCRIPTION Tragedy Girls
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/325.mkv:Transformers%3a Age of Extinction
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/325.mkv:Transformers: Age of Extinction
 #DESCRIPTION Transformers: Age of Extinction
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/trans5.avi:Transformers%3a The Last Knight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/trans5.avi:Transformers: The Last Knight
 #DESCRIPTION Transformers: The Last Knight
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/423.mkv:Trash
 #DESCRIPTION Trash
@@ -2591,13 +2591,13 @@
 #DESCRIPTION Underworld Blood Wars
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/312.mkv:Undisputed
 #DESCRIPTION Undisputed
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/310.mkv:Undisputed 2%3a Last Man Standing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/310.mkv:Undisputed 2: Last Man Standing
 #DESCRIPTION Undisputed 2: Last Man Standing
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/298.mkv:Undisputed 3%3a Redemption
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/298.mkv:Undisputed 3: Redemption
 #DESCRIPTION Undisputed 3: Redemption
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/boyka4.avi:Undisputed IV Boyka
 #DESCRIPTION Undisputed IV Boyka
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/darkweb.avi:Unfriended%3a Dark Web
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/darkweb.avi:Unfriended: Dark Web
 #DESCRIPTION Unfriended: Dark Web
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/united93.avi:United 93
 #DESCRIPTION United 93
@@ -2659,13 +2659,13 @@
 #DESCRIPTION Zajedno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/zavet.mp4:Zavet 2007
 #DESCRIPTION Zavet 2007
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/zonazamfirova2.avi:Zona Zamfirova 2%3a Vrati se Zone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/exfilm/zonazamfirova2.avi:Zona Zamfirova 2: Vrati se Zone
 #DESCRIPTION Zona Zamfirova 2: Vrati se Zone
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1178.mkv:Zoolander 2
 #DESCRIPTION Zoolander 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/zootopia.avi:Zootopia
 #DESCRIPTION Zootopia
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::%3a%3a%3a%3a____ReMy_filmovi_SERIES____%3a%3a%3a%3a
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::::::____ReMy_filmovi_SERIES____::::
 #DESCRIPTION ::::____ReMy_filmovi_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh110.mp4:Konak kod Hilmije S01E10
 #DESCRIPTION Konak kod Hilmije S01E10
@@ -3071,43 +3071,43 @@
 #DESCRIPTION Lud Zbunjen Normalan S01E39
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/517.mkv:Lud Zbunjen Normalan S01E40
 #DESCRIPTION Lud Zbunjen Normalan S01E40
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a________NETFLIX_SERIES________%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:9F:0:0:0:0:0:0:0:::::::::::________NETFLIX_SERIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_SERIES________:::::::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E01.mkv:3%25 1X01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E01.mkv:3% 1X01
 #DESCRIPTION 3% 1X01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E02.mkv:3%25 1X02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E02.mkv:3% 1X02
 #DESCRIPTION 3% 1X02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E03.mkv:3%25 1X03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E03.mkv:3% 1X03
 #DESCRIPTION 3% 1X03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E04.mkv:3%25 1X04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E04.mkv:3% 1X04
 #DESCRIPTION 3% 1X04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E05.mkv:3%25 1X05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E05.mkv:3% 1X05
 #DESCRIPTION 3% 1X05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E06.mkv:3%25 1X06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E06.mkv:3% 1X06
 #DESCRIPTION 3% 1X06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E07.mkv:3%25 1X07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E07.mkv:3% 1X07
 #DESCRIPTION 3% 1X07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E08.mkv:3%25 1X08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E08.mkv:3% 1X08
 #DESCRIPTION 3% 1X08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E01.mkv:3%25 2X01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E01.mkv:3% 2X01
 #DESCRIPTION 3% 2X01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E02.mkv:3%25 2X02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E02.mkv:3% 2X02
 #DESCRIPTION 3% 2X02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E02.mkv:3%25 2X03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E02.mkv:3% 2X03
 #DESCRIPTION 3% 2X03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E04.mkv:3%25 2X04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E04.mkv:3% 2X04
 #DESCRIPTION 3% 2X04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E05.mkv:3%25 2X05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E05.mkv:3% 2X05
 #DESCRIPTION 3% 2X05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E06.mkv:3%25 2X06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E06.mkv:3% 2X06
 #DESCRIPTION 3% 2X06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E07.mkv:3%25 2X07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E07.mkv:3% 2X07
 #DESCRIPTION 3% 2X07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E08.mkv:3%25 2X08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E08.mkv:3% 2X08
 #DESCRIPTION 3% 2X08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E09.mkv:3%25 2X09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E09.mkv:3% 2X09
 #DESCRIPTION 3% 2X09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E10.mkv:3%25 2X10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc2/3Perc.S02E10.mkv:3% 2X10
 #DESCRIPTION 3% 2X10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/12.Monkeys/S01/S01E01.mp4:12 Monkeys S01 E01
 #DESCRIPTION 12 Monkeys S01 E01
@@ -7461,201 +7461,201 @@
 #DESCRIPTION Narcos S03 E09
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AhfWTxqD2aXCiCkNncH88Xjmp1sl:Narcos S03 E10
 #DESCRIPTION Narcos S03 E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLii1gGqbNabqk-_6u?e=KgLeRN:NCIS%3a Nova Orleans S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLii1gGqbNabqk-_6u?e=KgLeRN:NCIS: Nova Orleans S01 E01
 #DESCRIPTION NCIS: Nova Orleans S01 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijVX2oB-eUfLcMK2?e=spnqzD:NCIS%3a Nova Orleans S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijVX2oB-eUfLcMK2?e=spnqzD:NCIS: Nova Orleans S01 E02
 #DESCRIPTION NCIS: Nova Orleans S01 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijZOx7lzsyNWFd5Q?e=c8JxJE:NCIS%3a Nova Orleans S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijZOx7lzsyNWFd5Q?e=c8JxJE:NCIS: Nova Orleans S01 E03
 #DESCRIPTION NCIS: Nova Orleans S01 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijdDVDwG3ok9eYol?e=CHnWfl:NCIS%3a Nova Orleans S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijdDVDwG3ok9eYol?e=CHnWfl:NCIS: Nova Orleans S01 E04
 #DESCRIPTION NCIS: Nova Orleans S01 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijh9XkK0cFMKhAlr?e=gbRzC5:NCIS%3a Nova Orleans S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijh9XkK0cFMKhAlr?e=gbRzC5:NCIS: Nova Orleans S01 E05
 #DESCRIPTION NCIS: Nova Orleans S01 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijmjFxavUAUJEOb4?e=rDEDQk:NCIS%3a Nova Orleans S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijmjFxavUAUJEOb4?e=rDEDQk:NCIS: Nova Orleans S01 E06
 #DESCRIPTION NCIS: Nova Orleans S01 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijqTaTZrIHnPzHox?e=iERah8:NCIS%3a Nova Orleans S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijqTaTZrIHnPzHox?e=iERah8:NCIS: Nova Orleans S01 E07
 #DESCRIPTION NCIS: Nova Orleans S01 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijtQuX4ePoArbSci?e=VGwSYh:NCIS%3a Nova Orleans S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijtQuX4ePoArbSci?e=VGwSYh:NCIS: Nova Orleans S01 E08
 #DESCRIPTION NCIS: Nova Orleans S01 E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijzmU7iD4ar36fpP?e=M94izD:NCIS%3a Nova Orleans S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijzmU7iD4ar36fpP?e=M94izD:NCIS: Nova Orleans S01 E09
 #DESCRIPTION NCIS: Nova Orleans S01 E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLij0U3EvOQMTsCFkt?e=OypOGj:NCIS%3a Nova Orleans S01 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLij0U3EvOQMTsCFkt?e=OypOGj:NCIS: Nova Orleans S01 E10
 #DESCRIPTION NCIS: Nova Orleans S01 E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLij5f0415rEsyWzpZ?e=k69rtw:NCIS%3a Nova Orleans S01 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLij5f0415rEsyWzpZ?e=k69rtw:NCIS: Nova Orleans S01 E11
 #DESCRIPTION NCIS: Nova Orleans S01 E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLij9LSeYcKHt8YF2-?e=HTgakV:NCIS%3a Nova Orleans S01 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLij9LSeYcKHt8YF2-?e=HTgakV:NCIS: Nova Orleans S01 E12
 #DESCRIPTION NCIS: Nova Orleans S01 E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLii7vYPyhVKJKSqWp?e=Oj5Qvt:NCIS%3a Nova Orleans S01 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLii7vYPyhVKJKSqWp?e=Oj5Qvt:NCIS: Nova Orleans S01 E13
 #DESCRIPTION NCIS: Nova Orleans S01 E13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLii-iFiCl5S6Wn6Bm?e=4ay7qD:NCIS%3a Nova Orleans S01 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLii-iFiCl5S6Wn6Bm?e=4ay7qD:NCIS: Nova Orleans S01 E14
 #DESCRIPTION NCIS: Nova Orleans S01 E14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijAwZutVzNtGoMRV?e=dMpwwV:NCIS%3a Nova Orleans S01 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijAwZutVzNtGoMRV?e=dMpwwV:NCIS: Nova Orleans S01 E15
 #DESCRIPTION NCIS: Nova Orleans S01 E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijGH8FWLQ5fx6W1V?e=55ORSx:NCIS%3a Nova Orleans S01 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijGH8FWLQ5fx6W1V?e=55ORSx:NCIS: Nova Orleans S01 E16
 #DESCRIPTION NCIS: Nova Orleans S01 E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijI_uah2z1icTPaF?e=ANIzOr:NCIS%3a Nova Orleans S01 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijI_uah2z1icTPaF?e=ANIzOr:NCIS: Nova Orleans S01 E17
 #DESCRIPTION NCIS: Nova Orleans S01 E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijNzmcGMK4IoWska?e=6gAH4a:NCIS%3a Nova Orleans S01 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijNzmcGMK4IoWska?e=6gAH4a:NCIS: Nova Orleans S01 E18
 #DESCRIPTION NCIS: Nova Orleans S01 E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijQDoJ9PeAsppMNZ?e=POHXPh:NCIS%3a Nova Orleans S01 E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLijQDoJ9PeAsppMNZ?e=POHXPh:NCIS: Nova Orleans S01 E19
 #DESCRIPTION NCIS: Nova Orleans S01 E19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikJuK_xY9zoo9fLA?e=2kch9t:NCIS%3a Nova Orleans S01 E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikJuK_xY9zoo9fLA?e=2kch9t:NCIS: Nova Orleans S01 E20
 #DESCRIPTION NCIS: Nova Orleans S01 E20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikEGvt4vFQhzgKYn?e=c60SgG:NCIS%3a Nova Orleans S01 E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikEGvt4vFQhzgKYn?e=c60SgG:NCIS: Nova Orleans S01 E21
 #DESCRIPTION NCIS: Nova Orleans S01 E21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikCWQVfOkgVVI7cy?e=u547Oo:NCIS%3a Nova Orleans S01 E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikCWQVfOkgVVI7cy?e=u547Oo:NCIS: Nova Orleans S01 E22
 #DESCRIPTION NCIS: Nova Orleans S01 E22
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLikPSSLTgVIAnZi81?e=5H7XcM:NCIS%3a Nova Orleans S01 E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLikPSSLTgVIAnZi81?e=5H7XcM:NCIS: Nova Orleans S01 E23
 #DESCRIPTION NCIS: Nova Orleans S01 E23
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikehOtTWSvL4AeVP?e=KqGYzP:NCIS%3a Nova Orleans S02 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikehOtTWSvL4AeVP?e=KqGYzP:NCIS: Nova Orleans S02 E01
 #DESCRIPTION NCIS: Nova Orleans S02 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikj2tuT5VHK-QgAn?e=RKJ3EL:NCIS%3a Nova Orleans S02 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikj2tuT5VHK-QgAn?e=RKJ3EL:NCIS: Nova Orleans S02 E02
 #DESCRIPTION NCIS: Nova Orleans S02 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikoqZGARTEVg3j4A?e=is1EPY:NCIS%3a Nova Orleans S02 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikoqZGARTEVg3j4A?e=is1EPY:NCIS: Nova Orleans S02 E03
 #DESCRIPTION NCIS: Nova Orleans S02 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikySjqAjhvudPspY?e=nYji4h:NCIS%3a Nova Orleans S02 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikySjqAjhvudPspY?e=nYji4h:NCIS: Nova Orleans S02 E04
 #DESCRIPTION NCIS: Nova Orleans S02 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikVqd_rIJ116kTDc?e=oIKPnH:NCIS%3a Nova Orleans S02 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikVqd_rIJ116kTDc?e=oIKPnH:NCIS: Nova Orleans S02 E05
 #DESCRIPTION NCIS: Nova Orleans S02 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLik5T5ztIzZtOa156?e=AtNsSG:NCIS%3a Nova Orleans S02 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLik5T5ztIzZtOa156?e=AtNsSG:NCIS: Nova Orleans S02 E06
 #DESCRIPTION NCIS: Nova Orleans S02 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikasA5OrkQpQEYMX?e=1aKLfq:NCIS%3a Nova Orleans S02 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikasA5OrkQpQEYMX?e=1aKLfq:NCIS: Nova Orleans S02 E07
 #DESCRIPTION NCIS: Nova Orleans S02 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilGaDbfPkO-qPiX4?e=BEKYE7:NCIS%3a Nova Orleans S02 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilGaDbfPkO-qPiX4?e=BEKYE7:NCIS: Nova Orleans S02 E08
 #DESCRIPTION NCIS: Nova Orleans S02 E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilM11GpaF7su48cj?e=j7na4i:NCIS%3a Nova Orleans S02 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilM11GpaF7su48cj?e=j7na4i:NCIS: Nova Orleans S02 E09
 #DESCRIPTION NCIS: Nova Orleans S02 E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilVs6rJedZmf4Jp9?e=2HZ7Oa:NCIS%3a Nova Orleans S02 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilVs6rJedZmf4Jp9?e=2HZ7Oa:NCIS: Nova Orleans S02 E10
 #DESCRIPTION NCIS: Nova Orleans S02 E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilaiMANrZq3C1UAJ?e=zFwEbb:NCIS%3a Nova Orleans S02 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilaiMANrZq3C1UAJ?e=zFwEbb:NCIS: Nova Orleans S02 E11
 #DESCRIPTION NCIS: Nova Orleans S02 E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilfDmTKWpeNJLdxD?e=4gTogi:NCIS%3a Nova Orleans S02 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilfDmTKWpeNJLdxD?e=4gTogi:NCIS: Nova Orleans S02 E12
 #DESCRIPTION NCIS: Nova Orleans S02 E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilhqEa7PUaljsRN7?e=d9yl6c:NCIS%3a Nova Orleans S02 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilhqEa7PUaljsRN7?e=d9yl6c:NCIS: Nova Orleans S02 E13
 #DESCRIPTION NCIS: Nova Orleans S02 E13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikkf1bmpQn5g9Gc1?e=yYHg8z:NCIS%3a Nova Orleans S02 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikkf1bmpQn5g9Gc1?e=yYHg8z:NCIS: Nova Orleans S02 E14
 #DESCRIPTION NCIS: Nova Orleans S02 E14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikv0LBv5OpEhlS9G?e=TvviAr:NCIS%3a Nova Orleans S02 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLikv0LBv5OpEhlS9G?e=TvviAr:NCIS: Nova Orleans S02 E15
 #DESCRIPTION NCIS: Nova Orleans S02 E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLik3z2cPn2eEzBtqY?e=zWfwIL:NCIS%3a Nova Orleans S02 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLik3z2cPn2eEzBtqY?e=zWfwIL:NCIS: Nova Orleans S02 E16
 #DESCRIPTION NCIS: Nova Orleans S02 E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLik8GlB6WLkxeVucJ?e=mwutT5:NCIS%3a Nova Orleans S02 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLik8GlB6WLkxeVucJ?e=mwutT5:NCIS: Nova Orleans S02 E17
 #DESCRIPTION NCIS: Nova Orleans S02 E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilAiNxDQ4JqOw774?e=enZYAs:NCIS%3a Nova Orleans S02 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilAiNxDQ4JqOw774?e=enZYAs:NCIS: Nova Orleans S02 E18
 #DESCRIPTION NCIS: Nova Orleans S02 E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilKY7h83R2aCR_-L?e=aTouVT:NCIS%3a Nova Orleans S02 E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilKY7h83R2aCR_-L?e=aTouVT:NCIS: Nova Orleans S02 E19
 #DESCRIPTION NCIS: Nova Orleans S02 E19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilQ9A80C3qHPVl3U?e=pCVPT5:NCIS%3a Nova Orleans S02 E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilQ9A80C3qHPVl3U?e=pCVPT5:NCIS: Nova Orleans S02 E20
 #DESCRIPTION NCIS: Nova Orleans S02 E20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilrQ9IcghZf_5kDP?e=zOzZRe:NCIS%3a Nova Orleans S02 E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilrQ9IcghZf_5kDP?e=zOzZRe:NCIS: Nova Orleans S02 E21
 #DESCRIPTION NCIS: Nova Orleans S02 E21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilvLfY4wWzNHKSD-?e=BodZRJ:NCIS%3a Nova Orleans S02 E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilvLfY4wWzNHKSD-?e=BodZRJ:NCIS: Nova Orleans S02 E22
 #DESCRIPTION NCIS: Nova Orleans S02 E22
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilmm2WVClcjkZJ4_?e=HUToGI:NCIS%3a Nova Orleans S02 E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilmm2WVClcjkZJ4_?e=HUToGI:NCIS: Nova Orleans S02 E23
 #DESCRIPTION NCIS: Nova Orleans S02 E23
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilxXVpth1WajvMkd?e=FqkfZv:NCIS%3a Nova Orleans S02 E24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLilxXVpth1WajvMkd?e=FqkfZv:NCIS: Nova Orleans S02 E24
 #DESCRIPTION NCIS: Nova Orleans S02 E24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLil5mbZpQWilC7Ji-?e=U5NARi:NCIS%3a Nova Orleans S03 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLil5mbZpQWilC7Ji-?e=U5NARi:NCIS: Nova Orleans S03 E01
 #DESCRIPTION NCIS: Nova Orleans S03 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimHVrZgfu0rG9Dqb?e=OyWAOA:NCIS%3a Nova Orleans S03 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimHVrZgfu0rG9Dqb?e=OyWAOA:NCIS: Nova Orleans S03 E02
 #DESCRIPTION NCIS: Nova Orleans S03 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimQCr7vSoUK0if7I?e=RCACQS:NCIS%3a Nova Orleans S03 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimQCr7vSoUK0if7I?e=RCACQS:NCIS: Nova Orleans S03 E03
 #DESCRIPTION NCIS: Nova Orleans S03 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimVpnC-5XhdJtA8m?e=jUdkhA:NCIS%3a Nova Orleans S03 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimVpnC-5XhdJtA8m?e=jUdkhA:NCIS: Nova Orleans S03 E04
 #DESCRIPTION NCIS: Nova Orleans S03 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimJRLUDErgrSxCEz?e=l6F7k2:NCIS%3a Nova Orleans S03 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimJRLUDErgrSxCEz?e=l6F7k2:NCIS: Nova Orleans S03 E05
 #DESCRIPTION NCIS: Nova Orleans S03 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimZBKPG7YEeyqam9?e=3s0r2q:NCIS%3a Nova Orleans S03 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimZBKPG7YEeyqam9?e=3s0r2q:NCIS: Nova Orleans S03 E06
 #DESCRIPTION NCIS: Nova Orleans S03 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLime6cAEWET5kHwGP?e=LYvGt1:NCIS%3a Nova Orleans S03 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLime6cAEWET5kHwGP?e=LYvGt1:NCIS: Nova Orleans S03 E07
 #DESCRIPTION NCIS: Nova Orleans S03 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimhrGm-hSw7GgwSh?e=HqijGb:NCIS%3a Nova Orleans S03 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimhrGm-hSw7GgwSh?e=HqijGb:NCIS: Nova Orleans S03 E08
 #DESCRIPTION NCIS: Nova Orleans S03 E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimkWj-TdRrqQTBr1?e=AwcAJp:NCIS%3a Nova Orleans S03 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimkWj-TdRrqQTBr1?e=AwcAJp:NCIS: Nova Orleans S03 E09
 #DESCRIPTION NCIS: Nova Orleans S03 E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimqx-5pfDnYgEeh7?e=zEWTi6:NCIS%3a Nova Orleans S03 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimqx-5pfDnYgEeh7?e=zEWTi6:NCIS: Nova Orleans S03 E10
 #DESCRIPTION NCIS: Nova Orleans S03 E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLims609t5Qk_Cunhs?e=UsPz6Q:NCIS%3a Nova Orleans S03 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLims609t5Qk_Cunhs?e=UsPz6Q:NCIS: Nova Orleans S03 E11
 #DESCRIPTION NCIS: Nova Orleans S03 E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLim78WpP-T4YbYER7?e=4ug1Kp:NCIS%3a Nova Orleans S03 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLim78WpP-T4YbYER7?e=4ug1Kp:NCIS: Nova Orleans S03 E12
 #DESCRIPTION NCIS: Nova Orleans S03 E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLim9gNL-2C2bC7Gp2?e=DvqL1V:NCIS%3a Nova Orleans S03 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLim9gNL-2C2bC7Gp2?e=DvqL1V:NCIS: Nova Orleans S03 E13
 #DESCRIPTION NCIS: Nova Orleans S03 E13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinRhEYMRvrAbluUz?e=nUfwJC:NCIS%3a Nova Orleans S03 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinRhEYMRvrAbluUz?e=nUfwJC:NCIS: Nova Orleans S03 E14
 #DESCRIPTION NCIS: Nova Orleans S03 E14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinKYPJVYnrJUJ1eP?e=mGSHuz:NCIS%3a Nova Orleans S03 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinKYPJVYnrJUJ1eP?e=mGSHuz:NCIS: Nova Orleans S03 E15
 #DESCRIPTION NCIS: Nova Orleans S03 E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinMwed5Jk3V7oU4c?e=XGLCIR:NCIS%3a Nova Orleans S03 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinMwed5Jk3V7oU4c?e=XGLCIR:NCIS: Nova Orleans S03 E16
 #DESCRIPTION NCIS: Nova Orleans S03 E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimx777Hyr7Rn2bp6?e=ccmjv3:NCIS%3a Nova Orleans S03 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLimx777Hyr7Rn2bp6?e=ccmjv3:NCIS: Nova Orleans S03 E17
 #DESCRIPTION NCIS: Nova Orleans S03 E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLim1dFQQk4SkGlU8Q?e=ba6eMT:NCIS%3a Nova Orleans S03 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLim1dFQQk4SkGlU8Q?e=ba6eMT:NCIS: Nova Orleans S03 E18
 #DESCRIPTION NCIS: Nova Orleans S03 E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinGYM5DiGzykKvi0?e=RkKLC2:NCIS%3a Nova Orleans S03 E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinGYM5DiGzykKvi0?e=RkKLC2:NCIS: Nova Orleans S03 E19
 #DESCRIPTION NCIS: Nova Orleans S03 E19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//x4iizq.ch.files.1drv.com/y4midEvOxAWQ_v1DNs7CMnx8B6YQPPXuT0F2Cp-SZJbQIKuj6jtDGIy5FdepC9ZhdQzI1DUsvlkexLPJp0R_aqskgUICE7BARsVJy1HKrqpPKcJG4PQ9ZWOYcRtMRQXx6LnUzdCosb0-xv2RIJQT4F13bKSRRDAedZ4YLyzO5zTcmS5Z9Cf7dY7US1OzIAVYnuPnoMHr7FC0IrSJByAQZg2FQ/Ncis.new.orleans.S03E24.720p.WEB-DL.Dual.Dinho.mp4?download&psid=1:NCIS%3a Nova Orleans S03 E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//x4iizq.ch.files.1drv.com/y4midEvOxAWQ_v1DNs7CMnx8B6YQPPXuT0F2Cp-SZJbQIKuj6jtDGIy5FdepC9ZhdQzI1DUsvlkexLPJp0R_aqskgUICE7BARsVJy1HKrqpPKcJG4PQ9ZWOYcRtMRQXx6LnUzdCosb0-xv2RIJQT4F13bKSRRDAedZ4YLyzO5zTcmS5Z9Cf7dY7US1OzIAVYnuPnoMHr7FC0IrSJByAQZg2FQ/Ncis.new.orleans.S03E24.720p.WEB-DL.Dual.Dinho.mp4?download&psid=1:NCIS: Nova Orleans S03 E20
 #DESCRIPTION NCIS: Nova Orleans S03 E20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLint9eX7uL4uk7364?e=KXJQoe:NCIS%3a Nova Orleans S04 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLint9eX7uL4uk7364?e=KXJQoe:NCIS: Nova Orleans S04 E01
 #DESCRIPTION NCIS: Nova Orleans S04 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinYAicRmY1KhxUUG?e=75cq8z:NCIS%3a Nova Orleans S04 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinYAicRmY1KhxUUG?e=75cq8z:NCIS: Nova Orleans S04 E02
 #DESCRIPTION NCIS: Nova Orleans S04 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLindufnOfRq1pcrIl?e=c1iz1x:NCIS%3a Nova Orleans S04 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLindufnOfRq1pcrIl?e=c1iz1x:NCIS: Nova Orleans S04 E03
 #DESCRIPTION NCIS: Nova Orleans S04 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinzBOEQdoQ8rrCX0?e=rpbqOw:NCIS%3a Nova Orleans S04 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinzBOEQdoQ8rrCX0?e=rpbqOw:NCIS: Nova Orleans S04 E04
 #DESCRIPTION NCIS: Nova Orleans S04 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLingkXvrMDD7XbyhG?e=gDz3PU:NCIS%3a Nova Orleans S04 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLingkXvrMDD7XbyhG?e=gDz3PU:NCIS: Nova Orleans S04 E05
 #DESCRIPTION NCIS: Nova Orleans S04 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinqGY7lqKPiGYAb6?e=p2qfB4:NCIS%3a Nova Orleans S04 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinqGY7lqKPiGYAb6?e=p2qfB4:NCIS: Nova Orleans S04 E06
 #DESCRIPTION NCIS: Nova Orleans S04 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinln8d73IZ4jdB1_?e=Da05Fz:NCIS%3a Nova Orleans S04 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLinln8d73IZ4jdB1_?e=Da05Fz:NCIS: Nova Orleans S04 E07
 #DESCRIPTION NCIS: Nova Orleans S04 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLin1jKC9tDj7dZmcD?e=88dVeP:NCIS%3a Nova Orleans S04 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLin1jKC9tDj7dZmcD?e=88dVeP:NCIS: Nova Orleans S04 E08
 #DESCRIPTION NCIS: Nova Orleans S04 E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLin7Z8r9rEE_Iurin?e=9xsIoR:NCIS%3a Nova Orleans S04 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLin7Z8r9rEE_Iurin?e=9xsIoR:NCIS: Nova Orleans S04 E09
 #DESCRIPTION NCIS: Nova Orleans S04 E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLin8LH2UFBQt1FpZj?e=BoXe4X:NCIS%3a Nova Orleans S04 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLin8LH2UFBQt1FpZj?e=BoXe4X:NCIS: Nova Orleans S04 E10
 #DESCRIPTION NCIS: Nova Orleans S04 E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwDxLKrfLQq9E59j?e=U2vcFa:NCIS%3a Nova Orleans S04 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwDxLKrfLQq9E59j?e=U2vcFa:NCIS: Nova Orleans S04 E11
 #DESCRIPTION NCIS: Nova Orleans S04 E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwFZrQ7RR0RAMug4?e=DPZnQc:NCIS%3a Nova Orleans S04 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwFZrQ7RR0RAMug4?e=DPZnQc:NCIS: Nova Orleans S04 E12
 #DESCRIPTION NCIS: Nova Orleans S04 E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwIetDj1KIahkhVY?e=vj6wlH:NCIS%3a Nova Orleans S04 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwIetDj1KIahkhVY?e=vj6wlH:NCIS: Nova Orleans S04 E13
 #DESCRIPTION NCIS: Nova Orleans S04 E13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwPcl4PCKnnrGaQJ?e=cxN2JR:NCIS%3a Nova Orleans S04 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwPcl4PCKnnrGaQJ?e=cxN2JR:NCIS: Nova Orleans S04 E14
 #DESCRIPTION NCIS: Nova Orleans S04 E14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwSNM4178swsWlKp?e=PaXDFK:NCIS%3a Nova Orleans S04 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwSNM4178swsWlKp?e=PaXDFK:NCIS: Nova Orleans S04 E15
 #DESCRIPTION NCIS: Nova Orleans S04 E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwUQRtHMaQeB-ofy?e=q98jRY:NCIS%3a Nova Orleans S04 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwUQRtHMaQeB-ofy?e=q98jRY:NCIS: Nova Orleans S04 E16
 #DESCRIPTION NCIS: Nova Orleans S04 E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwYTIR-5nff9efT7?e=j09lkr:NCIS%3a Nova Orleans S04 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwYTIR-5nff9efT7?e=j09lkr:NCIS: Nova Orleans S04 E17
 #DESCRIPTION NCIS: Nova Orleans S04 E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwcVRoyXmxvHajOI?e=lGcVXH:NCIS%3a Nova Orleans S04 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwcVRoyXmxvHajOI?e=lGcVXH:NCIS: Nova Orleans S04 E18
 #DESCRIPTION NCIS: Nova Orleans S04 E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwscvIlZHPNf9hCz?e=ky2mYb:NCIS%3a Nova Orleans S04 E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwscvIlZHPNf9hCz?e=ky2mYb:NCIS: Nova Orleans S04 E19
 #DESCRIPTION NCIS: Nova Orleans S04 E19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwjUsO0CfzBUb7VO?e=HcR0SA:NCIS%3a Nova Orleans S04 E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwjUsO0CfzBUb7VO?e=HcR0SA:NCIS: Nova Orleans S04 E20
 #DESCRIPTION NCIS: Nova Orleans S04 E20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwyPLk6jDju36p_E?e=joJcfe:NCIS%3a Nova Orleans S04 E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwyPLk6jDju36p_E?e=joJcfe:NCIS: Nova Orleans S04 E21
 #DESCRIPTION NCIS: Nova Orleans S04 E21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwlC3P3jKuDsb8Dy?e=iDy7rF:NCIS%3a Nova Orleans S04 E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwlC3P3jKuDsb8Dy?e=iDy7rF:NCIS: Nova Orleans S04 E22
 #DESCRIPTION NCIS: Nova Orleans S04 E22
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwod9RR11vh5VJOl?e=giTNj8:NCIS%3a Nova Orleans S04 E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiwod9RR11vh5VJOl?e=giTNj8:NCIS: Nova Orleans S04 E23
 #DESCRIPTION NCIS: Nova Orleans S04 E23
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLixJynC5-b3FuyO87?e=1dKb2v:NCIS%3a Nova Orleans S05 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLixJynC5-b3FuyO87?e=1dKb2v:NCIS: Nova Orleans S05 E01
 #DESCRIPTION NCIS: Nova Orleans S05 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLixDxpYtVZA6k8Aiv?e=JeZxqz:NCIS%3a Nova Orleans S05 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLixDxpYtVZA6k8Aiv?e=JeZxqz:NCIS: Nova Orleans S05 E02
 #DESCRIPTION NCIS: Nova Orleans S05 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiw8eXirKixQGsDOs?e=vnFdCO:NCIS%3a Nova Orleans S05 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiw8eXirKixQGsDOs?e=vnFdCO:NCIS: Nova Orleans S05 E03
 #DESCRIPTION NCIS: Nova Orleans S05 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiw47MatoNoR12clE?e=QKB4aZ:NCIS%3a Nova Orleans S05 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLiw47MatoNoR12clE?e=QKB4aZ:NCIS: Nova Orleans S05 E04
 #DESCRIPTION NCIS: Nova Orleans S05 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLixPD5nzNhUpb_jp8?e=oSnrAg:NCIS%3a Nova Orleans S05 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLixPD5nzNhUpb_jp8?e=oSnrAg:NCIS: Nova Orleans S05 E05
 #DESCRIPTION NCIS: Nova Orleans S05 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLixWcK0Kk0TXBKgy8?e=EJJ2d6:NCIS%3a Nova Orleans S05 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLixWcK0Kk0TXBKgy8?e=EJJ2d6:NCIS: Nova Orleans S05 E06
 #DESCRIPTION NCIS: Nova Orleans S05 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLixHgkjt-0POZjRo2?e=1oyeKV:NCIS%3a Nova Orleans S05 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLixHgkjt-0POZjRo2?e=1oyeKV:NCIS: Nova Orleans S05 E07
 #DESCRIPTION NCIS: Nova Orleans S05 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLixSW15eol4PZVrnB?e=Hoo4pt:NCIS%3a Nova Orleans S05 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/v/s!AqrSQEAmIKGLixSW15eol4PZVrnB?e=Hoo4pt:NCIS: Nova Orleans S05 E08
 #DESCRIPTION NCIS: Nova Orleans S05 E08
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/Nikita.1/Nikita.S01E01.mkv:Nikita 1X01
 #DESCRIPTION Nikita 1X01
@@ -9959,25 +9959,25 @@
 #DESCRIPTION The Big Bang Theory S12 E23
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AqrSQEAmIKGLiCbW6cS3VzKA7M3n:The Big Bang Theory S12 E24
 #DESCRIPTION The Big Bang Theory S12 E24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E01.mp4:The Dark Crystal%3a Age of Resistance S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E01.mp4:The Dark Crystal: Age of Resistance S01 E01
 #DESCRIPTION The Dark Crystal: Age of Resistance S01 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E02.mp4:The Dark Crystal%3a Age of Resistance S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E02.mp4:The Dark Crystal: Age of Resistance S01 E02
 #DESCRIPTION The Dark Crystal: Age of Resistance S01 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E03.mp4:The Dark Crystal%3a Age of Resistance S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E03.mp4:The Dark Crystal: Age of Resistance S01 E03
 #DESCRIPTION The Dark Crystal: Age of Resistance S01 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E04.mp4:The Dark Crystal%3a Age of Resistance S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E04.mp4:The Dark Crystal: Age of Resistance S01 E04
 #DESCRIPTION The Dark Crystal: Age of Resistance S01 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E05.mp4:The Dark Crystal%3a Age of Resistance S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E05.mp4:The Dark Crystal: Age of Resistance S01 E05
 #DESCRIPTION The Dark Crystal: Age of Resistance S01 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E06.mp4:The Dark Crystal%3a Age of Resistance S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E06.mp4:The Dark Crystal: Age of Resistance S01 E06
 #DESCRIPTION The Dark Crystal: Age of Resistance S01 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E07.mp4:The Dark Crystal%3a Age of Resistance S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E07.mp4:The Dark Crystal: Age of Resistance S01 E07
 #DESCRIPTION The Dark Crystal: Age of Resistance S01 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E08.mp4:The Dark Crystal%3a Age of Resistance S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E08.mp4:The Dark Crystal: Age of Resistance S01 E08
 #DESCRIPTION The Dark Crystal: Age of Resistance S01 E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E09.mp4:The Dark Crystal%3a Age of Resistance S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E09.mp4:The Dark Crystal: Age of Resistance S01 E09
 #DESCRIPTION The Dark Crystal: Age of Resistance S01 E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E10.mp4:The Dark Crystal%3a Age of Resistance S01 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/O.Cristal.Encantado/S01/S01E10.mp4:The Dark Crystal: Age of Resistance S01 E10
 #DESCRIPTION The Dark Crystal: Age of Resistance S01 E10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//3.bp.blogspot.com/-vLXL6ZUyODk/XAbm1iUpTdI/AAAAAAAAR14/hBXkS8UugrINU3roNVeKEWvmv_Kln68FACKgBGAs/m22/[CineRoom]1x01.mp4:The Exorcist S01 E01
 #DESCRIPTION The Exorcist S01 E01
@@ -11503,7 +11503,7 @@
 #DESCRIPTION Z Nation S05 E12
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/Z.Nation/S05/S05E13.mp4:Z Nation S05 E13
 #DESCRIPTION Z Nation S05 E13
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::%3a%3a%3a%3a____ReMy_VODALL_MOVIES____%3a%3a%3a%3a
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::::::____ReMy_VODALL_MOVIES____::::
 #DESCRIPTION ::::____ReMy_VODALL_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/281.avi:007 spectre 2015
 #DESCRIPTION 007 spectre 2015
@@ -12373,7 +12373,7 @@
 #DESCRIPTION zoolander 2 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/403.avi:zulu 2013
 #DESCRIPTION zulu 2013
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::%3a%3a%3a%3a__SERIES_VODALL_151.80.100.155__%3a%3a%3a%3a
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::::::__SERIES_VODALL_151.80.100.155__::::
 #DESCRIPTION ::::__SERIES_VODALL_151.80.100.155__::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/983.avi:vikings S04E20 FINAL
 #DESCRIPTION vikings S04E20 FINAL

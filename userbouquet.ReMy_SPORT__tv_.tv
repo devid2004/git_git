@@ -21,6 +21,8 @@
 #DESCRIPTION Fanatik TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.39.105.79%3a1935/santraltv_925/santraltv_925/playlist.m3u8:YENI MALATYA SPOR
 #DESCRIPTION YENI MALATYA SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evatv.us%3a25461/live/120919-restream-05/120919-restream-05/29.m3u8:U.S | NBA TV
+#DESCRIPTION U.S | NBA TV
 #SERVICE 4097:0:0:7:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spo-football.m3u8:Sky-Sports-football
 #DESCRIPTION Sky-Sports-football
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-action.m3u8:Sky-Sports-action

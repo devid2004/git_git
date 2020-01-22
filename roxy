@@ -275,6 +275,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Eurosport 1
 http://213.174.8.7:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",U.S | NBA TV
+http://evatv.us:25461/live/120919-restream-05/120919-restream-05/29.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Match! Football 1
 http://188.35.9.14:2025
 #EXTINF:-1 group-title="ReMy_SPORT",Match! Football 1 HD
