@@ -1,4 +1,6 @@
 #NAME == ★★ReMy | CHINA★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8:K+
+#DESCRIPTION K+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8:cnn-indonesia
 #DESCRIPTION cnn-indonesia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//27.254.130.64/live01/ch6.m3u8?p=m3u8:5HD THAI
@@ -557,7 +559,7 @@
 #DESCRIPTION Zhejiang Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8:Zhejiang Satellite TV
 #DESCRIPTION Zhejiang Satellite TV
-#SERVICE 1:64:A7:0:0:0:0:0:0:0:::::::::::::::::::::::::_Qing Yu Nianquan_:::::::::
+#SERVICE 1:64:A7:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_Qing Yu Nianquan_%3a%3a%3a%3a%3a%3a%3a%3a%3a
 #DESCRIPTION :::::::::::::::::::::::_Qing Yu Nianquan_:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191126/eebb68accf60bff8adffe64c7ac68219/1574769804/index.m3u8:Episode 1
 #DESCRIPTION Episode 1

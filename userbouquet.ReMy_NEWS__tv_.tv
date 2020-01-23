@@ -91,20 +91,46 @@
 #DESCRIPTION +24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8:24h Catalunya
 #DESCRIPTION 24h Catalunya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8:Action News Jax (WJAX-TV)
+#DESCRIPTION Action News Jax (WJAX-TV)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8:Boston 25 News (WFXT)
+#DESCRIPTION Boston 25 News (WFXT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8:CBC News
+#DESCRIPTION CBC News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8:CBN
 #DESCRIPTION CBN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8:CBN Español
+#DESCRIPTION CBN Español
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-p.m3u8?sd=10:CBN HD
 #DESCRIPTION CBN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8:CBN News
+#DESCRIPTION CBN News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net%3a80/i/news_1@194050/index_900_av-p.m3u8:CBN NEWS
 #DESCRIPTION CBN NEWS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_900_av-b.m3u8:CBN NEWS
 #DESCRIPTION CBN NEWS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.cbsnews.com/common/video/dai_prod.m3u8:CBS News
+#DESCRIPTION CBS News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8:CBS NEWS
 #DESCRIPTION CBS NEWS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8:CBC News
-#DESCRIPTION CBC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT:CBS News Boston
+#DESCRIPTION CBS News Boston
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT:CBS News Los Angeles
+#DESCRIPTION CBS News Los Angeles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT:CBS News New York
+#DESCRIPTION CBS News New York
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8:CBSN
+#DESCRIPTION CBSN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8:CBSN
+#DESCRIPTION CBSN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8:CNBC TV18
+#DESCRIPTION CNBC TV18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3sjmtxha86r3t.cloudfront.net/nbc/smil%3acnbc.smil/master.m3u8:CNBC
+#DESCRIPTION CNBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cclive.aniu.tv/live/anzb.m3u8:CCLIVE.Aniu TV
 #DESCRIPTION CCLIVE.Aniu TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cgtn.com/500/prog_index.m3u8:CGTN
+#DESCRIPTION CGTN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s27/index.m3u8:CNN
 #DESCRIPTION CNN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8:cnn-indonesia
@@ -131,8 +157,6 @@
 #DESCRIPTION France 24 Francais
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8:Fox10 News
 #DESCRIPTION Fox10 News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8:Fox Business
-#DESCRIPTION Fox Business
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/index_2500_av-b.m3u8:Fox News Radio
 #DESCRIPTION Fox News Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8:iZ RU News
@@ -141,6 +165,12 @@
 #DESCRIPTION 24 AP Tataristan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mr2live.1tvcrimea.ru%3a8080/24tvcrimea.m3u8:KIRIM 24
 #DESCRIPTION KIRIM 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8:KIRO 7 News (KIRO-TV)
+#DESCRIPTION KIRO 7 News (KIRO-TV)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//player-api.new.livestream.com/accounts/12643960/events/3893868/live.m3u8:KTVK
+#DESCRIPTION KTVK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8:Law And Crime Network
+#DESCRIPTION Law And Crime Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8:Mordovia 24
 #DESCRIPTION Mordovia 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3am24.smil/chunklist_b1600000.m3u8:Moscow 24

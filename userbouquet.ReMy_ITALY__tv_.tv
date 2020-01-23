@@ -127,6 +127,8 @@
 #DESCRIPTION TVP Bydgoszcz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gargoyle.tomkow.pl/hls/tvt.m3u8:TVT HD
 #DESCRIPTION TVT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-480p.m3u8:TV GAZETA
+#DESCRIPTION TV GAZETA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/videobrescia/videobrescia/live.m3u8:Video Brescia
 #DESCRIPTION Video Brescia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/videocalabria/videocalabria/playlist.m3u8:Video Calabria
