@@ -559,7 +559,7 @@
 #DESCRIPTION Zhejiang Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8:Zhejiang Satellite TV
 #DESCRIPTION Zhejiang Satellite TV
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_Qing Yu Nianquan_%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:A7:0:0:0:0:0:0:0:::::::::::::::::::::::::_Qing Yu Nianquan_:::::::::
 #DESCRIPTION :::::::::::::::::::::::_Qing Yu Nianquan_:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191126/eebb68accf60bff8adffe64c7ac68219/1574769804/index.m3u8:Episode 1
 #DESCRIPTION Episode 1
