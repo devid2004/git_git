@@ -4367,6 +4367,18 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",ReMy_NILESAT_ARABIC
 ReMy_NILESAT_ARABIC
+#EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",Al Mayadeen TV
+http://95.170.215.109/hls/MAYADEEN-Backup-M.m3u8
+#EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",Al Manar
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",Al-Alam
+http://live2.alalam.ir/live/Alalam_high/index.m3u8
+#EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",Al Jazeera
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
+#EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",Al Araby (GB)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",Wanasah
+http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
 #EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",LBC SAT HD
 http://46.60.1.82:8081/live5/LBC.SAT/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",LBC HD
@@ -4709,6 +4721,286 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="ReMy_NILESAT_ARABIC",Wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
+#EXTINF:-1 tvg-id="channel11.il" tvg-name="channel11.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/channel11.il.png",Channel 11 Kan
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/channel11.il.m3u8
+#EXTINF:-1 tvg-id="channel12.il" tvg-name="channel12.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/channel12.il.png",Channel 12 Keset
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/channel12.il.m3u8
+#EXTINF:-1 tvg-id="channel13.il" tvg-name="channel13.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/channel13.il.png",Channel 13 Reshet
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/channel13.il.m3u8
+#EXTINF:-1 tvg-id="oprah.winfrey.network.usa.eastern.us" tvg-name="oprah.winfrey.network.usa.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/oprah.winfrey.network.usa.eastern.us.png",OWN (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/oprah.winfrey.network.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="cmt.canada.ca" tvg-name="cmt.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/cmt.canada.ca.png",CMT CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/cmt.canada.ca.m3u8
+#EXTINF:-1 tvg-id="trutv.usa.east.us" tvg-name="trutv.usa.east.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/trutv.usa.east.us.png",truTV US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/trutv.usa.east.us.m3u8
+#EXTINF:-1 tvg-id="cbc.cbxt.edmonton.ab.ca" tvg-name="cbc.cbxt.edmonton.ab.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/cbc.cbxt.edmonton.ab.ca.png",CBC Edmonton
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/cbc.cbxt.edmonton.ab.ca.m3u8
+#EXTINF:-1 tvg-id="sony.movie.channel.us" tvg-name="sony.movie.channel.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sony.movie.channel.us.png",Sony Movie Channel
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/sony.movie.channel.us.m3u8
+#EXTINF:-1 tvg-id="discovery.channel.us.eastern.us" tvg-name="discovery.channel.us.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/discovery.channel.us.eastern.us.png",Discovery Channel (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/discovery.channel.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="animal.planet.us.east.us" tvg-name="animal.planet.us.east.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/animal.planet.us.east.us.png",Animal Planet (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/animal.planet.us.east.us.m3u8
+#EXTINF:-1 tvg-id="national.geographic.us.pacific.us" tvg-name="national.geographic.us.pacific.us" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/national.geographic.us.pacific.us.png",Nat Geo (West) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/national.geographic.us.pacific.us.m3u8
+#EXTINF:-1 tvg-id="national.geographic.wild.canada.ca" tvg-name="national.geographic.wild.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/national.geographic.wild.canada.ca.png",Nat Geo Wild CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/national.geographic.wild.canada.ca.m3u8
+#EXTINF:-1 tvg-id="nat.geo.wild.uk" tvg-name="nat.geo.wild.uk" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/nat.geo.wild.uk.png",Nat Geo Wild UK
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/nat.geo.wild.uk.m3u8
+#EXTINF:-1 tvg-id="national.geographic.wild.us" tvg-name="national.geographic.wild.us" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/national.geographic.wild.us.png",Nat Geo Wild US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/national.geographic.wild.us.m3u8
+#EXTINF:-1 tvg-id="national.geographic.canada.ca" tvg-name="national.geographic.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/national.geographic.canada.ca.png",National Geographic CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/national.geographic.canada.ca.m3u8
+#EXTINF:-1 tvg-id="nat.geo.uk" tvg-name="nat.geo.uk" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/nat.geo.uk.png",National Geographic UK
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/nat.geo.uk.m3u8
+#EXTINF:-1 tvg-id="showtime.eastern.us" tvg-name="showtime.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/showtime.eastern.us.png",Showtime (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.pacfic.us" tvg-name="showtime.pacfic.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/showtime.pacfic.us.png",Showtime (West) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/showtime.pacfic.us.m3u8
+#EXTINF:-1 tvg-id="showtime.west.us" tvg-name="showtime.west.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/showtime.west.us.png",Showtime (West) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/showtime.west.us.m3u8
+#EXTINF:-1 tvg-id="showtime.2.eastern.us" tvg-name="showtime.2.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/showtime.2.eastern.us.png",Showtime 2 (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/showtime.2.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.beyond.eastern.us" tvg-name="showtime.beyond.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/showtime.beyond.eastern.us.png",Showtime Beyond US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/showtime.beyond.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.extreme.eastern.us" tvg-name="showtime.extreme.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/showtime.extreme.eastern.us.png",Showtime Extreme (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.family.zone.eastern.us" tvg-name="showtime.family.zone.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/showtime.family.zone.eastern.us.png",Showtime Family Zone (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/showtime.family.zone.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.next.eastern.us" tvg-name="showtime.next.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/showtime.next.eastern.us.png",Showtime Next US (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/showtime.next.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.showcase.eastern.us" tvg-name="showtime.showcase.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/showtime.showcase.eastern.us.png",Showtime Showcase (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/showtime.showcase.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.women.eastern.us" tvg-name="showtime.women.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/showtime.women.eastern.us.png",Showtime Woman US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/showtime.women.eastern.us.m3u8
+#EXTINF:-1 tvg-id="smithsonian.channel.usa.us" tvg-name="smithsonian.channel.usa.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/smithsonian.channel.usa.us.png",Smithsonian Channel
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/smithsonian.channel.usa.us.m3u8
+#EXTINF:-1 tvg-id="sky.atlantic.uk" tvg-name="sky.atlantic.uk" tvg-type="live" group-title="Entertainment" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sky.atlantic.uk.png",Sky Atlantic UK
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/sky.atlantic.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.action.uk" tvg-name="sky.cinema.action.uk" tvg-type="live" group-title="Entertainment" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sky.cinema.action.uk.png",Sky Cinema Action
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/sky.cinema.action.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="sky.cinema.comedy.uk" tvg-type="live" group-title="Entertainment" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sky.cinema.comedy.uk.png",Sky Cinema Comedy
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/sky.cinema.comedy.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.disney.uk" tvg-name="sky.cinema.disney.uk" tvg-type="live" group-title="Entertainment" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sky.cinema.disney.uk.png",Sky Cinema Disney
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/sky.cinema.disney.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.drama.uk" tvg-name="sky.cinema.drama.uk" tvg-type="live" group-title="Entertainment" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sky.cinema.drama.uk.png",Sky Cinema Drama
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/sky.cinema.drama.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" tvg-type="live" group-title="Entertainment" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sky.cinema.family.uk.png",Sky Cinema Family
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/sky.cinema.family.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.greats.uk" tvg-name="sky.cinema.greats.uk" tvg-type="live" group-title="Entertainment" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sky.cinema.greats.uk.png",Sky Cinema Greats UK
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/sky.cinema.greats.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="sky.cinema.hits.uk" tvg-type="live" group-title="Entertainment" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sky.cinema.hits.uk.png",Sky Cinema Hits
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/sky.cinema.hits.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.premiere.uk" tvg-name="sky.cinema.premiere.uk" tvg-type="live" group-title="Entertainment" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sky.cinema.premiere.uk.png",Sky Cinema Premiere
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/sky.cinema.premiere.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.sci.fihorror.uk" tvg-name="sky.cinema.sci.fihorror.uk" tvg-type="live" group-title="Entertainment" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sky.cinema.sci.fihorror.uk.png",Sky Cinema Sci-fi Horror
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/sky.cinema.sci.fihorror.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.thriller.uk" tvg-name="sky.cinema.thriller.uk" tvg-type="live" group-title="Entertainment" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sky.cinema.thriller.uk.png",Sky Cinema Thriller
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/sky.cinema.thriller.uk.m3u8
+#EXTINF:-1 tvg-id="start.tv.us" tvg-name="start.tv.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/start.tv.us.png",Start TV
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/start.tv.us.m3u8
+#EXTINF:-1 tvg-id="starz.eastern.us" tvg-name="starz.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.eastern.us.png",Starz (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.pacific.us" tvg-name="starz.pacific.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.pacific.us.png",Starz (West) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.cinema.eastern.us" tvg-name="starz.cinema.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.cinema.eastern.us.png",Starz Cinema (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.cinema.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.comedy.eastern.us" tvg-name="starz.comedy.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.comedy.eastern.us.png",Starz Comedy (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.comedy.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.edge.eastern.us" tvg-name="starz.edge.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.edge.eastern.us.png",Starz Edge (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.edge.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.eastern.us" tvg-name="starz.encore.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.encore.eastern.us.png",Starz Encore (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.encore.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.pacific.us" tvg-name="starz.encore.pacific.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.encore.pacific.us.png",Starz Encore (West) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.encore.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.action.eastern.us" tvg-name="starz.encore.action.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.encore.action.eastern.us.png",Starz Encore Action (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.encore.action.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.black.eastern.us" tvg-name="starz.encore.black.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.encore.black.eastern.us.png",Starz Encore Black (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.encore.black.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.classics.eastern.us" tvg-name="starz.encore.classics.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.encore.classics.eastern.us.png",Starz Encore Classics (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.encore.classics.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.family.eastern.us" tvg-name="starz.encore.family.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.encore.family.eastern.us.png",Starz Encore Family (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.encore.family.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.in.black.eastern.us" tvg-name="starz.in.black.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.in.black.eastern.us.png",Starz In Black (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.in.black.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.kids.family.eastern.us" tvg-name="starz.kids.family.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.kids.family.eastern.us.png",Starz Kids Family (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.kids.family.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.suspense.eastern.us" tvg-name="starz.encore.suspense.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.encore.suspense.eastern.us.png",Starz Suspense (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.encore.suspense.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.westerns.eastern.us" tvg-name="starz.encore.westerns.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/starz.encore.westerns.eastern.us.png",Starz Westerns US (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/starz.encore.westerns.eastern.us.m3u8
+#EXTINF:-1 tvg-id="ae.us.eastern.us" tvg-name="ae.us.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/ae.us.eastern.us.png",A&E (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/ae.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="adult.swim.east.us" tvg-name="adult.swim.east.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/adult.swim.east.us.png",Adult Swim
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/adult.swim.east.us.m3u8
+#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="amc.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/amc.eastern.us.png",AMC (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/amc.eastern.us.m3u8
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="boomerang.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/boomerang.us.png",Boomerang
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/boomerang.us.m3u8
+#EXTINF:-1 tvg-id="bravo.usa.eastern.us" tvg-name="bravo.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/bravo.usa.eastern.us.png",Bravo (East)
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/bravo.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.usa.eastern.us" tvg-name="cartoon.network.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/cartoon.network.usa.eastern.us.png",Cartoon Network (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/cartoon.network.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="cinemax.eastern.us" tvg-name="cinemax.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/cinemax.eastern.us.png",Cinemax (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 tvg-id="cinemax.pacific.us" tvg-name="cinemax.pacific.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/cinemax.pacific.us.png",Cinemax (West) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/cinemax.pacific.us.m3u8
+#EXTINF:-1 tvg-id="cmt.us.eastern.us" tvg-name="cmt.us.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/cmt.us.eastern.us.png",CMT (East)
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/cmt.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="discovery.channel.us.eastern.us" tvg-name="discovery.channel.us.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/discovery.channel.us.eastern.us.png",Discovery Channel (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/discovery.channel.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="discovery.family.channel.us" tvg-name="discovery.family.channel.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/discovery.family.channel.us.png",Discovery Family US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/discovery.family.channel.us.m3u8
+#EXTINF:-1 tvg-id="discovery.life.channel.us" tvg-name="discovery.life.channel.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/discovery.life.channel.us.png",Discovery Life
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/discovery.life.channel.us.m3u8
+#EXTINF:-1 tvg-id="discovery.velocity.us" tvg-name="discovery.velocity.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/discovery.velocity.us.png",Discovery Velocity
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/discovery.velocity.us.m3u8
+#EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="disney.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/disney.eastern.us.png",Disney Channel (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/disney.eastern.us.m3u8
+#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="disney.junior.usa.east.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/disney.junior.usa.east.us.png",Disney Jr (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/disney.junior.usa.east.us.m3u8
+#EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="disney.xd.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/disney.xd.usa.eastern.us.png",Disney Xd (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/disney.xd.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="fx.movie.channel.us" tvg-name="fx.movie.channel.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/fx.movie.channel.us.png",FX Movie Channel
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/fx.movie.channel.us.m3u8
+#EXTINF:-1 tvg-id="fx.networks.east.coast.us" tvg-name="fx.networks.east.coast.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/fx.networks.east.coast.us.png",FX Networks (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/fx.networks.east.coast.us.m3u8
+#EXTINF:-1 tvg-id="fxx.usa.eastern.us" tvg-name="fxx.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/fxx.usa.eastern.us.png",FXX (East)
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/fxx.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="fyi.usa.eastern.us" tvg-name="fyi.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/fyi.usa.eastern.us.png",FYI (East)
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/fyi.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hallmark.channel.eastern.us" tvg-name="hallmark.channel.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hallmark.channel.eastern.us.png",Hallmark Channel (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/hallmark.channel.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hallmark.drama.us" tvg-name="hallmark.drama.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hallmark.drama.us.png",Hallmark Drama US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/hallmark.drama.us.m3u8
+#EXTINF:-1 tvg-id="hallmark.movies.mysteries.eastern.us" tvg-name="hallmark.movies.mysteries.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hallmark.movies.mysteries.eastern.us.png",Hallmark Movies Mysteries US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="hbo.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hbo.eastern.us.png",HBO (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hbo.pacific.us" tvg-name="hbo.pacific.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hbo.pacific.us.png",HBO (West)
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/hbo.pacific.us.m3u8
+#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="hbo.2.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hbo.2.eastern.us.png",HBO 2 (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hbo.family.eastern.us" tvg-name="hbo.family.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hbo.family.eastern.us.png",HBO Family (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/hbo.family.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hgtv.usa.eastern.us" tvg-name="hgtv.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hgtv.usa.eastern.us.png",HGTV (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/hgtv.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="history.channel.us.eastern.us" tvg-name="history.channel.us.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/history.channel.us.eastern.us.png",History Channel US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/history.channel.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="national.geographic.us.eastern.us" tvg-name="national.geographic.us.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/national.geographic.us.eastern.us.png",Nat Geo (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/national.geographic.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="national.geographic.us.pacific.us" tvg-name="national.geographic.us.pacific.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/national.geographic.us.pacific.us.png",Nat Geo (West) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/national.geographic.us.pacific.us.m3u8
+#EXTINF:-1 tvg-id="national.geographic.wild.us" tvg-name="national.geographic.wild.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/national.geographic.wild.us.png",Nat Geo Wild US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/national.geographic.wild.us.m3u8
+#EXTINF:-1 tvg-id="nhl.network.usa.alternate.us" tvg-name="nhl.network.usa.alternate.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/nhl.network.usa.alternate.us.png",NHL Network US Alternate
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/nhl.network.usa.alternate.us.m3u8
+#EXTINF:-1 tvg-id="nick.jr.us" tvg-name="nick.jr.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/nick.jr.us.png",Nick Jr US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/nick.jr.us.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.usa.east.us" tvg-name="nickelodeon.usa.east.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/nickelodeon.usa.east.us.png",Nickelodeon (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/nickelodeon.usa.east.us.m3u8
+#EXTINF:-1 tvg-id="nickmusic.us" tvg-name="nickmusic.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/nickmusic.us.png",NickMusic US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/nickmusic.us.m3u8
+#EXTINF:-1 tvg-id="nicktoons.east.us" tvg-name="nicktoons.east.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/nicktoons.east.us.png",Nicktoons US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/nicktoons.east.us.m3u8
+#EXTINF:-1 tvg-id="tlc.usa.eastern.us" tvg-name="tlc.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/tlc.usa.eastern.us.png",TLC (East)
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/tlc.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="tnt.east.us" tvg-name="tnt.east.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/tnt.east.us.png",TNT US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/tnt.east.us.m3u8
+#EXTINF:-1 tvg-id="travel.us.east.us" tvg-name="travel.us.east.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/travel.us.east.us.png",Travel Channel US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/travel.us.east.us.m3u8
+#EXTINF:-1 tvg-id="usa.network.east.us" tvg-name="usa.network.east.us" tvg-type="live" group-title="US" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/usa.network.east.us.png",USA Network (East)
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/usa.network.east.us.m3u8
+#EXTINF:-1 tvg-id="adult.swim.east.us" tvg-name="adult.swim.east.us" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/adult.swim.east.us.png",Adult Swim
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/adult.swim.east.us.m3u8
+#EXTINF:-1 tvg-id="amc.canada.ca" tvg-name="amc.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/amc.canada.ca.png",AMC
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/amc.canada.ca.m3u8
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="cnn.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/cnn.ca.png",CNN CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/cnn.ca.m3u8
+#EXTINF:-1 tvg-id="discovery.channel.can.ca" tvg-name="discovery.channel.can.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/discovery.channel.can.ca.png",Discovery Channel CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/discovery.channel.can.ca.m3u8
+#EXTINF:-1 tvg-id="discovery.science.canada.ca" tvg-name="discovery.science.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/discovery.science.canada.ca.png",Discovery Science CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/discovery.science.canada.ca.m3u8
+#EXTINF:-1 tvg-id="disney.channel.canada.east.ca" tvg-name="disney.channel.canada.east.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/disney.channel.canada.east.ca.png",Disney Channel (East) CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/disney.channel.canada.east.ca.m3u8
+#EXTINF:-1 tvg-id="disney.junior.canada.ca" tvg-name="disney.junior.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/disney.junior.canada.ca.png",Disney Junior CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/disney.junior.canada.ca.m3u8
+#EXTINF:-1 tvg-id="disney.xd.canada.ca" tvg-name="disney.xd.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/disney.xd.canada.ca.png",Disney XD CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/disney.xd.canada.ca.m3u8
+#EXTINF:-1 tvg-id="documentary.channel.canada.ca" tvg-name="documentary.channel.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/documentary.channel.canada.ca.png",Documentary Channel
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/documentary.channel.canada.ca.m3u8
+#EXTINF:-1 tvg-id="e.canada.ca" tvg-name="e.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/e.canada.ca.png",E! CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/e.canada.ca.m3u8
+#EXTINF:-1 tvg-id="global.bc.ca" tvg-name="global.bc.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/global.bc.ca.png",Global BC CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/global.bc.ca.m3u8
+#EXTINF:-1 tvg-id="hbo.2.eastern.ca" tvg-name="hbo.2.eastern.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hbo.2.eastern.ca.png",HBO 2 (East) CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/hbo.2.eastern.ca.m3u8
+#EXTINF:-1 tvg-id="history.canada.east.ca" tvg-name="history.canada.east.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/history.canada.east.ca.png",History CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/history.canada.east.ca.m3u8
+#EXTINF:-1 tvg-id="lifetime.tv.canada.ca" tvg-name="lifetime.tv.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/lifetime.tv.canada.ca.png",Lifetime TV
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/lifetime.tv.canada.ca.m3u8
+#EXTINF:-1 tvg-id="national.geographic.wild.canada.ca" tvg-name="national.geographic.wild.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/national.geographic.wild.canada.ca.png",Nat Geo Wild CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/national.geographic.wild.canada.ca.m3u8
+#EXTINF:-1 tvg-id="national.geographic.canada.ca" tvg-name="national.geographic.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/national.geographic.canada.ca.png",National Geographic CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/national.geographic.canada.ca.m3u8
+#EXTINF:-1 tvg-id="slice.ca" tvg-name="slice.ca" tvg-type="live" group-title="Canada" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/slice.ca.png",Slice CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/slice.ca.m3u8
+#EXTINF:-1 tvg-id="animal.planet.us.east.us" tvg-name="animal.planet.us.east.us" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/animal.planet.us.east.us.png",Animal Planet (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/animal.planet.us.east.us.m3u8
+#EXTINF:-1 tvg-id="discovery.channel.can.ca" tvg-name="discovery.channel.can.ca" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/discovery.channel.can.ca.png",Discovery Channel CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/discovery.channel.can.ca.m3u8
+#EXTINF:-1 tvg-id="discovery.family.channel.us" tvg-name="discovery.family.channel.us" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/discovery.family.channel.us.png",Discovery Family US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/discovery.family.channel.us.m3u8
+#EXTINF:-1 tvg-id="discovery.uk" tvg-name="discovery.uk" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/discovery.uk.png",Discovery UK
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/discovery.uk.m3u8
+#EXTINF:-1 tvg-id="history.canada.east.ca" tvg-name="history.canada.east.ca" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/history.canada.east.ca.png",History CA
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/history.canada.east.ca.m3u8
+#EXTINF:-1 tvg-id="history.channel.us.eastern.us" tvg-name="history.channel.us.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/history.channel.us.eastern.us.png",History Channel US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/history.channel.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="investigation.discovery.usa.eastern.us" tvg-name="investigation.discovery.usa.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/investigation.discovery.usa.eastern.us.png",Investigation Discovery US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/investigation.discovery.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="national.geographic.us.eastern.us" tvg-name="national.geographic.us.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/national.geographic.us.eastern.us.png",Nat Geo (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/national.geographic.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="science.us" tvg-name="science.us" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/science.us.png",Science US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/science.us.m3u8
+#EXTINF:-1 tvg-id="sundancetv.usa.east.us" tvg-name="sundancetv.usa.east.us" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/sundancetv.usa.east.us.png",SundanceTV (East) US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/sundancetv.usa.east.us.m3u8
+#EXTINF:-1 tvg-id="travel.us.east.us" tvg-name="travel.us.east.us" tvg-type="live" group-title="Documentary" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/travel.us.east.us.png",Travel Channel US
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/travel.us.east.us.m3u8
+#EXTINF:-1 tvg-id="hotaction.il" tvg-name="hotaction.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hotaction.il.png",Hot Action
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/hotaction.il.m3u8
+#EXTINF:-1 tvg-id="hotdrama.il" tvg-name="hotdrama.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hotdrama.il.png",Hot Drama
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/hotdrama.il.m3u8
+#EXTINF:-1 tvg-id="hotbidurisraeli.il" tvg-name="hotbidurisraeli.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hotbidurisraeli.il.png",Hot Entertainment
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/hotbidurisraeli.il.m3u8
+#EXTINF:-1 tvg-id="hot3.il" tvg-name="hot3.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/hot3.il.png",Hot3
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/hot3.il.m3u8
+#EXTINF:-1 tvg-id="natgeowild.il" tvg-name="natgeowild.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/natgeowild.il.png",NatGeo Wild
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/natgeowild.il.m3u8
+#EXTINF:-1 tvg-id="nationalgeo.il" tvg-name="nationalgeo.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/nationalgeo.il.png",National Geographic
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/nationalgeo.il.m3u8
+#EXTINF:-1 tvg-id="travel.il" tvg-name="travel.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/travel.il.png",Travel
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/travel.il.m3u8
+#EXTINF:-1 tvg-id="yes1.il" tvg-name="yes1.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yes1.il.png",Yes 1
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/yes1.il.m3u8
+#EXTINF:-1 tvg-id="yes2.il" tvg-name="yes2.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yes2.il.png",Yes 2
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/yes2.il.m3u8
+#EXTINF:-1 tvg-id="yes3.il" tvg-name="yes3.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yes3.il.png",Yes 3
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/yes3.il.m3u8
+#EXTINF:-1 tvg-id="yes4.il" tvg-name="yes4.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yes4.il.png",Yes 4
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/yes4.il.m3u8
+#EXTINF:-1 tvg-id="yes5.il" tvg-name="yes5.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yes5.il.png",Yes 5
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/yes5.il.m3u8
+#EXTINF:-1 tvg-id="yesaction.il" tvg-name="yesaction.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yesaction.il.png",Yes Action
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/yesaction.il.m3u8
+#EXTINF:-1 tvg-id="yescomedy.il" tvg-name="yescomedy.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yescomedy.il.png",Yes Comedy
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/yescomedy.il.m3u8
+#EXTINF:-1 tvg-id="yesdoku.il" tvg-name="yesdoku.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yesdoku.il.png",Yes Docu
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/yesdoku.il.m3u8
+#EXTINF:-1 tvg-id="yesdrama.il" tvg-name="yesdrama.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yesdrama.il.png",Yes Drama
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/yesdrama.il.m3u8
+#EXTINF:-1 tvg-id="yesisraelicinema.il" tvg-name="yesisraelicinema.il" tvg-type="live" group-title="Israel" tvg-logo="http://res.cloudinary.com/apollonow/image/upload/w_auto%2Cdpr_auto%2Cc_scale%2Cf_auto/yesisraelicinema.il.png",Yes Israeli Cinema
+https://tv4.live/api/stream/abugama215@gmail.com/93r2ft/livetv.epg/yesisraelicinema.il.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ReMy_MUSIC_CHANNELS
 ReMy_MUSIC_CHANNELS
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Silence TV
