@@ -1,4 +1,16 @@
 #NAME == ★★ReMy | ARABIAN★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.109/hls/MAYADEEN-Backup-M.m3u8:Al Mayadeen TV
+#DESCRIPTION Al Mayadeen TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.mediaforall.net%3a1935/liveorigin/livestream_480p/playlist.m3u8:Al Manar
+#DESCRIPTION Al Manar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live2.alalam.ir/live/Alalam_high/index.m3u8:Al-Alam
+#DESCRIPTION Al-Alam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8:Al Jazeera
+#DESCRIPTION Al Jazeera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alaraby.cdn.octivid.com/alaraby/smil%3aalaraby.stream.smil/chunklist_b2500000.m3u8:Al Araby (GB)
+#DESCRIPTION Al Araby (GB)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8:Wanasah
+#DESCRIPTION Wanasah
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live5/LBC.SAT/playlist.m3u8:LBC SAT HD
 #DESCRIPTION LBC SAT HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live5/LBC.SAT/playlist.m3u8:LBC HD
