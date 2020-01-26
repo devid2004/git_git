@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | WEB_CAMS★★ ==
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
+#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
 #DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/79.stream/chunklist.m3u8:İstanbul Boğaziçi Köprüsü
 #DESCRIPTION İstanbul Boğaziçi Köprüsü
@@ -33,8 +33,10 @@
 #DESCRIPTION DOLMABAHÇE TAKSİM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/174.stream/chunklist_w1933901234.m3u8:Dolmabahçe Taksim İnişi
 #DESCRIPTION Dolmabahçe Taksim İnişi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/263.stream/chunklist_w1316614603.m3u8:Dragos Sahil Yolu
-#DESCRIPTION Dragos Sahil Yolu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/560.stream/chunklist_w777309151.m3u8:Dolmabahce-besıktas Sahil Yolu
+#DESCRIPTION Dolmabahce-besıktas Sahil Yolu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/167.stream/chunklist_w886108873.m3u8:Istanbul D100 Kadikoy UzunCayir
+#DESCRIPTION Istanbul D100 Kadikoy UzunCayir
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/148.stream/chunklist_w2124049428.m3u8:Haliç Köprüsü Ayvansaray
 #DESCRIPTION Haliç Köprüsü Ayvansaray
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/194.stream/chunklist_w771482496.m3u8:Harbiye
@@ -61,6 +63,10 @@
 #DESCRIPTION Konya Mevlana Meydanı Canlı Mobese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_meydan/playlist.m3u8:Sivas Kent Meydanı
 #DESCRIPTION Sivas Kent Meydanı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.156.98.150%3a1936/Kamera/Kale.stream/chunklist_w1384984331.m3u8:KALE TOKAT
+#DESCRIPTION KALE TOKAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.156.98.150%3a1936/Kamera/Stadyum.stream/chunklist_w234467350.m3u8:TOKAT  HIDIRLIK STADYUM
+#DESCRIPTION TOKAT  HIDIRLIK STADYUM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/9299.flv/chunklist.m3u8:CN Tower 1
 #DESCRIPTION CN Tower 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/9298.flv/chunklist.m3u8:CN Tower 2
@@ -83,7 +89,7 @@
 #DESCRIPTION Ireland - Dublin Pub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//57a1a332778cd.streamlock.net%3a1935/danubeHotels-rtplive/_definst_/mp4%3acamera1.stream/playlist.m3u8:Germany - Frankfurt
 #DESCRIPTION Germany - Frankfurt
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::*** Hrvatska ***
+#SERVICE 1:64:A7:0:0:0:0:0:0:0::*** Hrvatska ***
 #DESCRIPTION *** Hrvatska ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist.m3u8:TRG KRAJINE, BANJA LUKA
 #DESCRIPTION TRG KRAJINE, BANJA LUKA
@@ -127,7 +133,7 @@
 #DESCRIPTION Hrvatska  - Varazdin
 #SERVICE 4097:0:1:12:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist_w873016047_b350000.m3u8:Banja luka (trg krajine)
 #DESCRIPTION Banja luka (trg krajine)
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
 #DESCRIPTION * * * WEBCAM livespotting * * *
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4646.flv/playlist.m3u8:Aruba - Bucuti Beach Wing
 #DESCRIPTION Aruba - Bucuti Beach Wing
