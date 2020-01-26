@@ -17,6 +17,8 @@ https://mn-nl.mncdn.com/blutv_fx/smil:fx_hd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",FOX TV HD
 http://smip.tv:8080/destekuser/22122019/147
+#EXTINF:-1 group-title="ReMy_ULUSAL",TORBA TV NETHOUSE HD
+https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TV8 HD
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TV8 HD
