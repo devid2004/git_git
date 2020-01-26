@@ -237,22 +237,14 @@
 #DESCRIPTION What.Death.Leaves.Behind.2018.mkv
 #SERVICE 1:64:93:0:0:0:0:0:0:0::::::___MIX_(2019)MOVIES____::::
 #DESCRIPTION ::::___MIX_(2019)MOVIES____::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/13b_vLwMkFVp3W8HgBi21pt6I91uQjVec?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:6 Underground(2019)
-#DESCRIPTION 6 Underground(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Abominable(2019)
 #DESCRIPTION Abominable(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:AD Astra(2019)
 #DESCRIPTION AD Astra(2019)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Aeronauts(2019)
-#DESCRIPTION Aeronauts(2019)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/9p9ir5n323ubkod/Aladdin.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1:Aladdin (2019)
-#DESCRIPTION Aladdin (2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1fVuB4camSZcd8y1wVuzQUwPAmc5pIIpT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Alien : Covenant(2017)
 #DESCRIPTION Alien : Covenant(2017)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1vUTJDejYeyg4sPklmsPk6RtzA1u-lMEB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Fast&Furious Presents : Hobbs & Shaw(2019)
 #DESCRIPTION Fast&Furious Presents : Hobbs & Shaw(2019)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/rme7r96ezkq6ceq/John.Wick.Chapter.3.Parabellum.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1:John Wick 3 : Parabellum(2019)
-#DESCRIPTION John Wick 3 : Parabellum(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1:Pokemon : Detective Pikachu(2019)
 #DESCRIPTION Pokemon : Detective Pikachu(2019)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay/08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z/k6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk=&ref=https%3a//bos21.bid/the-cabin/&res=default:The Cabin(2018)
@@ -267,6 +259,8 @@
 #DESCRIPTION ::::___NEWTUBE_PS_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Ayla.The.Daughter.of.War.2017.mp4:Ayla: The Daughter of War (2017)
 #DESCRIPTION Ayla: The Daughter of War (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Arabic/one-heart.mp4:Birlesen Gonuller
+#DESCRIPTION Birlesen Gonuller
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/Movies/en/deleha.mp4:Deliha
 #DESCRIPTION Deliha
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Deliler.Fatihin.Fermani/Deliler.Fatihin.Fermani.2018_cut.mp4:Deliler (2018)
@@ -283,6 +277,8 @@
 #DESCRIPTION Kurtlar Vadisi Iraq
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newtube.ps/components/com_contushdvideoshare/videos/2059_video.mp4:Kurtlar Vadisi Palestine
 #DESCRIPTION Kurtlar Vadisi Palestine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83%3a8000/movies/water-and-fire.mp4:Su ve Ates
+#DESCRIPTION Su ve Ates
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Mosafer.2017.mp4:A traveler_Aleppo, Istanbul
 #DESCRIPTION A traveler_Aleppo, Istanbul
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/8.Mile.2002.mp4:8 Mile
@@ -461,8 +457,6 @@
 #DESCRIPTION Bhoothnath Returns
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newtube.ps/components/com_contushdvideoshare/videos/2501_video.mp4:Big
 #DESCRIPTION Big
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Arabic/one-heart.mp4:Birlesen Gonuller
-#DESCRIPTION Birlesen Gonuller
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2937_video.mp4:Black
 #DESCRIPTION Black
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Black.Butterfly.2017.mp4:Black Butterfly
@@ -1537,8 +1531,6 @@
 #DESCRIPTION Strange Magic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/street.Kings.2.Motor.City.mp4:Street Kings 2: Motor City
 #DESCRIPTION Street Kings 2: Motor City
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83%3a8000/movies/water-and-fire.mp4:Su ve Ates
-#DESCRIPTION Su ve Ates
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newtube.ps/components/com_contushdvideoshare/videos/1656_video.mp4:Sucker Punch
 #DESCRIPTION Sucker Punch
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.39/components/com_contushdvideoshare/videos/2947_video.mp4:Suffragette

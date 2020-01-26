@@ -285,6 +285,54 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 http://39.134.52.180/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Super Sports 6 HD
 http://39.134.52.183/wh7f454c46tw3669132437_-1850260639/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH
+http://cdn.iptv.monster/play/5/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH! ARENA
+http://cdn.iptv.monster/play/14/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",AVTO PLYUS
+http://cdn.iptv.monster/play/29/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",BOYETS
+http://cdn.iptv.monster/play/30/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH! PREM'YER
+http://cdn.iptv.monster/play/37/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SPORT 1
+http://cdn.iptv.monster/play/15/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SPORT 2
+http://cdn.iptv.monster/play/43/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",EXTREME SPORT
+http://cdn.iptv.monster/play/53/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH! FUTBOL 1
+http://cdn.iptv.monster/play/54/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIASAT SPORT
+http://cdn.iptv.monster/play/77/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH! STRANA
+http://cdn.iptv.monster/play/134/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH! ARENA
+http://cdn.iptv.monster/play/136/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",KKHL
+http://cdn.iptv.monster/play/149/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH! IGRA
+http://cdn.iptv.monster/play/153/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",FUTBOL
+http://cdn.iptv.monster/play/171/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH! ARENA HD
+http://cdn.iptv.monster/play/146/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SPORT 1 HD
+http://cdn.iptv.monster/play/145/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",KKHL HD
+http://cdn.iptv.monster/play/177/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SAT SPORT HD
+http://cdn.iptv.monster/play/198/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH! PREM'YER HD
+http://cdn.iptv.monster/play/250/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH! IGRA HD
+http://cdn.iptv.monster/play/268/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH! FUTBOL 1 HD
+http://cdn.iptv.monster/play/260/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH! FUTBOL 2 HD
+http://cdn.iptv.monster/play/271/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH! FUTBOL 3 HD
+http://cdn.iptv.monster/play/329/A94E407714F99C3/video.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Match! Football 1
 http://188.35.9.14:2025
 #EXTINF:-1 group-title="ReMy_SPORT",Match! Football 1 HD
