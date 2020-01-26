@@ -1,32 +1,32 @@
 #NAME == ★★ReMy | ADULT+18★★ ==
-#SERVICE 1:64:AF:0:0:0:0:0:0:0::== ★★ReMy | ADULT+18★★ ==
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::== ★★ReMy | ADULT+18★★ ==
 #DESCRIPTION == ★★ReMy | ADULT+18★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1fKqcLztRtsljub0?e=YBKrWc:ReMyTeaM- Extasy 4K-20191103 0652
 #DESCRIPTION ReMyTeaM- Extasy 4K-20191103 0652
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srv02.evolucion03.net%3a25461/ITV/4RTYUI/80:PENTHOUSE HD
-#DESCRIPTION PENTHOUSE HD
-#SERVICE 4097:0:0:15:0:0:0:0:0:0:http%3a//51.79.81.97%3a25461/ITV/4RTYUI/86:BLUE HUSTLER
-#DESCRIPTION BLUE HUSTLER
-#SERVICE 4097:0:0:1:0:0:0:0:0:0:http%3a//51.79.81.97%3a25461/ITV/4RTYUI/78:BRAZZER TV EUROPA
-#DESCRIPTION BRAZZER TV EUROPA
-#SERVICE 4097:0:0:11:0:0:0:0:0:0:http%3a//51.79.81.97%3a25461/ITV/4RTYUI/84:CANDY TV
-#DESCRIPTION CANDY TV
-#SERVICE 4097:0:0:19:0:0:0:0:0:0:http%3a//51.79.81.97%3a25461/ITV/4RTYUI/88:EROX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.12%3a21101/udp/127h:PLAYBOY
+#DESCRIPTION PLAYBOY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.12%3a21131/udp/142d:VIVID RED
+#DESCRIPTION VIVID RED
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a21051/udp/071l:RussNoch
+#DESCRIPTION RussNoch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a21141/udp/214h:Dorcel TV [18+]
+#DESCRIPTION Dorcel TV [18+]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.12%3a21101/udp/118v:olala
+#DESCRIPTION olala
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.195.238.34%3a81/udp/239.1.20.60%3a1234:EROX
 #DESCRIPTION EROX
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//51.79.81.97%3a25461/ITV/4RTYUI/82:JASMIN TV
-#DESCRIPTION JASMIN TV
-#SERVICE 4097:0:0:17:0:0:0:0:0:0:http%3a//51.79.81.97%3a25461/ITV/4RTYUI/87:PASSION XXX
-#DESCRIPTION PASSION XXX
-#SERVICE 4097:0:0:3:0:0:0:0:0:0:http%3a//51.79.81.97%3a25461/ITV/4RTYUI/79:PLAYBOY TV
-#DESCRIPTION PLAYBOY TV
-#SERVICE 4097:0:0:9:0:0:0:0:0:0:http%3a//51.79.81.97%3a25461/ITV/4RTYUI/83:PENTHOUSE
-#DESCRIPTION PENTHOUSE
-#SERVICE 4097:0:0:5:0:0:0:0:0:0:http%3a//51.79.81.97%3a25461/ITV/4RTYUI/80:PENTHOUSE 2
-#DESCRIPTION PENTHOUSE 2
-#SERVICE 4097:0:0:13:0:0:0:0:0:0:http%3a//51.79.81.97%3a25461/ITV/4RTYUI/85:PRIVATE TV
-#DESCRIPTION PRIVATE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.ast.tv/stream/2/cellular.m3u8:AS TV
+#DESCRIPTION AS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst%3a9528-mbr/chunklist_b1728000.m3u8:BABESTATION 24
+#DESCRIPTION BABESTATION 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.203.143.51%3a9981/play/Venus:VENUS TV
+#DESCRIPTION VENUS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.ottg.tv/4736/video.m3u8?username=Roisok&password=sunrise1977&token=e302a3bfeb576e11588d1af551658a10&ch_id=411:Babes TV +18
 #DESCRIPTION Babes TV +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.firestormmedia.tv%3a1935/bsx24/livestream/playlist.m3u8:Babestation Xtreme (18+)
+#DESCRIPTION Babestation Xtreme (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst%3a9528-mbr/chunklist_b1728000.m3u8:Babestation 24 (DE) (18+)
+#DESCRIPTION Babestation 24 (DE) (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO:Jasmin.tv 720p
 #DESCRIPTION Jasmin.tv 720p
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/hd.jasminchannel.stream/playlist.m3u8:Jasmin TV HD (18+)
@@ -39,8 +39,6 @@
 #DESCRIPTION Jasmin HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8:JASMIN TV
 #DESCRIPTION JASMIN TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst%3a9528-mbr/chunklist_b1728000.m3u8:Babestation 24 (DE) (18+)
-#DESCRIPTION Babestation 24 (DE) (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59ec5453559f0.streamlock.net%3a1935/mexicotv/smil%3amiamitvmexicoROKU/chunklist_b1896000.m3u8:Miami TV - Jenny Live (18+)
 #DESCRIPTION Miami TV - Jenny Live (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59ec5453559f0.streamlock.net/canal18/smil%3acanal18/chunklist_b2592000.m3u8:Miami TV Latino (18+)
@@ -67,36 +65,10 @@
 #DESCRIPTION NuArtTV [18+]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2:RussianNight
 #DESCRIPTION RussianNight
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a21141/udp/214h:Dorcel TV [18+]
-#DESCRIPTION Dorcel TV [18+]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.11%3a21051/udp/071l:RussNoch
-#DESCRIPTION RussNoch
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.firestormmedia.tv%3a1935/bsx24/livestream/playlist.m3u8:Babestation Xtreme (18+)
-#DESCRIPTION Babestation Xtreme (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8:PASSIONXXX
 #DESCRIPTION PASSIONXXX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10007/stolen/214g/parasite.install:Zest TV
-#DESCRIPTION Zest TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10005/stolen/153a/imposter.rar:Private TV HD
-#DESCRIPTION Private TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10007/stolen/246r/parasite.install:Super One HD
-#DESCRIPTION Super One HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Brazzers TV.ts:Brazzers TV
-#DESCRIPTION Brazzers TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Candy HD.ts:Candy HD
-#DESCRIPTION Candy HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Dorcel HD.ts:Dorcel HD
-#DESCRIPTION Dorcel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Hustler HD Europe.ts:Hustler HD
-#DESCRIPTION Hustler HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Nuart.ts:Nuart
-#DESCRIPTION Nuart
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Playboy TV.ts:PlayboyTV
-#DESCRIPTION PlayboyTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Redlight HD.ts:Redlight HD
-#DESCRIPTION Redlight HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.84.209%3a8081/torrenttv/channel/Русская ночь.ts:Russian night
-#DESCRIPTION Russian night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/anal.m3u8:RedTraffic Anal
+#DESCRIPTION RedTraffic Anal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigass.m3u8:RedTraffic Big Ass (18+)
 #DESCRIPTION RedTraffic Big Ass (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigdick.m3u8:RedTraffic Big Dick (18+)
@@ -109,6 +81,8 @@
 #DESCRIPTION RedTraffic Cuckold (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/fetish.m3u8:RedTraffic Fetish (18+)
 #DESCRIPTION RedTraffic Fetish (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/gangbang.m3u8:RedTraffic Gangbang
+#DESCRIPTION RedTraffic Gangbang
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/hardcore.m3u8:RedTraffic Hardcore (18+)
 #DESCRIPTION RedTraffic Hardcore (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/interracial.m3u8:RedTraffic Interracial (18+)
@@ -141,7 +115,7 @@
 #DESCRIPTION KOREAN HONEY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/816085039:KOREAN DESIRE
 #DESCRIPTION KOREAN DESIRE
-#SERVICE 1:64:B0:0:0:0:0:0:0:0::=== ★★ADULT-HUB_FHD-1080p_Only_ReMyTeaM★★
+#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★ADULT-HUB_FHD-1080p_Only_ReMyTeaM★★
 #DESCRIPTION === ★★ADULT-HUB_FHD-1080p_Only_ReMyTeaM★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.182923.com/20190313/afNTXVFx/index.m3u8:The Dream of the New Red Chamber
 #DESCRIPTION The Dream of the New Red Chamber
@@ -541,6 +515,1074 @@
 #DESCRIPTION Porno Italia_VOD 06_La Clonazione
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.videopornoitaliano.com%3a81/videos/5/8/4/c/8/584c80c537f54.mp4:Porno Italia_VOD 07_Rossana...
 #DESCRIPTION Porno Italia_VOD 07_Rossana...
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1778/480/index.m3u8:hdporus_Brazzers XXX 75
+#DESCRIPTION hdporus_Brazzers XXX 75
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2091/480/index.m3u8:hdporus_Brazzers XXX 386
+#DESCRIPTION hdporus_Brazzers XXX 386
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2193/480/index.m3u8:hdporus_Brazzers XXX 486
+#DESCRIPTION hdporus_Brazzers XXX 486
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2214/480/index.m3u8:hdporus_Brazzers XXX 507
+#DESCRIPTION hdporus_Brazzers XXX 507
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1705/480/index.m3u8:hdporus_Brazzers XXX 5
+#DESCRIPTION hdporus_Brazzers XXX 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1715/480/index.m3u8:hdporus_Brazzers XXX 15
+#DESCRIPTION hdporus_Brazzers XXX 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1962/480/index.m3u8:hdporus_Brazzers XXX 259
+#DESCRIPTION hdporus_Brazzers XXX 259
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1953/480/index.m3u8:hdporus_Brazzers XXX 250
+#DESCRIPTION hdporus_Brazzers XXX 250
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2090/480/index.m3u8:hdporus_Brazzers XXX 385
+#DESCRIPTION hdporus_Brazzers XXX 385
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2089/480/index.m3u8:hdporus_Brazzers XXX 384
+#DESCRIPTION hdporus_Brazzers XXX 384
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2088/480/index.m3u8:hdporus_Brazzers XXX 383
+#DESCRIPTION hdporus_Brazzers XXX 383
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2223/480/index.m3u8:hdporus_Brazzers XXX 516
+#DESCRIPTION hdporus_Brazzers XXX 516
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1714/480/index.m3u8:hdporus_Brazzers XXX 14
+#DESCRIPTION hdporus_Brazzers XXX 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1713/480/index.m3u8:hdporus_Brazzers XXX 13
+#DESCRIPTION hdporus_Brazzers XXX 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1712/480/index.m3u8:hdporus_Brazzers XXX 12
+#DESCRIPTION hdporus_Brazzers XXX 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1711/480/index.m3u8:hdporus_Brazzers XXX 11
+#DESCRIPTION hdporus_Brazzers XXX 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1710/480/index.m3u8:hdporus_Brazzers XXX 10
+#DESCRIPTION hdporus_Brazzers XXX 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1709/480/index.m3u8:hdporus_Brazzers XXX 9
+#DESCRIPTION hdporus_Brazzers XXX 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1708/480/index.m3u8:hdporus_Brazzers XXX 8
+#DESCRIPTION hdporus_Brazzers XXX 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1798/480/index.m3u8:hdporus_Brazzers XXX 96
+#DESCRIPTION hdporus_Brazzers XXX 96
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1800/480/index.m3u8:hdporus_Brazzers XXX 98
+#DESCRIPTION hdporus_Brazzers XXX 98
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1799/480/index.m3u8:hdporus_Brazzers XXX 97
+#DESCRIPTION hdporus_Brazzers XXX 97
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2092/480/index.m3u8:hdporus_Brazzers XXX 387
+#DESCRIPTION hdporus_Brazzers XXX 387
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1717/480/index.m3u8:hdporus_Brazzers XXX 17
+#DESCRIPTION hdporus_Brazzers XXX 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1716/480/index.m3u8:hdporus_Brazzers XXX 16
+#DESCRIPTION hdporus_Brazzers XXX 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2213/480/index.m3u8:hdporus_Brazzers XXX 506
+#DESCRIPTION hdporus_Brazzers XXX 506
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2212/480/index.m3u8:hdporus_Brazzers XXX 505
+#DESCRIPTION hdporus_Brazzers XXX 505
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1779/480/index.m3u8:hdporus_Brazzers XXX 76
+#DESCRIPTION hdporus_Brazzers XXX 76
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1707/480/index.m3u8:hdporus_Brazzers XXX 504
+#DESCRIPTION hdporus_Brazzers XXX 504
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1706/480/index.m3u8:hdporus_Brazzers XXX 6
+#DESCRIPTION hdporus_Brazzers XXX 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1705/480/index.m3u8:hdporus_Brazzers XXX 5
+#DESCRIPTION hdporus_Brazzers XXX 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1715/480/index.m3u8:hdporus_Brazzers XXX 15
+#DESCRIPTION hdporus_Brazzers XXX 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1778/480/index.m3u8:hdporus_Brazzers XXX 75
+#DESCRIPTION hdporus_Brazzers XXX 75
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1774/480/index.m3u8:hdporus_Brazzers XXX 74
+#DESCRIPTION hdporus_Brazzers XXX 74
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1954/480/index.m3u8:hdporus_Brazzers XXX 251
+#DESCRIPTION hdporus_Brazzers XXX 251
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1961/480/index.m3u8:hdporus_Brazzers XXX 258
+#DESCRIPTION hdporus_Brazzers XXX 258
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1960/480/index.m3u8:hdporus_Brazzers XXX 257
+#DESCRIPTION hdporus_Brazzers XXX 257
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2182/480/index.m3u8:hdporus_Brazzers XXX 475
+#DESCRIPTION hdporus_Brazzers XXX 475
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2234/480/index.m3u8:hdporus_Brazzers XXX 527
+#DESCRIPTION hdporus_Brazzers XXX 527
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2233/480/index.m3u8:hdporus_Brazzers XXX 526
+#DESCRIPTION hdporus_Brazzers XXX 526
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1896/480/index.m3u8:hdporus_Brazzers XXX 193
+#DESCRIPTION hdporus_Brazzers XXX 193
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2195/480/index.m3u8:hdporus_Brazzers XXX 488
+#DESCRIPTION hdporus_Brazzers XXX 488
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2194/480/index.m3u8:hdporus_Brazzers XXX 487
+#DESCRIPTION hdporus_Brazzers XXX 487
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2125/480/index.m3u8:hdporus_Brazzers XXX 418
+#DESCRIPTION hdporus_Brazzers XXX 418
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2124/480/index.m3u8:hdporus_Brazzers XXX 417
+#DESCRIPTION hdporus_Brazzers XXX 417
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2181/480/index.m3u8:hdporus_Brazzers XXX 474
+#DESCRIPTION hdporus_Brazzers XXX 474
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1721/480/index.m3u8:hdporus_Brazzers XXX 21
+#DESCRIPTION hdporus_Brazzers XXX 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1720/480/index.m3u8:hdporus_Brazzers XXX 20
+#DESCRIPTION hdporus_Brazzers XXX 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1897/480/index.m3u8:hdporus_Brazzers XXX 194
+#DESCRIPTION hdporus_Brazzers XXX 194
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2183/480/index.m3u8:hdporus_Brazzers XXX 194
+#DESCRIPTION hdporus_Brazzers XXX 194
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2064/480/index.m3u8:hdporus_Brazzers XXX 360
+#DESCRIPTION hdporus_Brazzers XXX 360
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2227/480/index.m3u8:hdporus_Brazzers XXX 520
+#DESCRIPTION hdporus_Brazzers XXX 520
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2226/480/index.m3u8:hdporus_Brazzers XXX 519
+#DESCRIPTION hdporus_Brazzers XXX 519
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2222/480/index.m3u8:hdporus_Brazzers XXX 515
+#DESCRIPTION hdporus_Brazzers XXX 515
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1911/480/index.m3u8:hdporus_Brazzers XXX 208
+#DESCRIPTION hdporus_Brazzers XXX 208
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1910/480/index.m3u8:hdporus_Brazzers XXX 207
+#DESCRIPTION hdporus_Brazzers XXX 207
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1909/480/index.m3u8:hdporus_Brazzers XXX 206
+#DESCRIPTION hdporus_Brazzers XXX 206
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1704/480/index.m3u8:hdporus_Brazzers XXX 4
+#DESCRIPTION hdporus_Brazzers XXX 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1703/480/index.m3u8:hdporus_Brazzers XXX 3
+#DESCRIPTION hdporus_Brazzers XXX 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1702/480/index.m3u8:hdporus_Brazzers XXX 2
+#DESCRIPTION hdporus_Brazzers XXX 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1701/480/index.m3u8:hdporus_Brazzers XXX 1
+#DESCRIPTION hdporus_Brazzers XXX 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2235/480/index.m3u8:hdporus_Brazzers XXX 528
+#DESCRIPTION hdporus_Brazzers XXX 528
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2063/480/index.m3u8:hdporus_Brazzers XXX 359
+#DESCRIPTION hdporus_Brazzers XXX 359
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2062/480/index.m3u8:hdporus_Brazzers XXX 358
+#DESCRIPTION hdporus_Brazzers XXX 358
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1955/480/index.m3u8:hdporus_Brazzers XXX 252
+#DESCRIPTION hdporus_Brazzers XXX 252
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1952/480/index.m3u8:hdporus_Brazzers XXX 249
+#DESCRIPTION hdporus_Brazzers XXX 249
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1951/480/index.m3u8:hdporus_Brazzers XXX 248
+#DESCRIPTION hdporus_Brazzers XXX 248
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1950/480/index.m3u8:hdporus_Brazzers XXX 247
+#DESCRIPTION hdporus_Brazzers XXX 247
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2237/480/index.m3u8:hdporus_Brazzers XXX 530
+#DESCRIPTION hdporus_Brazzers XXX 530
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2236/480/index.m3u8:hdporus_Brazzers XXX 529
+#DESCRIPTION hdporus_Brazzers XXX 529
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2232/480/index.m3u8:hdporus_Brazzers XXX 525
+#DESCRIPTION hdporus_Brazzers XXX 525
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2231/480/index.m3u8:hdporus_Brazzers XXX 524
+#DESCRIPTION hdporus_Brazzers XXX 524
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2230/480/index.m3u8:hdporus_Brazzers XXX 523
+#DESCRIPTION hdporus_Brazzers XXX 523
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2229/480/index.m3u8:hdporus_Brazzers XXX 522
+#DESCRIPTION hdporus_Brazzers XXX 522
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2215/480/index.m3u8:hdporus_Brazzers XXX 508
+#DESCRIPTION hdporus_Brazzers XXX 508
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bit.ly/2pkcxon:hdporus_Brazzers XXX 518
+#DESCRIPTION hdporus_Brazzers XXX 518
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2228/480/index.m3u8:hdporus_Brazzers XXX 521
+#DESCRIPTION hdporus_Brazzers XXX 521
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2221/480/index.m3u8:hdporus_Brazzers XXX 514
+#DESCRIPTION hdporus_Brazzers XXX 514
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2220/480/index.m3u8:hdporus_Brazzers XXX 513
+#DESCRIPTION hdporus_Brazzers XXX 513
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2219/480/index.m3u8:hdporus_Brazzers XXX 512
+#DESCRIPTION hdporus_Brazzers XXX 512
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2218/480/index.m3u8:hdporus_Brazzers XXX 511
+#DESCRIPTION hdporus_Brazzers XXX 511
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2217/480/index.m3u8:hdporus_Brazzers XXX 510
+#DESCRIPTION hdporus_Brazzers XXX 510
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2216/480/index.m3u8:hdporus_Brazzers XXX 509
+#DESCRIPTION hdporus_Brazzers XXX 509
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2224/480/index.m3u8:hdporus_Brazzers XXX 517
+#DESCRIPTION hdporus_Brazzers XXX 517
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2223/480/index.m3u8:hdporus_Brazzers XXX 516
+#DESCRIPTION hdporus_Brazzers XXX 516
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2213/480/index.m3u8:hdporus_Brazzers XXX 506
+#DESCRIPTION hdporus_Brazzers XXX 506
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2212/480/index.m3u8:hdporus_Brazzers XXX 505
+#DESCRIPTION hdporus_Brazzers XXX 505
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2211/480/index.m3u8:hdporus_Brazzers XXX 504
+#DESCRIPTION hdporus_Brazzers XXX 504
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2210/480/index.m3u8:hdporus_Brazzers XXX 503
+#DESCRIPTION hdporus_Brazzers XXX 503
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2209/480/index.m3u8:hdporus_Brazzers XXX 502
+#DESCRIPTION hdporus_Brazzers XXX 502
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2208/480/index.m3u8:hdporus_Brazzers XXX 501
+#DESCRIPTION hdporus_Brazzers XXX 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2207/480/index.m3u8:hdporus_Brazzers XXX 500
+#DESCRIPTION hdporus_Brazzers XXX 500
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2206/480/index.m3u8:hdporus_Brazzers XXX 499
+#DESCRIPTION hdporus_Brazzers XXX 499
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2205/480/index.m3u8:hdporus_Brazzers XXX 498
+#DESCRIPTION hdporus_Brazzers XXX 498
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2204/480/index.m3u8:hdporus_Brazzers XXX 497
+#DESCRIPTION hdporus_Brazzers XXX 497
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2203/480/index.m3u8:hdporus_Brazzers XXX 496
+#DESCRIPTION hdporus_Brazzers XXX 496
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2202/480/index.m3u8:hdporus_Brazzers XXX 495
+#DESCRIPTION hdporus_Brazzers XXX 495
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2201/480/index.m3u8:hdporus_Brazzers XXX 494
+#DESCRIPTION hdporus_Brazzers XXX 494
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2200/480/index.m3u8:hdporus_Brazzers XXX 493
+#DESCRIPTION hdporus_Brazzers XXX 493
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2199/480/index.m3u8:hdporus_Brazzers XXX 492
+#DESCRIPTION hdporus_Brazzers XXX 492
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2198/480/index.m3u8:hdporus_Brazzers XXX 491
+#DESCRIPTION hdporus_Brazzers XXX 491
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2197/480/index.m3u8:hdporus_Brazzers XXX 490
+#DESCRIPTION hdporus_Brazzers XXX 490
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2196/480/index.m3u8:hdporus_Brazzers XXX 489
+#DESCRIPTION hdporus_Brazzers XXX 489
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2192/480/index.m3u8:hdporus_Brazzers XXX 485
+#DESCRIPTION hdporus_Brazzers XXX 485
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2191/480/index.m3u8:hdporus_Brazzers XXX 484
+#DESCRIPTION hdporus_Brazzers XXX 484
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2190/480/index.m3u8:hdporus_Brazzers XXX 483
+#DESCRIPTION hdporus_Brazzers XXX 483
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2189/480/index.m3u8:hdporus_Brazzers XXX 482
+#DESCRIPTION hdporus_Brazzers XXX 482
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2188/480/index.m3u8:hdporus_Brazzers XXX 481
+#DESCRIPTION hdporus_Brazzers XXX 481
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2187/480/index.m3u8:hdporus_Brazzers XXX 480
+#DESCRIPTION hdporus_Brazzers XXX 480
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2186/480/index.m3u8:hdporus_Brazzers XXX 479
+#DESCRIPTION hdporus_Brazzers XXX 479
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2185/480/index.m3u8:hdporus_Brazzers XXX 478
+#DESCRIPTION hdporus_Brazzers XXX 478
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2184/480/index.m3u8:hdporus_Brazzers XXX 477
+#DESCRIPTION hdporus_Brazzers XXX 477
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2180/480/index.m3u8:hdporus_Brazzers XXX 473
+#DESCRIPTION hdporus_Brazzers XXX 473
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2179/480/index.m3u8:hdporus_Brazzers XXX 472
+#DESCRIPTION hdporus_Brazzers XXX 472
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2178/480/index.m3u8:hdporus_Brazzers XXX 471
+#DESCRIPTION hdporus_Brazzers XXX 471
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2177/480/index.m3u8:hdporus_Brazzers XXX 470
+#DESCRIPTION hdporus_Brazzers XXX 470
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2176/480/index.m3u8:hdporus_Brazzers XXX 469
+#DESCRIPTION hdporus_Brazzers XXX 469
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2175/480/index.m3u8:hdporus_Brazzers XXX 468
+#DESCRIPTION hdporus_Brazzers XXX 468
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2174/480/index.m3u8:hdporus_Brazzers XXX 467
+#DESCRIPTION hdporus_Brazzers XXX 467
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2173/480/index.m3u8:hdporus_Brazzers XXX 466
+#DESCRIPTION hdporus_Brazzers XXX 466
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2172/480/index.m3u8:hdporus_Brazzers XXX 465
+#DESCRIPTION hdporus_Brazzers XXX 465
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2171/480/index.m3u8:hdporus_Brazzers XXX 464
+#DESCRIPTION hdporus_Brazzers XXX 464
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2170/480/index.m3u8:hdporus_Brazzers XXX 463
+#DESCRIPTION hdporus_Brazzers XXX 463
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2169/480/index.m3u8:hdporus_Brazzers XXX 462
+#DESCRIPTION hdporus_Brazzers XXX 462
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2168/480/index.m3u8:hdporus_Brazzers XXX 461
+#DESCRIPTION hdporus_Brazzers XXX 461
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2167/480/index.m3u8:hdporus_Brazzers XXX 460
+#DESCRIPTION hdporus_Brazzers XXX 460
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2166/480/index.m3u8:hdporus_Brazzers XXX 459
+#DESCRIPTION hdporus_Brazzers XXX 459
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2165/480/index.m3u8:hdporus_Brazzers XXX 458
+#DESCRIPTION hdporus_Brazzers XXX 458
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2164/480/index.m3u8:hdporus_Brazzers XXX 457
+#DESCRIPTION hdporus_Brazzers XXX 457
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2163/480/index.m3u8:hdporus_Brazzers XXX 456
+#DESCRIPTION hdporus_Brazzers XXX 456
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2162/480/index.m3u8:hdporus_Brazzers XXX 455
+#DESCRIPTION hdporus_Brazzers XXX 455
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2161/480/index.m3u8:hdporus_Brazzers XXX 454
+#DESCRIPTION hdporus_Brazzers XXX 454
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2160/480/index.m3u8:hdporus_Brazzers XXX 453
+#DESCRIPTION hdporus_Brazzers XXX 453
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2159/480/index.m3u8:hdporus_Brazzers XXX 452
+#DESCRIPTION hdporus_Brazzers XXX 452
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2158/480/index.m3u8:hdporus_Brazzers XXX 451
+#DESCRIPTION hdporus_Brazzers XXX 451
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2157/480/index.m3u8:hdporus_Brazzers XXX 450
+#DESCRIPTION hdporus_Brazzers XXX 450
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2156/480/index.m3u8:hdporus_Brazzers XXX 449
+#DESCRIPTION hdporus_Brazzers XXX 449
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2155/480/index.m3u8:hdporus_Brazzers XXX 448
+#DESCRIPTION hdporus_Brazzers XXX 448
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2154/480/index.m3u8:hdporus_Brazzers XXX 447
+#DESCRIPTION hdporus_Brazzers XXX 447
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2153/480/index.m3u8:hdporus_Brazzers XXX 446
+#DESCRIPTION hdporus_Brazzers XXX 446
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2152/480/index.m3u8:hdporus_Brazzers XXX 445
+#DESCRIPTION hdporus_Brazzers XXX 445
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2151/480/index.m3u8:hdporus_Brazzers XXX 444
+#DESCRIPTION hdporus_Brazzers XXX 444
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2150/480/index.m3u8:hdporus_Brazzers XXX 443
+#DESCRIPTION hdporus_Brazzers XXX 443
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2149/480/index.m3u8:hdporus_Brazzers XXX 442
+#DESCRIPTION hdporus_Brazzers XXX 442
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2148/480/index.m3u8:hdporus_Brazzers XXX 441
+#DESCRIPTION hdporus_Brazzers XXX 441
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2147/480/index.m3u8:hdporus_Brazzers XXX 440
+#DESCRIPTION hdporus_Brazzers XXX 440
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2146/480/index.m3u8:hdporus_Brazzers XXX 439
+#DESCRIPTION hdporus_Brazzers XXX 439
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2145/480/index.m3u8:hdporus_Brazzers XXX 438
+#DESCRIPTION hdporus_Brazzers XXX 438
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2144/480/index.m3u8:hdporus_Brazzers XXX 437
+#DESCRIPTION hdporus_Brazzers XXX 437
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2143/480/index.m3u8:hdporus_Brazzers XXX 436
+#DESCRIPTION hdporus_Brazzers XXX 436
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2142/480/index.m3u8:hdporus_Brazzers XXX 435
+#DESCRIPTION hdporus_Brazzers XXX 435
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2141/480/index.m3u8:hdporus_Brazzers XXX 434
+#DESCRIPTION hdporus_Brazzers XXX 434
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2140/480/index.m3u8:hdporus_Brazzers XXX 433
+#DESCRIPTION hdporus_Brazzers XXX 433
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2139/480/index.m3u8:hdporus_Brazzers XXX 432
+#DESCRIPTION hdporus_Brazzers XXX 432
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2138/480/index.m3u8:hdporus_Brazzers XXX 431
+#DESCRIPTION hdporus_Brazzers XXX 431
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2137/480/index.m3u8:hdporus_Brazzers XXX 430
+#DESCRIPTION hdporus_Brazzers XXX 430
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2136/480/index.m3u8:hdporus_Brazzers XXX 429
+#DESCRIPTION hdporus_Brazzers XXX 429
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2135/480/index.m3u8:hdporus_Brazzers XXX 428
+#DESCRIPTION hdporus_Brazzers XXX 428
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2134/480/index.m3u8:hdporus_Brazzers XXX 427
+#DESCRIPTION hdporus_Brazzers XXX 427
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2133/480/index.m3u8:hdporus_Brazzers XXX 426
+#DESCRIPTION hdporus_Brazzers XXX 426
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2132/480/index.m3u8:hdporus_Brazzers XXX 425
+#DESCRIPTION hdporus_Brazzers XXX 425
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2131/480/index.m3u8:hdporus_Brazzers XXX 424
+#DESCRIPTION hdporus_Brazzers XXX 424
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2130/480/index.m3u8:hdporus_Brazzers XXX 423
+#DESCRIPTION hdporus_Brazzers XXX 423
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2129/480/index.m3u8:hdporus_Brazzers XXX 422
+#DESCRIPTION hdporus_Brazzers XXX 422
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2128/480/index.m3u8:hdporus_Brazzers XXX 421
+#DESCRIPTION hdporus_Brazzers XXX 421
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2127/480/index.m3u8:hdporus_Brazzers XXX 420
+#DESCRIPTION hdporus_Brazzers XXX 420
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2126/480/index.m3u8:hdporus_Brazzers XXX 419
+#DESCRIPTION hdporus_Brazzers XXX 419
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2123/480/index.m3u8:hdporus_Brazzers XXX 416
+#DESCRIPTION hdporus_Brazzers XXX 416
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2122/480/index.m3u8:hdporus_Brazzers XXX 415
+#DESCRIPTION hdporus_Brazzers XXX 415
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2121/480/index.m3u8:hdporus_Brazzers XXX 414
+#DESCRIPTION hdporus_Brazzers XXX 414
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2120/480/index.m3u8:hdporus_Brazzers XXX 413
+#DESCRIPTION hdporus_Brazzers XXX 413
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2119/480/index.m3u8:hdporus_Brazzers XXX 412
+#DESCRIPTION hdporus_Brazzers XXX 412
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2118/480/index.m3u8:hdporus_Brazzers XXX 411
+#DESCRIPTION hdporus_Brazzers XXX 411
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2117/480/index.m3u8:hdporus_Brazzers XXX 410
+#DESCRIPTION hdporus_Brazzers XXX 410
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2116/480/index.m3u8:hdporus_Brazzers XXX 409
+#DESCRIPTION hdporus_Brazzers XXX 409
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2115/480/index.m3u8:hdporus_Brazzers XXX 408
+#DESCRIPTION hdporus_Brazzers XXX 408
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2114/480/index.m3u8:hdporus_Brazzers XXX 407
+#DESCRIPTION hdporus_Brazzers XXX 407
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2113/480/index.m3u8:hdporus_Brazzers XXX 406
+#DESCRIPTION hdporus_Brazzers XXX 406
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2112/480/index.m3u8:hdporus_Brazzers XXX 405
+#DESCRIPTION hdporus_Brazzers XXX 405
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2111/480/index.m3u8:hdporus_Brazzers XXX 404
+#DESCRIPTION hdporus_Brazzers XXX 404
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2110/480/index.m3u8:hdporus_Brazzers XXX 403
+#DESCRIPTION hdporus_Brazzers XXX 403
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2109/480/index.m3u8:hdporus_Brazzers XXX 402
+#DESCRIPTION hdporus_Brazzers XXX 402
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2108/480/index.m3u8:hdporus_Brazzers XXX 401
+#DESCRIPTION hdporus_Brazzers XXX 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2107/480/index.m3u8:hdporus_Brazzers XXX 400
+#DESCRIPTION hdporus_Brazzers XXX 400
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2104/480/index.m3u8:hdporus_Brazzers XXX 399
+#DESCRIPTION hdporus_Brazzers XXX 399
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2103/480/index.m3u8:hdporus_Brazzers XXX 398
+#DESCRIPTION hdporus_Brazzers XXX 398
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2102/480/index.m3u8:hdporus_Brazzers XXX 397
+#DESCRIPTION hdporus_Brazzers XXX 397
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2101/480/index.m3u8:hdporus_Brazzers XXX 396
+#DESCRIPTION hdporus_Brazzers XXX 396
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2100/480/index.m3u8:hdporus_Brazzers XXX 395
+#DESCRIPTION hdporus_Brazzers XXX 395
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2099/480/index.m3u8:hdporus_Brazzers XXX 394
+#DESCRIPTION hdporus_Brazzers XXX 394
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2098/480/index.m3u8:hdporus_Brazzers XXX 393
+#DESCRIPTION hdporus_Brazzers XXX 393
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2097/480/index.m3u8:hdporus_Brazzers XXX 392
+#DESCRIPTION hdporus_Brazzers XXX 392
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2096/480/index.m3u8:hdporus_Brazzers XXX 391
+#DESCRIPTION hdporus_Brazzers XXX 391
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2095/480/index.m3u8:hdporus_Brazzers XXX 390
+#DESCRIPTION hdporus_Brazzers XXX 390
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2094/480/index.m3u8:hdporus_Brazzers XXX 389
+#DESCRIPTION hdporus_Brazzers XXX 389
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2093/480/index.m3u8:hdporus_Brazzers XXX 388
+#DESCRIPTION hdporus_Brazzers XXX 388
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2087/480/index.m3u8:hdporus_Brazzers XXX 382
+#DESCRIPTION hdporus_Brazzers XXX 382
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2086/480/index.m3u8:hdporus_Brazzers XXX 381
+#DESCRIPTION hdporus_Brazzers XXX 381
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2085/480/index.m3u8:hdporus_Brazzers XXX 380
+#DESCRIPTION hdporus_Brazzers XXX 380
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2084/480/index.m3u8:hdporus_Brazzers XXX 379
+#DESCRIPTION hdporus_Brazzers XXX 379
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2083/480/index.m3u8:hdporus_Brazzers XXX 378
+#DESCRIPTION hdporus_Brazzers XXX 378
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2082/480/index.m3u8:hdporus_Brazzers XXX 377
+#DESCRIPTION hdporus_Brazzers XXX 377
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2081/480/index.m3u8:hdporus_Brazzers XXX 376
+#DESCRIPTION hdporus_Brazzers XXX 376
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2079/480/index.m3u8:hdporus_Brazzers XXX 375
+#DESCRIPTION hdporus_Brazzers XXX 375
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2078/480/index.m3u8:hdporus_Brazzers XXX 374
+#DESCRIPTION hdporus_Brazzers XXX 374
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2077/480/index.m3u8:hdporus_Brazzers XXX 373
+#DESCRIPTION hdporus_Brazzers XXX 373
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2076/480/index.m3u8:hdporus_Brazzers XXX 372
+#DESCRIPTION hdporus_Brazzers XXX 372
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2075/480/index.m3u8:hdporus_Brazzers XXX 371
+#DESCRIPTION hdporus_Brazzers XXX 371
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2074/480/index.m3u8:hdporus_Brazzers XXX 370
+#DESCRIPTION hdporus_Brazzers XXX 370
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2073/480/index.m3u8:hdporus_Brazzers XXX 369
+#DESCRIPTION hdporus_Brazzers XXX 369
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2072/480/index.m3u8:hdporus_Brazzers XXX 368
+#DESCRIPTION hdporus_Brazzers XXX 368
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2071/480/index.m3u8:hdporus_Brazzers XXX 367
+#DESCRIPTION hdporus_Brazzers XXX 367
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2070/480/index.m3u8:hdporus_Brazzers XXX 366
+#DESCRIPTION hdporus_Brazzers XXX 366
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2069/480/index.m3u8:hdporus_Brazzers XXX 365
+#DESCRIPTION hdporus_Brazzers XXX 365
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2068/480/index.m3u8:hdporus_Brazzers XXX 364
+#DESCRIPTION hdporus_Brazzers XXX 364
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2067/480/index.m3u8:hdporus_Brazzers XXX 363
+#DESCRIPTION hdporus_Brazzers XXX 363
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2066/480/index.m3u8:hdporus_Brazzers XXX 362
+#DESCRIPTION hdporus_Brazzers XXX 362
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2065/480/index.m3u8:hdporus_Brazzers XXX 361
+#DESCRIPTION hdporus_Brazzers XXX 361
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2061/480/index.m3u8:hdporus_Brazzers XXX 357
+#DESCRIPTION hdporus_Brazzers XXX 357
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2060/480/index.m3u8:hdporus_Brazzers XXX 356
+#DESCRIPTION hdporus_Brazzers XXX 356
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2059/480/index.m3u8:hdporus_Brazzers XXX 355
+#DESCRIPTION hdporus_Brazzers XXX 355
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2058/480/index.m3u8:hdporus_Brazzers XXX 354
+#DESCRIPTION hdporus_Brazzers XXX 354
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2057/480/index.m3u8:hdporus_Brazzers XXX 353
+#DESCRIPTION hdporus_Brazzers XXX 353
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2056/480/index.m3u8:hdporus_Brazzers XXX 352
+#DESCRIPTION hdporus_Brazzers XXX 352
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2055/480/index.m3u8:hdporus_Brazzers XXX 351
+#DESCRIPTION hdporus_Brazzers XXX 351
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2054/480/index.m3u8:hdporus_Brazzers XXX 350
+#DESCRIPTION hdporus_Brazzers XXX 350
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2053/480/index.m3u8:hdporus_Brazzers XXX 349
+#DESCRIPTION hdporus_Brazzers XXX 349
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2052/480/index.m3u8:hdporus_Brazzers XXX 348
+#DESCRIPTION hdporus_Brazzers XXX 348
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2051/480/index.m3u8:hdporus_Brazzers XXX 347
+#DESCRIPTION hdporus_Brazzers XXX 347
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2050/480/index.m3u8:hdporus_Brazzers XXX 346
+#DESCRIPTION hdporus_Brazzers XXX 346
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2049/480/index.m3u8:hdporus_Brazzers XXX 345
+#DESCRIPTION hdporus_Brazzers XXX 345
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2048/480/index.m3u8:hdporus_Brazzers XXX 344
+#DESCRIPTION hdporus_Brazzers XXX 344
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2047/480/index.m3u8:hdporus_Brazzers XXX 343
+#DESCRIPTION hdporus_Brazzers XXX 343
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2046/480/index.m3u8:hdporus_Brazzers XXX 342
+#DESCRIPTION hdporus_Brazzers XXX 342
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2045/480/index.m3u8:hdporus_Brazzers XXX 341
+#DESCRIPTION hdporus_Brazzers XXX 341
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2044/480/index.m3u8:hdporus_Brazzers XXX 340
+#DESCRIPTION hdporus_Brazzers XXX 340
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2043/480/index.m3u8:hdporus_Brazzers XXX 339
+#DESCRIPTION hdporus_Brazzers XXX 339
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2042/480/index.m3u8:hdporus_Brazzers XXX 338
+#DESCRIPTION hdporus_Brazzers XXX 338
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2041/480/index.m3u8:hdporus_Brazzers XXX 337
+#DESCRIPTION hdporus_Brazzers XXX 337
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2040/480/index.m3u8:hdporus_Brazzers XXX 336
+#DESCRIPTION hdporus_Brazzers XXX 336
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2039/480/index.m3u8:hdporus_Brazzers XXX 335
+#DESCRIPTION hdporus_Brazzers XXX 335
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2038/480/index.m3u8:hdporus_Brazzers XXX 334
+#DESCRIPTION hdporus_Brazzers XXX 334
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2037/480/index.m3u8:hdporus_Brazzers XXX 333
+#DESCRIPTION hdporus_Brazzers XXX 333
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2036/480/index.m3u8:hdporus_Brazzers XXX 332
+#DESCRIPTION hdporus_Brazzers XXX 332
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2035/480/index.m3u8:hdporus_Brazzers XXX 331
+#DESCRIPTION hdporus_Brazzers XXX 331
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2034/480/index.m3u8:hdporus_Brazzers XXX 330
+#DESCRIPTION hdporus_Brazzers XXX 330
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2033/480/index.m3u8:hdporus_Brazzers XXX 329
+#DESCRIPTION hdporus_Brazzers XXX 329
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2032/480/index.m3u8:hdporus_Brazzers XXX 328
+#DESCRIPTION hdporus_Brazzers XXX 328
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2031/480/index.m3u8:hdporus_Brazzers XXX 327
+#DESCRIPTION hdporus_Brazzers XXX 327
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2030/480/index.m3u8:hdporus_Brazzers XXX 326
+#DESCRIPTION hdporus_Brazzers XXX 326
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2029/480/index.m3u8:hdporus_Brazzers XXX 325
+#DESCRIPTION hdporus_Brazzers XXX 325
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2028/480/index.m3u8:hdporus_Brazzers XXX 324
+#DESCRIPTION hdporus_Brazzers XXX 324
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2027/480/index.m3u8:hdporus_Brazzers XXX 323
+#DESCRIPTION hdporus_Brazzers XXX 323
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2026/480/index.m3u8:hdporus_Brazzers XXX 322
+#DESCRIPTION hdporus_Brazzers XXX 322
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2025/480/index.m3u8:hdporus_Brazzers XXX 321
+#DESCRIPTION hdporus_Brazzers XXX 321
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2024/480/index.m3u8:hdporus_Brazzers XXX 320
+#DESCRIPTION hdporus_Brazzers XXX 320
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2023/480/index.m3u8:hdporus_Brazzers XXX 319
+#DESCRIPTION hdporus_Brazzers XXX 319
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2022/480/index.m3u8:hdporus_Brazzers XXX 318
+#DESCRIPTION hdporus_Brazzers XXX 318
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2021/480/index.m3u8:hdporus_Brazzers XXX 317
+#DESCRIPTION hdporus_Brazzers XXX 317
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2020/480/index.m3u8:hdporus_Brazzers XXX 316
+#DESCRIPTION hdporus_Brazzers XXX 316
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2019/480/index.m3u8:hdporus_Brazzers XXX 315
+#DESCRIPTION hdporus_Brazzers XXX 315
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2018/480/index.m3u8:hdporus_Brazzers XXX 314
+#DESCRIPTION hdporus_Brazzers XXX 314
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2017/480/index.m3u8:hdporus_Brazzers XXX 313
+#DESCRIPTION hdporus_Brazzers XXX 313
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2016/480/index.m3u8:hdporus_Brazzers XXX 312
+#DESCRIPTION hdporus_Brazzers XXX 312
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2015/480/index.m3u8:hdporus_Brazzers XXX 311
+#DESCRIPTION hdporus_Brazzers XXX 311
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2014/480/index.m3u8:hdporus_Brazzers XXX 310
+#DESCRIPTION hdporus_Brazzers XXX 310
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2013/480/index.m3u8:hdporus_Brazzers XXX 309
+#DESCRIPTION hdporus_Brazzers XXX 309
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2012/480/index.m3u8:hdporus_Brazzers XXX 308
+#DESCRIPTION hdporus_Brazzers XXX 308
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2011/480/index.m3u8:hdporus_Brazzers XXX 307
+#DESCRIPTION hdporus_Brazzers XXX 307
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2010/480/index.m3u8:hdporus_Brazzers XXX 306
+#DESCRIPTION hdporus_Brazzers XXX 306
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2009/480/index.m3u8:hdporus_Brazzers XXX 305
+#DESCRIPTION hdporus_Brazzers XXX 305
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2008/480/index.m3u8:hdporus_Brazzers XXX 304
+#DESCRIPTION hdporus_Brazzers XXX 304
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2007/480/index.m3u8:hdporus_Brazzers XXX 303
+#DESCRIPTION hdporus_Brazzers XXX 303
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2006/480/index.m3u8:hdporus_Brazzers XXX 302
+#DESCRIPTION hdporus_Brazzers XXX 302
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2005/480/index.m3u8:hdporus_Brazzers XXX 301
+#DESCRIPTION hdporus_Brazzers XXX 301
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2004/480/index.m3u8:hdporus_Brazzers XXX 300
+#DESCRIPTION hdporus_Brazzers XXX 300
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2003/480/index.m3u8:hdporus_Brazzers XXX 299
+#DESCRIPTION hdporus_Brazzers XXX 299
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2002/480/index.m3u8:hdporus_Brazzers XXX 298
+#DESCRIPTION hdporus_Brazzers XXX 298
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2001/480/index.m3u8:hdporus_Brazzers XXX 297
+#DESCRIPTION hdporus_Brazzers XXX 297
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s2000/480/index.m3u8:hdporus_Brazzers XXX 296
+#DESCRIPTION hdporus_Brazzers XXX 296
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1999/480/index.m3u8:hdporus_Brazzers XXX 295
+#DESCRIPTION hdporus_Brazzers XXX 295
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1998/480/index.m3u8:hdporus_Brazzers XXX 294
+#DESCRIPTION hdporus_Brazzers XXX 294
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1997/480/index.m3u8:hdporus_Brazzers XXX 293
+#DESCRIPTION hdporus_Brazzers XXX 293
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1996/480/index.m3u8:hdporus_Brazzers XXX 292
+#DESCRIPTION hdporus_Brazzers XXX 292
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1995/480/index.m3u8:hdporus_Brazzers XXX 291
+#DESCRIPTION hdporus_Brazzers XXX 291
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1994/480/index.m3u8:hdporus_Brazzers XXX 290
+#DESCRIPTION hdporus_Brazzers XXX 290
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1993/480/index.m3u8:hdporus_Brazzers XXX 289
+#DESCRIPTION hdporus_Brazzers XXX 289
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1992/480/index.m3u8:hdporus_Brazzers XXX 288
+#DESCRIPTION hdporus_Brazzers XXX 288
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1991/480/index.m3u8:hdporus_Brazzers XXX 287
+#DESCRIPTION hdporus_Brazzers XXX 287
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1990/480/index.m3u8:hdporus_Brazzers XXX 286
+#DESCRIPTION hdporus_Brazzers XXX 286
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1989/480/index.m3u8:hdporus_Brazzers XXX 285
+#DESCRIPTION hdporus_Brazzers XXX 285
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1988/480/index.m3u8:hdporus_Brazzers XXX 284
+#DESCRIPTION hdporus_Brazzers XXX 284
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1987/480/index.m3u8:hdporus_Brazzers XXX 283
+#DESCRIPTION hdporus_Brazzers XXX 283
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1986/480/index.m3u8:hdporus_Brazzers XXX 282
+#DESCRIPTION hdporus_Brazzers XXX 282
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1985/480/index.m3u8:hdporus_Brazzers XXX 281
+#DESCRIPTION hdporus_Brazzers XXX 281
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1984/480/index.m3u8:hdporus_Brazzers XXX 281
+#DESCRIPTION hdporus_Brazzers XXX 281
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1983/480/index.m3u8:hdporus_Brazzers XXX 280
+#DESCRIPTION hdporus_Brazzers XXX 280
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1982/480/index.m3u8:hdporus_Brazzers XXX 279
+#DESCRIPTION hdporus_Brazzers XXX 279
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1981/480/index.m3u8:hdporus_Brazzers XXX 278
+#DESCRIPTION hdporus_Brazzers XXX 278
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1980/480/index.m3u8:hdporus_Brazzers XXX 277
+#DESCRIPTION hdporus_Brazzers XXX 277
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1979/480/index.m3u8:hdporus_Brazzers XXX 276
+#DESCRIPTION hdporus_Brazzers XXX 276
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1978/480/index.m3u8:hdporus_Brazzers XXX 275
+#DESCRIPTION hdporus_Brazzers XXX 275
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1977/480/index.m3u8:hdporus_Brazzers XXX 274
+#DESCRIPTION hdporus_Brazzers XXX 274
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1976/480/index.m3u8:hdporus_Brazzers XXX 273
+#DESCRIPTION hdporus_Brazzers XXX 273
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1975/480/index.m3u8:hdporus_Brazzers XXX 272
+#DESCRIPTION hdporus_Brazzers XXX 272
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1974/480/index.m3u8:hdporus_Brazzers XXX 271
+#DESCRIPTION hdporus_Brazzers XXX 271
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1973/480/index.m3u8:hdporus_Brazzers XXX 270
+#DESCRIPTION hdporus_Brazzers XXX 270
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1972/480/index.m3u8:hdporus_Brazzers XXX 269
+#DESCRIPTION hdporus_Brazzers XXX 269
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1971/480/index.m3u8:hdporus_Brazzers XXX 268
+#DESCRIPTION hdporus_Brazzers XXX 268
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1970/480/index.m3u8:hdporus_Brazzers XXX 267
+#DESCRIPTION hdporus_Brazzers XXX 267
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1969/480/index.m3u8:hdporus_Brazzers XXX 266
+#DESCRIPTION hdporus_Brazzers XXX 266
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1968/480/index.m3u8:hdporus_Brazzers XXX 265
+#DESCRIPTION hdporus_Brazzers XXX 265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1967/480/index.m3u8:hdporus_Brazzers XXX 264
+#DESCRIPTION hdporus_Brazzers XXX 264
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1966/480/index.m3u8:hdporus_Brazzers XXX 263
+#DESCRIPTION hdporus_Brazzers XXX 263
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1965/480/index.m3u8:hdporus_Brazzers XXX 262
+#DESCRIPTION hdporus_Brazzers XXX 262
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1964/480/index.m3u8:hdporus_Brazzers XXX 261
+#DESCRIPTION hdporus_Brazzers XXX 261
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1963/480/index.m3u8:hdporus_Brazzers XXX 260
+#DESCRIPTION hdporus_Brazzers XXX 260
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1959/480/index.m3u8:hdporus_Brazzers XXX 256
+#DESCRIPTION hdporus_Brazzers XXX 256
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1958/480/index.m3u8:hdporus_Brazzers XXX 255
+#DESCRIPTION hdporus_Brazzers XXX 255
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1957/480/index.m3u8:hdporus_Brazzers XXX 254
+#DESCRIPTION hdporus_Brazzers XXX 254
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1956/480/index.m3u8:hdporus_Brazzers XXX 253
+#DESCRIPTION hdporus_Brazzers XXX 253
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1949/480/index.m3u8:hdporus_Brazzers XXX 246
+#DESCRIPTION hdporus_Brazzers XXX 246
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1948/480/index.m3u8:hdporus_Brazzers XXX 245
+#DESCRIPTION hdporus_Brazzers XXX 245
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1947/480/index.m3u8:hdporus_Brazzers XXX 244
+#DESCRIPTION hdporus_Brazzers XXX 244
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1946/480/index.m3u8:hdporus_Brazzers XXX 243
+#DESCRIPTION hdporus_Brazzers XXX 243
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1945/480/index.m3u8:hdporus_Brazzers XXX 242
+#DESCRIPTION hdporus_Brazzers XXX 242
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1944/480/index.m3u8:hdporus_Brazzers XXX 241
+#DESCRIPTION hdporus_Brazzers XXX 241
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1943/480/index.m3u8:hdporus_Brazzers XXX 240
+#DESCRIPTION hdporus_Brazzers XXX 240
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1942/480/index.m3u8:hdporus_Brazzers XXX 239
+#DESCRIPTION hdporus_Brazzers XXX 239
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1940/480/index.m3u8:hdporus_Brazzers XXX 237
+#DESCRIPTION hdporus_Brazzers XXX 237
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1939/480/index.m3u8:hdporus_Brazzers XXX 236
+#DESCRIPTION hdporus_Brazzers XXX 236
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1938/480/index.m3u8:hdporus_Brazzers XXX 235
+#DESCRIPTION hdporus_Brazzers XXX 235
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1937/480/index.m3u8:hdporus_Brazzers XXX 234
+#DESCRIPTION hdporus_Brazzers XXX 234
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1936/480/index.m3u8:hdporus_Brazzers XXX 233
+#DESCRIPTION hdporus_Brazzers XXX 233
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1935/480/index.m3u8:hdporus_Brazzers XXX 232
+#DESCRIPTION hdporus_Brazzers XXX 232
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1934/480/index.m3u8:hdporus_Brazzers XXX 231
+#DESCRIPTION hdporus_Brazzers XXX 231
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1933/480/index.m3u8:hdporus_Brazzers XXX 230
+#DESCRIPTION hdporus_Brazzers XXX 230
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1932/480/index.m3u8:hdporus_Brazzers XXX 229
+#DESCRIPTION hdporus_Brazzers XXX 229
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1930/480/index.m3u8:hdporus_Brazzers XXX 227
+#DESCRIPTION hdporus_Brazzers XXX 227
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1929/480/index.m3u8:hdporus_Brazzers XXX 226
+#DESCRIPTION hdporus_Brazzers XXX 226
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1928/480/index.m3u8:hdporus_Brazzers XXX 225
+#DESCRIPTION hdporus_Brazzers XXX 225
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1927/480/index.m3u8:hdporus_Brazzers XXX 224
+#DESCRIPTION hdporus_Brazzers XXX 224
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1926/480/index.m3u8:hdporus_Brazzers XXX 223
+#DESCRIPTION hdporus_Brazzers XXX 223
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1925/480/index.m3u8:hdporus_Brazzers XXX 222
+#DESCRIPTION hdporus_Brazzers XXX 222
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1924/480/index.m3u8:hdporus_Brazzers XXX 221
+#DESCRIPTION hdporus_Brazzers XXX 221
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1923/480/index.m3u8:hdporus_Brazzers XXX 220
+#DESCRIPTION hdporus_Brazzers XXX 220
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1922/480/index.m3u8:hdporus_Brazzers XXX 219
+#DESCRIPTION hdporus_Brazzers XXX 219
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1921/480/index.m3u8:hdporus_Brazzers XXX 218
+#DESCRIPTION hdporus_Brazzers XXX 218
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1920/480/index.m3u8:hdporus_Brazzers XXX 217
+#DESCRIPTION hdporus_Brazzers XXX 217
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1919/480/index.m3u8:hdporus_Brazzers XXX 216
+#DESCRIPTION hdporus_Brazzers XXX 216
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1918/480/index.m3u8:hdporus_Brazzers XXX 215
+#DESCRIPTION hdporus_Brazzers XXX 215
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1917/480/index.m3u8:hdporus_Brazzers XXX 214
+#DESCRIPTION hdporus_Brazzers XXX 214
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1916/480/index.m3u8:hdporus_Brazzers XXX 213
+#DESCRIPTION hdporus_Brazzers XXX 213
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1915/480/index.m3u8:hdporus_Brazzers XXX 212
+#DESCRIPTION hdporus_Brazzers XXX 212
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1914/480/index.m3u8:hdporus_Brazzers XXX 211
+#DESCRIPTION hdporus_Brazzers XXX 211
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1913/480/index.m3u8:hdporus_Brazzers XXX 210
+#DESCRIPTION hdporus_Brazzers XXX 210
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1912/480/index.m3u8:hdporus_Brazzers XXX 209
+#DESCRIPTION hdporus_Brazzers XXX 209
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1911/480/index.m3u8:hdporus_Brazzers XXX 208
+#DESCRIPTION hdporus_Brazzers XXX 208
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1910/480/index.m3u8:hdporus_Brazzers XXX 207
+#DESCRIPTION hdporus_Brazzers XXX 207
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1909/480/index.m3u8:hdporus_Brazzers XXX 206
+#DESCRIPTION hdporus_Brazzers XXX 206
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1908/480/index.m3u8:hdporus_Brazzers XXX 205
+#DESCRIPTION hdporus_Brazzers XXX 205
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1907/480/index.m3u8:hdporus_Brazzers XXX 204
+#DESCRIPTION hdporus_Brazzers XXX 204
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1906/480/index.m3u8:hdporus_Brazzers XXX 203
+#DESCRIPTION hdporus_Brazzers XXX 203
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1905/480/index.m3u8:hdporus_Brazzers XXX 202
+#DESCRIPTION hdporus_Brazzers XXX 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1904/480/index.m3u8:hdporus_Brazzers XXX 201
+#DESCRIPTION hdporus_Brazzers XXX 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1903/480/index.m3u8:hdporus_Brazzers XXX 200
+#DESCRIPTION hdporus_Brazzers XXX 200
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1901/480/index.m3u8:hdporus_Brazzers XXX 198
+#DESCRIPTION hdporus_Brazzers XXX 198
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1900/480/index.m3u8:hdporus_Brazzers XXX 197
+#DESCRIPTION hdporus_Brazzers XXX 197
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1899/480/index.m3u8:hdporus_Brazzers XXX 196
+#DESCRIPTION hdporus_Brazzers XXX 196
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1898/480/index.m3u8:hdporus_Brazzers XXX 195
+#DESCRIPTION hdporus_Brazzers XXX 195
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1895/480/index.m3u8:hdporus_Brazzers XXX 192
+#DESCRIPTION hdporus_Brazzers XXX 192
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1894/480/index.m3u8:hdporus_Brazzers XXX 191
+#DESCRIPTION hdporus_Brazzers XXX 191
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1893/480/index.m3u8:hdporus_Brazzers XXX 190
+#DESCRIPTION hdporus_Brazzers XXX 190
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1892/480/index.m3u8:hdporus_Brazzers XXX 189
+#DESCRIPTION hdporus_Brazzers XXX 189
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1891/480/index.m3u8:hdporus_Brazzers XXX 188
+#DESCRIPTION hdporus_Brazzers XXX 188
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1890/480/index.m3u8:hdporus_Brazzers XXX 187
+#DESCRIPTION hdporus_Brazzers XXX 187
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1889/480/index.m3u8:hdporus_Brazzers XXX 186
+#DESCRIPTION hdporus_Brazzers XXX 186
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1888/480/index.m3u8:hdporus_Brazzers XXX 185
+#DESCRIPTION hdporus_Brazzers XXX 185
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1887/480/index.m3u8:hdporus_Brazzers XXX 184
+#DESCRIPTION hdporus_Brazzers XXX 184
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1886/480/index.m3u8:hdporus_Brazzers XXX 183
+#DESCRIPTION hdporus_Brazzers XXX 183
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1885/480/index.m3u8:hdporus_Brazzers XXX 182
+#DESCRIPTION hdporus_Brazzers XXX 182
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1884/480/index.m3u8:hdporus_Brazzers XXX 181
+#DESCRIPTION hdporus_Brazzers XXX 181
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1883/480/index.m3u8:hdporus_Brazzers XXX 180
+#DESCRIPTION hdporus_Brazzers XXX 180
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1882/480/index.m3u8:hdporus_Brazzers XXX 179
+#DESCRIPTION hdporus_Brazzers XXX 179
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1881/480/index.m3u8:hdporus_Brazzers XXX 178
+#DESCRIPTION hdporus_Brazzers XXX 178
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1880/480/index.m3u8:hdporus_Brazzers XXX 177
+#DESCRIPTION hdporus_Brazzers XXX 177
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1879/480/index.m3u8:hdporus_Brazzers XXX 176
+#DESCRIPTION hdporus_Brazzers XXX 176
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1878/480/index.m3u8:hdporus_Brazzers XXX 175
+#DESCRIPTION hdporus_Brazzers XXX 175
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1877/480/index.m3u8:hdporus_Brazzers XXX 174
+#DESCRIPTION hdporus_Brazzers XXX 174
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1876/480/index.m3u8:hdporus_Brazzers XXX 173
+#DESCRIPTION hdporus_Brazzers XXX 173
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1875/480/index.m3u8:hdporus_Brazzers XXX 172
+#DESCRIPTION hdporus_Brazzers XXX 172
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1874/480/index.m3u8:hdporus_Brazzers XXX 171
+#DESCRIPTION hdporus_Brazzers XXX 171
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1873/480/index.m3u8:hdporus_Brazzers XXX 170
+#DESCRIPTION hdporus_Brazzers XXX 170
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1872/480/index.m3u8:hdporus_Brazzers XXX 169
+#DESCRIPTION hdporus_Brazzers XXX 169
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1871/480/index.m3u8:hdporus_Brazzers XXX 168
+#DESCRIPTION hdporus_Brazzers XXX 168
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1870/480/index.m3u8:hdporus_Brazzers XXX 168
+#DESCRIPTION hdporus_Brazzers XXX 168
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1869/480/index.m3u8:hdporus_Brazzers XXX 167
+#DESCRIPTION hdporus_Brazzers XXX 167
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1868/480/index.m3u8:hdporus_Brazzers XXX 166
+#DESCRIPTION hdporus_Brazzers XXX 166
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1867/480/index.m3u8:hdporus_Brazzers XXX 165
+#DESCRIPTION hdporus_Brazzers XXX 165
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1866/480/index.m3u8:hdporus_Brazzers XXX 164
+#DESCRIPTION hdporus_Brazzers XXX 164
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1865/480/index.m3u8:hdporus_Brazzers XXX 163
+#DESCRIPTION hdporus_Brazzers XXX 163
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1864/480/index.m3u8:hdporus_Brazzers XXX 162
+#DESCRIPTION hdporus_Brazzers XXX 162
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1863/480/index.m3u8:hdporus_Brazzers XXX 161
+#DESCRIPTION hdporus_Brazzers XXX 161
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1862/480/index.m3u8:hdporus_Brazzers XXX 160
+#DESCRIPTION hdporus_Brazzers XXX 160
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1861/480/index.m3u8:hdporus_Brazzers XXX 159
+#DESCRIPTION hdporus_Brazzers XXX 159
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1860/480/index.m3u8:hdporus_Brazzers XXX 158
+#DESCRIPTION hdporus_Brazzers XXX 158
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1859/480/index.m3u8:hdporus_Brazzers XXX 157
+#DESCRIPTION hdporus_Brazzers XXX 157
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1858/480/index.m3u8:hdporus_Brazzers XXX 156
+#DESCRIPTION hdporus_Brazzers XXX 156
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1857/480/index.m3u8:hdporus_Brazzers XXX 155
+#DESCRIPTION hdporus_Brazzers XXX 155
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1855/480/index.m3u8:hdporus_Brazzers XXX 153
+#DESCRIPTION hdporus_Brazzers XXX 153
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1854/480/index.m3u8:hdporus_Brazzers XXX 152
+#DESCRIPTION hdporus_Brazzers XXX 152
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1853/480/index.m3u8:hdporus_Brazzers XXX 151
+#DESCRIPTION hdporus_Brazzers XXX 151
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1852/480/index.m3u8:hdporus_Brazzers XXX 150
+#DESCRIPTION hdporus_Brazzers XXX 150
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1851/480/index.m3u8:hdporus_Brazzers XXX 149
+#DESCRIPTION hdporus_Brazzers XXX 149
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1850/480/index.m3u8:hdporus_Brazzers XXX 148
+#DESCRIPTION hdporus_Brazzers XXX 148
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1849/480/index.m3u8:hdporus_Brazzers XXX 147
+#DESCRIPTION hdporus_Brazzers XXX 147
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1848/480/index.m3u8:hdporus_Brazzers XXX 146
+#DESCRIPTION hdporus_Brazzers XXX 146
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1847/480/index.m3u8:hdporus_Brazzers XXX 145
+#DESCRIPTION hdporus_Brazzers XXX 145
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1846/480/index.m3u8:hdporus_Brazzers XXX 144
+#DESCRIPTION hdporus_Brazzers XXX 144
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1845/480/index.m3u8:hdporus_Brazzers XXX 143
+#DESCRIPTION hdporus_Brazzers XXX 143
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1844/480/index.m3u8:hdporus_Brazzers XXX 142
+#DESCRIPTION hdporus_Brazzers XXX 142
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1843/480/index.m3u8:hdporus_Brazzers XXX 141
+#DESCRIPTION hdporus_Brazzers XXX 141
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1842/480/index.m3u8:hdporus_Brazzers XXX 140
+#DESCRIPTION hdporus_Brazzers XXX 140
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1841/480/index.m3u8:hdporus_Brazzers XXX 139
+#DESCRIPTION hdporus_Brazzers XXX 139
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1840/480/index.m3u8:hdporus_Brazzers XXX 138
+#DESCRIPTION hdporus_Brazzers XXX 138
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1839/480/index.m3u8:hdporus_Brazzers XXX 137
+#DESCRIPTION hdporus_Brazzers XXX 137
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1838/480/index.m3u8:hdporus_Brazzers XXX 136
+#DESCRIPTION hdporus_Brazzers XXX 136
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1837/480/index.m3u8:hdporus_Brazzers XXX 135
+#DESCRIPTION hdporus_Brazzers XXX 135
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1836/480/index.m3u8:hdporus_Brazzers XXX 134
+#DESCRIPTION hdporus_Brazzers XXX 134
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1835/480/index.m3u8:hdporus_Brazzers XXX 133
+#DESCRIPTION hdporus_Brazzers XXX 133
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1834/480/index.m3u8:hdporus_Brazzers XXX 132
+#DESCRIPTION hdporus_Brazzers XXX 132
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1833/480/index.m3u8:hdporus_Brazzers XXX 131
+#DESCRIPTION hdporus_Brazzers XXX 131
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1832/480/index.m3u8:hdporus_Brazzers XXX 130
+#DESCRIPTION hdporus_Brazzers XXX 130
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1831/480/index.m3u8:hdporus_Brazzers XXX 129
+#DESCRIPTION hdporus_Brazzers XXX 129
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1830/480/index.m3u8:hdporus_Brazzers XXX 128
+#DESCRIPTION hdporus_Brazzers XXX 128
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1829/480/index.m3u8:hdporus_Brazzers XXX 127
+#DESCRIPTION hdporus_Brazzers XXX 127
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1828/480/index.m3u8:hdporus_Brazzers XXX 126
+#DESCRIPTION hdporus_Brazzers XXX 126
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1827/480/index.m3u8:hdporus_Brazzers XXX 125
+#DESCRIPTION hdporus_Brazzers XXX 125
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1826/480/index.m3u8:hdporus_Brazzers XXX 124
+#DESCRIPTION hdporus_Brazzers XXX 124
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1825/480/index.m3u8:hdporus_Brazzers XXX 123
+#DESCRIPTION hdporus_Brazzers XXX 123
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1824/480/index.m3u8:hdporus_Brazzers XXX 122
+#DESCRIPTION hdporus_Brazzers XXX 122
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1823/480/index.m3u8:hdporus_Brazzers XXX 121
+#DESCRIPTION hdporus_Brazzers XXX 121
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1822/480/index.m3u8:hdporus_Brazzers XXX 120
+#DESCRIPTION hdporus_Brazzers XXX 120
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1821/480/index.m3u8:hdporus_Brazzers XXX 119
+#DESCRIPTION hdporus_Brazzers XXX 119
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1820/480/index.m3u8:hdporus_Brazzers XXX 118
+#DESCRIPTION hdporus_Brazzers XXX 118
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1819/480/index.m3u8:hdporus_Brazzers XXX 117
+#DESCRIPTION hdporus_Brazzers XXX 117
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1818/480/index.m3u8:hdporus_Brazzers XXX 116
+#DESCRIPTION hdporus_Brazzers XXX 116
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1817/480/index.m3u8:hdporus_Brazzers XXX 115
+#DESCRIPTION hdporus_Brazzers XXX 115
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1816/480/index.m3u8:hdporus_Brazzers XXX 114
+#DESCRIPTION hdporus_Brazzers XXX 114
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1815/480/index.m3u8:hdporus_Brazzers XXX 113
+#DESCRIPTION hdporus_Brazzers XXX 113
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1814/480/index.m3u8:hdporus_Brazzers XXX 112
+#DESCRIPTION hdporus_Brazzers XXX 112
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1813/480/index.m3u8:hdporus_Brazzers XXX 111
+#DESCRIPTION hdporus_Brazzers XXX 111
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1812/480/index.m3u8:hdporus_Brazzers XXX 110
+#DESCRIPTION hdporus_Brazzers XXX 110
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1811/480/index.m3u8:hdporus_Brazzers XXX 109
+#DESCRIPTION hdporus_Brazzers XXX 109
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1810/480/index.m3u8:hdporus_Brazzers XXX 108
+#DESCRIPTION hdporus_Brazzers XXX 108
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1809/480/index.m3u8:hdporus_Brazzers XXX 107
+#DESCRIPTION hdporus_Brazzers XXX 107
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1808/480/index.m3u8:hdporus_Brazzers XXX 106
+#DESCRIPTION hdporus_Brazzers XXX 106
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1807/480/index.m3u8:hdporus_Brazzers XXX 105
+#DESCRIPTION hdporus_Brazzers XXX 105
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1806/480/index.m3u8:hdporus_Brazzers XXX 104
+#DESCRIPTION hdporus_Brazzers XXX 104
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1805/480/index.m3u8:hdporus_Brazzers XXX 103
+#DESCRIPTION hdporus_Brazzers XXX 103
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1804/480/index.m3u8:hdporus_Brazzers XXX 102
+#DESCRIPTION hdporus_Brazzers XXX 102
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1803/480/index.m3u8:hdporus_Brazzers XXX 101
+#DESCRIPTION hdporus_Brazzers XXX 101
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1802/480/index.m3u8:hdporus_Brazzers XXX 100
+#DESCRIPTION hdporus_Brazzers XXX 100
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1801/480/index.m3u8:hdporus_Brazzers XXX 99
+#DESCRIPTION hdporus_Brazzers XXX 99
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1797/480/index.m3u8:hdporus_Brazzers XXX 95
+#DESCRIPTION hdporus_Brazzers XXX 95
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1796/480/index.m3u8:hdporus_Brazzers XXX 94
+#DESCRIPTION hdporus_Brazzers XXX 94
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1795/480/index.m3u8:hdporus_Brazzers XXX 93
+#DESCRIPTION hdporus_Brazzers XXX 93
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1794/480/index.m3u8:hdporus_Brazzers XXX 92
+#DESCRIPTION hdporus_Brazzers XXX 92
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1793/480/index.m3u8:hdporus_Brazzers XXX 91
+#DESCRIPTION hdporus_Brazzers XXX 91
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1792/480/index.m3u8:hdporus_Brazzers XXX 89
+#DESCRIPTION hdporus_Brazzers XXX 89
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1791/480/index.m3u8:hdporus_Brazzers XXX 88
+#DESCRIPTION hdporus_Brazzers XXX 88
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1790/480/index.m3u8:hdporus_Brazzers XXX 87
+#DESCRIPTION hdporus_Brazzers XXX 87
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1789/480/index.m3u8:hdporus_Brazzers XXX 86
+#DESCRIPTION hdporus_Brazzers XXX 86
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1788/480/index.m3u8:hdporus_Brazzers XXX 85
+#DESCRIPTION hdporus_Brazzers XXX 85
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1787/480/index.m3u8:hdporus_Brazzers XXX 84
+#DESCRIPTION hdporus_Brazzers XXX 84
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1786/480/index.m3u8:hdporus_Brazzers XXX 83
+#DESCRIPTION hdporus_Brazzers XXX 83
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1785/480/index.m3u8:hdporus_Brazzers XXX 82
+#DESCRIPTION hdporus_Brazzers XXX 82
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1784/480/index.m3u8:hdporus_Brazzers XXX 81
+#DESCRIPTION hdporus_Brazzers XXX 81
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1783/480/index.m3u8:hdporus_Brazzers XXX 80
+#DESCRIPTION hdporus_Brazzers XXX 80
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1782/480/index.m3u8:hdporus_Brazzers XXX 79
+#DESCRIPTION hdporus_Brazzers XXX 79
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1781/480/index.m3u8:hdporus_Brazzers XXX 78
+#DESCRIPTION hdporus_Brazzers XXX 78
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1780/480/index.m3u8:hdporus_Brazzers XXX 77
+#DESCRIPTION hdporus_Brazzers XXX 77
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1773/480/index.m3u8:hdporus_Brazzers XXX 73
+#DESCRIPTION hdporus_Brazzers XXX 73
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1772/480/index.m3u8:hdporus_Brazzers XXX 72
+#DESCRIPTION hdporus_Brazzers XXX 72
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1771/480/index.m3u8:hdporus_Brazzers XXX 71
+#DESCRIPTION hdporus_Brazzers XXX 71
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1770/480/index.m3u8:hdporus_Brazzers XXX 70
+#DESCRIPTION hdporus_Brazzers XXX 70
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1769/480/index.m3u8:hdporus_Brazzers XXX 69
+#DESCRIPTION hdporus_Brazzers XXX 69
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1768/480/index.m3u8:hdporus_Brazzers XXX 68
+#DESCRIPTION hdporus_Brazzers XXX 68
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1767/480/index.m3u8:hdporus_Brazzers XXX 67
+#DESCRIPTION hdporus_Brazzers XXX 67
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1766/480/index.m3u8:hdporus_Brazzers XXX 66
+#DESCRIPTION hdporus_Brazzers XXX 66
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1765/480/index.m3u8:hdporus_Brazzers XXX 65
+#DESCRIPTION hdporus_Brazzers XXX 65
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1764/480/index.m3u8:hdporus_Brazzers XXX 64
+#DESCRIPTION hdporus_Brazzers XXX 64
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1763/480/index.m3u8:hdporus_Brazzers XXX 63
+#DESCRIPTION hdporus_Brazzers XXX 63
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1762/480/index.m3u8:hdporus_Brazzers XXX 62
+#DESCRIPTION hdporus_Brazzers XXX 62
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1761/480/index.m3u8:hdporus_Brazzers XXX 61
+#DESCRIPTION hdporus_Brazzers XXX 61
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1760/480/index.m3u8:hdporus_Brazzers XXX 60
+#DESCRIPTION hdporus_Brazzers XXX 60
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1759/480/index.m3u8:hdporus_Brazzers XXX 59
+#DESCRIPTION hdporus_Brazzers XXX 59
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1758/480/index.m3u8:hdporus_Brazzers XXX 58
+#DESCRIPTION hdporus_Brazzers XXX 58
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1757/480/index.m3u8:hdporus_Brazzers XXX 57
+#DESCRIPTION hdporus_Brazzers XXX 57
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1756/480/index.m3u8:hdporus_Brazzers XXX 56
+#DESCRIPTION hdporus_Brazzers XXX 56
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1755/480/index.m3u8:hdporus_Brazzers XXX 55
+#DESCRIPTION hdporus_Brazzers XXX 55
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1754/480/index.m3u8:hdporus_Brazzers XXX 54
+#DESCRIPTION hdporus_Brazzers XXX 54
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1752/480/index.m3u8:hdporus_Brazzers XXX 52
+#DESCRIPTION hdporus_Brazzers XXX 52
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1751/480/index.m3u8:hdporus_Brazzers XXX 51
+#DESCRIPTION hdporus_Brazzers XXX 51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1750/480/index.m3u8:hdporus_Brazzers XXX 50
+#DESCRIPTION hdporus_Brazzers XXX 50
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1749/480/index.m3u8:hdporus_Brazzers XXX 49
+#DESCRIPTION hdporus_Brazzers XXX 49
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1748/480/index.m3u8:hdporus_Brazzers XXX 48
+#DESCRIPTION hdporus_Brazzers XXX 48
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1747/480/index.m3u8:hdporus_Brazzers XXX 47
+#DESCRIPTION hdporus_Brazzers XXX 47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1746/480/index.m3u8:hdporus_Brazzers XXX 46
+#DESCRIPTION hdporus_Brazzers XXX 46
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1745/480/index.m3u8:hdporus_Brazzers XXX 45
+#DESCRIPTION hdporus_Brazzers XXX 45
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1744/480/index.m3u8:hdporus_Brazzers XXX 44
+#DESCRIPTION hdporus_Brazzers XXX 44
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1743/480/index.m3u8:hdporus_Brazzers XXX 43
+#DESCRIPTION hdporus_Brazzers XXX 43
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1742/480/index.m3u8:hdporus_Brazzers XXX 42
+#DESCRIPTION hdporus_Brazzers XXX 42
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1741/480/index.m3u8:hdporus_Brazzers XXX 41
+#DESCRIPTION hdporus_Brazzers XXX 41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1739/480/index.m3u8:hdporus_Brazzers XXX 39
+#DESCRIPTION hdporus_Brazzers XXX 39
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1738/480/index.m3u8:hdporus_Brazzers XXX 38
+#DESCRIPTION hdporus_Brazzers XXX 38
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1737/480/index.m3u8:hdporus_Brazzers XXX 37
+#DESCRIPTION hdporus_Brazzers XXX 37
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1736/480/index.m3u8:hdporus_Brazzers XXX 36
+#DESCRIPTION hdporus_Brazzers XXX 36
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1735/480/index.m3u8:hdporus_Brazzers XXX 35
+#DESCRIPTION hdporus_Brazzers XXX 35
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1734/480/index.m3u8:hdporus_Brazzers XXX 34
+#DESCRIPTION hdporus_Brazzers XXX 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1733/480/index.m3u8:hdporus_Brazzers XXX 33
+#DESCRIPTION hdporus_Brazzers XXX 33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1732/480/index.m3u8:hdporus_Brazzers XXX 32
+#DESCRIPTION hdporus_Brazzers XXX 32
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1731/480/index.m3u8:hdporus_Brazzers XXX 31
+#DESCRIPTION hdporus_Brazzers XXX 31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1730/480/index.m3u8:hdporus_Brazzers XXX 30
+#DESCRIPTION hdporus_Brazzers XXX 30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1729/480/index.m3u8:hdporus_Brazzers XXX 29
+#DESCRIPTION hdporus_Brazzers XXX 29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1728/480/index.m3u8:hdporus_Brazzers XXX 28
+#DESCRIPTION hdporus_Brazzers XXX 28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1727/480/index.m3u8:hdporus_Brazzers XXX 27
+#DESCRIPTION hdporus_Brazzers XXX 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1726/480/index.m3u8:hdporus_Brazzers XXX 26
+#DESCRIPTION hdporus_Brazzers XXX 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1725/480/index.m3u8:hdporus_Brazzers XXX 25
+#DESCRIPTION hdporus_Brazzers XXX 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1724/480/index.m3u8:hdporus_Brazzers XXX 24
+#DESCRIPTION hdporus_Brazzers XXX 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1723/480/index.m3u8:hdporus_Brazzers XXX 23
+#DESCRIPTION hdporus_Brazzers XXX 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1722/480/index.m3u8:hdporus_Brazzers XXX 22
+#DESCRIPTION hdporus_Brazzers XXX 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1719/480/index.m3u8:hdporus_Brazzers XXX 19
+#DESCRIPTION hdporus_Brazzers XXX 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.hdporus.com/content/vod/s1718/480/index.m3u8:hdporus_Brazzers XXX 18
+#DESCRIPTION hdporus_Brazzers XXX 18
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.13.108%3a12000/adulti/Morena69.Vs.Sissy.Neri.2014.iTALiAN.XXX.mkv:Morena69.Vs.Sissy.Neri
 #DESCRIPTION Morena69.Vs.Sissy.Neri
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.13.108%3a12000/adulti/Piacenza.Scandalosa.Marita.Gelosa.2014.iTALiAN.XXX.mkv:Piacenza.Scandalosa.Marita.Gelosa
@@ -1199,7 +2241,7 @@
 #DESCRIPTION 5950_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6277_1080.m3u8:7152_AdultHub
 #DESCRIPTION 7152_AdultHub
-#SERVICE 1:64:B1:0:0:0:0:0:0:0::::::___ovhv20.twincdn.com
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::::::___ovhv20.twincdn.com
 #DESCRIPTION ::::___ovhv20.twincdn.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv20.twincdn.com/videos/prime/00/01/91/56.mp4:69 with creampie final
 #DESCRIPTION 69 with creampie final
@@ -1547,7 +2589,7 @@
 #DESCRIPTION young ass
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv19.twincdn.com/videos/prime/00/01/88/24.mp4:Young hairy Japan cunts
 #DESCRIPTION Young hairy Japan cunts
-#SERVICE 1:64:B2:0:0:0:0:0:0:0::=== ★★HİREMCO_SERVER | ADULT-PREMIUM★★ ==
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★HİREMCO_SERVER | ADULT-PREMIUM★★ ==
 #DESCRIPTION === ★★HİREMCO_SERVER | ADULT-PREMIUM★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//ovhv20.twincdn.com/videos/11/11100/11100_720p.mp4:HİREMCO X VOD  1
 #DESCRIPTION HİREMCO X VOD  1
@@ -1783,7 +2825,7 @@
 #DESCRIPTION HİREMCO X VOD  116
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv20.twincdn.com/videos/prime/00/01/99/22.mp4:HİREMCO X VOD  117
 #DESCRIPTION HİREMCO X VOD  117
-#SERVICE 1:64:B3:0:0:0:0:0:0:0::=== ★★RUS_MOVIE | ADULT-SERVER★★ ====
+#SERVICE 1:64:AD:0:0:0:0:0:0:0::=== ★★RUS_MOVIE | ADULT-SERVER★★ ====
 #DESCRIPTION === ★★RUS_MOVIE | ADULT-SERVER★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1071778/alisa_v_strane_porno_chudes.mp4:Alice in Wonderland (1993)
 #DESCRIPTION Alice in Wonderland (1993)
@@ -1843,7 +2885,7 @@
 #DESCRIPTION КаNAL 33
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/top/Cleopatra.mp4:КаNAL 39
 #DESCRIPTION КаNAL 39
-#SERVICE 1:64:B4:0:0:0:0:0:0:0:::::___SERVER_5.9.13.108
+#SERVICE 1:64:AE:0:0:0:0:0:0:0:::::___SERVER_5.9.13.108
 #DESCRIPTION :::___SERVER_5.9.13.108
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.13.108%3a12000/adulti/1000.facial.mp4:1000.facial.mp4
 #DESCRIPTION 1000.facial.mp4
@@ -1997,7 +3039,7 @@
 #DESCRIPTION Vere.Cagne.In.Calore.2010.iTALiAN.XXX.mp4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.13.108%3a12000/adulti/Vince.Il.PD.Trombo.Tutto.Il.Di.2014.iTALiAN.XXX.mkv:Vince.Il.PD.Trombo.Tutto.Il.Di.2014.iTALiAN.XXX..
 #DESCRIPTION Vince.Il.PD.Trombo.Tutto.Il.Di.2014.iTALiAN.XXX..
-#SERVICE 1:64:B5:0:0:0:0:0:0:0::MEGABOX TV-VOD
+#SERVICE 1:64:AF:0:0:0:0:0:0:0::MEGABOX TV-VOD
 #DESCRIPTION MEGABOX TV-VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/39e59697fb545c20e6579a1ef9a3ea0bcdba216fdf/19000/19133/19133_360p.mp4:Chupando a boceta grande
 #DESCRIPTION Chupando a boceta grande
@@ -2025,7 +3067,7 @@
 #DESCRIPTION Putinha sentando forte no pau grande do namorado
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/9c06408da3a8c4aa8eb0f1c76a0c65d305147cda8d/21000/21715/21715_720p.mp4:Sexo quente com uma morena safada
 #DESCRIPTION Sexo quente com uma morena safada
-#SERVICE 1:64:B6:0:0:0:0:0:0:0::=== ★★VIDEO_CLIPS | HARD★★ ====
+#SERVICE 1:64:B0:0:0:0:0:0:0:0::=== ★★VIDEO_CLIPS | HARD★★ ====
 #DESCRIPTION === ★★VIDEO_CLIPS | HARD★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.servitubes.com/videos/6/f/7/6/4/6f764267353d6fa9108aa3518c817cb195db672a.mp4:69 increibles posturas mas actos bisexuales
 #DESCRIPTION 69 increibles posturas mas actos bisexuales
@@ -2915,7 +3957,7 @@
 #DESCRIPTION SELEN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4:SIGNORE SC@ND@LOSE DI PROVINCI@
 #DESCRIPTION SIGNORE SC@ND@LOSE DI PROVINCI@
-#SERVICE 1:64:B7:0:0:0:0:0:0:0::=== ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
+#SERVICE 1:64:B1:0:0:0:0:0:0:0::=== ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
 #DESCRIPTION === ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/OnDemand/standard_subscription1.mp4:subscription1
 #DESCRIPTION subscription1
