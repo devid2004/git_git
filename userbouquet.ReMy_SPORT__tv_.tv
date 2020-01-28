@@ -171,36 +171,14 @@
 #DESCRIPTION Supersport 3
 #SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.SPORT.1/playlist.m3u8:1 AD SPORTS
+#DESCRIPTION 1 AD SPORTS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.Sport.2/playlist.m3u8:2 AD SPORTS
+#DESCRIPTION 2 AD SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
 #SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1:Abu Dhabi Sports
-#DESCRIPTION Abu Dhabi Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_360p.m3u8:Abu Dhabi Sports 1
-#DESCRIPTION Abu Dhabi Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1:Abu Dhabi Sports 1 HD (Opt-1)
-#DESCRIPTION Abu Dhabi Sports 1 HD (Opt-1)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1.m3u8:Abu Dhabi Sports 1 HD (Opt-2)
-#DESCRIPTION Abu Dhabi Sports 1 HD (Opt-2)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8:Abu Dhabi Sports 1 HD (Opt-3)
-#DESCRIPTION Abu Dhabi Sports 1 HD (Opt-3)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_360p.m3u8:Abu Dhabi Sports 2
-#DESCRIPTION Abu Dhabi Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:Abu Dhabi Sports 2 HD (Opt-1)
-#DESCRIPTION Abu Dhabi Sports 2 HD (Opt-1)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2.m3u8:Abu Dhabi Sports 2 HD (Opt-2)
-#DESCRIPTION Abu Dhabi Sports 2 HD (Opt-2)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8:Abu Dhabi Sports 2 HD (Opt-3)
-#DESCRIPTION Abu Dhabi Sports 2 HD (Opt-3)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3:Abu Dhabi Sports 3
-#DESCRIPTION Abu Dhabi Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4:Abu Dhabi Sports 4
-#DESCRIPTION Abu Dhabi Sports 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports5:Abu Dhabi Sports 5
-#DESCRIPTION Abu Dhabi Sports 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6:Abu Dhabi Sports 6
-#DESCRIPTION Abu Dhabi Sports 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alkasmsl4.akamaized.net/hls/live/2003123/alkassone1/master570.m3u8:Al Kass One
 #DESCRIPTION Al Kass One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1:Al Kass Sports 1
@@ -265,8 +243,8 @@
 #DESCRIPTION Eurosport 1 (bg)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8:Eurosport 2 (bg)
 #DESCRIPTION Eurosport 2 (bg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s79/index.m3u8:fas&fun box
-#DESCRIPTION fas&fun box
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s79/index.m3u8:Fast & Fun Box
+#DESCRIPTION Fast & Fun Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s79/04.m3u8:Fast & Fun Box
 #DESCRIPTION Fast & Fun Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.43.140.200/s86/index.m3u8:Fight Box
@@ -297,10 +275,6 @@
 #DESCRIPTION Jordan Sport TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:Impact Wrestling (USA)11
 #DESCRIPTION Impact Wrestling (USA)11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8:Iraqiya Sports
-#DESCRIPTION Iraqiya Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8:Iraqiya Sports
-#DESCRIPTION Iraqiya Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8:KIX
 #DESCRIPTION KIX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8:KSA Sport 2
@@ -383,6 +357,10 @@
 #DESCRIPTION Rtv San Marino Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/playlist.m3u8:Rtv Sport (san Marino)
 #DESCRIPTION Rtv Sport (san Marino)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8:Spor 1 Suudi Arabistan
+#DESCRIPTION Spor 1 Suudi Arabistan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-1192-ch-gv.filmon.com/live/1778.low.stream/playlist.m3u8:Spor 2 Suudi Arabistan
+#DESCRIPTION Spor 2 Suudi Arabistan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/04.m3u8:S41
 #DESCRIPTION S41
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/index.m3u8:Setanta Sport

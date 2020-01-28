@@ -13,26 +13,26 @@
 #DESCRIPTION K plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8:Kix
 #DESCRIPTION Kix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//27.254.130.64/live01/ch6.m3u8?p=m3u8:5HD THAI
+#DESCRIPTION 5HD THAI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8:CNN ENDONESIA
+#DESCRIPTION CNN ENDONESIA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8:KIX
 #DESCRIPTION KIX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8:Miao Mi TV
+#DESCRIPTION Miao Mi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil%3amcothd1080p.smil/chunklist_w833558461_b3000000.m3u8:MCOT HD 30
+#DESCRIPTION MCOT HD 30
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtm2mobile.secureswiftcontent.com/Origin01/ngrp%3aRTM1/chunklist_b3696000.m3u8:TV2 HD
 #DESCRIPTION TV2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8:TvN
 #DESCRIPTION TvN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8:TvN movies
 #DESCRIPTION TvN movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8:Waku-Waku Japan
-#DESCRIPTION Waku-Waku Japan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8:cnn-indonesia
-#DESCRIPTION cnn-indonesia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//27.254.130.64/live01/ch6.m3u8?p=m3u8:5HD THAI
-#DESCRIPTION 5HD THAI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8:VIOCE TV THAI
 #DESCRIPTION VIOCE TV THAI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8:Miao Mi TV
-#DESCRIPTION Miao Mi TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil%3amcothd1080p.smil/chunklist_w833558461_b3000000.m3u8:MCOT HD 30
-#DESCRIPTION MCOT HD 30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8:Waku-Waku Japan
+#DESCRIPTION Waku-Waku Japan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cclive.aniu.tv/live/anzb.m3u8:CCLIVE Aniu TV
 #DESCRIPTION CCLIVE Aniu TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.151%3a18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8/Kxpb7Wa3xqB26AcGEvjhx3JJlw6:CCTV-1 integrated HD
@@ -581,7 +581,7 @@
 #DESCRIPTION Zhejiang Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8:Zhejiang Satellite TV
 #DESCRIPTION Zhejiang Satellite TV
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_Qing Yu Nianquan_%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:A1:0:0:0:0:0:0:0:::::::::::::::::::::::::_Qing Yu Nianquan_:::::::::
 #DESCRIPTION :::::::::::::::::::::::_Qing Yu Nianquan_:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191126/eebb68accf60bff8adffe64c7ac68219/1574769804/index.m3u8:Episode 1
 #DESCRIPTION Episode 1

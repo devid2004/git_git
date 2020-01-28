@@ -1,76 +1,20 @@
 #NAME == ★★ReMy | ARABIAN★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.SPORT.1/playlist.m3u8:1 AD SPORTS
+#DESCRIPTION 1 AD SPORTS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.Sport.2/playlist.m3u8:2 AD SPORTS
+#DESCRIPTION 2 AD SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.109/hls/MAYADEEN-Backup-M.m3u8:Al Mayadeen TV
 #DESCRIPTION Al Mayadeen TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.mediaforall.net%3a1935/liveorigin/livestream_480p/playlist.m3u8:Al Manar
 #DESCRIPTION Al Manar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vstream3.hadara.ps%3a8081/Almahed/Almahed/chunks.m3u8:Almahed
+#DESCRIPTION Almahed
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live2.alalam.ir/live/Alalam_high/index.m3u8:Al-Alam
 #DESCRIPTION Al-Alam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8:Al Jazeera
 #DESCRIPTION Al Jazeera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alaraby.cdn.octivid.com/alaraby/smil%3aalaraby.stream.smil/chunklist_b2500000.m3u8:Al Araby (GB)
 #DESCRIPTION Al Araby (GB)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8:Wanasah
-#DESCRIPTION Wanasah
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live5/LBC.SAT/playlist.m3u8:LBC SAT HD
-#DESCRIPTION LBC SAT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live5/LBC.SAT/playlist.m3u8:LBC HD
-#DESCRIPTION LBC HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live2/Rotana.Classic/playlist.m3u8:Rotana Classic
-#DESCRIPTION Rotana Classic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live2/Rotana.Clip/playlist.m3u8:Rotana Clip
-#DESCRIPTION Rotana Clip
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.Sport.2/playlist.m3u8:AD Sport 2
-#DESCRIPTION AD Sport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.SPORT.1/playlist.m3u8:AD SPORT 1
-#DESCRIPTION AD SPORT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/SamaTV/playlist.m3u8:Sama TV
-#DESCRIPTION Sama TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/hdmi6/playlist.m3u8:Starting place
-#DESCRIPTION Starting place
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/addrama/addrama.m3u8:Abu Dhabi Drama
-#DESCRIPTION Abu Dhabi Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/addrama/addrama_720p.m3u8:Abu Dhabi Drama
-#DESCRIPTION Abu Dhabi Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/addrama/addrama_480p.m3u8:Abu Dhabi Drama
-#DESCRIPTION Abu Dhabi Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama:Abu Dhabi Drama
-#DESCRIPTION Abu Dhabi Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8:Abu Dhabi Sports
-#DESCRIPTION Abu Dhabi Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_480p.m3u8:Abu Dhabi Sports
-#DESCRIPTION Abu Dhabi Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_360p.m3u8:Abu Dhabi Sports
-#DESCRIPTION Abu Dhabi Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1:Abu Dhabi Sports
-#DESCRIPTION Abu Dhabi Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8?st=P9H1mUdptRfQ99toISpmTg&e=1495397980:Abu Dhabi Sports 1
-#DESCRIPTION Abu Dhabi Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2.m3u8:Abu Dhabi Sports 2
-#DESCRIPTION Abu Dhabi Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8:Abu Dhabi Sports 2
-#DESCRIPTION Abu Dhabi Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_480p.m3u8:Abu Dhabi Sports 2
-#DESCRIPTION Abu Dhabi Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_360p.m3u8:Abu Dhabi Sports 2
-#DESCRIPTION Abu Dhabi Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:Abu Dhabi Sports 2
-#DESCRIPTION Abu Dhabi Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3:Abu Dhabi Sports 3
-#DESCRIPTION Abu Dhabi Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4:Abu Dhabi Sports 4
-#DESCRIPTION Abu Dhabi Sports 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adaloula/adaloula.m3u8:Abu Dhabi TV
-#DESCRIPTION Abu Dhabi TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adaloula/adaloula_720p.m3u8:Abu Dhabi TV
-#DESCRIPTION Abu Dhabi TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adaloula/adaloula_480p.m3u8:Abu Dhabi TV
-#DESCRIPTION Abu Dhabi TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula:Abu Dhabi TV
-#DESCRIPTION Abu Dhabi TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8 :Adalemarat
-#DESCRIPTION Adalemarat
-#SERVICE 4097:0:0:33:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8:adalemarat
-#DESCRIPTION adalemarat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//africatv.live.net.sa%3a1935/live/africatv/playlist.m3u8:africatv
 #DESCRIPTION africatv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8:Ajman TV
@@ -91,6 +35,8 @@
 #DESCRIPTION Al Sharqiya
 #SERVICE 4097:0:0:16:0:0:0:0:0:0:http%3a//95.170.215.107%3a80/hls/m3u8/Alhayat-M-Backup.m3u8:Alhayat-M-Backup
 #DESCRIPTION Alhayat-M-Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8:ARRYADIA HD
+#DESCRIPTION ARRYADIA HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8:B4U Aflam
 #DESCRIPTION B4U Aflam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8:B4U Plus
@@ -175,6 +121,10 @@
 #DESCRIPTION KTV Plus
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:Kurd-Goal
 #DESCRIPTION Kurd-Goal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live5/LBC.SAT/playlist.m3u8:LBC SAT HD
+#DESCRIPTION LBC SAT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live5/LBC.SAT/playlist.m3u8:LBC HD
+#DESCRIPTION LBC HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8:MBC HD
 #DESCRIPTION MBC HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8:MBC HD
@@ -293,8 +243,8 @@
 #DESCRIPTION Music Now
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8:Music Now
 #DESCRIPTION Music Now
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8:nat geo AD
-#DESCRIPTION nat geo AD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8:Nat Geo AD
+#DESCRIPTION Nat Geo AD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adnatgeo/adnatgeo.m3u8:National Geographic
 #DESCRIPTION National Geographic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/tv_anywhere.m3u8?id=natgeo:National Geographic
@@ -309,10 +259,22 @@
 #DESCRIPTION Orient News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8:Peace TV
 #DESCRIPTION Peace TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live2/Rotana.Classic/playlist.m3u8:Rotana Classic
+#DESCRIPTION Rotana Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live2/Rotana.Clip/playlist.m3u8:Rotana Clip
+#DESCRIPTION Rotana Clip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//htvint.mada.ps%3a8889//salamtv/tracks-v1a1/mono.m3u8:salamtv4
+#DESCRIPTION salamtv4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/SamaTV/playlist.m3u8:Sama TV
+#DESCRIPTION Sama TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmieigthvll.cdn.mangomolo.com/samadubai/smil%3asamadubai.stream.smil/chunklist_b1600000.m3u8:Sama Dubai
 #DESCRIPTION Sama Dubai
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai:Sama Dubai
 #DESCRIPTION Sama Dubai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8:Spor 1 Suudi Arabistan
+#DESCRIPTION Spor 1 Suudi Arabistan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-1192-ch-gv.filmon.com/live/1778.low.stream/playlist.m3u8:Spor 2 Suudi Arabistan
+#DESCRIPTION Spor 2 Suudi Arabistan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc2live/smc2tv.smil/chunklist.m3u8:Sharjah 2
 #DESCRIPTION Sharjah 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8:Sharjah Sport
@@ -353,10 +315,14 @@
 #DESCRIPTION Star World HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae%3a80/hls/star_world/05.m3u8:Star World HD
 #DESCRIPTION Star World HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/hdmi6/playlist.m3u8:Starting place
+#DESCRIPTION Starting place
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.158.73.206/hls/stream.m3u8:Toheed TV
 #DESCRIPTION Toheed TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.106/hls/m3u8/Waar-Backup.m3u8 :Waar-Backup
 #DESCRIPTION Waar-Backup
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8:Wanasah
+#DESCRIPTION Wanasah
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8:Wanasah
 #DESCRIPTION Wanasah
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8:Yemen TV
