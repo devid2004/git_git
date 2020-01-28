@@ -375,6 +375,123 @@ https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
 https://sportbar.biz/lba/123/g7/btse.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",SPORT TV3
 https://sportbar.biz/lba/123/g8/ptsport5.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv|  Bein SD1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/930
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| Bein Sport News
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/931
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| bein low-9
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/932
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| bein low-8
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/933
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| bein low-7
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/934
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| bein low-6
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/935
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| bein low-5
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/936
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| bein low-4
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/937
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| bein low-3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/938
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| bein low-2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/939
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| bein low-1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/940
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv|  Bein SD2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/941
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv|  Bein SD3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/942
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv|  Bein SD4
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/943
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv|  BEIN SD5
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/944
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv|  BEIN SD6
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/945
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv|  Bein HD1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/946
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv|  Bein HD2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/947
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv|  Bein HD3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/948
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv|  Bein HD4
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/949
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv|  BEIN HD5
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/950
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv|  BEIN HD6
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/951
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| ad sport 1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/975
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| ad sport 2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/976
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| KSA Sport 1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/998
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| KSA Sport 2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/999
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| arriyadiya
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/1030
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| Alkass 1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/1062
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| Alkass 2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/1063
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| Alkass 3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/1064
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| Alkass 4
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/1065
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| FR: RMC Sport 4
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/1072
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| FR: RMC Sport 3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/1073
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| FR: RMC Sport 2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/1074
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| FR: RMC Sport 1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/1075
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| Canal Sport
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/1099
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| Bein FR1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/1100
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| Bein FR 3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/1101
+#EXTINF:-1 group-title="ReMy_SPORT",ZaNa-iptv| Bein FR 2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://iptvhit.live/AzZ/FREE/IPTV/1102
 #EXTINF:-1 group-title="ReMy_SPORT",ATG LIVE
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Action Sports TV
@@ -4475,60 +4592,6 @@ https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_NILESAT_ARABIC",KTV Al Majlis
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama_480p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama_480p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama_720p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?v=3157566659
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
-#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports
-https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?st=P9H1mUdptRfQ99toISpmTg&e=1495397980
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8?v=3157566659
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi TV
-http://adtv.ercdn.net/adaloula/adaloula.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi TV
-http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi TV
-http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="ReMy_NILESAT_ARABIC",Abu Dhabi TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-id="Ajman TV ARB" tvg-name="Ajman TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/l6FT7yx.jpg" group-title="ReMy_NILESAT_ARABIC",Ajman TV
 http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
 #EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Jcr3plu.jpg" group-title="ReMy_NILESAT_ARABIC",Al Arabiya
