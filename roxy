@@ -3,26 +3,24 @@
 ReMy_ReMy_ULUSAL
 #EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
 https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
-http://smip.tv:8080/destekuser/22122019/144
 #EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
+http://streams2.livetv.az/turk/kanald_stream/chunks.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",STAR HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",STAR HD
+http://streams2.livetv.az/turk/star_stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",EURO STAR
+http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TV HD
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TV HD
-http://smip.tv:8080/destekuser/22122019/145
 #EXTINF:-1 group-title="ReMy_ULUSAL",FX HD
 https://mn-nl.mncdn.com/blutv_fx/smil:fx_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",FOX TV HD
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",FOX TV HD
-http://smip.tv:8080/destekuser/22122019/147
-#EXTINF:-1 group-title="ReMy_ULUSAL",TORBA TV NETHOUSE HD
-https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TV8 HD
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",TV8 HD
-http://smip.tv:8080/destekuser/22122019/148
 #EXTINF:-1 group-title="ReMy_ULUSAL",Beyaz TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",360 TV
@@ -39,6 +37,8 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_si
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",A HABER HD
 https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",CNN TURK HD
+http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",HABER TURK HD
 https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Haber Global HD
@@ -55,14 +55,6 @@ https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w1011305
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",A SPOR HD
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
-http://streams2.livetv.az/turk/kanald_stream/chunks.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",STAR HD
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",STAR HD
-http://streams2.livetv.az/turk/star_stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",EURO STAR
-http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",DMAX HD
 http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",TLC HD
@@ -175,6 +167,8 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",A HABER HD
 https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN TURK HD
+http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",HABER TURK HD
 https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Haber Global HD
@@ -189,12 +183,26 @@ http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w40654798.m3u8
 https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w1011305533_b1200096.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",AKIT HD
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Jazeera HD
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Jazeera English
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Jazeera Arabia
+http://ott-cdn.ucom.am/s69/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Arabia
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CCLIVE Aniu TV
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN HD
+http://ott-cdn.ucom.am/s27/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN Endonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN Philippines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",3 News
 http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Jazeera HD
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC world News
 http://213.252.252.17/live/eds/BBC/HLS_encr/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC
@@ -205,6 +213,10 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC World
 http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Bloomberg UK
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",BLOOMBERG TV (1+)
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBN HD
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-p.m3u8?sd=10
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBN NEWS
@@ -219,6 +231,10 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/master.m3u8
 https://live.chdrstatic.com/cbn/primary/1.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",France24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",RT HD
+http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",RT UK
+http://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",24h 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",24h Catalunya 
@@ -267,8 +283,6 @@ https://sportscore.biz/lba/123/g5/beinsport1tur.m3u8
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Bein Sport 1 FHD
 http://95.170.215.101:80/hls/m3u8/Bein-S1-a58.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",beIN Sports 1
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",A SPOR HD
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",TRT Spor HD
@@ -277,8 +291,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Eurosport 1
 http://213.174.8.7:8000/play/15/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",U.S | NBA TV
-http://evatv.us:25461/live/120919-restream-05/120919-restream-05/29.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Boss Charm SPORT
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Super Sports 3 HD
@@ -383,38 +395,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 #EXTINF:-1 group-title="ReMy_SPORT",Al Kass Sports 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 group-title="ReMy_SPORT",AD Sports 1 HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1 group-title="ReMy_SPORT",AD Sports 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",AD Sport2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8%C3%82
-#EXTINF:-1 group-title="ReMy_SPORT",AD Sports 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",AD Sports 2 HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 group-title="ReMy_SPORT",Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Abu Dhabi Sports
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
-#EXTINF:-1 group-title="ReMy_SPORT",Abu Dhabi Sports
-https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?st=P9H1mUdptRfQ99toISpmTg&e=1495397980
-#EXTINF:-1 group-title="ReMy_SPORT",Abudhabi Sports 1
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
-#EXTINF:-1 group-title="ReMy_SPORT",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
-#EXTINF:-1 group-title="ReMy_SPORT",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 group-title="ReMy_SPORT",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1 group-title="ReMy_SPORT",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 #EXTINF:-1 group-title="ReMy_SPORT",Arhat Sport
 http://arhat.tv/public/360p/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Astrakhan.Ru Sport
@@ -431,6 +411,8 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
 #EXTINF:-1 group-title="ReMy_SPORT",Bahrain Sport 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
+#EXTINF:-1 group-title="ReMy_SPORT",beIN Sports 1
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Bein-Sport-HD1
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Bein-Sport-HD4
