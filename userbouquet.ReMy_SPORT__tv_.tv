@@ -3,6 +3,8 @@
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.101%3a80/hls/m3u8/Bein-S1-a58.m3u8:Bein Sport 1 FHD
 #DESCRIPTION Bein Sport 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//173.249.14.200%3a25461/restreamkooramax2020apk/43746348646628437463639/43:Bein Sport 2 SD
+#DESCRIPTION Bein Sport 2 SD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:Bein sport 1 HD
 #DESCRIPTION Bein sport 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportscore.biz/lba/123/g5/beinsport1tur.m3u8:Bein sport 1 HD
@@ -101,46 +103,6 @@
 #DESCRIPTION SPORT Plus HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/1737666294?ticket=694CD34E189F5D920E1CDC977C643D08728AEE03&profile=pass:Sport+
 #DESCRIPTION Sport+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/1:BEIN SPORTS 1 HD
-#DESCRIPTION BEIN SPORTS 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/2:BEIN SPORTS 2 HD
-#DESCRIPTION BEIN SPORTS 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/3:BEIN SPORTS 3 HD
-#DESCRIPTION BEIN SPORTS 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/4:BEIN SPORTS 4 HD
-#DESCRIPTION BEIN SPORTS 4 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/5:BEIN SPORTS 5 HD
-#DESCRIPTION BEIN SPORTS 5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/6:BEIN SPORTS 6 HD
-#DESCRIPTION BEIN SPORTS 6 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/7:BEIN SPORTS 7 HD
-#DESCRIPTION BEIN SPORTS 7 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/8:BEIN SPORTS 8 HD
-#DESCRIPTION BEIN SPORTS 8 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/9:BEIN SPORTS 9 HD
-#DESCRIPTION BEIN SPORTS 9 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/10:BEIN SPORTS 10 HD
-#DESCRIPTION BEIN SPORTS 10 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/11:BEIN SPORTS 11 HD
-#DESCRIPTION BEIN SPORTS 11 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/12:BEIN SPORTS 12 HD
-#DESCRIPTION BEIN SPORTS 12 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/13:BEIN SPORTS 13 HD
-#DESCRIPTION BEIN SPORTS 13 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/14:BEIN SPORTS 14 HD
-#DESCRIPTION BEIN SPORTS 14 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/15:BEIN SPORTS 15 HD
-#DESCRIPTION BEIN SPORTS 15 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/16:BEIN SPORTS 16 HD
-#DESCRIPTION BEIN SPORTS 16 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/a001:Football 1 HD
-#DESCRIPTION Football 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/a002:Football 2HD
-#DESCRIPTION Football 2HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/a003:Football 3 HD
-#DESCRIPTION Football 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a8000/play/a004:Match HD
-#DESCRIPTION Match HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g3/arenaserbia4.m3u8:ARENA SPORT 4
 #DESCRIPTION ARENA SPORT 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/ar5sport.m3u8:ARENA SPORT 5
@@ -169,6 +131,84 @@
 #DESCRIPTION sportklub3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g8/albaniasport3.m3u8:Supersport 3
 #DESCRIPTION Supersport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/930:●ZaNa-iptv|  Bein SD1
+#DESCRIPTION ●ZaNa-iptv|  Bein SD1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/931:●ZaNa-iptv| Bein Sport News
+#DESCRIPTION ●ZaNa-iptv| Bein Sport News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/932:●ZaNa-iptv| bein low-9
+#DESCRIPTION ●ZaNa-iptv| bein low-9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/933:●ZaNa-iptv| bein low-8
+#DESCRIPTION ●ZaNa-iptv| bein low-8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/934:●ZaNa-iptv| bein low-7
+#DESCRIPTION ●ZaNa-iptv| bein low-7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/935:●ZaNa-iptv| bein low-6
+#DESCRIPTION ●ZaNa-iptv| bein low-6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/936:●ZaNa-iptv| bein low-5
+#DESCRIPTION ●ZaNa-iptv| bein low-5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/937:●ZaNa-iptv| bein low-4
+#DESCRIPTION ●ZaNa-iptv| bein low-4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/938:●ZaNa-iptv| bein low-3
+#DESCRIPTION ●ZaNa-iptv| bein low-3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/939:●ZaNa-iptv| bein low-2
+#DESCRIPTION ●ZaNa-iptv| bein low-2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/940:●ZaNa-iptv| bein low-1
+#DESCRIPTION ●ZaNa-iptv| bein low-1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/941:●ZaNa-iptv|  Bein SD2
+#DESCRIPTION ●ZaNa-iptv|  Bein SD2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/942:●ZaNa-iptv|  Bein SD3
+#DESCRIPTION ●ZaNa-iptv|  Bein SD3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/943:●ZaNa-iptv|  Bein SD4
+#DESCRIPTION ●ZaNa-iptv|  Bein SD4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/944:●ZaNa-iptv|  BEIN SD5
+#DESCRIPTION ●ZaNa-iptv|  BEIN SD5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/945:●ZaNa-iptv|  BEIN SD6
+#DESCRIPTION ●ZaNa-iptv|  BEIN SD6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/946:●ZaNa-iptv|  Bein HD1
+#DESCRIPTION ●ZaNa-iptv|  Bein HD1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/947:●ZaNa-iptv|  Bein HD2
+#DESCRIPTION ●ZaNa-iptv|  Bein HD2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/948:●ZaNa-iptv|  Bein HD3
+#DESCRIPTION ●ZaNa-iptv|  Bein HD3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/949:●ZaNa-iptv|  Bein HD4
+#DESCRIPTION ●ZaNa-iptv|  Bein HD4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/950:●ZaNa-iptv|  BEIN HD5
+#DESCRIPTION ●ZaNa-iptv|  BEIN HD5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/951:●ZaNa-iptv|  BEIN HD6
+#DESCRIPTION ●ZaNa-iptv|  BEIN HD6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/975:●ZaNa-iptv| ad sport 1
+#DESCRIPTION ●ZaNa-iptv| ad sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/976:●ZaNa-iptv| ad sport 2
+#DESCRIPTION ●ZaNa-iptv| ad sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/998:●ZaNa-iptv| KSA Sport 1
+#DESCRIPTION ●ZaNa-iptv| KSA Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/999:●ZaNa-iptv| KSA Sport 2
+#DESCRIPTION ●ZaNa-iptv| KSA Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/1030:●ZaNa-iptv| arriyadiya
+#DESCRIPTION ●ZaNa-iptv| arriyadiya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/1062:●ZaNa-iptv| Alkass 1
+#DESCRIPTION ●ZaNa-iptv| Alkass 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/1063:●ZaNa-iptv| Alkass 2
+#DESCRIPTION ●ZaNa-iptv| Alkass 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/1064:●ZaNa-iptv| Alkass 3
+#DESCRIPTION ●ZaNa-iptv| Alkass 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/1065:●ZaNa-iptv| Alkass 4
+#DESCRIPTION ●ZaNa-iptv| Alkass 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/1072:●ZaNa-iptv| FR: RMC Sport 4
+#DESCRIPTION ●ZaNa-iptv| FR: RMC Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/1073:●ZaNa-iptv| FR: RMC Sport 3
+#DESCRIPTION ●ZaNa-iptv| FR: RMC Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/1074:●ZaNa-iptv| FR: RMC Sport 2
+#DESCRIPTION ●ZaNa-iptv| FR: RMC Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/1075:●ZaNa-iptv| FR: RMC Sport 1
+#DESCRIPTION ●ZaNa-iptv| FR: RMC Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/1099:●ZaNa-iptv| Canal Sport
+#DESCRIPTION ●ZaNa-iptv| Canal Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/1100:●ZaNa-iptv| Bein FR1
+#DESCRIPTION ●ZaNa-iptv| Bein FR1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/1101:●ZaNa-iptv| Bein FR 3
+#DESCRIPTION ●ZaNa-iptv| Bein FR 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/1102:●ZaNa-iptv| Bein FR 2
+#DESCRIPTION ●ZaNa-iptv| Bein FR 2
 #SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.SPORT.1/playlist.m3u8:1 AD SPORTS
