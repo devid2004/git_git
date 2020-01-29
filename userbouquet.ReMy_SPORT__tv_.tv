@@ -3,8 +3,6 @@
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.101%3a80/hls/m3u8/Bein-S1-a58.m3u8:Bein Sport 1 FHD
 #DESCRIPTION Bein Sport 1 FHD
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/930#User-Agent=www.yacineapp.tv:Bein Sport 1 SD#User-Agent=Linux-Android 5.0.1
-#DESCRIPTION Bein Sport 1 SD#User-Agent=Linux-Android 5.0.1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:Bein sport 1 HD
 #DESCRIPTION Bein sport 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportscore.biz/lba/123/g5/beinsport1tur.m3u8:Bein sport 1 HD
@@ -81,26 +79,6 @@
 #DESCRIPTION |TR| BEINSPORT 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourceturkiapro2/8684782188/1456:|TR| BEINSPORT 4
 #DESCRIPTION |TR| BEINSPORT 4
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/940#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-1
-#DESCRIPTION ●ZaNa-iptv| bein low-1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/939#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-2
-#DESCRIPTION ●ZaNa-iptv| bein low-2
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/938#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-3
-#DESCRIPTION ●ZaNa-iptv| bein low-3
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/937#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-4
-#DESCRIPTION ●ZaNa-iptv| bein low-4
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/936#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-5
-#DESCRIPTION ●ZaNa-iptv| bein low-5
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/935#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-6
-#DESCRIPTION ●ZaNa-iptv| bein low-6
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/934#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-7
-#DESCRIPTION ●ZaNa-iptv| bein low-7
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/933#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-8
-#DESCRIPTION ●ZaNa-iptv| bein low-8
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/932#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-9
-#DESCRIPTION ●ZaNa-iptv| bein low-9
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/931#User-Agent=www.yacineapp.tv:●ZaNa-iptv| Bein Sport News
-#DESCRIPTION ●ZaNa-iptv| Bein Sport News
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/930#User-Agent=www.yacineapp.tv:●ZaNa-iptv|  Bein SD1
 #DESCRIPTION ●ZaNa-iptv|  Bein SD1
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/941#User-Agent=www.yacineapp.tv:●ZaNa-iptv|  Bein SD2
@@ -125,6 +103,26 @@
 #DESCRIPTION ●ZaNa-iptv|  BEIN HD5
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/951#User-Agent=www.yacineapp.tv:●ZaNa-iptv|  BEIN HD6
 #DESCRIPTION ●ZaNa-iptv|  BEIN HD6
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/940#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-1
+#DESCRIPTION ●ZaNa-iptv| bein low-1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/939#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-2
+#DESCRIPTION ●ZaNa-iptv| bein low-2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/938#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-3
+#DESCRIPTION ●ZaNa-iptv| bein low-3
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/937#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-4
+#DESCRIPTION ●ZaNa-iptv| bein low-4
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/936#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-5
+#DESCRIPTION ●ZaNa-iptv| bein low-5
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/935#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-6
+#DESCRIPTION ●ZaNa-iptv| bein low-6
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/934#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-7
+#DESCRIPTION ●ZaNa-iptv| bein low-7
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/933#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-8
+#DESCRIPTION ●ZaNa-iptv| bein low-8
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/932#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-9
+#DESCRIPTION ●ZaNa-iptv| bein low-9
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/931#User-Agent=www.yacineapp.tv:●ZaNa-iptv| Bein Sport News
+#DESCRIPTION ●ZaNa-iptv| Bein Sport News
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/952#User-Agent=www.yacineapp.tv:●ZaNa-iptv| Boomerang kids
 #DESCRIPTION ●ZaNa-iptv| Boomerang kids
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/953#User-Agent=www.yacineapp.tv:●ZaNa-iptv| Cinemachi kids
