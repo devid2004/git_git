@@ -61,8 +61,6 @@
 #DESCRIPTION ALBUK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albmusic.dyndns.tv%3a1935/albuk/albmus.stream/playlist.m3u8:ALB MUSIC HD
 #DESCRIPTION ALB MUSIC HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/1367843658?ticket=7E4564F897AFC6FC23C8C6BA286CA9D50B074513&profile=pass:Balkanika
-#DESCRIPTION Balkanika
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boktv.interworks.in%3a1935/live/boktv/playlist.m3u8:BOK TV
 #DESCRIPTION BOK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
@@ -317,12 +315,6 @@
 #DESCRIPTION OPOJA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8:PBN Music
 #DESCRIPTION PBN Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/179733707?ticket=20C05FDF390EBBBA6DC926E8798FAE14AAFD0431&profile=pass:Planeta HD
-#DESCRIPTION Planeta HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/206608511?ticket=82CC280D94C895C9238EE351070D77DB3AE132F2&profile=pass:Planeta TV
-#DESCRIPTION Planeta TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.150.27.125%3a9981/stream/channelid/96840001?ticket=5CD0C867E28F2B6735CA9C8FE76ADFA26065D4FC&profile=pass:Planeta FOLK
-#DESCRIPTION Planeta FOLK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream85.polskieradio.pl/sat/streamb.stream/playlist.m3u8:Polskie Radio 24 WEB
 #DESCRIPTION Polskie Radio 24 WEB
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.56.17.92%3a1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8:PortalFoxMix Tv
