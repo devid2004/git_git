@@ -1,6 +1,18 @@
 #NAME == ★★ReMy | FILM | DIZI ★★ ==
-#SERVICE 1:64:91:0:0:0:0:0:0:0::::::___MOVIES_CHANNELS____::::
+#SERVICE 1:64:93:0:0:0:0:0:0:0::::::___MOVIES_CHANNELS____::::
 #DESCRIPTION ::::___MOVIES_CHANNELS____::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str17.vidoza.net/x4lfz6b6ibz7vjumxcxf2ckn5g43katezz6b5mw3vkusehzt5m53pbnmz44q/v.mp4:Rise of Empires: Ottoman BL 1
+#DESCRIPTION Rise of Empires: Ottoman BL 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str19.vidoza.net/x4lf42j6ibz7vjumxcxf2uaw4i4azzcxrxo5lmarfjemx2tzojwtnaw6jcqa/v.mp4:Rise of Empires: Ottoman BL 2
+#DESCRIPTION Rise of Empires: Ottoman BL 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str19.vidoza.net/x4lfs2b6ibz7vjumxcxf2xyrv57kjzyd6vvoqpor4ucdpyyge26l54hwazba/v.mp4:Rise of Empires: Ottoman BL 3
+#DESCRIPTION Rise of Empires: Ottoman BL 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str19.vidoza.net/x4lfiez6ibz7vjumxcxf2vcr5ho37sqvqrrlnpaxyi77nnd36zfgc4m5nrsq/v.mp4:Rise of Empires: Ottoman BL 4
+#DESCRIPTION Rise of Empires: Ottoman BL 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str16.vidoza.net/x4lfzsz6ibz7vjumxcxf2vcr6zzevbd5stspk2nhbp3hlhjuoqjto5x6trpa/v.mp4:Rise of Empires: Ottoman BL 5
+#DESCRIPTION Rise of Empires: Ottoman BL 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str21.vidoza.net/x4lflvz6ibz7vjumxcxf2s2r6qub7xpdj5frzgxuroy53pmcrxrou56vgl2a/v.mp4:Rise of Empires: Ottoman BL 6
+#DESCRIPTION Rise of Empires: Ottoman BL 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.goodgame.ru%3a8080/hls/172148.m3u8:KVN HD
 #DESCRIPTION KVN HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//my.teleelevidenie.com/play/hls-custom-c375-t139dbcc487e70a08dd261de5fd6a7c0e43af9ab67933bd9100ed35e6ddc42e74.m3u8:FOX HD
@@ -149,7 +161,7 @@
 #DESCRIPTION Zee Bioskop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.7/PLTV/88888888/224/3221226542/index.m3u8:ZEE World
 #DESCRIPTION ZEE World
-#SERVICE 1:64:92:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
+#SERVICE 1:64:94:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_MOVIES________:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv28.filmmodu.xyz/tt5941692/720p.tr.m3u8:Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
 #DESCRIPTION Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
@@ -237,7 +249,7 @@
 #DESCRIPTION Wake.Up.2019.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/What.Death.Leaves.Behind.2018.mkv:What.Death.Leaves.Behind.2018.mkv
 #DESCRIPTION What.Death.Leaves.Behind.2018.mkv
-#SERVICE 1:64:93:0:0:0:0:0:0:0::::::___MIX_(2019)MOVIES____::::
+#SERVICE 1:64:95:0:0:0:0:0:0:0::::::___MIX_(2019)MOVIES____::::
 #DESCRIPTION ::::___MIX_(2019)MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Abominable(2019)
 #DESCRIPTION Abominable(2019)
@@ -257,7 +269,7 @@
 #DESCRIPTION The Nutcracker and the four realms(2018)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gdrivecdn.us/drive/index.php?id=7ShwPFRIovlOpJ6HiWoztAM8ZKv4/dd1M4W9WvlGsMFis0BlYqbl8idIKeUe/C4ZKGP/YH0LObsYIhP2ASuIE/gh5MoiJMeSnl9lw82UqLq2rlZl60FTtDXNANVveypGE=&ref=&res=720:Triple Threat(2019)
 #DESCRIPTION Triple Threat(2019)
-#SERVICE 1:64:94:0:0:0:0:0:0:0::::::___NEWTUBE_PS_MOVIES____::::
+#SERVICE 1:64:96:0:0:0:0:0:0:0::::::___NEWTUBE_PS_MOVIES____::::
 #DESCRIPTION ::::___NEWTUBE_PS_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Ayla.The.Daughter.of.War.2017.mp4:Ayla: The Daughter of War (2017)
 #DESCRIPTION Ayla: The Daughter of War (2017)
@@ -2211,7 +2223,7 @@
 #DESCRIPTION Zero Tolerance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newtube.ps/components/com_contushdvideoshare/videos/1651807038.mp4:Zodiac
 #DESCRIPTION Zodiac
-#SERVICE 1:64:95:0:0:0:0:0:0:0::::::___NEWTUBE_PS_SERIES____::::
+#SERVICE 1:64:97:0:0:0:0:0:0:0::::::___NEWTUBE_PS_SERIES____::::
 #DESCRIPTION ::::___NEWTUBE_PS_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/series/Turkey/other.se/jsoor/CESURVEGUZELEP12.mp4:Cesur Ve Güzel S01 E12
 #DESCRIPTION Cesur Ve Güzel S01 E12
@@ -6985,7 +6997,7 @@
 #DESCRIPTION Titans S02 E06
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Series/en/Titans.2018/S02/Titans.2018.S02E07.mp4:Titans S02 E07
 #DESCRIPTION Titans S02 E07
-#SERVICE 1:64:96:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_MOVIES____::::
+#SERVICE 1:64:98:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_MOVIES____::::
 #DESCRIPTION ::::___DEADLYBLOGGER_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/dal1.mp4:101 DALMATIONS
 #DESCRIPTION 101 DALMATIONS
@@ -7671,7 +7683,7 @@
 #DESCRIPTION XMEN ORIGIN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/yournext.mp4:YOU'RE NEXT
 #DESCRIPTION YOU'RE NEXT
-#SERVICE 1:64:97:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_SERIES____::::
+#SERVICE 1:64:99:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_SERIES____::::
 #DESCRIPTION ::::___DEADLYBLOGGER_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e1.mp4:Game of Thrones Season 1 Episode 1
 #DESCRIPTION Game of Thrones Season 1 Episode 1
@@ -7883,7 +7895,7 @@
 #DESCRIPTION Scandal Season 3 Episode 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e11.mp4:Scandal Season 3 Episode 11
 #DESCRIPTION Scandal Season 3 Episode 11
-#SERVICE 1:64:98:0:0:0:0:0:0:0::::::____ReMy_filmovi_MOVIES____::::
+#SERVICE 1:64:9A:0:0:0:0:0:0:0::::::____ReMy_filmovi_MOVIES____::::
 #DESCRIPTION ::::____ReMy_filmovi_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1124.mkv:007-Spectre
 #DESCRIPTION 007-Spectre
@@ -9315,7 +9327,7 @@
 #DESCRIPTION Zoolander 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/zootopia.avi:Zootopia
 #DESCRIPTION Zootopia
-#SERVICE 1:64:99:0:0:0:0:0:0:0::::::____ReMy_filmovi_SERIES____::::
+#SERVICE 1:64:9B:0:0:0:0:0:0:0::::::____ReMy_filmovi_SERIES____::::
 #DESCRIPTION ::::____ReMy_filmovi_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh110.mp4:Konak kod Hilmije S01E10
 #DESCRIPTION Konak kod Hilmije S01E10
@@ -9721,7 +9733,7 @@
 #DESCRIPTION Lud Zbunjen Normalan S01E39
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/517.mkv:Lud Zbunjen Normalan S01E40
 #DESCRIPTION Lud Zbunjen Normalan S01E40
-#SERVICE 1:64:9A:0:0:0:0:0:0:0:::::::::::________NETFLIX_SERIES________:::::::::
+#SERVICE 1:64:9C:0:0:0:0:0:0:0:::::::::::________NETFLIX_SERIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_SERIES________:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E01.mkv:3% 1X01
 #DESCRIPTION 3% 1X01
@@ -18153,7 +18165,7 @@
 #DESCRIPTION Z Nation S05 E12
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/Z.Nation/S05/S05E13.mp4:Z Nation S05 E13
 #DESCRIPTION Z Nation S05 E13
-#SERVICE 1:64:9B:0:0:0:0:0:0:0::::::____ReMy_VODALL_MOVIES____::::
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::::::____ReMy_VODALL_MOVIES____::::
 #DESCRIPTION ::::____ReMy_VODALL_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/281.avi:007 spectre 2015
 #DESCRIPTION 007 spectre 2015
@@ -19023,7 +19035,7 @@
 #DESCRIPTION zoolander 2 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/403.avi:zulu 2013
 #DESCRIPTION zulu 2013
-#SERVICE 1:64:9C:0:0:0:0:0:0:0::::::__SERIES_VODALL_151.80.100.155__::::
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::::::__SERIES_VODALL_151.80.100.155__::::
 #DESCRIPTION ::::__SERIES_VODALL_151.80.100.155__::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/983.avi:vikings S04E20 FINAL
 #DESCRIPTION vikings S04E20 FINAL
