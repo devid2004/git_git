@@ -3,6 +3,56 @@
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/730f1a14-69b0-4d50-917c-79fb2dfb5f0d:Eurosport 2
+#DESCRIPTION Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/45669757-1080-4a76-991f-8ff162016650:Fox Sport 1
+#DESCRIPTION Fox Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/08d641fd-9e78-4fe6-997c-ddda05c79cf3:BT Sport 1
+#DESCRIPTION BT Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/0848c4af-d7ce-4852-89ee-6df24bc8e854:BT Sport 2
+#DESCRIPTION BT Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/a25920e1-bef0-4c7e-9453-f71153627e3d:Sky Sports 1
+#DESCRIPTION Sky Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/5e3a6fb8-3081-47d8-954f-2e44f50d0050:Sky Sports 2
+#DESCRIPTION Sky Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/42b43a68-65b5-4962-a2d5-604ed46577a3:Sky Sports 3
+#DESCRIPTION Sky Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/861d2f25-2415-4773-8e0b-f12470ed9f7c:Sky Sports 4
+#DESCRIPTION Sky Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/1a137044-5cd8-4a61-8c19-5d30d73e3723:Sky Sports 5
+#DESCRIPTION Sky Sports 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/97a1a6ba-397a-4fb8-8394-2db9f9d29426:Sky Sports Action
+#DESCRIPTION Sky Sports Action
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysportsaction.m3u8:Sky Sports Action
+#DESCRIPTION Sky Sports Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysportsarena.m3u8:Sky Sports Arena
+#DESCRIPTION Sky Sports Arena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/6065474b-5f4e-4e08-83ca-11999a600376:Tivibu Spor 1 Turkey
+#DESCRIPTION Tivibu Spor 1 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/66090a29-b4f5-4330-b407-f37c3f524cd9:Tivibu Spor 2 Turkey
+#DESCRIPTION Tivibu Spor 2 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/ea48d4aa-a4e4-49fb-b043-441fc9435ece:Tivibu Spor 3 Turkey
+#DESCRIPTION Tivibu Spor 3 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/0e55c217-c2c1-4ba5-bb8c-3559872ad981:Tivibu Spor 1 Turkey
+#DESCRIPTION Tivibu Spor 1 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/52158415-7918-4839-976f-ef457ef1ed0b:Tivibu Spor 2 Turkey
+#DESCRIPTION Tivibu Spor 2 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/c61f2aad-67a0-4cf9-925c-bb6ce9945eda:Tivibu Spor 3 Turkey
+#DESCRIPTION Tivibu Spor 3 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/8cc6de55-77c1-405d-9ada-2a5bca9e2c54:Bein Sports 1 HD Arabic
+#DESCRIPTION Bein Sports 1 HD Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/eede08c6-e374-4529-bff5-7bd56e276aa4:Bein Sports 2 HD Arabic
+#DESCRIPTION Bein Sports 2 HD Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/532f9999-02b9-429e-87e1-ba4b607e7d3a:Bein Sports 3 HD Arabic
+#DESCRIPTION Bein Sports 3 HD Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/8867c249-2703-4977-8095-c6798d79091f:Bein Series 1 HD
+#DESCRIPTION Bein Series 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/2095b128-eb68-4b2e-89b0-e5b60798a3ed:Bein Movies 2 HD
+#DESCRIPTION Bein Movies 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/3048c77a-6ec7-4cc1-b0a4-e0e939363e7c:Bein Movies 3 HD
+#DESCRIPTION Bein Movies 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/87a63ed5-e032-48a0-9de3-53379c04df83:Bein Movies 4 HD
+#DESCRIPTION Bein Movies 4 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-atn6-frc/_nc_cat-111/v/rcYE_I8ra-p4vTeqjHVDi/live-dash/dash-abr-ibr-audio/538928693668594_0.mpd?_nc_rl=AfD3rw0eaS4Bb0gH&lvp=1&oh=4dcedeefb42c309e71ead27c35428dac&oe=5E362D8A&_nc_nc=1x:BEIN SPORT 1 RETROBET
 #DESCRIPTION BEIN SPORT 1 RETROBET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-frc3-prn/_nc_cat-100/v/rD1wJpgzb99U4E-CxQQLl/live-dash/dash-abr-ibr-audio/538929000335230_0.mpd?_nc_rl=AfAkX6Il0NkaxoSN&lvp=1&oh=e22e0aff61961b400f2faee790759e2a&oe=5E362F4B&_nc_nc=1x:BEINSPORT 2 RETROBET
@@ -15,8 +65,6 @@
 #DESCRIPTION BEIN SPORT 5 RETROBET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-atn2-prn/_nc_cat-103/v/r9PL4m0DTNx98yY129a0R/live-dash/dash-abr-ibr-audio/538937640334366_0.mpd?_nc_rl=AfBl6tcWOmqbWaHC&lvp=1&oh=52ad8b21fafbb48a11e1cb3c95122ab3&oe=5E3615FD&_nc_nc=1x:BEIN SPORT 6 RETROBET
 #DESCRIPTION BEIN SPORT 6 RETROBET
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_fhd.m3u8:Bein Sports 1 Turkey 1080p FHD
-#DESCRIPTION Bein Sports 1 Turkey 1080p FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_si.m3u8:Bein Sports 1 Turkey HD
 #DESCRIPTION Bein Sports 1 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_yedek_tr_si.m3u8:Bein Sports 1 Turkey HD (2)
@@ -37,6 +85,70 @@
 #DESCRIPTION beIN Sports 3 Turkey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports4_tr_ns.m3u8:beIN Sports 4 Turkey
 #DESCRIPTION beIN Sports 4 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_fhd.m3u8:Bein Sports 1 Turkey 1080p FHD
+#DESCRIPTION Bein Sports 1 Turkey 1080p FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports3_tr_ns.m3u8:Bein Sports 3 Turkey HD (2)
+#DESCRIPTION Bein Sports 3 Turkey HD (2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports4_tr_si.m3u8:Bein Sports 4 Turkey HD
+#DESCRIPTION Bein Sports 4 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports4_tr_ns.m3u8:Bein Sports 4 Turkey HD (2)
+#DESCRIPTION Bein Sports 4 Turkey HD (2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor1_tr_si.m3u8:Tivibu Spor 1 Turkey HD
+#DESCRIPTION Tivibu Spor 1 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor2_tr_si.m3u8:Tivibu Spor 2 Turkey HD
+#DESCRIPTION Tivibu Spor 2 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor3_tr_si.m3u8:Tivibu Spor 3 Turkey HD
+#DESCRIPTION Tivibu Spor 3 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/ssport_tr_si.m3u8:S Sport Turkey HD
+#DESCRIPTION S Sport Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/ssport_tr_ns.m3u8:S Sport Turkey HD (2)
+#DESCRIPTION S Sport Turkey HD (2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/smartspor_tr_ns.m3u8:Smart Sport Turkey HD
+#DESCRIPTION Smart Sport Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/9c07a8fa-336e-46b3-9f45-93d6741756fa:ONLINE MAC STREAM
+#DESCRIPTION ONLINE MAC STREAM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/ecba294a-dde1-49d2-8d5b-4f34f46db89a:ONLINE MAC STREAM 2
+#DESCRIPTION ONLINE MAC STREAM 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/8eb85148-f330-4edf-a39e-06382d4171a9:ONLINE MAC STREAM 3
+#DESCRIPTION ONLINE MAC STREAM 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/db1f83e6-23a9-4e37-9721-f2eccf3ac696:ONLINE MAC STREAM 4
+#DESCRIPTION ONLINE MAC STREAM 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/a297ac85-4b67-43d5-aae3-7a818c8c3d0f:ONLINE MAC STREAM 5
+#DESCRIPTION ONLINE MAC STREAM 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/8ac453f3-cbc4-4f89-8e3b-3e740821d71b:ONLINE MAC STREAM 6
+#DESCRIPTION ONLINE MAC STREAM 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/dc7326eb-dd8b-4217-b77e-64a5d134fe39:ONLINE MAC STREAM 7
+#DESCRIPTION ONLINE MAC STREAM 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/fd859d50-f85c-4e37-8abe-22e3889f3a3f:ONLINE MAC STREAM 8
+#DESCRIPTION ONLINE MAC STREAM 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/225e41e5-27aa-41fa-9ff6-69dff2e38b65:ONLINE MAC STREAM 9
+#DESCRIPTION ONLINE MAC STREAM 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/7c0df965-86ba-4bab-89a9-74ce64f4d6b1:ONLINE MAC STREAM 10
+#DESCRIPTION ONLINE MAC STREAM 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/f8665bd4-709a-4f48-b863-b5263d21eff8:ONLINE MAC STREAM 11
+#DESCRIPTION ONLINE MAC STREAM 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/904c8710-09b8-4f34-8d6f-c5eac5937ae0:Avangard - Admiral
+#DESCRIPTION Avangard - Admiral
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/9d147ce8-7a97-429e-961e-6f40fea1fb43:MKS Banimex Będzin - Skra Bełchatów
+#DESCRIPTION MKS Banimex Będzin - Skra Bełchatów
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/fd04fd04-f264-45f7-af07-9eed630f28ff:Kanti Schaffhausen (Bayanlar) - Volley
+#DESCRIPTION Kanti Schaffhausen (Bayanlar) - Volley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/bc7b5457-2333-45ed-9cc5-378a5f832bee:Middelfart - Vestsjaelland
+#DESCRIPTION Middelfart - Vestsjaelland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/1ca69b85-b585-415e-bbca-618d712abdd6:Arseniy Vlasov - Mikhail Suba
+#DESCRIPTION Arseniy Vlasov - Mikhail Suba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/20ce6ff8-0de6-45e7-956c-1fb497a96f4f:Perfumerias Avenida Salamanca (Bayanlar)
+#DESCRIPTION Perfumerias Avenida Salamanca (Bayanlar)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/2391bc11-fe72-4682-8abd-af4da5d3605c:Red Star - Fireball
+#DESCRIPTION Red Star - Fireball
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/d566a08d-d938-4347-9017-fc46f1de05c1:Campus Promete Logroño (Bayanlar) - Uni Girona (B
+#DESCRIPTION Campus Promete Logroño (Bayanlar) - Uni Girona (B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/6eabef93-628a-4d86-b02e-3f733f87b23f:Araski (Bayanlar) - CB Porta XI (Bayanlar)
+#DESCRIPTION Araski (Bayanlar) - CB Porta XI (Bayanlar)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/630c638a-b0b6-46fa-8c05-e518a1628f0d:SPO Rouen Basket - SLUC Nancy Basket
+#DESCRIPTION SPO Rouen Basket - SLUC Nancy Basket
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/e2b04ba0-10c7-424e-b10e-17337f0981a4:AZ (Amateur) Women - Feyenoord (Amateur)
+#DESCRIPTION AZ (Amateur) Women - Feyenoord (Amateur)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/ntvspor.ts:NTV SPOR 1HD
 #DESCRIPTION NTV SPOR 1HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/hls/ntvspor/playlist.m3u8:NTV SPOR MAC OZETLERI
@@ -905,5 +1017,3 @@
 #DESCRIPTION Türkmen Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8:World Of Free Sports Tv
 #DESCRIPTION World Of Free Sports Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_fhd.m3u8:beinsports1_tr_fhd
-#DESCRIPTION beinsports1_tr_fhd
