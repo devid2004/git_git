@@ -1,18 +1,6 @@
 #NAME == ★★ReMy | FILM | DIZI ★★ ==
 #SERVICE 1:64:93:0:0:0:0:0:0:0::::::___MOVIES_CHANNELS____::::
 #DESCRIPTION ::::___MOVIES_CHANNELS____::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str17.vidoza.net/x4lfz6b6ibz7vjumxcxf2ckn5g43katezz6b5mw3vkusehzt5m53pbnmz44q/v.mp4:Rise of Empires: Ottoman BL 1
-#DESCRIPTION Rise of Empires: Ottoman BL 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str19.vidoza.net/x4lf42j6ibz7vjumxcxf2uaw4i4azzcxrxo5lmarfjemx2tzojwtnaw6jcqa/v.mp4:Rise of Empires: Ottoman BL 2
-#DESCRIPTION Rise of Empires: Ottoman BL 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str19.vidoza.net/x4lfs2b6ibz7vjumxcxf2xyrv57kjzyd6vvoqpor4ucdpyyge26l54hwazba/v.mp4:Rise of Empires: Ottoman BL 3
-#DESCRIPTION Rise of Empires: Ottoman BL 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str19.vidoza.net/x4lfiez6ibz7vjumxcxf2vcr5ho37sqvqrrlnpaxyi77nnd36zfgc4m5nrsq/v.mp4:Rise of Empires: Ottoman BL 4
-#DESCRIPTION Rise of Empires: Ottoman BL 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str16.vidoza.net/x4lfzsz6ibz7vjumxcxf2vcr6zzevbd5stspk2nhbp3hlhjuoqjto5x6trpa/v.mp4:Rise of Empires: Ottoman BL 5
-#DESCRIPTION Rise of Empires: Ottoman BL 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str21.vidoza.net/x4lflvz6ibz7vjumxcxf2s2r6qub7xpdj5frzgxuroy53pmcrxrou56vgl2a/v.mp4:Rise of Empires: Ottoman BL 6
-#DESCRIPTION Rise of Empires: Ottoman BL 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.goodgame.ru%3a8080/hls/172148.m3u8:KVN HD
 #DESCRIPTION KVN HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//my.teleelevidenie.com/play/hls-custom-c375-t139dbcc487e70a08dd261de5fd6a7c0e43af9ab67933bd9100ed35e6ddc42e74.m3u8:FOX HD
@@ -2225,6 +2213,18 @@
 #DESCRIPTION Zodiac
 #SERVICE 1:64:97:0:0:0:0:0:0:0::::::___NEWTUBE_PS_SERIES____::::
 #DESCRIPTION ::::___NEWTUBE_PS_SERIES____::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str17.vidoza.net/x4lfz6b6ibz7vjumxcxf2ckn5g43katezz6b5mw3vkusehzt5m53pbnmz44q/v.mp4:Rise of Empires: Ottoman BL 1
+#DESCRIPTION Rise of Empires: Ottoman BL 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str19.vidoza.net/x4lf42j6ibz7vjumxcxf2uaw4i4azzcxrxo5lmarfjemx2tzojwtnaw6jcqa/v.mp4:Rise of Empires: Ottoman BL 2
+#DESCRIPTION Rise of Empires: Ottoman BL 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str19.vidoza.net/x4lfs2b6ibz7vjumxcxf2xyrv57kjzyd6vvoqpor4ucdpyyge26l54hwazba/v.mp4:Rise of Empires: Ottoman BL 3
+#DESCRIPTION Rise of Empires: Ottoman BL 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str19.vidoza.net/x4lfiez6ibz7vjumxcxf2vcr5ho37sqvqrrlnpaxyi77nnd36zfgc4m5nrsq/v.mp4:Rise of Empires: Ottoman BL 4
+#DESCRIPTION Rise of Empires: Ottoman BL 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str16.vidoza.net/x4lfzsz6ibz7vjumxcxf2vcr6zzevbd5stspk2nhbp3hlhjuoqjto5x6trpa/v.mp4:Rise of Empires: Ottoman BL 5
+#DESCRIPTION Rise of Empires: Ottoman BL 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//str21.vidoza.net/x4lflvz6ibz7vjumxcxf2s2r6qub7xpdj5frzgxuroy53pmcrxrou56vgl2a/v.mp4:Rise of Empires: Ottoman BL 6
+#DESCRIPTION Rise of Empires: Ottoman BL 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/series/Turkey/other.se/jsoor/CESURVEGUZELEP12.mp4:Cesur Ve Güzel S01 E12
 #DESCRIPTION Cesur Ve Güzel S01 E12
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/wadi10/wadi-10-1-2.mp4:Kurtlar Vadisi S10 E01
