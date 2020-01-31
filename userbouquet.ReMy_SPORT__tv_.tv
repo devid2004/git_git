@@ -1,6 +1,42 @@
 #NAME == ★★ReMy | SPORT★★ ==
 #SERVICE 1:64:8F:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
+#SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
+#DESCRIPTION ==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-atn6-frc/_nc_cat-111/v/rcYE_I8ra-p4vTeqjHVDi/live-dash/dash-abr-ibr-audio/538928693668594_0.mpd?_nc_rl=AfD3rw0eaS4Bb0gH&lvp=1&oh=4dcedeefb42c309e71ead27c35428dac&oe=5E362D8A&_nc_nc=1x:BEIN SPORT 1 RETROBET
+#DESCRIPTION BEIN SPORT 1 RETROBET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-frc3-prn/_nc_cat-100/v/rD1wJpgzb99U4E-CxQQLl/live-dash/dash-abr-ibr-audio/538929000335230_0.mpd?_nc_rl=AfAkX6Il0NkaxoSN&lvp=1&oh=e22e0aff61961b400f2faee790759e2a&oe=5E362F4B&_nc_nc=1x:BEINSPORT 2 RETROBET
+#DESCRIPTION BEINSPORT 2 RETROBET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-frc3-vll/_nc_cat-105/v/rZekRjBcZKv4u_Pnmjq4t/live-dash/dash-abr-ibr-audio/538932153668248_0.mpd?_nc_rl=AfCVgXeXUPxnQwZm&lvp=1&oh=03d4225f7aaa815240f7d4605f72d76f&oe=5E375729&_nc_nc=1x:BEIN SPORT 3 RETROBET
+#DESCRIPTION BEIN SPORT 3 RETROBET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-cln2-lla/_nc_cat-101/v/rgUm15SLQqJGjrHScX_0n/live-dash/dash-abr-ibr-audio/538932673668196_0.mpd?_nc_rl=AfAmitNN2gdTeCBm&lvp=1&oh=05d042776e4067d5a13da83e81f8b64c&oe=5E366AF8&_nc_nc=1x:BEIN SPORT 4 RETROBET
+#DESCRIPTION BEIN SPORT 4 RETROBET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-prn1-vll/_nc_cat-102/v/rzjxjTDeUq-mK2xoAtfTO/live-dash/dash-abr-ibr-audio/538937503667713_0.mpd?_nc_rl=AfBUnHzxV_KEfZ3P&lvp=1&oh=9dd0c1f79d3e1bba0d4f8a9744c89da8&oe=5E373C7A&_nc_nc=1x:BEIN SPORT 5 RETROBET
+#DESCRIPTION BEIN SPORT 5 RETROBET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-atn2-prn/_nc_cat-103/v/r9PL4m0DTNx98yY129a0R/live-dash/dash-abr-ibr-audio/538937640334366_0.mpd?_nc_rl=AfBl6tcWOmqbWaHC&lvp=1&oh=52ad8b21fafbb48a11e1cb3c95122ab3&oe=5E3615FD&_nc_nc=1x:BEIN SPORT 6 RETROBET
+#DESCRIPTION BEIN SPORT 6 RETROBET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_fhd.m3u8:Bein Sports 1 Turkey 1080p FHD
+#DESCRIPTION Bein Sports 1 Turkey 1080p FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_si.m3u8:Bein Sports 1 Turkey HD
+#DESCRIPTION Bein Sports 1 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_yedek_tr_si.m3u8:Bein Sports 1 Turkey HD (2)
+#DESCRIPTION Bein Sports 1 Turkey HD (2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_ns.m3u8:Bein Sports 1 Turkey HD (3)
+#DESCRIPTION Bein Sports 1 Turkey HD (3)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports2_tr_si.m3u8:Bein Sports 2 Turkey HD
+#DESCRIPTION Bein Sports 2 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports2_tr_ns.m3u8:Bein Sports 2 Turkey HD (2)
+#DESCRIPTION Bein Sports 2 Turkey HD (2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports3_tr_si.m3u8:Bein Sports 3 Turkey HD
+#DESCRIPTION Bein Sports 3 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports1_tr_fhd.m3u8:beIN Sports 1 Turkey
+#DESCRIPTION beIN Sports 1 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports2_tr_ns.m3u8:beIN Sports 2 Turkey
+#DESCRIPTION beIN Sports 2 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports3_tr_ns.m3u8:beIN Sports 3 Turkey
+#DESCRIPTION beIN Sports 3 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports4_tr_ns.m3u8:beIN Sports 4 Turkey
+#DESCRIPTION beIN Sports 4 Turkey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/ntvspor.ts:NTV SPOR 1HD
 #DESCRIPTION NTV SPOR 1HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/hls/ntvspor/playlist.m3u8:NTV SPOR MAC OZETLERI
@@ -123,8 +159,8 @@
 #DESCRIPTION Super Sports 6 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/189r:EXTREAM SPORTS TV
 #DESCRIPTION EXTREAM SPORTS TV
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/769#User-Agent=www.yacineapp.tv:●ZaNa-iptv| Bein Sport News
-#DESCRIPTION ●ZaNa-iptv| Bein Sport News
+#SERVICE 1:64:91:0:0:0:0:0:0:0::==== ★★ReMy | ZaNa-IPTV_APPLE_TV★★ ====
+#DESCRIPTION ==== ★★ReMy | ZaNa-IPTV_APPLE_TV★★ ====
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/768#User-Agent=www.yacineapp.tv:●ZaNa-iptv|  Bein SD1
 #DESCRIPTION ●ZaNa-iptv|  Bein SD1
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/779#User-Agent=www.yacineapp.tv:●ZaNa-iptv|  Bein SD2
@@ -167,6 +203,8 @@
 #DESCRIPTION ●ZaNa-iptv| bein low-8
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/770#User-Agent=www.yacineapp.tv:●ZaNa-iptv| bein low-9
 #DESCRIPTION ●ZaNa-iptv| bein low-9
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/769#User-Agent=www.yacineapp.tv:●ZaNa-iptv| Bein Sport News
+#DESCRIPTION ●ZaNa-iptv| Bein Sport News
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/790#User-Agent=www.yacineapp.tv:●ZaNa-iptv| Boomerang kids
 #DESCRIPTION ●ZaNa-iptv| Boomerang kids
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/791#User-Agent=www.yacineapp.tv:●ZaNa-iptv| Cinemachi kids
@@ -471,14 +509,6 @@
 #DESCRIPTION ●ZaNa-iptv| Bein FR 2
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//iptvhit.live/AzZ/FREE/IPTV/941#User-Agent=www.yacineapp.tv:●ZaNa-iptv| ANIMAUX HD
 #DESCRIPTION ●ZaNa-iptv| ANIMAUX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports1_tr_fhd.m3u8:beIN Sports 1 Turkey
-#DESCRIPTION beIN Sports 1 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports2_tr_ns.m3u8:beIN Sports 2 Turkey
-#DESCRIPTION beIN Sports 2 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports3_tr_ns.m3u8:beIN Sports 3 Turkey
-#DESCRIPTION beIN Sports 3 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports4_tr_ns.m3u8:beIN Sports 4 Turkey
-#DESCRIPTION beIN Sports 4 Turkey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8:Arena Sports 1
 #DESCRIPTION Arena Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8:Arena Sports 5
@@ -645,51 +675,7 @@
 #DESCRIPTION Now Sports Prime
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//origin.canaismax.com/mylive/combatehd/video.m3u8:Combate
 #DESCRIPTION Combate
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourceturkiapro2/8684782188/1341:|TR| SMART SPOR
-#DESCRIPTION |TR| SMART SPOR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourceturkiapro2/8684782188/1460:|TR| S SPORT HD
-#DESCRIPTION |TR| S SPORT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourceturkiapro2/8684782188/1459:|TR| BEINSPORT 1
-#DESCRIPTION |TR| BEINSPORT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourceturkiapro2/8684782188/1458:|TR| BEINSPORT 2
-#DESCRIPTION |TR| BEINSPORT 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourceturkiapro2/8684782188/1457:|TR| BEINSPORT 3
-#DESCRIPTION |TR| BEINSPORT 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv6.premium-stv.com%3a25461/sourceturkiapro2/8684782188/1456:|TR| BEINSPORT 4
-#DESCRIPTION |TR| BEINSPORT 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:Bein sport 1 HD
-#DESCRIPTION Bein sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportscore.biz/lba/123/g5/beinsport1tur.m3u8:Bein sport 1 HD
-#DESCRIPTION Bein sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g3/arenaserbia4.m3u8:ARENA SPORT 4
-#DESCRIPTION ARENA SPORT 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/ar5sport.m3u8:ARENA SPORT 5
-#DESCRIPTION ARENA SPORT 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/btse.m3u8:bt sport ESPN
-#DESCRIPTION bt sport ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g2/btuk1.m3u8:bt sport 1
-#DESCRIPTION bt sport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g3/ukbt2sport.m3u8:bt sport 2
-#DESCRIPTION bt sport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g7/digisport2ro.m3u8:Digi Sport 2
-#DESCRIPTION Digi Sport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g1/rodigi4.m3u8:DigiSport 4HD
-#DESCRIPTION DigiSport 4HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g6/ukrfoot1.m3u8:Footboll 1 ukrain
-#DESCRIPTION Footboll 1 ukrain
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g1/sport2port.m3u8:SPORT TV _2
-#DESCRIPTION SPORT TV _2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g2/pt3sport.m3u8:Sport Tv 3
-#DESCRIPTION Sport Tv 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g8/ptsport5.m3u8:SPORT TV _5
-#DESCRIPTION SPORT TV _5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/sportklub1rs.m3u8:sportklub1
-#DESCRIPTION sportklub1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g8/rs3sk.m3u8:sportklub3
-#DESCRIPTION sportklub3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g8/albaniasport3.m3u8:Supersport 3
-#DESCRIPTION Supersport 3
-#SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
+#SERVICE 1:64:92:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.SPORT.1/playlist.m3u8:1 AD SPORTS
 #DESCRIPTION 1 AD SPORTS
@@ -919,3 +905,5 @@
 #DESCRIPTION Türkmen Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8:World Of Free Sports Tv
 #DESCRIPTION World Of Free Sports Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_fhd.m3u8:beinsports1_tr_fhd
+#DESCRIPTION beinsports1_tr_fhd
