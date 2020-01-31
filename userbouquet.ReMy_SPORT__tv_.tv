@@ -99,20 +99,6 @@
 #DESCRIPTION Bein Movies 3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinmovies4.m3u8:Bein Movies 4 HD
 #DESCRIPTION Bein Movies 4 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-atn6-frc/_nc_cat-111/v/rcYE_I8ra-p4vTeqjHVDi/live-dash/dash-abr-ibr-audio/538928693668594_0.mpd?_nc_rl=AfD3rw0eaS4Bb0gH&lvp=1&oh=4dcedeefb42c309e71ead27c35428dac&oe=5E362D8A&_nc_nc=1x:BEIN SPORT 1 RETROBET
-#DESCRIPTION BEIN SPORT 1 RETROBET
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-frc3-prn/_nc_cat-100/v/rD1wJpgzb99U4E-CxQQLl/live-dash/dash-abr-ibr-audio/538929000335230_0.mpd?_nc_rl=AfAkX6Il0NkaxoSN&lvp=1&oh=e22e0aff61961b400f2faee790759e2a&oe=5E362F4B&_nc_nc=1x:BEINSPORT 2 RETROBET
-#DESCRIPTION BEINSPORT 2 RETROBET
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-frc3-vll/_nc_cat-105/v/rZekRjBcZKv4u_Pnmjq4t/live-dash/dash-abr-ibr-audio/538932153668248_0.mpd?_nc_rl=AfCVgXeXUPxnQwZm&lvp=1&oh=03d4225f7aaa815240f7d4605f72d76f&oe=5E375729&_nc_nc=1x:BEIN SPORT 3 RETROBET
-#DESCRIPTION BEIN SPORT 3 RETROBET
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-cln2-lla/_nc_cat-101/v/rgUm15SLQqJGjrHScX_0n/live-dash/dash-abr-ibr-audio/538932673668196_0.mpd?_nc_rl=AfAmitNN2gdTeCBm&lvp=1&oh=05d042776e4067d5a13da83e81f8b64c&oe=5E366AF8&_nc_nc=1x:BEIN SPORT 4 RETROBET
-#DESCRIPTION BEIN SPORT 4 RETROBET
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-prn1-vll/_nc_cat-102/v/rzjxjTDeUq-mK2xoAtfTO/live-dash/dash-abr-ibr-audio/538937503667713_0.mpd?_nc_rl=AfBUnHzxV_KEfZ3P&lvp=1&oh=9dd0c1f79d3e1bba0d4f8a9744c89da8&oe=5E373C7A&_nc_nc=1x:BEIN SPORT 5 RETROBET
-#DESCRIPTION BEIN SPORT 5 RETROBET
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.xx.fbcdn.net/hvideo-atn2-prn/_nc_cat-103/v/r9PL4m0DTNx98yY129a0R/live-dash/dash-abr-ibr-audio/538937640334366_0.mpd?_nc_rl=AfBl6tcWOmqbWaHC&lvp=1&oh=52ad8b21fafbb48a11e1cb3c95122ab3&oe=5E3615FD&_nc_nc=1x:BEIN SPORT 6 RETROBET
-#DESCRIPTION BEIN SPORT 6 RETROBET
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.183.42.50/hls-live/xmlive/_definst_/3021406/3021406.m3u8?whence=1001:SPO Rouen Basket - SLUC Nancy Basket
-#DESCRIPTION SPO Rouen Basket - SLUC Nancy Basket
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/ntvspor.ts:NTV SPOR 1HD
 #DESCRIPTION NTV SPOR 1HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8005/hls/ntvspor/playlist.m3u8:NTV SPOR MAC OZETLERI
