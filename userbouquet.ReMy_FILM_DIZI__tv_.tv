@@ -3,6 +3,10 @@
 #DESCRIPTION ::::___MOVIES_CHANNELS____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.goodgame.ru%3a8080/hls/172148.m3u8:KVN HD
 #DESCRIPTION KVN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//my.teleelevidenie.com/play/hls-custom-c375-t139dbcc487e70a08dd261de5fd6a7c0e43af9ab67933bd9100ed35e6ddc42e74.m3u8:FOX HD
+#DESCRIPTION FOX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//my.teleelevidenie.com/play/hls-custom-c406-t139dbcc487e70a08dd261de5fd6a7c0e43af9ab67933bd9100ed35e6ddc42e74.m3u8:Comedy Central HD
+#DESCRIPTION Comedy Central HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true:Black Cinema
 #DESCRIPTION Black Cinema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8:Celestial Movies
