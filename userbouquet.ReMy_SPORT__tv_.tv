@@ -81,12 +81,16 @@
 #DESCRIPTION S Sport Turkey HD (2)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/smartspor_tr_ns.m3u8:Smart Sport Turkey HD
 #DESCRIPTION Smart Sport Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/8cc6de55-77c1-405d-9ada-2a5bca9e2c54:Bein Sports 1 HD Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_ar.m3u8:Bein Sports 1 HD Arabic
 #DESCRIPTION Bein Sports 1 HD Arabic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/eede08c6-e374-4529-bff5-7bd56e276aa4:Bein Sports 2 HD Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports2_ar.m3u8:Bein Sports 2 HD Arabic
 #DESCRIPTION Bein Sports 2 HD Arabic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/532f9999-02b9-429e-87e1-ba4b607e7d3a:Bein Sports 3 HD Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports3_ar.m3u8:Bein Sports 3 HD Arabic
 #DESCRIPTION Bein Sports 3 HD Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports4_ar.m3u8:Bein Sports 4 HD Arabic
+#DESCRIPTION Bein Sports 4 HD Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports5_ar.m3u8:Bein Sports 5 HD Arabic
+#DESCRIPTION Bein Sports 5 HD Arabic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinseries1.m3u8:Bein Series 1 HD
 #DESCRIPTION Bein Series 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinmovies2.m3u8:Bein Movies 2 HD
