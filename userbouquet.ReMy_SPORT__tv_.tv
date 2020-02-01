@@ -55,10 +55,6 @@
 #DESCRIPTION Bein Sports 1 Turkey HD (2)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/aa9665e8-4eb5-407d-8ae4-adc303cef99a:Bein Sports 1 Turkey HD (3)
 #DESCRIPTION Bein Sports 1 Turkey HD (3)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/84668100-629d-497f-a27e-a3f9cf8beb93:Bein Sport 1 Turkey
-#DESCRIPTION Bein Sport 1 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/719163e6-f1d6-493a-abe0-b75a7bf0120e:Bein Sport 1 Turkey
-#DESCRIPTION Bein Sport 1 Turkey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports1_tr_fhd.m3u8:beIN Sports 1 Turkey
 #DESCRIPTION beIN Sports 1 Turkey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports2_tr_si.m3u8:Bein Sports 2 Turkey HD
@@ -105,15 +101,7 @@
 #DESCRIPTION S Sport Turkey HD (2)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/smartspor_tr_ns.m3u8:Smart Sport Turkey HD
 #DESCRIPTION Smart Sport Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.189.63.194/hls-live/xmlive/_definst_/3022403/3022403.m3u8?refId=1:Townsville Fire (Women) - Bendigo Spirit (Women)
-#DESCRIPTION Townsville Fire (Women) - Bendigo Spirit (Women)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.183.42.50/hls-live/xmlive/_definst_/3022625/3022625.m3u8?whence=1001:Rusya (Amatörler) Bayanlar - Fransa (Amatörler)
-#DESCRIPTION Rusya (Amatörler) Bayanlar - Fransa (Amatörler)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.183.42.50/hls-live/xmlive/_definst_/3022665/3022665.m3u8?whence=1001:ISPE - Chin United
-#DESCRIPTION ISPE - Chin United
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.189.63.194/hls-live/xmlive/_definst_/3022653/3022653.m3u8?whence=1001:Ayeyawady United F.C. - Shan United
-#DESCRIPTION Ayeyawady United F.C. - Shan United
-#SERVICE 1:64:91:0:0:0:0:0:0:0:::::_my TV+ APP_:::
+#SERVICE 1:64:91:0:0:0:0:0:0:0::%3a%3a%3a_my TV+ APP_%3a%3a%3a
 #DESCRIPTION :::_my TV+ APP_:::
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:my TV+ APP GUIDE
 #DESCRIPTION my TV+ APP GUIDE
@@ -281,7 +269,7 @@
 #DESCRIPTION 2 AD SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
-#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
+#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100%25 Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alkasmsl4.akamaized.net/hls/live/2003123/alkassone1/master570.m3u8:Al Kass One
 #DESCRIPTION Al Kass One
