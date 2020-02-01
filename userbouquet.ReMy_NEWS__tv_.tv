@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | NEWS★★ ==
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1579298706&st=OYDJwo58YPCIODOOaoVa5Q&tv=1&ce=1:Bloomberght HD
 #DESCRIPTION Bloomberght HD
@@ -37,6 +37,18 @@
 #DESCRIPTION Istweb TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv/dp//istanbul2:Istanbul 2
 #DESCRIPTION Istanbul 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8:SNews Australia
+#DESCRIPTION SNews Australia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8:SNews Australia
+#DESCRIPTION SNews Australia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002733/austchannel-business/master1280x720.m3u8:Australia Channel Business
+#DESCRIPTION Australia Channel Business
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002733/austchannel-business/master.m3u8:Australia Channel Business
+#DESCRIPTION Australia Channel Business
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8:Fox Sports News
+#DESCRIPTION Fox Sports News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8:Fox Sports News
+#DESCRIPTION Fox Sports News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8:Al Jazeera HD
 #DESCRIPTION Al Jazeera HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s23/index.m3u8:Al Jazeera English
@@ -55,6 +67,10 @@
 #DESCRIPTION ASTRO AWANI ENDONESIA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8:Euronews
 #DESCRIPTION Euronews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8:France 24
+#DESCRIPTION France 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8:DW (Deutsche Welle)
+#DESCRIPTION DW (Deutsche Welle)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8:Sky News
 #DESCRIPTION Sky News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8:Sky News
@@ -203,8 +219,16 @@
 #DESCRIPTION RT UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-uk.secure.footprint.net/1106.m3u8?streamType=live:RT UK
 #DESCRIPTION RT UK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8:RTE News Now
-#DESCRIPTION RTE News Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8:RTE News
+#DESCRIPTION RTE News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news.m3u8:RTE News
+#DESCRIPTION RTE News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000.m3u8:rte
+#DESCRIPTION rte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-480p.m3u8:TV Gazeta
+#DESCRIPTION TV Gazeta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-240p.m3u8:TV Gazeta
+#DESCRIPTION TV Gazeta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.32.68.167/s/live/2/86.169.51.136/1/0.m3u8:Russia 1
 #DESCRIPTION Russia 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3ar24.smil/playlist.m3u8:Russia 24

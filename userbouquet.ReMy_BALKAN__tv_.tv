@@ -1,10 +1,70 @@
 #NAME == ★★ReMy | BALKAN★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a004/index.m3u8:Super ROCK HD
-#DESCRIPTION Super ROCK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a001/index.m3u8:Super Tv
-#DESCRIPTION Super Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a002/index.m3u8:Super Tv HD
-#DESCRIPTION Super Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/4fundance/mpegts:4fun dance
+#DESCRIPTION 4fun dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/4fungoldhits/mpegts:4Fun Gold Hits
+#DESCRIPTION 4Fun Gold Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/4funtv/mpegts:4funtv
+#DESCRIPTION 4funtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/axnwhite/mpegts:axn white
+#DESCRIPTION axn white
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/axnblack/mpegts:axn black
+#DESCRIPTION axn black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/cbsreality/mpegts:CBS Reality HD
+#DESCRIPTION CBS Reality HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/davincilearning/mpegts:Da Vinci
+#DESCRIPTION Da Vinci
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/discoveryhistoria/mpegts:BBC FIRST HD
+#DESCRIPTION BBC FIRST HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/disneyjunior/mpegts:Disney Junior
+#DESCRIPTION Disney Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/disneyxd/mpegts:disney xd
+#DESCRIPTION disney xd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/eskatv/mpegts:eska tv
+#DESCRIPTION eska tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/filmboxarthouse/mpegts:filmbox arthouse
+#DESCRIPTION filmbox arthouse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/filmboxaction/mpegts:FilmBox Action
+#DESCRIPTION FilmBox Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/filmboxfamily/mpegts:FilmBox Family
+#DESCRIPTION FilmBox Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/mezzo/mpegts:MEZZO
+#DESCRIPTION MEZZO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/mtvrocks/mpegts:MTV Rocks
+#DESCRIPTION MTV Rocks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/nickelodeon/mpegts:Nickelodeon
+#DESCRIPTION Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/polsatromans/mpegts:polsat romans
+#DESCRIPTION polsat romans
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/powertv/mpegts:POWER TV
+#DESCRIPTION POWER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/starstv/mpegts:starstv
+#DESCRIPTION starstv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/stopklatkatv/mpegts:Stopklatka
+#DESCRIPTION Stopklatka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/tele5/mpegts:tele5
+#DESCRIPTION tele5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/tvp3/mpegts:TVP 3
+#DESCRIPTION TVP 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/tvpabc/mpegts:TVP ABC
+#DESCRIPTION TVP ABC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/tvphistoria/mpegts:TVP Historia
+#DESCRIPTION TVP Historia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/tvprozrywka/mpegts:TVP Rozrywka
+#DESCRIPTION TVP Rozrywka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/tvpkultura/mpegts:TVP Kultura
+#DESCRIPTION TVP Kultura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/tvpseriale/mpegts:TVP SERIALE
+#DESCRIPTION TVP SERIALE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/vh1/mpegts:VH1
+#DESCRIPTION VH1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/vod205/mpegts:VOD 205
+#DESCRIPTION VOD 205
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/vod207/mpegts:VOD 207
+#DESCRIPTION VOD 207
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/vod206/mpegts:VOD 206
+#DESCRIPTION VOD 206
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.211.254.11%3a44477/vod208/mpegts:VOD 208
+#DESCRIPTION VOD 208
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.adunity.com/b1/b1.m3u8:B1
@@ -211,6 +271,12 @@
 #DESCRIPTION Slavonska TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s62/index.m3u8:spike tv
 #DESCRIPTION spike tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a004/index.m3u8:Super ROCK HD
+#DESCRIPTION Super ROCK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a001/index.m3u8:Super Tv
+#DESCRIPTION Super Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a002/index.m3u8:Super Tv HD
+#DESCRIPTION Super Tv HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webmobile.xdev.ro%3a81/tv16/playlist.m3u8:Tele M
 #DESCRIPTION Tele M
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345:TRAVEL HD

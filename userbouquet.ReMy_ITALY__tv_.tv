@@ -39,6 +39,16 @@
 #DESCRIPTION RCG 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvseculo21-lh.akamaihd.net%3a80/i/tvseculo_1@16110/index_1200_av-p.m3u8:Rede Seculo 21
 #DESCRIPTION Rede Seculo 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8:RTE News
+#DESCRIPTION RTE News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news.m3u8:RTE News
+#DESCRIPTION RTE News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000.m3u8:rte
+#DESCRIPTION rte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-480p.m3u8:TV Gazeta
+#DESCRIPTION TV Gazeta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-240p.m3u8:TV Gazeta
+#DESCRIPTION TV Gazeta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8:Retro Music TV
 #DESCRIPTION Retro Music TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8:RTL 102.5 TV (IT)

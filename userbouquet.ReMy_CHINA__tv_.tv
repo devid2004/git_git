@@ -1,8 +1,14 @@
 #NAME == ★★ReMy | CHINA★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//27.254.130.64/live01/ch6.m3u8?p=m3u8:5HD THAI
+#DESCRIPTION 5HD THAI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.126.83.51/qwr9ew/s/s33/index.m3u8:Celestial Movies
 #DESCRIPTION Celestial Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8:Celestial Movies
 #DESCRIPTION Celestial Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8:CNN ENDONESIA
+#DESCRIPTION CNN ENDONESIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.235.41%3a16924:Golf network
+#DESCRIPTION Golf network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8:K+
 #DESCRIPTION K+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/qwr9ew/s/s42/01.m3u8?fluxustv.m3u8:K DRAMA
@@ -13,16 +19,16 @@
 #DESCRIPTION K plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8:Kix
 #DESCRIPTION Kix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//27.254.130.64/live01/ch6.m3u8?p=m3u8:5HD THAI
-#DESCRIPTION 5HD THAI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8:CNN ENDONESIA
-#DESCRIPTION CNN ENDONESIA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8:KIX
 #DESCRIPTION KIX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8:Miao Mi TV
-#DESCRIPTION Miao Mi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil%3amcothd1080p.smil/chunklist_w833558461_b3000000.m3u8:MCOT HD 30
 #DESCRIPTION MCOT HD 30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8:Miao Mi TV
+#DESCRIPTION Miao Mi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mastvnet.com/MSTV/playlist.m3u8:MSTV
+#DESCRIPTION MSTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.182.100.184/live/pptvthai/index.m3u8:Pptv 36 (th)
+#DESCRIPTION Pptv 36 (th)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtm2mobile.secureswiftcontent.com/Origin01/ngrp%3aRTM1/chunklist_b3696000.m3u8:TV2 HD
 #DESCRIPTION TV2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8:TvN
@@ -43,8 +49,6 @@
 #DESCRIPTION CCTV-3 Variety Shows
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.150%3a18890/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=1106497909461056460&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhSaNRr4LzI3YsXQPQcGzS6VSIZXSs858JtCAdvl/g/2u5lawXOBSX/qESSB5FmTXS:CCTV-4 international
 #DESCRIPTION CCTV-4 international
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//192.154.103.74%3a8080/ZZ_cctv4/ZZ_cctv4.m3u8:CCTV-4
-#DESCRIPTION CCTV-4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.146%3a18890/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&contentid=1000000001000004794&livemode=1&stbid=005203ff000360100001001a34c0cd33&usertoken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004794&owchid=ystenlive&owsid=1106497909461092492&authinfo=yolxjswzzffv3fvb8mhhuelkgjklbu5h0jb3qahfse7aoraovdzdwbfnj0sxjearfiatofcd93c7ach3puyar1v+ioi39cfseenlxp5u9ufadu6bcdl7v7ctgkugzw1d:CCTV-5 Sports
 #DESCRIPTION CCTV-5 Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.152%3a18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt+Mdt2ZAOlknlq9lyy/QZJVqiFUxfle:CCTV-5+physical education
@@ -63,8 +67,6 @@
 #DESCRIPTION CCTV-11 operas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.153%3a18890/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=5325631075193490169&owchid=ystenlive&owsid=1106497909461165978&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7Q36zc4fu7NwQ/n1v2mTHqagOL8gLhzmY66HLCxgy24bGH5Xn1D6yEQdwViWmtBz15WRKuKxWsf0XH20JE0dby:CCTV-12 Society and Law
 #DESCRIPTION CCTV-12 Society and Law
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//192.154.103.74%3a8080/ZZ_cctv13/ZZ_cctv13.m3u8:CCTV-13
-#DESCRIPTION CCTV-13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.147%3a18890/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=8203666801302077036&owchid=ystenlive&owsid=1106497909461179285&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5OdsPl7aB2c/h9IG5fEu5Y1yWuhr6PsL8ovQK5JmdmvjbSpXjguwCa8emDxg5lQPKN6B6go0yKDtys3NmnOM6U:CCTV-14 children
 #DESCRIPTION CCTV-14 children
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.158%3a18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7/617UUdZqFKeX8uE3lV+UYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy:CCTV-15 Music
@@ -79,10 +81,6 @@
 #DESCRIPTION Cable NEWS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.150%3a18890/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000018937&owchid=ystenlive&owsid=1106497909461333042&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUG5grAC0rFEDUfNPlNhZzLoghzkGon0cjoqXWi7+GPbWnsToB9Z5BcGamUzvzuTi:Chongqing Satellite TV HD
 #DESCRIPTION Chongqing Satellite TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//192.154.103.74%3a8080/ZZ_dongfangweishi/ZZ_dongfangweishi.m3u8:dongfangweishi
-#DESCRIPTION dongfangweishi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//192.154.103.74%3a8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8:Dongsen News
-#DESCRIPTION Dongsen News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.154%3a18890/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000009263&owchid=ystenlive&owsid=1106497909461310172&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhM1XYZKCRYYY/f447+zETLijqfFgMTSA9x9T2lf3pyhagZIF/dE1lc49i65lODYA/:Fujian Southeast TV
 #DESCRIPTION Fujian Southeast TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.158%3a18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze/WmzecpyT4Tmxoc1paT1vcrQhVS:Gansu Satellite TV
@@ -105,8 +103,6 @@
 #DESCRIPTION Hunan Satellite TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.138%3a18890/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000014080&owchid=ystenlive&owsid=1106497909461412819&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhN3VZo/q60rUnbic/Tx5hxEUA/CrpP4GEvV3vfXDDDKv4OC8OhxCTOd9DFYTiOuf7:Inner Mongolia Satellite TV
 #DESCRIPTION Inner Mongolia Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//192.154.103.74%3a8080/ZZ_jiangsuweishi/ZZ_jiangsuweishi.m3u8:Jiangsu Satellite TV
-#DESCRIPTION Jiangsu Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.157%3a18890/000000001000/1000000001000004684/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004684&owchid=ystenlive&owsid=1106497909461243101&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR80rubnSCCYHmxBfxTMKdNm+h+Ln+BGibQYrxMgSwIzfH44Sn0OHT9L7pQFHxSW/J:Jiangsu Satellite TV HD
 #DESCRIPTION Jiangsu Satellite TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.158%3a18890/000000001000/1000000001000013731/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000013731&owchid=ystenlive&owsid=1106497909461316198&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRQxb4dqC07SZV+YcygMME6A9OMzcDPgMD6e//Hx5xyjuJRcCBeGZaKds6mdw4roN8:Jiangxi Satellite TV
@@ -117,8 +113,6 @@
 #DESCRIPTION Liaoning Satellite TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.143%3a18890/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000030202&owchid=ystenlive&owsid=1106497909461236159&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR5IXgk+6a+Y1Viivj30IkCl065X8GSWgqnbGOJH69GYNl9jXWqt3b3Vkm63dGSY+5:Oriental TV HD
 #DESCRIPTION Oriental TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//192.154.103.74%3a8080/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8:Phoenix Information
-#DESCRIPTION Phoenix Information
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.147%3a18890/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000013359&owchid=ystenlive&owsid=1106497909461374163&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhJ4u8mZ9HohO4vJAcHWQKsu0WB2heV8z3+nCiQyrISnc/LQjwPdTUSlBahL+KNKpM:Qinghai Satellite TV
 #DESCRIPTION Qinghai Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.139%3a18890/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000007495&owchid=ystenlive&owsid=1106497909461393057&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhC1U23M2CL94H7Jl9UsXCcDV0kHzvpufT/4+goUc31ou2LTka7qAY0hPTMutW5mQ+:Shaanxi Satellite TV
@@ -581,7 +575,7 @@
 #DESCRIPTION Zhejiang Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8:Zhejiang Satellite TV
 #DESCRIPTION Zhejiang Satellite TV
-#SERVICE 1:64:A1:0:0:0:0:0:0:0:::::::::::::::::::::::::_Qing Yu Nianquan_:::::::::
+#SERVICE 1:64:A4:0:0:0:0:0:0:0:::::::::::::::::::::::::_Qing Yu Nianquan_:::::::::
 #DESCRIPTION :::::::::::::::::::::::_Qing Yu Nianquan_:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191126/eebb68accf60bff8adffe64c7ac68219/1574769804/index.m3u8:Episode 1
 #DESCRIPTION Episode 1
