@@ -101,7 +101,7 @@
 #DESCRIPTION S Sport Turkey HD (2)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/smartspor_tr_ns.m3u8:Smart Sport Turkey HD
 #DESCRIPTION Smart Sport Turkey HD
-#SERVICE 1:64:91:0:0:0:0:0:0:0::%3a%3a%3a_my TV+ APP_%3a%3a%3a
+#SERVICE 1:64:91:0:0:0:0:0:0:0:::::_my TV+ APP_:::
 #DESCRIPTION :::_my TV+ APP_:::
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:my TV+ APP GUIDE
 #DESCRIPTION my TV+ APP GUIDE
@@ -269,7 +269,7 @@
 #DESCRIPTION 2 AD SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
-#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100%25 Automoto (BG)
+#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alkasmsl4.akamaized.net/hls/live/2003123/alkassone1/master570.m3u8:Al Kass One
 #DESCRIPTION Al Kass One
