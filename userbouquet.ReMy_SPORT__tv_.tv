@@ -49,52 +49,36 @@
 #DESCRIPTION Sky Sports Arena
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_fhd.m3u8:Bein Sports 1 Turkey 1080p FHD
 #DESCRIPTION Bein Sports 1 Turkey 1080p FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_si.m3u8:Bein Sports 1 Turkey HD
-#DESCRIPTION Bein Sports 1 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.67.220.30%3a80/hls/101.m3u8:Bein Sports 1 Turkey HD (2)
-#DESCRIPTION Bein Sports 1 Turkey HD (2)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/aa9665e8-4eb5-407d-8ae4-adc303cef99a:Bein Sports 1 Turkey HD (3)
-#DESCRIPTION Bein Sports 1 Turkey HD (3)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports1_tr_fhd.m3u8:beIN Sports 1 Turkey
 #DESCRIPTION beIN Sports 1 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_si.m3u8:Bein Sports 1 Turkey HD
+#DESCRIPTION Bein Sports 1 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/aa9665e8-4eb5-407d-8ae4-adc303cef99a:Bein Sports 1 Turkey HD
+#DESCRIPTION Bein Sports 1 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports2_tr_si.m3u8:Bein Sports 2 Turkey HD
 #DESCRIPTION Bein Sports 2 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports2_tr_ns.m3u8:Bein Sports 2 Turkey HD (2)
-#DESCRIPTION Bein Sports 2 Turkey HD (2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports2_tr_ns.m3u8:Bein Sports 2 Turkey HD
+#DESCRIPTION Bein Sports 2 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports2_tr_ns.m3u8:beIN Sports 2 Turkey
 #DESCRIPTION beIN Sports 2 Turkey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports3_tr_si.m3u8:Bein Sports 3 Turkey HD
 #DESCRIPTION Bein Sports 3 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports3_tr_ns.m3u8:beIN Sports 3 Turkey
 #DESCRIPTION beIN Sports 3 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports3_tr_ns.m3u8:Bein Sports 3 Turkey HD (2)
-#DESCRIPTION Bein Sports 3 Turkey HD (2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports3_tr_ns.m3u8:Bein Sports 3 Turkey HD
+#DESCRIPTION Bein Sports 3 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports4_tr_ns.m3u8:beIN Sports 4 Turkey
 #DESCRIPTION beIN Sports 4 Turkey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports4_tr_si.m3u8:Bein Sports 4 Turkey HD
 #DESCRIPTION Bein Sports 4 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports4_tr_ns.m3u8:Bein Sports 4 Turkey HD (2)
-#DESCRIPTION Bein Sports 4 Turkey HD (2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports4_tr_ns.m3u8:Bein Sports 4 Turkey HD
+#DESCRIPTION Bein Sports 4 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor1_tr.m3u8:Tivibu Spor 1 Turkey HD
 #DESCRIPTION Tivibu Spor 1 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor2_tr.m3u8:Tivibu Spor 2 Turkey HD
 #DESCRIPTION Tivibu Spor 2 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor3_tr.m3u8:Tivibu Spor 3 Turkey HD
 #DESCRIPTION Tivibu Spor 3 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/35cbcf64-e2b6-4ac2-9b46-1236dec9e98f:Tivibu Spor 1 Turkey
-#DESCRIPTION Tivibu Spor 1 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/6065474b-5f4e-4e08-83ca-11999a600376:Tivibu Spor 1 Turkey
-#DESCRIPTION Tivibu Spor 1 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/66090a29-b4f5-4330-b407-f37c3f524cd9:Tivibu Spor 2 Turkey
-#DESCRIPTION Tivibu Spor 2 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/ea48d4aa-a4e4-49fb-b043-441fc9435ece:Tivibu Spor 3 Turkey
-#DESCRIPTION Tivibu Spor 3 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/0e55c217-c2c1-4ba5-bb8c-3559872ad981:Tivibu Spor 1 Turkey
-#DESCRIPTION Tivibu Spor 1 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/52158415-7918-4839-976f-ef457ef1ed0b:Tivibu Spor 2 Turkey
-#DESCRIPTION Tivibu Spor 2 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http.cstream9.com/c61f2aad-67a0-4cf9-925c-bb6ce9945eda:Tivibu Spor 3 Turkey
-#DESCRIPTION Tivibu Spor 3 Turkey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/ssport_tr_si.m3u8:S Sport Turkey HD
 #DESCRIPTION S Sport Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/ssport_tr_ns.m3u8:S Sport Turkey HD (2)
@@ -477,6 +461,8 @@
 #DESCRIPTION Setanta Sports 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s82/index.m3u8:SETANTA SPORTS 2 SD
 #DESCRIPTION SETANTA SPORTS 2 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8:Sharjah Sport
+#DESCRIPTION Sharjah Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8:Sharjah Sport
 #DESCRIPTION Sharjah Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8:Sharjah Sports
@@ -493,6 +479,8 @@
 #DESCRIPTION Stadium Sports Usa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv3.streampulse.eu%3a1935/tilesport/movie1/playlist.m3u8:TILESPORT GREECE
 #DESCRIPTION TILESPORT GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.67.220.30%3a80/hls/101.m3u8:TUDN
+#DESCRIPTION TUDN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004.m3u8:Turkman Sport
 #DESCRIPTION Turkman Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004_400/index.m3u8:Türkmen Sport

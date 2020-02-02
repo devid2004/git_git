@@ -37,10 +37,12 @@
 #DESCRIPTION Istweb TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv/dp//istanbul2:Istanbul 2
 #DESCRIPTION Istanbul 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8:SNews Australia
-#DESCRIPTION SNews Australia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8:SNews Australia
-#DESCRIPTION SNews Australia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/live/TV00000000000000000034@HHZT:Reuters
+#DESCRIPTION Reuters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8:Sky News Australia
+#DESCRIPTION Sky News Australia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8:Sky News Australia
+#DESCRIPTION Sky News Australia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002733/austchannel-business/master1280x720.m3u8:Australia Channel Business
 #DESCRIPTION Australia Channel Business
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002733/austchannel-business/master.m3u8:Australia Channel Business
@@ -53,8 +55,14 @@
 #DESCRIPTION Al Jazeera HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s23/index.m3u8:Al Jazeera English
 #DESCRIPTION Al Jazeera English
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alaraby.cdn.octivid.com/alaraby/smil%3aalaraby.stream.smil/playlist.m3u8:Al Arabia
-#DESCRIPTION Al Arabia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8:Al Jazeera
+#DESCRIPTION Al Jazeera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alaraby.cdn.octivid.com/alaraby/smil%3aalaraby.stream.smil/playlist.m3u8:Al Araby
+#DESCRIPTION Al Araby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alaraby.cdn.octivid.com/alaraby/smil%3aalaraby.stream.smil/chunklist_b2500000.m3u8:Al Araby
+#DESCRIPTION Al Araby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8:Al Arabiya
+#DESCRIPTION Al Arabiya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s69/index.m3u8:Al Jazeera Arabia
 #DESCRIPTION Al Jazeera Arabia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/alhiwar_live/smil%3aalhiwar.smil/playlist.m3u8:Al-Hiwar
@@ -105,8 +113,8 @@
 #DESCRIPTION +24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8:24h Catalunya
 #DESCRIPTION 24h Catalunya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8:Action News Jax (WJAX-TV)
-#DESCRIPTION Action News Jax (WJAX-TV)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//player-api.new.livestream.com/accounts/12643960/events/3893868/live.m3u8:Arizona`s Family
+#DESCRIPTION Arizona`s Family
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8:Boston 25 News (WFXT)
 #DESCRIPTION Boston 25 News (WFXT)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8:CBC News
@@ -123,10 +131,10 @@
 #DESCRIPTION CBN NEWS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_900_av-b.m3u8:CBN NEWS
 #DESCRIPTION CBN NEWS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8:CBS 47 Action News Jax
+#DESCRIPTION CBS 47 Action News Jax
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.cbsnews.com/common/video/dai_prod.m3u8:CBS News
 #DESCRIPTION CBS News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8:CBS NEWS
-#DESCRIPTION CBS NEWS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT:CBS News Boston
 #DESCRIPTION CBS News Boston
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT:CBS News Los Angeles
@@ -141,6 +149,8 @@
 #DESCRIPTION CNBC TV18
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3sjmtxha86r3t.cloudfront.net/nbc/smil%3acnbc.smil/master.m3u8:CNBC
 #DESCRIPTION CNBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.151%3a18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8/Kxpb7Wa3xqB26AcGEvjhx3JJlw6:CCTV-1 integrated HD
+#DESCRIPTION CCTV-1 integrated HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cclive.aniu.tv/live/anzb.m3u8:CCLIVE Aniu TV
 #DESCRIPTION CCLIVE Aniu TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cgtn.com/500/prog_index.m3u8:CGTN
@@ -157,8 +167,6 @@
 #DESCRIPTION CPAC English
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8:CPAC Francais
 #DESCRIPTION CPAC Francais
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8:Canal9 Canada
-#DESCRIPTION Canal9 Canada
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8?sd=10&rebase=on:DW
 #DESCRIPTION DW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8:DW
@@ -181,8 +189,6 @@
 #DESCRIPTION KIRIM 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8:KIRO 7 News (KIRO-TV)
 #DESCRIPTION KIRO 7 News (KIRO-TV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//player-api.new.livestream.com/accounts/12643960/events/3893868/live.m3u8:KTVK
-#DESCRIPTION KTVK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8:Law And Crime Network
 #DESCRIPTION Law And Crime Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8:Mordovia 24
@@ -193,24 +199,20 @@
 #DESCRIPTION NBC 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8:NBC 11 News (Bay Area)
 #DESCRIPTION NBC 11 News (Bay Area)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8:NEWSMAX TV
+#DESCRIPTION NEWSMAX TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8:Newsmax TV HD
 #DESCRIPTION Newsmax TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8:NEWS CENTER 7 OHIO
 #DESCRIPTION NEWS CENTER 7 OHIO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News UK
 #DESCRIPTION 92 News UK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8:NHK World
-#DESCRIPTION NHK World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8:Orient News
-#DESCRIPTION Orient News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/live/TV00000000000000000034@HHZT:Reuters
-#DESCRIPTION Reuters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-doc.secure.footprint.net/1101_2500Kb.m3u8:RT Documentary (English)
+#DESCRIPTION RT Documentary (English)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-news.secure.footprint.net/1103_2500Kb.m3u8:RT HD
 #DESCRIPTION RT HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-usa.secure.footprint.net/1105_2500Kb.m3u8:RT America
 #DESCRIPTION RT America
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-doc.secure.footprint.net/1101_2500Kb.m3u8:RT Documentary (English)
-#DESCRIPTION RT Documentary (English)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-esp.secure.footprint.net/1102_2500Kb.m3u8:RT Espanol
 #DESCRIPTION RT Espanol
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-france.secure.footprint.net/1107_2500Kb.m3u8:RT France
@@ -229,16 +231,12 @@
 #DESCRIPTION TV Gazeta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-240p.m3u8:TV Gazeta
 #DESCRIPTION TV Gazeta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.32.68.167/s/live/2/86.169.51.136/1/0.m3u8:Russia 1
-#DESCRIPTION Russia 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3ar24.smil/playlist.m3u8:Russia 24
 #DESCRIPTION Russia 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s96/index.m3u8:Russia Today
 #DESCRIPTION Russia Today
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8:Tagesschau 24 HD
 #DESCRIPTION Tagesschau 24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8:TBN TV
-#DESCRIPTION TBN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.cds1.yospace.com/csm/live/74246610.m3u8:TG4
 #DESCRIPTION TG4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvcom.stream.intelema.ru/tvcom/studio/index.m3u8:Tivikom Uland Udje
