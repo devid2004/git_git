@@ -740,6 +740,8 @@ https://svs.itworkscdn.net/ktvsportslive/smil:ksports.smil/chunklist.m3u8
 https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",LIVE MOTOR SPORT
 http://45.58.62.92:8084
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iYqjCpbv3S8/hqdefault.jpg" group-title="ReMy_SPORT",Liga Indonesia
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Match
 http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",MLB USA
@@ -878,6 +880,58 @@ http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",WOSN TV
 http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 1
+http://stream.doball.com:8080/hls/ch1.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 2
+http://stream.doball.com:8080/hls/ch2.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 3
+http://stream.doball.com:8080/hls/ch3.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 4
+http://stream.doball.com:8080/hls/ch4.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 5
+http://stream.doball.com:8080/hls/ch5.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 6
+http://stream.doball.com:8080/hls/ch6.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 7
+http://stream.doball.com:8080/hls/ch7.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 8
+http://stream.doball.com:8080/hls/ch8.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 9
+http://stream.doball.com:8080/hls/ch9.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 10
+http://stream.doball.com:8080/hls/ch10.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 11
+http://stream.doball.com:8080/hls/ch11.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 12
+http://stream.doball.com:8080/hls/ch12.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 13
+http://stream.doball.com:8080/hls/ch13.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 14
+http://stream.doball.com:8080/hls/ch14.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 15
+http://stream.doball.com:8080/hls/ch15.m3u8?feed
+#EXTINF:-1 group-title="FEED_MACLAR",FIFA555.NET FEED MACLAR 17
+http://stream.doball.com:8080/hls/ch17.m3u8?feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 1
+https://172-105-122-8.nanostreaming.tech:8080/stream01/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 2
+https://172-105-122-8.nanostreaming.tech:8080/stream02/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 3
+https://172-105-122-8.nanostreaming.tech:8080/stream03/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 4
+https://172-105-122-8.nanostreaming.tech:8080/stream04/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 5
+https://172-105-122-8.nanostreaming.tech:8080/stream05/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 6
+https://172-105-122-8.nanostreaming.tech:8080/stream06/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 7
+https://172-105-122-8.nanostreaming.tech:8080/stream07/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 8
+https://172-105-122-8.nanostreaming.tech:8080/stream08/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 9
+https://172-105-122-8.nanostreaming.tech:8080/stream09/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 10
+https://172-105-122-8.nanostreaming.tech:8080/stream10/index.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",ReMy_ITALY
 ReMy_ITALY
 #EXTINF:-1 group-title="ReMy_ITALY",Canale 10

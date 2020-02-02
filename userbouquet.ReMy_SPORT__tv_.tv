@@ -247,6 +247,60 @@
 #DESCRIPTION VSIN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8:Xcorps
 #DESCRIPTION Xcorps
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//id1.indostreamingtv.com/live/indosiar/index.m3u8:Liga Indonesia
+#DESCRIPTION Liga Indonesia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch1.m3u8?feed:FIFA555.NET FEED MACLAR 1
+#DESCRIPTION FIFA555.NET FEED MACLAR 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch2.m3u8?feed:FIFA555.NET FEED MACLAR 2
+#DESCRIPTION FIFA555.NET FEED MACLAR 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch3.m3u8?feed:FIFA555.NET FEED MACLAR 3
+#DESCRIPTION FIFA555.NET FEED MACLAR 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch4.m3u8?feed:FIFA555.NET FEED MACLAR 4
+#DESCRIPTION FIFA555.NET FEED MACLAR 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch5.m3u8?feed:FIFA555.NET FEED MACLAR 5
+#DESCRIPTION FIFA555.NET FEED MACLAR 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch6.m3u8?feed:FIFA555.NET FEED MACLAR 6
+#DESCRIPTION FIFA555.NET FEED MACLAR 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch7.m3u8?feed:FIFA555.NET FEED MACLAR 7
+#DESCRIPTION FIFA555.NET FEED MACLAR 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch8.m3u8?feed:FIFA555.NET FEED MACLAR 8
+#DESCRIPTION FIFA555.NET FEED MACLAR 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch9.m3u8?feed:FIFA555.NET FEED MACLAR 9
+#DESCRIPTION FIFA555.NET FEED MACLAR 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch10.m3u8?feed:FIFA555.NET FEED MACLAR 10
+#DESCRIPTION FIFA555.NET FEED MACLAR 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch11.m3u8?feed:FIFA555.NET FEED MACLAR 11
+#DESCRIPTION FIFA555.NET FEED MACLAR 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch12.m3u8?feed:FIFA555.NET FEED MACLAR 12
+#DESCRIPTION FIFA555.NET FEED MACLAR 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch13.m3u8?feed:FIFA555.NET FEED MACLAR 13
+#DESCRIPTION FIFA555.NET FEED MACLAR 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch14.m3u8?feed:FIFA555.NET FEED MACLAR 14
+#DESCRIPTION FIFA555.NET FEED MACLAR 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch15.m3u8?feed:FIFA555.NET FEED MACLAR 15
+#DESCRIPTION FIFA555.NET FEED MACLAR 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch17.m3u8?feed:FIFA555.NET FEED MACLAR 17
+#DESCRIPTION FIFA555.NET FEED MACLAR 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//172-105-122-8.nanostreaming.tech%3a8080/stream01/index.m3u8: MKC Feed 1
+#DESCRIPTION  MKC Feed 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//172-105-122-8.nanostreaming.tech%3a8080/stream02/index.m3u8: MKC Feed 2
+#DESCRIPTION  MKC Feed 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//172-105-122-8.nanostreaming.tech%3a8080/stream03/index.m3u8: MKC Feed 3
+#DESCRIPTION  MKC Feed 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//172-105-122-8.nanostreaming.tech%3a8080/stream04/index.m3u8: MKC Feed 4
+#DESCRIPTION  MKC Feed 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//172-105-122-8.nanostreaming.tech%3a8080/stream05/index.m3u8: MKC Feed 5
+#DESCRIPTION  MKC Feed 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//172-105-122-8.nanostreaming.tech%3a8080/stream06/index.m3u8: MKC Feed 6
+#DESCRIPTION  MKC Feed 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//172-105-122-8.nanostreaming.tech%3a8080/stream07/index.m3u8: MKC Feed 7
+#DESCRIPTION  MKC Feed 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//172-105-122-8.nanostreaming.tech%3a8080/stream08/index.m3u8: MKC Feed 8
+#DESCRIPTION  MKC Feed 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//172-105-122-8.nanostreaming.tech%3a8080/stream09/index.m3u8: MKC Feed 9
+#DESCRIPTION  MKC Feed 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//172-105-122-8.nanostreaming.tech%3a8080/stream10/index.m3u8: MKC Feed 10
+#DESCRIPTION  MKC Feed 10
 #SERVICE 1:64:92:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.SPORT.1/playlist.m3u8:1 AD SPORTS
