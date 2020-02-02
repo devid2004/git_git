@@ -15,6 +15,8 @@
 #DESCRIPTION TJK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.39.105.79%3a1935/santraltv_925/santraltv_925/playlist.m3u8:YENI MALATYA SPOR
 #DESCRIPTION YENI MALATYA SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8:CBC SPORT HD
+#DESCRIPTION CBC SPORT HD
 #SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/eurosport2.m3u8:Eurosport 2

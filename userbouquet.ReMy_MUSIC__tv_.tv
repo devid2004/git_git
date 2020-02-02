@@ -633,3 +633,5 @@
 #DESCRIPTION Z104 Country KSOP-FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3?:Zen fm
 #DESCRIPTION Zen fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma05.fluidstream.net/KissKissTV/KissKissTV.stream/playlist.m3u8:KissKissTV
+#DESCRIPTION KissKissTV
