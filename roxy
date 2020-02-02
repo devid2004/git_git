@@ -2227,6 +2227,10 @@ https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 group-title="ReMy_GREECE",Kontra Channel
 http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Baraza TV Classic Hits
+https://video1.getstreamhosting.com:1936/8452/8452/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Baraza TV Greek Music Hits
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_GREECE",Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_GREECE",MEGA
@@ -5063,6 +5067,12 @@ https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
 http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",m2otv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Baraza TV Classic Hits
+https://video1.getstreamhosting.com:1936/8452/8452/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Baraza TV Greek Music Hits
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Magic TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MCM TOP
 http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Melody Channel
