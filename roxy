@@ -317,6 +317,8 @@ http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
 http://213.174.8.7:8000/play/15/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Boss Charm SPORT
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",CBC SPORT HD
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="ReMy_SPORT",beIN Sports 1 Turkey
 https://cstream8.com/hls/beinsports1_tr_fhd.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="ReMy_SPORT",beIN Sports 2 Turkey
@@ -591,7 +593,7 @@ http://cdn.iptv.monster/play/145/A94E407714F99C3/video.m3u8
 http://cdn.iptv.monster/play/177/A94E407714F99C3/video.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",SAT SPORT HD
 http://cdn.iptv.monster/play/198/A94E407714F99C3/video.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",MATCH! PREM'YER HD
+#EXTINF:-1 group-title="ReMy_SPORT",MATCH! PREMIER HD
 http://cdn.iptv.monster/play/250/A94E407714F99C3/video.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",MATCH! IGRA HD
 http://cdn.iptv.monster/play/268/A94E407714F99C3/video.m3u8
@@ -2105,6 +2107,132 @@ rtmp://vod.tv7.fi/tv7-fi/mp4:tv7-fi.stream_360p?PAZ_Chega_de_Guerras
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",ReMy_GREECE
+ReMy_GREECE
+#EXTINF:-1 group-title="ReMy_GREECE",Alert
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Top Channel
+https://itv.streams.ovh/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Alfa Dramas
+http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Alpha TV
+https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",ANT1
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",ANT1
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Attica TV
+http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Axeloos
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Baraza TV Classic Hits
+https://video1.getstreamhosting.com:1936/8452/8452/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Baraza TV Greek Music Hits
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Best TV
+https://best-tv.gr/HLS/hls/best/index.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Channel 9
+http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Cinefil GR
+http://web.onair-radio.eu:1935/cinefil/cinefil/master.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Corfu TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Corfu TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/chunklist_w477462551.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",cretetv
+http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Delta TV
+http://video.onestreaming.com:8081/deltatv/live/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Diktyo 1
+http://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",E TV
+http://176.9.30.75:1935/live/epsilon/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",ekpdipso
+https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Ena Channel
+http://176.9.123.140:1935/1c/stream/master.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Ena Channel
+https://server.tvdj.info:8222/1c/stream/chunklist_w1023861619.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Eoe TV
+https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Epirus TV1
+http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",erato
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",ERT World
+http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Fox Tv Greece
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Groovy
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Ionian TV
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Irida TV
+https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Kontra Channel
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Kontra Channel
+http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Magic TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",MEGA
+http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",mesogeiostv
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Messinia Web TV
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Montreal Greek TV
+http://94.130.180.175:8081/live/greektv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Nea TV
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",NG
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",NG
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",NRG 91
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",NRG 91
+https://w1.viastreaming.net/onweb/live/chunklist_w1080573781.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Open TV
+https://liveopen.siliconweb.com/openTvLive/stream2a/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Play TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",PLP
+https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Radio TV Pringipesa
+https://itv.streams.ovh/priggipesa/priggipesa/chunklist_w1272924610.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Reload Play
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Samiaki tv
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Sigma TV
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Start TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Tile Mousiki
+http://wpso.com:1936/hls/music1.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",thraki
+http://video.onestreaming.com:8081/thraki/thrakinettv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",TRT TV
+https://www.hellasnet.tv/rest.live.hn/trt2/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",TV 100
+http://178.62.176.153/hls/tv100/index.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",TV Creta
+https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",TV Filopoli
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Vouli Tileorasi
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Vouli Tileorasi
+http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",WZra Kids TV
+http://wpso.com:1936/hls/kidshd.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Xalastra TV
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_GREECE",Xplore TV
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ROSTELECOM",ReMy_ROSTELECOM
 ReMy_ROSTELECOM
 #EXTINF:-1 group-title="ReMy_ROSTELECOM",01 FIRST CHANNEL
@@ -4867,6 +4995,8 @@ http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/
 http://212.200.102.3:5000/rtp/239.0.0.2:5000
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kcn3 Tv
 http://212.200.102.3:5000/rtp/239.0.0.3:5000
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KissKissTV
+http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kronehit TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kurai (Ufa)
