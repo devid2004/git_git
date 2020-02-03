@@ -69,10 +69,10 @@
 #DESCRIPTION beIN Sports 3 Turkey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports3_tr_ns.m3u8:Bein Sports 3 Turkey HD
 #DESCRIPTION Bein Sports 3 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports4_tr_ns.m3u8:beIN Sports 4 Turkey
-#DESCRIPTION beIN Sports 4 Turkey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports4_tr_si.m3u8:Bein Sports 4 Turkey HD
 #DESCRIPTION Bein Sports 4 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports4_tr_ns.m3u8:beIN Sports 4 Turkey
+#DESCRIPTION beIN Sports 4 Turkey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports4_tr_ns.m3u8:Bein Sports 4 Turkey HD
 #DESCRIPTION Bein Sports 4 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor1_tr.m3u8:Tivibu Spor 1 Turkey HD
@@ -201,6 +201,8 @@
 #DESCRIPTION Lax Sports Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.154.243.89%3a1208:NBC Golf
 #DESCRIPTION NBC Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8:Olympic Channel LIVE
+#DESCRIPTION Olympic Channel LIVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.250.201.58%3a6211/pk/ONEGOLF/index.m3u8:One Golf
 #DESCRIPTION One Golf
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.250.201.58%3a6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8:ONEGOLF
@@ -217,14 +219,20 @@
 #DESCRIPTION Premiere 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//globolive.akamaized.net%3a80/d/c/x2800/s/hls-pfc5/hls-pfc5_2764/playlist.m3u8?hdnts=st=1566768827~exp=1666768817~acl=/*~id=l1s1cmra7kad0hj4smq32cb1b5~hmac=bfe594668c2834779468741c1d4e2a73ba8fee82725ceb065186abb59cb14139:Premiere 5
 #DESCRIPTION Premiere 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07:SporTV 1
+#DESCRIPTION SporTV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e:SporTV 2
+#DESCRIPTION SporTV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//globolive.akamaized.net%3a443/d/c/x2800/s/hls-spo324ha/hls-spo324ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e:SporTV 3
+#DESCRIPTION SporTV 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.12/hls/FWHTTL8YXU/variant.m3u8:SETANTA SPORTS 1 FHD
 #DESCRIPTION SETANTA SPORTS 1 FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.216.194%3a8080/SPORT_DIGITAL/mono.m3u8:Sportdigital
 #DESCRIPTION Sportdigital
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8:Sony ESPN
 #DESCRIPTION Sony ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr-c.movply.stream/hls/sony-ten-1-hd.m3u8:Sony Ten 1
-#DESCRIPTION Sony Ten 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr-c.movply.stream/hls/sony-ten-1-hd.m3u8:Sony ESPN
+#DESCRIPTION Sony ESPN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-1.toffeelive.com/live/ten_1_720/index.m3u8:Sony Ten 1
 #DESCRIPTION Sony Ten 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-1.toffeelive.com/live/ten_2_720/index.m3u8:Sony Ten 2
@@ -233,12 +241,6 @@
 #DESCRIPTION Sony Ten 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-1.toffeelive.com/live/sony_six_720/index.m3u8:Sony Six
 #DESCRIPTION Sony Six
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07:SporTV 1
-#DESCRIPTION SporTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e:SporTV 2
-#DESCRIPTION SporTV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//globolive.akamaized.net%3a443/d/c/x2800/s/hls-spo324ha/hls-spo324ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e:SporTV 3
-#DESCRIPTION SporTV 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8:Stadium
 #DESCRIPTION Stadium
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.118.76.234%3a1935/tvprogram/STAR-SPORTS-1/playlist.m3u8:Star Sports 1
@@ -247,8 +249,6 @@
 #DESCRIPTION VSIN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8:Xcorps
 #DESCRIPTION Xcorps
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//id1.indostreamingtv.com/live/indosiar/index.m3u8:Liga Indonesia
-#DESCRIPTION Liga Indonesia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch1.m3u8?feed:FIFA555.NET FEED MACLAR 1
 #DESCRIPTION FIFA555.NET FEED MACLAR 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch2.m3u8?feed:FIFA555.NET FEED MACLAR 2
@@ -353,8 +353,6 @@
 #DESCRIPTION Dubai Racing
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil%3adubairacing.smil/chunklist_b1600000.m3u8:Dubai Racing 2
 #DESCRIPTION Dubai Racing 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/index.m3u8:Espn
-#DESCRIPTION Espn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8:Estonia TV
 #DESCRIPTION Estonia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8:Eurosport 1 (bg)
@@ -379,6 +377,8 @@
 #DESCRIPTION GARAGE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8:Garage TV
 #DESCRIPTION Garage TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226407/04.m3u8:GB GAME
+#DESCRIPTION GB GAME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8:GB GAME
 #DESCRIPTION GB GAME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8:GOLTV
@@ -401,6 +401,8 @@
 #DESCRIPTION Ktv Sport (arab)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.58.62.92%3a8084:LIVE MOTOR SPORT
 #DESCRIPTION LIVE MOTOR SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//id1.indostreamingtv.com/live/indosiar/index.m3u8:Liga Indonesia
+#DESCRIPTION Liga Indonesia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.14%3a2025:Match! Football 1
 #DESCRIPTION Match! Football 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.14%3a2010:Match! Football 1 HD
@@ -423,8 +425,6 @@
 #DESCRIPTION My Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8:Nova Sport (bg)
 #DESCRIPTION Nova Sport (bg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8:Olympic Channel LIVE
-#DESCRIPTION Olympic Channel LIVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC1_1.m3u8:Olympic Channel
 #DESCRIPTION Olympic Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC2_1.m3u8:Olympic Channel 2
@@ -529,8 +529,20 @@
 #DESCRIPTION UFC BES TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8:World Of Free Sports Tv
 #DESCRIPTION World Of Free Sports Tv
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espnu.m3u8:ESPN U
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/index.m3u8:ESPN
+#DESCRIPTION ESPN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espnews.m3u8:ESPN News
+#DESCRIPTION ESPN News
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//x-live-espn-stgec.uplynk.com/ause/slices/b42/d09b16c953aa40c98dd8c513526aca5a/b42feba11f34415e8ee3a21e8ff3c700/F00000445.ts?pbs=8c0d7d03dc3f4ff388b3f093fa9f0b8e&_jt=l&euid=SEC_VDMS&chid=d0695f6fa2f143eb95c7a41d96d581c4&ptid=ESPN_tvOS_VDMS&si=1900:ESPN 2
+#DESCRIPTION ESPN 2
+#SERVICE 4097:0:0:6:0:0:0:0:0:0:https%3a//gma2.blab.email/espn2.m3u8:ESPN 2
+#DESCRIPTION ESPN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espnu.m3u8:ESPN U
 #DESCRIPTION ESPN U
+#SERVICE 4097:0:0:10:0:0:0:0:0:0:https%3a//gma2.blab.email/sec.m3u8:SEC ESPN Network
+#DESCRIPTION SEC ESPN Network
+#SERVICE 4097:0:0:12:0:0:0:0:0:0:https%3a//gma2.blab.email/acc.m3u8:ACC Network
+#DESCRIPTION ACC Network
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8:Tennis Channel
 #DESCRIPTION Tennis Channel
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8:Tennis Channel+

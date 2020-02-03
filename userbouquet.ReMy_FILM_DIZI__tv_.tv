@@ -31,6 +31,8 @@
 #DESCRIPTION Hits Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8:Kix
 #DESCRIPTION Kix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s29:MTV,NIck,CC
+#DESCRIPTION MTV,NIck,CC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8:Star Movies HD
 #DESCRIPTION Star Movies HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8:Star World HD
@@ -257,6 +259,8 @@
 #DESCRIPTION Triple Threat(2019)
 #SERVICE 1:64:96:0:0:0:0:0:0:0::::::___NEWTUBE_PS_MOVIES____::::
 #DESCRIPTION ::::___NEWTUBE_PS_MOVIES____::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ga.video.cdn.pbs.org/videos/nature/bf2826a1-a3d3-4a2c-85c8-cdbefaa5640e/182800/hd-mezzanine-16x9/d024d04a_naat_3211_1080p-16x9-hls-2500k.m3u8:NATURE HD
+#DESCRIPTION NATURE HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/os-7/movie/Ayla.The.Daughter.of.War.2017.mp4:Ayla: The Daughter of War (2017)
 #DESCRIPTION Ayla: The Daughter of War (2017)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82/Arabic/one-heart.mp4:Birlesen Gonuller
