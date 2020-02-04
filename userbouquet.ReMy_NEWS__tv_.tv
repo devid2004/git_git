@@ -103,6 +103,8 @@
 #DESCRIPTION BBC World News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s24/index.m3u8:BBC World
 #DESCRIPTION BBC World
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8:Bloomberg TV Europa (nieuws - Engeland)
+#DESCRIPTION Bloomberg TV Europa (nieuws - Engeland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8:Bloomberg UK
 #DESCRIPTION Bloomberg UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8:BLOOMBERG TV (1+)

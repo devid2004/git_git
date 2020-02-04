@@ -67,16 +67,8 @@
 #DESCRIPTION MTA (Engeland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ls1.serverdump.com/stream3.m3u8:Noor TV (Engeland)
 #DESCRIPTION Noor TV (Engeland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8:Only Motors
-#DESCRIPTION Only Motors
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8:Pick (Engeland)
-#DESCRIPTION Pick (Engeland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//57d4d8b1e4f4f.streamlock.net/primalcure/livestream/playlist.m3u8:Primal Cure TV (Engeland)
-#DESCRIPTION Primal Cure TV (Engeland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//57d4d8b1e4f4f.streamlock.net/primalcure/livestream/chunklist.m3u8:Primal Living TV
 #DESCRIPTION Primal Living TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v5a1/mono.m3u8:Rathergood Radio
-#DESCRIPTION Rathergood Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8:Real Madrid TV (Engeland)
 #DESCRIPTION Real Madrid TV (Engeland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.28%3a8180/live/TV00000000000000000034@HHZT:Reuters
@@ -89,8 +81,6 @@
 #DESCRIPTION Sky News UK (Engeland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8:Sky News UK HD
 #DESCRIPTION Sky News UK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8:Sony Movies Classic
-#DESCRIPTION Sony Movies Classic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8:Spotlight TV
 #DESCRIPTION Spotlight TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8:Sunburn TV
