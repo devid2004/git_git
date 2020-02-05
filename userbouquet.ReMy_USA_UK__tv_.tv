@@ -125,6 +125,8 @@
 #DESCRIPTION 3ABN Latino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8:3ABN Latino
 #DESCRIPTION 3ABN Latino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8:3ABN Praise Him Music Channel
+#DESCRIPTION 3ABN Praise Him Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8:3AW Melbourne
 #DESCRIPTION 3AW Melbourne
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8:3News Now (KMTV-TV)
@@ -249,6 +251,8 @@
 #DESCRIPTION BBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8:BBC Toronto Gaunda Punjab
 #DESCRIPTION BBC Toronto Gaunda Punjab
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.252.252.17/live/eds/BBC/HLS_encr/index.m3u8:BBC world News
+#DESCRIPTION BBC world News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8:BBC World News
 #DESCRIPTION BBC World News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/DTVHD/playlist.m3u8:Beach TV (30A)

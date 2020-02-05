@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | MUSIC★★ ==
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:SilenceTV
 #DESCRIPTION SilenceTV
@@ -47,8 +47,10 @@
 #DESCRIPTION Siteler Muzik ANGARA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4Fun TV
-#DESCRIPTION 4Fun TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4 Fun TV
+#DESCRIPTION 4 Fun TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/4music/:4 Music
+#DESCRIPTION 4 Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/playlist.m3u8:88 Stereo TV
 #DESCRIPTION 88 Stereo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.a1mediagroep.eu/hls/a1tv.m3u8:A1 Regio TV
@@ -65,6 +67,8 @@
 #DESCRIPTION BOK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
 #DESCRIPTION Box Hits
+#SERVICE 4097:0:1:375:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits (UK)
+#DESCRIPTION Box Hits (UK)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2:Brandnite TV HD
 #DESCRIPTION Brandnite TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s34/index.m3u8:Bridge TV
@@ -211,6 +215,8 @@
 #DESCRIPTION Keep It Country TV * UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma05.fluidstream.net/KissKissTV/KissKissTV.stream/playlist.m3u8:KissKissTV
 #DESCRIPTION KissKissTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/kool/kool/playlist.m3u8:Kool London WebRadio (Engeland)
+#DESCRIPTION Kool London WebRadio (Engeland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8:Kronehit TV HD
 #DESCRIPTION Kronehit TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8:KRONEHIT TV HD
@@ -227,6 +233,8 @@
 #DESCRIPTION m2otv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//itv.streams.ovh/magictv/magictv/playlist.m3u8:Magic TV
 #DESCRIPTION Magic TV
+#SERVICE 4097:0:1:2C:2:4:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/magic/:Magic TV (muziek - UK)
+#DESCRIPTION Magic TV (muziek - UK)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s49/index.m3u8:MCM TOP
 #DESCRIPTION MCM TOP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.155.200.118%3a1935/live/MelodyChannel/playlist.m3u8:Melody Channel
@@ -345,26 +353,16 @@
 #DESCRIPTION Radio Tivu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8:Radio TV USA
 #DESCRIPTION Radio TV USA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8:Radio Zero Tv
-#DESCRIPTION Radio Zero Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4%3alivestreamTV/playlist.m3u8:Radio Weser TV Bremen
 #DESCRIPTION Radio Weser TV Bremen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8:Radio Zero Tv
+#DESCRIPTION Radio Zero Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8:RETRO
 #DESCRIPTION RETRO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.46.161.3/hls/sd.m3u8:ROMAN TV
 #DESCRIPTION ROMAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live2/Rotana.Clip/playlist.m3u8:Rotana Clip
 #DESCRIPTION Rotana Clip
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.rtkit.com%3a1935/rtk1stream/rtk1.stream/playlist.m3u8:RTK 1 Kosovo
-#DESCRIPTION RTK 1 Kosovo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.56.10%3a1935/rtk4stream/rtk4.stream/playlist.m3u8:RTK 4 Kosovo
-#DESCRIPTION RTK 4 Kosovo
-#SERVICE 4097:0:1:1629:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:RTV ZIK
-#DESCRIPTION RTV ZIK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:RTV ZiK
-#DESCRIPTION RTV ZiK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/playlist.m3u8:RTV ZIK
-#DESCRIPTION RTV ZIK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//91.148.117.134%3a1935/radios/radiosweb.stream live=1:Sarajevo 1 Tv
 #DESCRIPTION Sarajevo 1 Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyfolk.mk/live.m3u8:Sky Folk
@@ -377,6 +375,8 @@
 #DESCRIPTION Steel Bird Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/music.m3u8?fluxustv.m3u8:STYLE CITY MUSIC2
 #DESCRIPTION STYLE CITY MUSIC2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8:Sunburn TV
+#DESCRIPTION Sunburn TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a004/index.m3u8:Super ROCK HD
 #DESCRIPTION Super ROCK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.235.165.77%3a8000/play/a001/index.m3u8:Super Tv
@@ -401,29 +401,21 @@
 #DESCRIPTION TRACE Toca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8:TRACE Tropical
 #DESCRIPTION TRACE Tropical
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//141.136.14.18/kanal1/kanal1.m3u8:TV+
-#DESCRIPTION TV+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8:UrbanMusic4U
 #DESCRIPTION UrbanMusic4U
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%25253D53da17a30bd0d3c946a41c86cb5873f1%252526_vmn_ar%25253Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%25252C53da17a30bd0d3c946a41c86cb5873f1%25252C_vmn_ar%25252Ctrue%25252C_fw_vcid2%25252C82125%253avh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697%3a:VH1 HD USA
-#DESCRIPTION VH1 HD USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8:UTV
 #DESCRIPTION UTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8:XCORPS-TV
 #DESCRIPTION XCORPS-TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8:Wanasah
 #DESCRIPTION Wanasah
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/tracks-v1a1/mono.m3u8:view tv local kapang hd
-#DESCRIPTION view tv local kapang hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamingserver001.viewtvgroup.com%3a80/kapanglocal-playout-master/index.m3u8:view tv local kapang hd
-#DESCRIPTION view tv local kapang hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.51.131.28%3a8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8:YU PLANET
 #DESCRIPTION YU PLANET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8:Zeta TV
 #DESCRIPTION Zeta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8:3ABN Praise Him Music Channel
 #DESCRIPTION 3ABN Praise Him Music Channel
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.232.174.18%3a8000/Stream:Fenerbahçe FM
 #DESCRIPTION Fenerbahçe FM
@@ -453,6 +445,8 @@
 #DESCRIPTION Baba Radyo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.100.100/best/babaradyo.stream/chunklist_w1575182589.m3u8:Baba Radyo
 #DESCRIPTION Baba Radyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17733.live.streamtheworld.com/BABYJOY128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=3beb8d47-271c-4c40-9c9e-a965eff4a101:BABYJOY
+#DESCRIPTION BABYJOY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.7.126/;:Best FM
 #DESCRIPTION Best FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.damarfm.com%3a8080/:Damar FM
@@ -519,8 +513,6 @@
 #DESCRIPTION Radio Slow Time
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin1.canliyayin.org%3a7424/;:Radio 34
 #DESCRIPTION Radio 34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sunucu2.radyolarburada.com%3a3636/;stream.mp3:Radio Derman
-#DESCRIPTION Radio Derman
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioturku.com%3a9400/;:Radio Türkü-izmir
 #DESCRIPTION Radio Türkü-izmir
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/35/:Radio VOKAL
@@ -537,7 +529,7 @@
 #DESCRIPTION TURKUAZ FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2:Virgin Radio Türkiye
 #DESCRIPTION Virgin Radio Türkiye
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
@@ -559,8 +551,6 @@
 #DESCRIPTION Balkansko Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//beats-of-music.stream.laut.fm/beats-of-music?ref=radiode&t302=2018-04-16_15-44-18&uuid=4683c9e4-e7e3-452d-8c9a-713a903bd700:Beats of Music
 #DESCRIPTION Beats of Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17733.live.streamtheworld.com/BABYJOY128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=3beb8d47-271c-4c40-9c9e-a965eff4a101:BABYJOY
-#DESCRIPTION BABYJOY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.viastreaming.net%3a8635/;226353695996675stream.nsv:Blue Marlin Ibiza
 #DESCRIPTION Blue Marlin Ibiza
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-ice.musicradio.com/ChillMP3:Chill
@@ -605,14 +595,14 @@
 #DESCRIPTION Otvoreni radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.sonicabroadcast.com%3a8750/;stream/1/:Pura Sonica
 #DESCRIPTION Pura Sonica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.250.77.9%3a8090:Schlagerparadies
-#DESCRIPTION Schlagerparadies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.250.77.9%3a8090:Schlager paradies
+#DESCRIPTION Schlager paradies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//HearMe.fm%3a8022/stream:The Very Best of Country
 #DESCRIPTION The Very Best of Country
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//transamerica.crossradio.com.br%3a9116/live.aac:Transamérica Pop Curitiba
-#DESCRIPTION Transamérica Pop Curitiba
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ice1.crossradio.com.br%3a8198/live.aac:Transcontinental FM
-#DESCRIPTION Transcontinental FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//transamerica.crossradio.com.br%3a9116/live.aac:Trans america Pop Curitiba
+#DESCRIPTION Trans america Pop Curitiba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ice1.crossradio.com.br%3a8198/live.aac:Trans continental FM
+#DESCRIPTION Trans continental FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/34/:WORLD HIT
 #DESCRIPTION WORLD HIT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.121.59.45%3a8361/stream:WRCF
@@ -621,11 +611,3 @@
 #DESCRIPTION Z104 Country KSOP-FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3?:Zen fm
 #DESCRIPTION Zen fm
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/4music/:4 Music
-#DESCRIPTION 4 Music
-#SERVICE 4097:0:1:375:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits (UK)
-#DESCRIPTION Box Hits (UK)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/kool/kool/playlist.m3u8:Kool London WebRadio (Engeland)
-#DESCRIPTION Kool London WebRadio (Engeland)
-#SERVICE 4097:0:1:2C:2:4:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/magic/:Magic TV (muziek - UK)
-#DESCRIPTION Magic TV (muziek - UK)

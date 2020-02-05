@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | SPORT★★ ==
-#SERVICE 1:64:8F:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
+#SERVICE 1:64:8E:0:0:0:0:0:0:0::==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 1.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_aspor/smil%3aaspor_hd.smil/playlist.m3u8:A SPOR HD
 #DESCRIPTION A SPOR HD
@@ -17,7 +17,7 @@
 #DESCRIPTION YENI MALATYA SPOR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8:CBC SPORT HD
 #DESCRIPTION CBC SPORT HD
-#SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
+#SERVICE 1:64:8F:0:0:0:0:0:0:0::==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/eurosport2.m3u8:Eurosport 2
 #DESCRIPTION Eurosport 2
@@ -87,7 +87,7 @@
 #DESCRIPTION S Sport Turkey HD (2)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/smartspor_tr_ns.m3u8:Smart Sport Turkey HD
 #DESCRIPTION Smart Sport Turkey HD
-#SERVICE 1:64:91:0:0:0:0:0:0:0:::::_my TV+ APP_:::
+#SERVICE 1:64:90:0:0:0:0:0:0:0:::::_my TV+ APP_:::
 #DESCRIPTION :::_my TV+ APP_:::
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:my TV+ APP GUIDE
 #DESCRIPTION my TV+ APP GUIDE
@@ -279,7 +279,7 @@
 #DESCRIPTION FIFA555.NET FEED MACLAR 14
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.doball.com%3a8080/hls/ch15.m3u8?feed:FIFA555.NET FEED MACLAR 15
 #DESCRIPTION FIFA555.NET FEED MACLAR 15
-#SERVICE 1:64:92:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
+#SERVICE 1:64:91:0:0:0:0:0:0:0::==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | 2.CLASS_SPORT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.SPORT.1/playlist.m3u8:1 AD SPORTS
 #DESCRIPTION 1 AD SPORTS

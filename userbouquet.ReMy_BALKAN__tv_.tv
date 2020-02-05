@@ -67,6 +67,8 @@
 #DESCRIPTION VOD 208
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
+#SERVICE 4097:0:1:1BD2:2:46:E080000:0:0:0:http%3a//albuk.dyndns.tv%3a1935/albuk/albuk.stream/playlist.m3u8:ALBUK HD
+#DESCRIPTION ALBUK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.adunity.com/b1/b1.m3u8:B1
 #DESCRIPTION B1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.adunity.com/b1/b1_640-.m3u8:B1 HD
@@ -329,5 +331,3 @@
 #DESCRIPTION WAU HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.51.131.28%3a8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8:YU PLANET
 #DESCRIPTION YU PLANET
-#SERVICE 4097:0:1:1BD2:2:46:E080000:0:0:0:http%3a//albuk.dyndns.tv%3a1935/albuk/albuk.stream/playlist.m3u8:ALBUK HD
-#DESCRIPTION ALBUK HD
