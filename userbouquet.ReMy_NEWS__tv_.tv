@@ -15,8 +15,8 @@
 #DESCRIPTION 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_ahaber/smil%3aahaber_hd.smil/playlist.m3u8:A HABER HD
 #DESCRIPTION A HABER HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8:CNN TURK HD
-#DESCRIPTION CNN TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvc.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8:CNN TURK
+#DESCRIPTION CNN TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV HD
 #DESCRIPTION NTV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.ntv.com.tr/rss/LiveStream:NTV HD

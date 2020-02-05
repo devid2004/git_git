@@ -5,7 +5,7 @@
 #DESCRIPTION KURAN MEAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
 #DESCRIPTION DiYANET KURAN RADiO
-#SERVICE 1:64:8B:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_U L U S A L_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:8B:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_atv/smil%3aatv_hd.smil/playlist.m3u8:ATV HD
 #DESCRIPTION ATV HD
@@ -43,8 +43,8 @@
 #DESCRIPTION 24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_ahaber/smil%3aahaber_hd.smil/playlist.m3u8:A HABER HD
 #DESCRIPTION A HABER HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8:CNN TURK HD
-#DESCRIPTION CNN TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvc.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8:CNN TURK
+#DESCRIPTION CNN TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_haberturk/smil%3ahaberturk_hd.smil/playlist.m3u8:HABER TURK HD
 #DESCRIPTION HABER TURK HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_haberglobal/smil%3ahaberglobal_hd.smil/playlist.m3u8:Haber Global HD
@@ -179,16 +179,8 @@
 #DESCRIPTION SEMERKAND TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//semerkandglb.mediatriple.net%3a1935/semerkandliveedge/semerkand1/ratus42.m3u8:SEMERKAND TV
 #DESCRIPTION SEMERKAND TV
-#SERVICE 1:64:8C:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_WEB TV / TURKEY_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:8C:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #DESCRIPTION :::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srvc.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8:CNN TURK SD
-#DESCRIPTION CNN TURK SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8:CNN TURK HD (1)
-#DESCRIPTION CNN TURK HD (1)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8:CNN TURK HD (2)
-#DESCRIPTION CNN TURK HD (2)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8:CNN TURK HD (3)
-#DESCRIPTION CNN TURK HD (3)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8:D MAX
 #DESCRIPTION D MAX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL arabesk
@@ -215,7 +207,7 @@
 #DESCRIPTION TURKMEN OWAZY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch002_400/index.m3u8:TURKMEN YASLIK
 #DESCRIPTION TURKMEN YASLIK
-#SERVICE 1:64:8D:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_YEREL_/_TURKEY_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:8D:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s01.vpis.io/besiktas/besiktas.m3u8:besiktas TV
 #DESCRIPTION besiktas TV
