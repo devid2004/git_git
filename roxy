@@ -633,6 +633,7 @@ https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
 https://sportbar.biz/lba/123/g7/btse.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",SPORT TV3
 https://sportbar.biz/lba/123/g8/ptsport5.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",ATG LIVE
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Action Sports TV
 https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
