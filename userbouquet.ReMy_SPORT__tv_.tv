@@ -49,6 +49,10 @@
 #DESCRIPTION Sky Sports Arena
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/skysportsarena.m3u8:Sky Sports Arena
 #DESCRIPTION Sky Sports Arena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/ssport_tr_si.m3u8:S Sport Turkey HD
+#DESCRIPTION S Sport Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/ssport_tr_si.m3u8:S Sport Turkey HD
+#DESCRIPTION S Sport Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_fhd.m3u8:Bein Sports 1 Turkey 1080p FHD
 #DESCRIPTION Bein Sports 1 Turkey 1080p FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports1_tr_fhd.m3u8:beIN Sports 1 Turkey
@@ -75,18 +79,22 @@
 #DESCRIPTION beIN Sports 4 Turkey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports4_tr_ns.m3u8:Bein Sports 4 Turkey HD
 #DESCRIPTION Bein Sports 4 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/beinsports1max_tr_si.m3u8:Bein Sports 1 MAX HD
+#DESCRIPTION Bein Sports 1 MAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/beinsports2max_tr_si.m3u8:Bein Sports 2 MAX HD
+#DESCRIPTION Bein Sports 2 MAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/tivibuspor1_tr_si.m3u8:Tivibu Spor 1 HD
+#DESCRIPTION Tivibu Spor 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/tivibuspor2_tr_si.m3u8:Tivibu Spor 2 HD
+#DESCRIPTION Tivibu Spor 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/tivibuspor3_tr_si.m3u8:Tivibu Spor 3 HD
+#DESCRIPTION Tivibu Spor 3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor1_tr.m3u8:Tivibu Spor 1 Turkey HD
 #DESCRIPTION Tivibu Spor 1 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor2_tr.m3u8:Tivibu Spor 2 Turkey HD
 #DESCRIPTION Tivibu Spor 2 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor3_tr.m3u8:Tivibu Spor 3 Turkey HD
 #DESCRIPTION Tivibu Spor 3 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/ssport_tr_si.m3u8:S Sport Turkey HD
-#DESCRIPTION S Sport Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/ssport_tr_ns.m3u8:S Sport Turkey HD (2)
-#DESCRIPTION S Sport Turkey HD (2)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/smartspor_tr_ns.m3u8:Smart Sport Turkey HD
-#DESCRIPTION Smart Sport Turkey HD
 #SERVICE 1:64:90:0:0:0:0:0:0:0:::::_my TV+ APP_:::
 #DESCRIPTION :::_my TV+ APP_:::
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:my TV+ APP GUIDE
