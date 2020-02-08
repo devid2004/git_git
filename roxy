@@ -305,6 +305,10 @@ https://sportscore.biz/lba/123/g5/beinsport1tur.m3u8
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Bein Sport 1 FHD
 http://95.170.215.101:80/hls/m3u8/Bein-S1-a58.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Bein Sports 1 MAX HD
+https://cstream10.com/hls/beinsports1max_tr_si.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Bein Sports 2 MAX HD
+https://cstream10.com/hls/beinsports2max_tr_si.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",A SPOR HD
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",TRT Spor HD
