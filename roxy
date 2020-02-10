@@ -885,26 +885,61 @@ http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",WOSN TV
 http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 1
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="ReMy_SPORT", MKC Feed 1
 https://172-105-122-8.nanostreaming.tech:8080/stream01/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 2
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="ReMy_SPORT", MKC Feed 2
 https://172-105-122-8.nanostreaming.tech:8080/stream02/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 3
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="ReMy_SPORT", MKC Feed 3
 https://172-105-122-8.nanostreaming.tech:8080/stream03/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 4
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="ReMy_SPORT", MKC Feed 4
 https://172-105-122-8.nanostreaming.tech:8080/stream04/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 5
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="ReMy_SPORT", MKC Feed 5
 https://172-105-122-8.nanostreaming.tech:8080/stream05/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 6
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="ReMy_SPORT", MKC Feed 6
 https://172-105-122-8.nanostreaming.tech:8080/stream06/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 7
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="ReMy_SPORT", MKC Feed 7
 https://172-105-122-8.nanostreaming.tech:8080/stream07/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="ReMy_SPORT", MKC Feed 8
 https://172-105-122-8.nanostreaming.tech:8080/stream08/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 9
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="ReMy_SPORT", MKC Feed 9
 https://172-105-122-8.nanostreaming.tech:8080/stream09/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="FEED_MACLAR", MKC Feed 10
+#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/2619972416/25sus60qpgom1v8fexbb_400x400.png" group-title="ReMy_SPORT", MKC Feed 10
 https://172-105-122-8.nanostreaming.tech:8080/stream10/index.m3u8
+#EXTINF:-1 group-title="FASHION_FLIX","FASHION_FLIX"
+"FASHION_FLIX"
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",FASHION TV PARIS
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",Fashion TV (SK)
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",Fashion TV Films
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",Fashion TV PG16
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",Fashion TV L'Original
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",FTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",Fashion One
+http://188.35.9.15:21031/udp/058v
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",Models Inc.
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",Luxury TV
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",FTV Midnight Secrets (HD) (New!)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",FTV Midnight Secrets (FHD) (New!)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",FTV Midnight Secrets (UHD) (New!)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",FashionTelevision.us
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionLifestyle.ua" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="FASHION_FLIX",Fashion & Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="IDFashion.ua" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",ID Fashion
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="FASHION_FLIX",Runway.us
+https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",ReMy_ITALY
 ReMy_ITALY
 #EXTINF:-1 group-title="ReMy_ITALY",Canale 10
@@ -5601,56 +5636,3 @@ rtmp://stream.taksimbilisim.com/tv52/bant1
 rtmp://91.93.118.165/tempotv/livestream
 #EXTINF:-1 group-title="ReMy_YEREL",KONYA KON TV
 http://yayin3.canlitv.com:1935/live/kontv/playlist.m3u8
-#EXTINF:-1 group-title="FASHION & LIFE TV","FASHION & LIFE TV"
-"FASHION & LIFE TV"
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="FASHION & LIFE TV",FASHION TV PARIS
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="FASHION & LIFE TV",Fashion TV (SK)
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="FASHION & LIFE TV",Fashion TV Films
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="FASHION & LIFE TV",Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="FASHION & LIFE TV",Fashion TV L'Original
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="FASHION & LIFE TV",FTV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="FASHION & LIFE TV",Fashion One
-http://188.35.9.15:21031/udp/058v
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="FASHION & LIFE TV",Models Inc.
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="FASHION & LIFE TV",Luxury TV
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="FASHION & LIFE TV",FTV Midnight Secrets (HD) (New!)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="FASHION & LIFE TV",FTV Midnight Secrets (FHD) (New!)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="FASHION & LIFE TV",FTV Midnight Secrets (UHD) (New!)
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION & LIFE TV",FashionTelevision.us
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionLifestyle.ua" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="FASHION & LIFE TV",Fashion & Lifestyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-id="IDFashion.ua" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783508_logo_id_fashion.png" group-title="FASHION & LIFE TV",ID Fashion
-http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="FASHION & LIFE TV",Runway.us
-https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title="FASHION & LIFE TV",Jasmin TV
-http://j.mp/S_JasminTVHD_sly?.m3u8
-#EXTINF:-1 parent-code="1234" group-title="FASHION & LIFE TV",Jasmin TV (18+)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815880410.m3u8
-#EXTINF:-1 parent-code="1234" group-title="FASHION & LIFE TV",Jasmin TV HD (18+)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title="FASHION & LIFE TV",Jasmin HD
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 parent-code="1234" group-title="FASHION & LIFE TV",JASMIN TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 parent-code="1234" group-title="FASHION & LIFE TV",Miami TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title="FASHION & LIFE TV",Miami TV
-http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title="FASHION & LIFE TV",VISIT-X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title="FASHION & LIFE TV",VISIT-X TV (18+)
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8

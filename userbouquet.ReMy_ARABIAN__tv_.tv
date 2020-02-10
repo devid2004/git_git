@@ -105,8 +105,12 @@
 #DESCRIPTION IRIB-TV4
 #SERVICE 4097:0:0:32:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/IRIB-YAZD.m3u8:IRIB-YAZD
 #DESCRIPTION IRIB-YAZD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.rjtv.tv/live/smil%3arjtv.smil/playlist.m3u8:Javan TV
+#DESCRIPTION Javan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.27.116.54%3a1935/live/amn/chunklist_w1521888123.m3u8:Jorden TV
 #DESCRIPTION Jorden TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playout395.livestreamingcdn.com/live/Stream1/chunklist_w1161490152.m3u8:Kayhan TV HD
+#DESCRIPTION Kayhan TV HD
 #SERVICE 4097:0:0:24:0:0:0:0:0:0:http%3a//95.170.215.106/hls/m3u8/Kmax-Sh-B-Backup.m3u8:Kmax-Sh
 #DESCRIPTION Kmax-Sh
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8:KTV 1
