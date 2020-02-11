@@ -19,16 +19,16 @@
 #DESCRIPTION CBC SPORT HD
 #SERVICE 1:64:8F:0:0:0:0:0:0:0::==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
 #DESCRIPTION ==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/eurosport2.m3u8:Eurosport 2
-#DESCRIPTION Eurosport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/foxsport1.m3u8:Fox Sport 1
-#DESCRIPTION Fox Sport 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/btsport1.m3u8:BT Sports 1
 #DESCRIPTION BT Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/btsport1.m3u8:BT Sports 1
 #DESCRIPTION BT Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/btsport2.m3u8:BT Sports 2
 #DESCRIPTION BT Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/eurosport2.m3u8:Eurosport 2
+#DESCRIPTION Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/foxsport1.m3u8:Fox Sport 1
+#DESCRIPTION Fox Sport 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysports1.m3u8:Sky Sports 1
 #DESCRIPTION Sky Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysports2.m3u8:Sky Sports 2
@@ -95,7 +95,7 @@
 #DESCRIPTION Tivibu Spor 2 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor3_tr.m3u8:Tivibu Spor 3 Turkey HD
 #DESCRIPTION Tivibu Spor 3 Turkey HD
-#SERVICE 1:64:90:0:0:0:0:0:0:0:::::_my TV+ APP_:::
+#SERVICE 1:64:90:0:0:0:0:0:0:0::%3a%3a%3a_my TV+ APP_%3a%3a%3a
 #DESCRIPTION :::_my TV+ APP_:::
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:my TV+ APP GUIDE
 #DESCRIPTION my TV+ APP GUIDE
@@ -249,7 +249,7 @@
 #DESCRIPTION 2 AD SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
-#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
+#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100%25 Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alkasmsl4.akamaized.net/hls/live/2003123/alkassone1/master570.m3u8:Al Kass One
 #DESCRIPTION Al Kass One
@@ -491,25 +491,25 @@
 #DESCRIPTION UFC BES TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8:World Of Free Sports Tv
 #DESCRIPTION World Of Free Sports Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/index.m3u8:ESPN
+#SERVICE 1:0:1:0:0:0:0:0:0:0:https%3a//d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/index.m3u8#User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us):ESPN
 #DESCRIPTION ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espnews.m3u8:ESPN News
+#SERVICE 1:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espnews.m3u8#User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us):ESPN News
 #DESCRIPTION ESPN News
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//x-live-espn-stgec.uplynk.com/ause/slices/b42/d09b16c953aa40c98dd8c513526aca5a/b42feba11f34415e8ee3a21e8ff3c700/F00000445.ts?pbs=8c0d7d03dc3f4ff388b3f093fa9f0b8e&_jt=l&euid=SEC_VDMS&chid=d0695f6fa2f143eb95c7a41d96d581c4&ptid=ESPN_tvOS_VDMS&si=1900:ESPN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//x-live-espn-stgec.uplynk.com/ause/slices/b42/d09b16c953aa40c98dd8c513526aca5a/b42feba11f34415e8ee3a21e8ff3c700/F00000445.ts?pbs=8c0d7d03dc3f4ff388b3f093fa9f0b8e&_jt=l&euid=SEC_VDMS&chid=d0695f6fa2f143eb95c7a41d96d581c4&ptid=ESPN_tvOS_VDMS&si=1900#User-Agent=Linux-Android 5.0.1:ESPN 2
 #DESCRIPTION ESPN 2
-#SERVICE 4097:0:0:6:0:0:0:0:0:0:https%3a//gma2.blab.email/espn2.m3u8:ESPN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espn2.m3u8#User-Agent=Linux-Android 5.0.1:ESPN 2
 #DESCRIPTION ESPN 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espnu.m3u8:ESPN U
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espnu.m3u8#User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us):ESPN U
 #DESCRIPTION ESPN U
-#SERVICE 4097:0:0:10:0:0:0:0:0:0:https%3a//gma2.blab.email/sec.m3u8:SEC ESPN Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/sec.m3u8#User-Agent=Linux-Android 5.0.1:SEC ESPN Network
 #DESCRIPTION SEC ESPN Network
-#SERVICE 4097:0:0:12:0:0:0:0:0:0:https%3a//gma2.blab.email/acc.m3u8:ACC Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/acc.m3u8#User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us):ACC Network
 #DESCRIPTION ACC Network
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8:Tennis Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8#User-Agent=Linux-Android 5.0.1:Tennis Channel
 #DESCRIPTION Tennis Channel
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8:Tennis Channel+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8#User-Agent=Linux-Android 5.0.1:Tennis Channel+
 #DESCRIPTION Tennis Channel+
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8:Tennis Channel+ 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8#User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us):Tennis Channel+ 2
 #DESCRIPTION Tennis Channel+ 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//icable.cdn.utvhk.com/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f.m3u8:UTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//icable.cdn.utvhk.com/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f.m3u8#User-Agent=Linux-Android 5.0.1:UTV
 #DESCRIPTION UTV
