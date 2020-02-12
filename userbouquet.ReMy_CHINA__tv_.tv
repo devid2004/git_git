@@ -29,8 +29,6 @@
 #DESCRIPTION MSTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.182.100.184/live/pptvthai/index.m3u8:Pptv 36 (th)
 #DESCRIPTION Pptv 36 (th)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtm2mobile.secureswiftcontent.com/Origin01/ngrp%3aRTM1/chunklist_b3696000.m3u8:TV2 HD
-#DESCRIPTION TV2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8:TvN
 #DESCRIPTION TvN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8:TvN movies
@@ -573,7 +571,7 @@
 #DESCRIPTION Zhejiang Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8:Zhejiang Satellite TV
 #DESCRIPTION Zhejiang Satellite TV
-#SERVICE 1:64:A2:0:0:0:0:0:0:0:::::::::::::::::::::::::_Qing Yu Nianquan_:::::::::
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_Qing Yu Nianquan_%3a%3a%3a%3a%3a%3a%3a%3a%3a
 #DESCRIPTION :::::::::::::::::::::::_Qing Yu Nianquan_:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191126/eebb68accf60bff8adffe64c7ac68219/1574769804/index.m3u8:Episode 1
 #DESCRIPTION Episode 1

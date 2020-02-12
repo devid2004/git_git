@@ -203,6 +203,8 @@
 #DESCRIPTION Fox Sports 501
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.sniffercat.com/scheduler/scheduleMaster/2/variant/4.m3u8:FTF
 #DESCRIPTION FTF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8:KIX
+#DESCRIPTION KIX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-b.m3u8:Lax Sports Network
 #DESCRIPTION Lax Sports Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on:Lax Sports Network
