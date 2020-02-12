@@ -141,10 +141,6 @@
 #DESCRIPTION Zombie movie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8:Goddess series
 #DESCRIPTION Goddess series
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8:Netflix LIVE Movies 6
-#DESCRIPTION Netflix LIVE Movies 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8:Netflix LIVE Movies 7
-#DESCRIPTION Netflix LIVE Movies 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8:Netflix LIVE Movies 8
 #DESCRIPTION Netflix LIVE Movies 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8:Netflix LIVE Movies 9
@@ -155,8 +151,6 @@
 #DESCRIPTION Netflix LIVE Movies 12
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8:Netflix LIVE Movies 13
 #DESCRIPTION Netflix LIVE Movies 13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8:Netflix LIVE Movies 16
-#DESCRIPTION Netflix LIVE Movies 16
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8:Netflix LIVE Movies 17
 #DESCRIPTION Netflix LIVE Movies 17
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8:Netflix LIVE Movies 18
@@ -247,6 +241,8 @@
 #DESCRIPTION BTV documentary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//116.199.5.51%3a8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8Fsv_cid=1034&Fsv_chan_hls_se_idx=30Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp?=240veFsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV+jCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO/%0aOFrWyxI+tteLTJnZKT7Lg8BRYQNXMQU=%0a:BTV Fei green rabbit
 #DESCRIPTION BTV Fei green rabbit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8:Cashews
+#DESCRIPTION Cashews
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//42.48.60.248%3a8082/live/gqts-800k.m3u8:CBN Daily Cinema
 #DESCRIPTION CBN Daily Cinema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//42.48.60.248%3a8082/live/gqys-800k.m3u8:CBN Happy Theater
@@ -339,11 +335,21 @@
 #DESCRIPTION Hubei Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225678/index.m3u8:Hubei Satellite TV
 #DESCRIPTION Hubei Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live1.hrtonline.cn%3a1935/live/live101/500K/tzwj_video.m3u8:Hulunbuir Television
+#DESCRIPTION Hulunbuir Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live1.hrtonline.cn%3a1935/live/live100/500K/tzwj_video.m3u8:Hulunbuir News
+#DESCRIPTION Hulunbuir News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live1.hrtonline.cn%3a1935/live/live102/500K/tzwj_video.m3u8:Hulunbuir life
+#DESCRIPTION Hulunbuir life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d1njtfvbx1we7f.cloudfront.net/20190715/5KhT6PO5/1000kb/hls/index.m3u8:Hulunbuir Hayat
+#DESCRIPTION Hulunbuir Hayat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8:Hunan Satellite TV
 #DESCRIPTION Hunan Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225657/index.m3u8:Hyun cartoon
 #DESCRIPTION Hyun cartoon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8:Inner Mongolia Satellite TV
+#DESCRIPTION Inner Mongolia Satellite TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225634/index.m3u8:Inner Mongolia Satellite TV
 #DESCRIPTION Inner Mongolia Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//117.156.28.119/270000001111/1110000112/index.m3u8:IPTV comic book experiment
 #DESCRIPTION IPTV comic book experiment
@@ -443,10 +449,10 @@
 #DESCRIPTION Newtv Gold Variety
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225673/index.m3u8:NewTV Health
 #DESCRIPTION NewTV Health
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8:Newtv is healthy
-#DESCRIPTION Newtv is healthy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8:Newtv is suspenseful
-#DESCRIPTION Newtv is suspenseful
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8:NewTV Health
+#DESCRIPTION NewTV Health
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8:Newtv Suspenseful
+#DESCRIPTION Newtv Suspenseful
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8:Newtv love comedy
 #DESCRIPTION Newtv love comedy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8:NewTV Love Comedy
@@ -473,10 +479,10 @@
 #DESCRIPTION NewTV star blockbuster HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8:NewTV Super Movie
 #DESCRIPTION NewTV Super Movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8:NewTV Çin Kung Fu
-#DESCRIPTION NewTV Çin Kung Fu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8:NewTV Çin Kung Fu
-#DESCRIPTION NewTV Çin Kung Fu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8:NewTV CHN Kung Fu
+#DESCRIPTION NewTV CHN Kung Fu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8:NewTV CHN Kung Fu
+#DESCRIPTION NewTV CHN Kung Fu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8:NewTV war
 #DESCRIPTION NewTV war
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8:Night Legend
@@ -485,14 +491,12 @@
 #DESCRIPTION Ningxia Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8:Phim TQ (Dragon Gate Escort)
 #DESCRIPTION Phim TQ (Dragon Gate Escort)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8:Phim TQ (Lứu Đức Hòa)
-#DESCRIPTION Phim TQ (Lứu Đức Hòa)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8:Phim TQ (RăngđồngắtJiXiaolan)
-#DESCRIPTION Phim TQ (RăngđồngắtJiXiaolan)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8:Phim TQ (Luu Duc Hoa)
+#DESCRIPTION Phim TQ (Luu Duc Hoa)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8:Phim TQ (Jogging teeth JiXiaolan)
+#DESCRIPTION Phim TQ (Jogging teeth JiXiaolan)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225628/index.m3u8:Qinghai Satellite TV
 #DESCRIPTION Qinghai Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8:Reality TV 2
-#DESCRIPTION Reality TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8:Resident Evil
 #DESCRIPTION Resident Evil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8:Science Fiction Movie
@@ -527,8 +531,6 @@
 #DESCRIPTION Speed ​​and Passion
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8:The Condor Heroes
 #DESCRIPTION The Condor Heroes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8:The Romance of the Three Kingdoms
-#DESCRIPTION The Romance of the Three Kingdoms
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8:The ultimate class
 #DESCRIPTION The ultimate class
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1_1200.m3u8:Tiandi Xuanhuang
@@ -537,18 +539,14 @@
 #DESCRIPTION Tianjin Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225648/index.m3u8:Tianjin Satellite TV
 #DESCRIPTION Tianjin Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225638/index.m3u8:Tibet Satellite TV
-#DESCRIPTION Tibet Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8:Tiě yá tóng yá jì lán
-#DESCRIPTION Tiě yá tóng yá jì lán
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8:Tiě tàn yá jì tán
+#DESCRIPTION Tiě tàn yá jì tán
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225639/index.m3u8:Travel satellite TV
 #DESCRIPTION Travel satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.52.162/wh7f454c46tw3730304110_1867932700/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226031/index.m3u8:UFC l BesTV
 #DESCRIPTION UFC l BesTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_1200.m3u8:Unsolved mystery
 #DESCRIPTION Unsolved mystery
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8:Western mythology
-#DESCRIPTION Western mythology
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cstvpull.live.wscdns.com/live/xiamen4.flv:XIAMEN STAR
 #DESCRIPTION XIAMEN STAR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1_1200.m3u8:Xiao Li Feidao
@@ -563,105 +561,11 @@
 #DESCRIPTION XMTV.CN 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8:Xuanyuanjian
 #DESCRIPTION Xuanyuanjian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225638/index.m3u8:XZTV Tibet Satellite TV
+#DESCRIPTION XZTV Tibet Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225636/index.m3u8:Yunnan Satellite TV
 #DESCRIPTION Yunnan Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8:Yī tiān túlóngjì
-#DESCRIPTION Yī tiān túlóngjì
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225612/index.m3u8:Zhejiang Satellite TV
 #DESCRIPTION Zhejiang Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8:Zhejiang Satellite TV
 #DESCRIPTION Zhejiang Satellite TV
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_Qing Yu Nianquan_%3a%3a%3a%3a%3a%3a%3a%3a%3a
-#DESCRIPTION :::::::::::::::::::::::_Qing Yu Nianquan_:::::::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191126/eebb68accf60bff8adffe64c7ac68219/1574769804/index.m3u8:Episode 1
-#DESCRIPTION Episode 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191126/5732e6c5fd2ba9580797bbac42bc3afa/1574769508/index.m3u8:Episode 2
-#DESCRIPTION Episode 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191126/4a8f0703560fbf62737a5412e621106c/1574769796/index.m3u8:Episode 3
-#DESCRIPTION Episode 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191126/92cd1cc6dc8b17f5af5e9ef4e4646f31/1574770052/index.m3u8:Episode 4
-#DESCRIPTION Episode 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191127/dda0147253cc5614c1ee9dc07db53d4d/1574855943/index.m3u8:Episode 5
-#DESCRIPTION Episode 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191127/cf70a07ea78d7a49bcb8c8ad143509cb/1574856214/index.m3u8:Episode 6
-#DESCRIPTION Episode 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191202/6130d5894de49730b8efd518726af6d0/1575289774/index.m3u8:Episode 7
-#DESCRIPTION Episode 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191202/5764ab97bf8d77657045a9cce212602c/1575290626/index.m3u8:Episode 8
-#DESCRIPTION Episode 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191202/32bbb815423d075d4fa7dc5709543d70/1575290909/index.m3u8:Episode 9
-#DESCRIPTION Episode 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191202/d1ba87034a6c2cafc04c426c2d36fa9c/1575290072/index.m3u8:Episode 10
-#DESCRIPTION Episode 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191202/7e13c54c25302df4b91ac796630970e0/1575290345/index.m3u8:Episode 11
-#DESCRIPTION Episode 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191203/53260ec7a4b66e59819a294b479f7431/1575374276/index.m3u8:Episode 12
-#DESCRIPTION Episode 12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191203/bcf2643ea292d4c6dc4d4a97a307bcfe/1575374517/index.m3u8:Episode 13
-#DESCRIPTION Episode 13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191204/b6de5e37911e398ced3222ac05bac6cd/1575461531/index.m3u8:Episode 14
-#DESCRIPTION Episode 14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191204/5e664c13bb769d14505ac7bde3ee4c5f/1575461816/index.m3u8:Episode 15
-#DESCRIPTION Episode 15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191205/22cd2b1ea49a2e23c5bced92209dbbd1/1575552029/index.m3u8:Episode 16
-#DESCRIPTION Episode 16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191205/916a0b5ae4898cf8d8711efae0a4c3fe/1575552019/index.m3u8:Episode 17
-#DESCRIPTION Episode 17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191210/b740ab52eddddd94362c6f115295147c/1575981959/index.m3u8:Episode 18
-#DESCRIPTION Episode 18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191210/705ead2f03fb42b5486e02ce37b60f3c/1575982216/index.m3u8:Episode 19
-#DESCRIPTION Episode 19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191210/7207e4d9b553eaf7dc28a6b48c4a9650/1575983199/index.m3u8:Episode 20
-#DESCRIPTION Episode 20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191210/4aad8f826a12afd1344ebcbea7fe5e16/1575983939/index.m3u8:Episode 21
-#DESCRIPTION Episode 21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191211/dc5da261da7723f499e096ba560f6b1a/1576072148/index.m3u8:Episode 22
-#DESCRIPTION Episode 22
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191211/13717fa114b4d5acd5dcef6b80680c63/1576071284/index.m3u8:Episode 23
-#DESCRIPTION Episode 23
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191211/18f9775f5c6a908a2e4f572326a29edf/1576071251/index.m3u8:Episode 24
-#DESCRIPTION Episode 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.7639616.com/hls/20191211/61e986ad5fad7b64958388200fae21e8/1576071659/index.m3u8:Episode 25
-#DESCRIPTION Episode 25
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191211/60b8547d81f49a38b9b15a628cc2401d/1576072150/index.m3u8:Episode 26
-#DESCRIPTION Episode 26
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.7639616.com/hls/20191211/c5becb0622315154011b5eb6a8a50068/1576071720/index.m3u8:Episode 27
-#DESCRIPTION Episode 27
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.kankia.com/hls/20191216/1502d3f4cab18c1b420df1eb832460c8/1576499388/index.m3u8:Episode 28
-#DESCRIPTION Episode 28
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.kankia.com/hls/20191216/b25ca0acefce9290b34ff6039bff53da/1576499044/index.m3u8:Episode 29
-#DESCRIPTION Episode 29
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.kankia.com/hls/20191216/54f4d7c9b2c0ff2ad2fa16f47d47787b/1576509615/index.m3u8:Episode 30
-#DESCRIPTION Episode 30
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn7.kankia.com/hls/20191216/ce7c7408bf80ac15d23360d1be7f7673/1576509006/index.m3u8:Episode 31
-#DESCRIPTION Episode 31
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.kankia.com/hls/20191217/9172fdc56e0f7c5808a5971cdf037d54/1576547595/index.m3u8:Episode 32
-#DESCRIPTION Episode 32
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn6.kankia.com/hls/20191217/1e89d91110ec458634943e4e15bc8eae/1576587346/index.m3u8:Episode 33
-#DESCRIPTION Episode 33
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn1.kankia.com/hls/20191220/5b80956aae2ee3d6f1d8b3c08a621d8e/1576772292/index.m3u8:Episode 34
-#DESCRIPTION Episode 34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn1.kankia.com/hls/20191220/965da83a216ee4cd2c5c07c2de7106b9/1576772932/index.m3u8:Episode 35
-#DESCRIPTION Episode 35
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn1.kankia.com/hls/20191220/d7bc020860d12f43157b8d7d289257bb/1576774293/index.m3u8:Episode 36
-#DESCRIPTION Episode 36
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn1.kankia.com/hls/20191220/15f859476ffa2659a22a34553c45652c/1576773629/index.m3u8:Episode 37
-#DESCRIPTION Episode 37
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn1.kankia.com/hls/20191220/11e8b18c54394bca7310b312dd93ce8c/1576774930/index.m3u8:Episode 38
-#DESCRIPTION Episode 38
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn1.kankia.com/hls/20191220/6face134b805c162536e1acc59679866/1576775577/index.m3u8:Episode 39
-#DESCRIPTION Episode 39
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn1.kankia.com/hls/20191220/545eab2e87327ddbb79c1626fd878b3a/1576776206/index.m3u8:Episode 40
-#DESCRIPTION Episode 40
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn1.kankia.com/hls/20191220/6c9061cd68c1b69c50dacff8f0f453b8/1576776857/index.m3u8:Episode 41
-#DESCRIPTION Episode 41
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn1.kankia.com/hls/20191220/949f6fb35b7fe5cee4a7851164c025ef/1576777481/index.m3u8:Episode 42
-#DESCRIPTION Episode 42
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn1.kankia.com/hls/20191220/223da575109810cba2d8d71b3ce6ab52/1576776843/index.m3u8:Episode 43
-#DESCRIPTION Episode 43
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn1.kankia.com/hls/20191220/bd636dc3c84dfbb218639f91199fabba/1576776144/index.m3u8:Episode 44
-#DESCRIPTION Episode 44
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn1.kankia.com/hls/20191220/c046cf9b2ab8e24014fb66256c8a1486/1576775998/index.m3u8:Episode 45
-#DESCRIPTION Episode 45
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cn1.kankia.com/hls/20191220/596ff11e1db2c3969da01367fc41d3b0/1576776716/index.m3u8:Episode 46
-#DESCRIPTION Episode 46
