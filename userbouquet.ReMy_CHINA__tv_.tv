@@ -135,32 +135,14 @@
 #DESCRIPTION Yunnan Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.146%3a18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009806&owchid=ystenlive&owsid=1106497909461218392&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRt6tuEx40ruFSJnrbh2BVWwXsEFuvV04XsE9ZOm50Z8cpDzo0JrXSxYrVj73IVRt9:Zhejiang Satellite TV HD
 #DESCRIPTION Zhejiang Satellite TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/donghuawg/1.m3u8:Blackberry Kingdom of Animation FHD
-#DESCRIPTION Blackberry Kingdom of Animation FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/wmyx/1.m3u8:Blackberry perfect play
-#DESCRIPTION Blackberry perfect play
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jdianying/yst.m3u8:Blackberry boutique film
-#DESCRIPTION Blackberry boutique film
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jzongyi/yst.m3u8:CCTV 14
-#DESCRIPTION CCTV 14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/nongyezf/1.m3u8:NewTV Cultivation rich
-#DESCRIPTION NewTV Cultivation rich
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jiatingjc/1.m3u8:NewTV Family Theater HD
-#DESCRIPTION NewTV Family Theater HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/jingsongxy/1.m3u8:NewTV fear anxiety HD
-#DESCRIPTION NewTV fear anxiety HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/aiqingxj/1.m3u8:NewTV Love Comedy
-#DESCRIPTION NewTV Love Comedy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/xiqumd/1.m3u8:NewTV Overseas Theater
-#DESCRIPTION NewTV Overseas Theater
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/mingxingdp/1.m3u8:NewTV star blockbuster HD
-#DESCRIPTION NewTV star blockbuster HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8:NewTV CHN Kung Fu
-#DESCRIPTION NewTV CHN Kung Fu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//121.31.30.90%3a8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8:NewTV war
-#DESCRIPTION NewTV war
 #SERVICE 1:64:A3:0:0:0:0:0:0:0::==== ★★ReMy | Bravo Inc._CHINA★★ ====
 #DESCRIPTION ==== ★★ReMy | Bravo Inc._CHINA★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8:Blackberry Animation Kingdom
+#DESCRIPTION Blackberry Animation Kingdom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8:Blackberry Game
+#DESCRIPTION Blackberry Game
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8:Blackberry movie
+#DESCRIPTION Blackberry movie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8:CCTV-1 HD
 #DESCRIPTION CCTV-1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8:CCTV 5 HD
@@ -199,16 +181,12 @@
 #DESCRIPTION NEW TV Super Sports HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8:Newtv action movie
 #DESCRIPTION Newtv action movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8:Newtv Animation Kingdom
-#DESCRIPTION Newtv Animation Kingdom
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8:Newtv Costume Theater
 #DESCRIPTION Newtv Costume Theater
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8:Newtv Chinese Kung Fu
 #DESCRIPTION Newtv Chinese Kung Fu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8:Newtv drama
 #DESCRIPTION Newtv drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8:Newtv electricity,actually
-#DESCRIPTION Newtv electricity,actually
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8:Newtv Family Theatre
 #DESCRIPTION Newtv Family Theatre
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8:Newtv fight theater
@@ -223,8 +201,6 @@
 #DESCRIPTION Newtv military commentary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8:Newtv Military Theatre
 #DESCRIPTION Newtv Military Theatre
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8:Newtv movie
-#DESCRIPTION Newtv movie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8:Newtv love comedy
 #DESCRIPTION Newtv love comedy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8:Newtv Overseas Theatre
