@@ -1265,6 +1265,14 @@ http://111.40.205.87/PLTV/88888888/224/3221225731/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",CCTV-15 HD
 http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Blackberry Animation Kingdom
+http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Blackberry Animation Kingdom2
+http://111.40.205.87/PLTV/88888888/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Blackberry Game
+http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Blackberry movie
+http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",HRB FUN 
 http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",HRB FILM 
@@ -1281,14 +1289,6 @@ http://111.40.205.70/PLTV/88888888/224/3221225674/index.m3u8
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv action movie
 http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Blackberry Animation Kingdom
-http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Blackberry Animation Kingdom2
-http://111.40.205.87/PLTV/88888888/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Blackberry Game
-http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Blackberry movie
-http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv Costume Theater
 http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv Chinese Kung Fu
