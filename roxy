@@ -1241,6 +1241,198 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",Yu No Te Pierdas Nada HD 
 https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",ReMy_CHINA_Bravo Inc.
+ReMy_CHINA_Bravo Inc.
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",CCTV-1 HD
+http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",CCTV 5 HD
+http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",CCTV-5+ HD
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",CCTV-5+ HD
+http://111.40.205.87/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",CCTV-7 HD
+http://111.40.205.87/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",CCTV-8 HD
+http://111.40.205.87/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",CCTV-9 HD
+http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",CCTV-10 HD
+http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",CCTV-12 HD
+http://111.40.205.87/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",CCTV-14 HD
+http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",CCTV-15 HD
+http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",HRB FUN 
+http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",HRB FILM 
+http://111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",HRB NEWS 
+http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",HRB Life 
+http://111.40.205.87/PLTV/88888888/224/3221225762/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",HRB INFO 
+http://111.40.205.87/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv Sports HD
+http://111.40.205.70/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",NEW TV Super Sports HD
+http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv action movie
+http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Blackberry Animation Kingdom
+http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Blackberry Animation Kingdom2
+http://111.40.205.87/PLTV/88888888/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Blackberry Game
+http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Blackberry movie
+http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv Costume Theater
+http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv Chinese Kung Fu
+http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv drama
+http://111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv Family Theatre
+http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv fight theater
+http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv healthy
+http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",NewTV Hyun The Future of Dance 
+http://111.40.205.87/PLTV/88888888/224/3221226817/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv Gold Variety
+http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv military commentary
+http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv Military Theatre
+http://111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv love comedy
+http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv Overseas Theatre
+http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv record
+http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv star blockbuster
+http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",NewTV SUper FILM 
+http://111.40.205.87/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Newtv suspenseful
+http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Amdo Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Anhui Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Anhui Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Beijing Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Beijing Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Beijing Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",BTV documentary
+http://111.40.205.87/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",CETV-1
+http://111.40.205.87/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Chongqing Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Dragon TV
+http://111.40.205.87/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Dragon TV
+http://111.40.205.87/PLTV/88888888/224/3221225700/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Dragon TV
+http://111.40.205.87/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Excellent cartoon
+http://111.40.205.87/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Fashion shopping
+http://111.40.205.87/PLTV/88888888/224/3221225679/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Gansu Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Guangdong Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225736/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Guangdong Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225699/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Guangdong Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Guangxi Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Guizhou Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Hebei Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Heilongjiang Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225640/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Heilongjiang Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Hubei Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Hubei Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Hubei Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Hunan Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Hyun cartoon
+http://111.40.205.87/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Inner Mongolia Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Jiangsu Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Jiangsu Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Jiangxi Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225615/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Jilin Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Kangba TV
+http://111.40.205.87/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Liaoning Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Ningxia Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Qinghai Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Shaanxi Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Shandong Education
+http://111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Shandong Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Shandong Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Shanxi Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Shenzhen Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Shenzhen Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Sichuan Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Southeast Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Tianjin Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Tianjin Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Tibet Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Travel satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Xinjiang Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Yunnan Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Zhejiang Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",Zhejiang Satellite TV
+http://111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",ZJ-shaoer
+http://111.40.205.87/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA_Bravo Inc.",ZJ_shumashidai
+http://111.40.205.87/PLTV/88888888/224/3221226638/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",ReMy_CHINA
 ReMy_CHINA
 #EXTINF:-1 group-title="ReMy_CHINA",CHINA
@@ -1401,246 +1593,6 @@ http://39.135.34.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ys
 http://42.48.60.248:8082/live/gqys-800k.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",CBN Daily Cinema 
 http://42.48.60.248:8082/live/gqts-800k.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV 5 HD
-http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NEW TV Super sports HD
-http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv boutique sports
-http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-1
-http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-5+
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-5
-http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-5+
-http://111.40.205.87/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-7
-http://111.40.205.87/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-8
-http://111.40.205.87/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-9
-http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-10
-http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-12
-http://111.40.205.87/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-14
-http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-15
-http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV-15
-http://111.40.205.87/PLTV/88888888/224/3221225721/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Zhejiang Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Jiangsu Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Hunan Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Anhui Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Guangdong Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225699/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Guangdong Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225736/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Shandong Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Hubei Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225705/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Dragon TV
-http://111.40.205.87/PLTV/88888888/224/3221225700/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Dragon TV
-http://111.40.205.87/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Beijing Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Beijing Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Tianjin Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Shenzhen Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Jiangxi Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225615/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Chongqing Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Liaoning Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Southeast Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Sichuan Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Guangxi Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Hebei Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225623/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Shanxi Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Shaanxi Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225625/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Guizhou Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225626/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Hubei Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Qinghai Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Anhui Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225631/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Ningxia Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Gansu Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Inner Mongolia Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Xinjiang Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Yunnan Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225636/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Jilin Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Tibet Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Travel satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Heilongjiang Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Guangdong Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Zhejiang Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Jiangsu Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Shenzhen Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225645/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Dragon TV
-http://111.40.205.87/PLTV/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Tianjin Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Shandong Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Beijing Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Hubei Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CETV-1
-http://111.40.205.87/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",BTV documentary
-http://111.40.205.87/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Shandong Education
-http://111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Excellent cartoon
-http://111.40.205.87/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Hyun cartoon
-http://111.40.205.87/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Heilongjiang Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Amdo Satellite TV
-http://111.40.205.87/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Kangba TV
-http://111.40.205.87/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Fashion shopping
-http://111.40.205.87/PLTV/88888888/224/3221225679/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv action movie
-http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv Animation Kingdom
-http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv Costume Theater
-http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv star blockbuster
-http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv is suspenseful
-http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv Gold Variety
-http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv boutique movie
-http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv military commentary
-http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv love comedy
-http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv boutique drama
-http://111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv Overseas Theatre
-http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv boutique record
-http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv is healthy
-http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv electricity,actually
-http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv Military Theatre
-http://111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv Family Theatre
-http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv fight theater
-http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",Newtv Chinese Kung Fu
-http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",HRB FUN 
-http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",HRB FILM 
-http://111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",HRB NEWS 
-http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",HRB Life 
-http://111.40.205.87/PLTV/88888888/224/3221225762/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",HRB INFO 
-http://111.40.205.87/PLTV/88888888/224/3221225761/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Süper sporları HD 
-http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Çin Kung Fu 
-http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Health has an appointment 
-http://111.40.205.76/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV MILITARY EXAMINATION 
-http://111.40.205.76/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV MILITARY THEATER 
-http://111.40.205.76/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV ACTION FILM 
-http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Animation KINGDOM 
-http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV COSTUM THEATER 
-http://111.40.205.76/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV FAMILY THEATER 
-http://111.40.205.76/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV fear 
-http://111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV fight THEATER 
-http://111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV star blockbuster 
-http://111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Overseas THEATER 
-http://111.40.205.76/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Love Comedy 
-http://111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV electricity 
-http://111.40.205.76/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ DRAMA 
-http://111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ FILM 
-http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ registration 
-http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Gold Variety 
-http://111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Health has an appointment 
-http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV fight THEATER 
-http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV BOUTIQ registration 
-http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",ZJ-shaoer
-http://112.17.40.140/PLTV/88888888/224/3221226251/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",ZJ_shumashidai
-http://112.17.40.140/PLTV/88888888/224/3221226638/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV1
-http://112.17.40.140/PLTV/88888888/224/3221226595/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",CCTV1
-http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV Hyun The Future of Dance 
-http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
-#EXTINF:-1 group-title="ReMy_CHINA",NewTV SUper FILM 
-http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",TVB Pearl 
 http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=PPentu_
 #EXTINF:-1 group-title="ReMy_CHINA",TVB Fei - Yeşil - Tayvan 
@@ -3643,6 +3595,26 @@ http://95.170.215.118:80/hls/m3u8/Sky-MoviesPremie.m3u8
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1 group-title="ReMy_U.S.A",Sky-MoviesDisney
 http://95.170.215.118:80/hls/m3u8/Sky-MoviesDisney.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",RCTI+
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",MNC+
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",INEWS+
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",NATGEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",NATGEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",NATGEO PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",TRANS 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_U.S.A",Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 group-title="ReMy_U.S.A",ADVENTURE
 http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" group-title="ReMy_U.S.A",Black Cinema

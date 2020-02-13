@@ -1,12 +1,10 @@
 #NAME == ★★ReMy | U.S.A & U.K★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_bbc_1000kb_36bay2/index.m3u8:BBC 1
-#DESCRIPTION BBC 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/004:BBC News 24
+#DESCRIPTION BBC News 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8:BBC 2
 #DESCRIPTION BBC 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/003:BBC 4 / CBeebies
 #DESCRIPTION BBC 4 / CBeebies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/004:BBC News 24
-#DESCRIPTION BBC News 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8:ITV 1
 #DESCRIPTION ITV 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/005:ITV 2
@@ -15,8 +13,6 @@
 #DESCRIPTION ITV 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/007:ITV 4
 #DESCRIPTION ITV 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/4music/:4 Music
-#DESCRIPTION 4 Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?fluxustv.m3u8:24/7 Super Geek Heroes
 #DESCRIPTION 24/7 Super Geek Heroes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News UK
@@ -103,6 +99,26 @@
 #DESCRIPTION Vintage Music TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8:World of Free Sports
 #DESCRIPTION World of Free Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil%3adubairacing.smil/chunklist_b1600000.m3u8:Dubai Racing
+#DESCRIPTION Dubai Racing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rctiplus.id/rctiplus/inews_720p.m3u8:INEWS+
+#DESCRIPTION INEWS+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rctiplus.id/rctiplus/mnctv_720p.m3u8:MNC+
+#DESCRIPTION MNC+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ventdelnord.tv%3a8080/mola/directe.m3u8:Mola TV
+#DESCRIPTION Mola TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rctiplus.id/rctiplus/rcti_720p.m3u8:RCTI+
+#DESCRIPTION RCTI+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8:NATGEO
+#DESCRIPTION NATGEO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8:NATGEO WILD
+#DESCRIPTION NATGEO WILD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8:NATGEO PEOPLE
+#DESCRIPTION NATGEO PEOPLE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.detik.com/transtv/smil%3atranstv.smil/playlist.m3u8:TRANS TV HD
+#DESCRIPTION TRANS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.detik.com/trans7/smil%3atrans7.smil/playlist.m3u8:TRANS 7 HD
+#DESCRIPTION TRANS 7 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mediaworks-i.akamaihd.net%3a80/hls/live/220435/3812193411001/3news_live/master.m3u8:+HR=E
 #DESCRIPTION +HR=E
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//247retrotv.com%3a1935/live/smil%3a247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8:24/7 Retro TV
@@ -1111,11 +1127,11 @@
 #DESCRIPTION SBN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8:SBN Global
 #DESCRIPTION SBN Global
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/51.1/1280x720?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN HD (16%3a9)(WTVE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/51.1/1280x720?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN HD (16:9)(WTVE)
 #DESCRIPTION SBN HD (16:9)(WTVE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/25.1/768x432?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (16%3a9)(WPHY-CD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/25.1/768x432?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (16:9)(WPHY-CD)
 #DESCRIPTION SBN SD (16:9)(WPHY-CD)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/8.3/640x480?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (4%3a3)(WPSJ-CD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/8.3/640x480?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (4:3)(WPSJ-CD)
 #DESCRIPTION SBN SD (4:3)(WPSJ-CD)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:Science TV (Pluto TV)
 #DESCRIPTION Science TV (Pluto TV)
