@@ -1,10 +1,6 @@
 #NAME == ★★ReMy | CHINA★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//27.254.130.64/live01/ch6.m3u8?p=m3u8:5HD THAI
 #DESCRIPTION 5HD THAI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.126.83.51/qwr9ew/s/s33/index.m3u8:Celestial Movies
-#DESCRIPTION Celestial Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8:Celestial Movies
-#DESCRIPTION Celestial Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8:CNN ENDONESIA
 #DESCRIPTION CNN ENDONESIA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.235.41%3a16924:Golf network
@@ -321,10 +317,6 @@
 #DESCRIPTION Zhejiang Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8:Zhejiang Satellite TV
 #DESCRIPTION Zhejiang Satellite TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221226251/index.m3u8:ZJ-shaoer
-#DESCRIPTION ZJ-shaoer
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221226638/index.m3u8:ZJ_shumashidai
-#DESCRIPTION ZJ_shumashidai
 #SERVICE 1:64:A4:0:0:0:0:0:0:0::==== ★★ReMy | HUYALIVE_CHINA★★ ====
 #DESCRIPTION ==== ★★ReMy | HUYALIVE_CHINA★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8:Anime big movie
@@ -337,16 +329,14 @@
 #DESCRIPTION Zombie movie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8:Goddess series
 #DESCRIPTION Goddess series
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8:Deer Ding Ji
+#DESCRIPTION Deer Ding Ji
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8:Netflix LIVE Movies 8
 #DESCRIPTION Netflix LIVE Movies 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8:Netflix LIVE Movies 9
 #DESCRIPTION Netflix LIVE Movies 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8:Deer Ding Ji
-#DESCRIPTION Deer Ding Ji
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8:Netflix LIVE Movies 12
 #DESCRIPTION Netflix LIVE Movies 12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8:Netflix LIVE Movies 13
-#DESCRIPTION Netflix LIVE Movies 13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8:Netflix LIVE Movies 17
 #DESCRIPTION Netflix LIVE Movies 17
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8:Netflix LIVE Movies 18
@@ -393,8 +383,8 @@
 #DESCRIPTION huyalive Movies 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8:huyalive Movies 11
 #DESCRIPTION huyalive Movies 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8:BABY / PARENT CHILD
-#DESCRIPTION BABY / PARENT CHILD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8:BABY FIRST
+#DESCRIPTION BABY FIRST
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8:Blue Ball Fire
 #DESCRIPTION Blue Ball Fire
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/94525224-2702136290-11605586994884771840-4573721796-10057-A-0-1_1200.m3u8:Brave Game 3
@@ -437,14 +427,12 @@
 #DESCRIPTION KAZAKH TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8:KUROKO BASKETBOL ​​
 #DESCRIPTION KUROKO BASKETBOL ​​
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1_1200.m3u8:Let's get married.
-#DESCRIPTION Let's get married.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1_1200.m3u8:Let's get married
+#DESCRIPTION Let's get married
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//aldirect.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8:Lotus Lantern
 #DESCRIPTION Lotus Lantern
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8:Love Apartment
 #DESCRIPTION Love Apartment
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xinl.live.maxtv.cn/live/zb/playlist.m3u8:Max Financial Media
-#DESCRIPTION Max Financial Media
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8:Military drama
 #DESCRIPTION Military drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8:New Three Kingdoms
