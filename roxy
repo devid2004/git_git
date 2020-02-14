@@ -168,6 +168,8 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_si
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",A HABER HD
 https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN TURK HD
+https://srvc.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN TURK HD
 http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",HABER TURK HD
 https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
@@ -4939,6 +4941,10 @@ https://1drv.ws/v/s!AmlGjvQBird1gQczNrD2btKomNWR?e=llYz9Z
 https://1drv.ws/u/s!AmlGjvQBird1eMLSwi9Z_3OS1Zw?e=e3vOE9
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Siteler Muzik ANGARA
 http://live.arkumedia.com:1935/sitelertv/sitelertv/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TV
+https://soledge13.duhnet.tv//S2/HLS_LIVE/dreamtvnp/playlist.m3u8?key=94b5238d0b8a4ec047680bb895e97a6c&live=true&app=com.dreamtv
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TURK
+https://soledge13.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8?key=94b5238d0b8a4ec047680bb895e97a6c&live=true&app=com.dreamturk
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TURK
 http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TV
