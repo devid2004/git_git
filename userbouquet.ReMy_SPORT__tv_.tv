@@ -101,44 +101,44 @@
 #DESCRIPTION my TV+ APP GUIDE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.101%3a80/hls/m3u8/Bein-S1-a58.m3u8:Bein Sport 1 FHD
 #DESCRIPTION Bein Sport 1 FHD
-#SERVICE 4097:0:0:7:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spo-football.m3u8:Sky-Sports-football
-#DESCRIPTION Sky-Sports-football
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-action.m3u8:Sky-Sports-action
-#DESCRIPTION Sky-Sports-action
-#SERVICE 4097:0:0:4:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Arena.m3u8:Sky-Sports-Arena
-#DESCRIPTION Sky-Sports-Arena
-#SERVICE 4097:0:0:6:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spor-cricket.m3u8:Sky-Sports-cricket
-#DESCRIPTION Sky-Sports-cricket
-#SERVICE 4097:0:0:8:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Golf.m3u8:Sky-Sports-Golf
-#DESCRIPTION Sky-Sports-Golf
+#SERVICE 4097:0:0:7:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spo-football.m3u8:Sky Sports football
+#DESCRIPTION Sky Sports football
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-action.m3u8:Sky Sports action
+#DESCRIPTION Sky Sports action
+#SERVICE 4097:0:0:4:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Arena.m3u8:Sky Sports Arena
+#DESCRIPTION Sky Sports Arena
+#SERVICE 4097:0:0:6:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spor-cricket.m3u8:Sky Sports cricket
+#DESCRIPTION Sky Sports cricket
+#SERVICE 4097:0:0:8:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Golf.m3u8:Sky Sports Golf
+#DESCRIPTION Sky Sports Golf
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/skysportsgolf.m3u8:Sky Sports Golf
 #DESCRIPTION Sky Sports Golf
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-Pre-L.m3u8:Sky-Sport-Pre-L
-#DESCRIPTION Sky-Sport-Pre-L
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-S-main-even.m3u8:Sky-Sport-main-event
-#DESCRIPTION Sky-Sport-main-event
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8:Sky-Sports-1HD
-#DESCRIPTION Sky-Sports-1HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8:Sky-Sports-2HD
-#DESCRIPTION Sky-Sports-2HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8:Sky-Sports-3HD
-#DESCRIPTION Sky-Sports-3HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-4HD.m3u8:Sky-Sports-4HD
-#DESCRIPTION Sky-Sports-4HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8:Sky-Sports-5HD
-#DESCRIPTION Sky-Sports-5HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8:EURO-Sport-1
-#DESCRIPTION EURO-Sport-1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8:EURO-Sport-2
-#DESCRIPTION EURO-Sport-2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BT-Sport-1HD.m3u8:BT Sports 1 HD
-#DESCRIPTION BT Sports 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8:BT-Sport-1HD
-#DESCRIPTION BT-Sport-1HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8:BT-Sport 2 HD
-#DESCRIPTION BT-Sport 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8:ZIGGO-Select LIVE
-#DESCRIPTION ZIGGO-Select LIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-Pre-L.m3u8:Sky Sport Premier Lig
+#DESCRIPTION Sky Sport Premier Lig
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-S-main-even.m3u8:Sky Sport main event
+#DESCRIPTION Sky Sport main event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8:Sky Sports 1 HD
+#DESCRIPTION Sky Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8:Sky Sports 2 HD
+#DESCRIPTION Sky Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8:Sky Sports 3 HD
+#DESCRIPTION Sky Sports 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-4HD.m3u8:Sky Sports 4 HD
+#DESCRIPTION Sky Sports 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8:Sky Sports 5 HD
+#DESCRIPTION Sky Sports 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8:EURO Sport 1
+#DESCRIPTION EURO Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8:EURO Sport 2
+#DESCRIPTION EURO Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BT-Sport-1HD.m3u8:BT Sport 1 HD
+#DESCRIPTION BT Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8:BT Sport 1 HD
+#DESCRIPTION BT Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8:BT Sport 2 HD
+#DESCRIPTION BT Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8:ZIGGO Select LIVE
+#DESCRIPTION ZIGGO Select LIVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8:KSA Sport1
 #DESCRIPTION KSA Sport1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA Sport2
@@ -159,14 +159,14 @@
 #DESCRIPTION Dubai Sports
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/Dub-Sport2-Bakup.m3u8:Dubai Sports 2
 #DESCRIPTION Dubai Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8:CCTV-5+
-#DESCRIPTION CCTV-5+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8:CCTV 5 HD
 #DESCRIPTION CCTV 5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.70/PLTV/88888888/224/3221225674/index.m3u8:Newtv Sports HD
-#DESCRIPTION Newtv Sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:NEW TV Super Sports HD
-#DESCRIPTION NEW TV Super Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8:CCTV-5+ HD
+#DESCRIPTION CCTV-5+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.70/PLTV/88888888/224/3221225674/index.m3u8:NewTV Sports HD
+#DESCRIPTION NewTV Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:NewTV Super Sports HD
+#DESCRIPTION NewTV Super Sports HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.47.252.54/hls/stream.m3u8:Ads sport cricket
 #DESCRIPTION Ads sport cricket
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8:Arena Sports 1
