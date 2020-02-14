@@ -95,7 +95,7 @@
 #DESCRIPTION Tivibu Spor 2 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor3_tr.m3u8:Tivibu Spor 3 Turkey HD
 #DESCRIPTION Tivibu Spor 3 Turkey HD
-#SERVICE 1:64:90:0:0:0:0:0:0:0:::::_ROKU TV APP_:::
+#SERVICE 1:64:90:0:0:0:0:0:0:0::%3a%3a%3a_ROKU TV APP_%3a%3a%3a
 #DESCRIPTION :::_ROKU TV APP_:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=56&f=.m3u8:beIN Sports Espanol
 #DESCRIPTION beIN Sports Espanol
@@ -119,7 +119,7 @@
 #DESCRIPTION GOLTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=57&f=.m3u8:La Liga TV
 #DESCRIPTION La Liga TV
-#SERVICE 1:64:91:0:0:0:0:0:0:0:::::_my TV+ APP_:::
+#SERVICE 1:64:91:0:0:0:0:0:0:0::%3a%3a%3a_my TV+ APP_%3a%3a%3a
 #DESCRIPTION :::_my TV+ APP_:::
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:my TV+ APP GUIDE
 #DESCRIPTION my TV+ APP GUIDE
@@ -167,22 +167,8 @@
 #DESCRIPTION KSA Sport1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA Sport2
 #DESCRIPTION KSA Sport2
-#SERVICE 1:64:92:0:0:0:0:0:0:0:::::_REMY TV APP_:::
+#SERVICE 1:64:92:0:0:0:0:0:0:0::%3a%3a%3a_REMY TV APP_%3a%3a%3a
 #DESCRIPTION :::_REMY TV APP_:::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil%3adubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8:Dubai Racing
-#DESCRIPTION Dubai Racing
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports:Dubai Sports
-#DESCRIPTION Dubai Sports
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/Dub-Sport2-Bakup.m3u8:Dubai Sports 2
-#DESCRIPTION Dubai Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8:CCTV 5 HD
-#DESCRIPTION CCTV 5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8:CCTV-5+ HD
-#DESCRIPTION CCTV-5+ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.70/PLTV/88888888/224/3221225674/index.m3u8:NewTV Sports HD
-#DESCRIPTION NewTV Sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:NewTV Super Sports HD
-#DESCRIPTION NewTV Super Sports HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.47.252.54/hls/stream.m3u8:Ads sport cricket
 #DESCRIPTION Ads sport cricket
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8:Arena Sports 1
@@ -191,8 +177,18 @@
 #DESCRIPTION Arena Sports 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8:Boss Charm Network
 #DESCRIPTION Boss Charm Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8:CCTV 5 HD
+#DESCRIPTION CCTV 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8:CCTV-5+ HD
+#DESCRIPTION CCTV-5+ HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/c.m3u8:DISTRO TV World of Free Sports
 #DESCRIPTION DISTRO TV World of Free Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil%3adubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8:Dubai Racing
+#DESCRIPTION Dubai Racing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports:Dubai Sports
+#DESCRIPTION Dubai Sports
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/Dub-Sport2-Bakup.m3u8:Dubai Sports 2
+#DESCRIPTION Dubai Sports 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8:Edge Sports
 #DESCRIPTION Edge Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8:Eurosport 1
@@ -227,6 +223,10 @@
 #DESCRIPTION Lax Sports Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.154.243.89%3a1208:NBC Golf
 #DESCRIPTION NBC Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.70/PLTV/88888888/224/3221225674/index.m3u8:NewTV Sports HD
+#DESCRIPTION NewTV Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:NewTV Super Sports HD
+#DESCRIPTION NewTV Super Sports HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8:Olympic Channel LIVE
 #DESCRIPTION Olympic Channel LIVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.250.201.58%3a6211/pk/ONEGOLF/index.m3u8:One Golf
@@ -267,7 +267,7 @@
 #DESCRIPTION 2 AD SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
-#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
+#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100%25 Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alkasmsl4.akamaized.net/hls/live/2003123/alkassone1/master570.m3u8:Al Kass One
 #DESCRIPTION Al Kass One
