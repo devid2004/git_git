@@ -95,6 +95,32 @@
 #DESCRIPTION Tivibu Spor 2 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor3_tr.m3u8:Tivibu Spor 3 Turkey HD
 #DESCRIPTION Tivibu Spor 3 Turkey HD
+#SERVICE 1:64:90:0:0:0:0:0:0:0:::::_ROKU TV APP_:::
+#DESCRIPTION :::_ROKU TV APP_:::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=56&f=.m3u8:beIN Sports Espanol
+#DESCRIPTION beIN Sports Espanol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=108&f=.m3u8:Fox Sports 1 USA
+#DESCRIPTION Fox Sports 1 USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=105&f=.m3u8:Fox Sports 1 Mexico
+#DESCRIPTION Fox Sports 1 Mexico
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=106&f=.m3u8:Fox Sports 2 Mexico
+#DESCRIPTION Fox Sports 2 Mexico
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=107&f=.m3u8:Fox Sports 3 Mexico
+#DESCRIPTION Fox Sports 3 Mexico
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=187&f=.m3u8:Sky Sports Action
+#DESCRIPTION Sky Sports Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=188&f=.m3u8:Sky Sports F1
+#DESCRIPTION Sky Sports F1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=190&f=.m3u8:Sky Sports Main Event
+#DESCRIPTION Sky Sports Main Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=191&f=.m3u8:Sky Sports Mix
+#DESCRIPTION Sky Sports Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=115&f=.m3u8:GOLTV
+#DESCRIPTION GOLTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=57&f=.m3u8:La Liga TV
+#DESCRIPTION La Liga TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.47.252.54/hls/stream.m3u8:Ads sport cricket
+#DESCRIPTION Ads sport cricket
 #SERVICE 1:64:90:0:0:0:0:0:0:0:::::_my TV+ APP_:::
 #DESCRIPTION :::_my TV+ APP_:::
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:my TV+ APP GUIDE
@@ -143,6 +169,8 @@
 #DESCRIPTION KSA Sport1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA Sport2
 #DESCRIPTION KSA Sport2
+#SERVICE 1:64:90:0:0:0:0:0:0:0:::::_REMY TV APP_:::
+#DESCRIPTION :::_REMY TV APP_:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.denied.network/sporttv1hd/stream:SPORTTV 1 HD
 #DESCRIPTION SPORTTV 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.denied.network/sporttv2hd/stream:SPORTTV 2 HD

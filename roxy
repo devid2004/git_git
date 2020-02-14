@@ -337,6 +337,30 @@ http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 https://cstream8.com/hls/btsport1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="ReMy_SPORT",BT Sports 2
 https://cstream8.com/hls/btsport2.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://static.iptv-epg.com/us/beINSportsEnEspanol.us.png" group-title="Sports",beIN Sports Espanol
+http://claro2-pi-dns.herokuapp.com/master.php?id=56&f=.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585-354x200.jpg" group-title="Sports",Fox Sports 1 USA
+http://claro2-pi-dns.herokuapp.com/master.php?id=108&f=.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Mexico
+http://claro2-pi-dns.herokuapp.com/master.php?id=105&f=.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 Mexico
+http://claro2-pi-dns.herokuapp.com/master.php?id=106&f=.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3 Mexico
+http://claro2-pi-dns.herokuapp.com/master.php?id=107&f=.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sports Action
+http://claro2-pi-dns.herokuapp.com/master.php?id=187&f=.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Sports",Sky Sports F1
+http://claro2-pi-dns.herokuapp.com/master.php?id=188&f=.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="Sports",Sky Sports Main Event
+http://claro2-pi-dns.herokuapp.com/master.php?id=190&f=.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="Sports",Sky Sports Mix
+http://claro2-pi-dns.herokuapp.com/master.php?id=191&f=.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://static.iptv-epg.com/us/GolTVSpanish.us.png" group-title="Football",GOLTV
+http://claro2-pi-dns.herokuapp.com/master.php?id=115&f=.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://static.iptv-epg.com/es/LaLigaTV.es.png" group-title="Football",La Liga TV
+http://claro2-pi-dns.herokuapp.com/master.php?id=57&f=.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Cricket",Ads sport cricket
+http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="ReMy_SPORT",Fox Sports 1 Asia
 https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="ReMy_SPORT",Fox Sports 2 Asia
