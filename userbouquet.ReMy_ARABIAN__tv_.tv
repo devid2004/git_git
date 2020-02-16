@@ -111,6 +111,8 @@
 #DESCRIPTION Javan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.27.116.54%3a1935/live/amn/chunklist_w1521888123.m3u8:Jorden TV
 #DESCRIPTION Jorden TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.joinvisions.net%3a1935/jorlive/sport/playlist.m3u8?DVR:Jordan Sport TV
+#DESCRIPTION Jordan Sport TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playout395.livestreamingcdn.com/live/Stream1/chunklist_w1161490152.m3u8:Kayhan TV HD
 #DESCRIPTION Kayhan TV HD
 #SERVICE 4097:0:0:24:0:0:0:0:0:0:http%3a//95.170.215.106/hls/m3u8/Kmax-Sh-B-Backup.m3u8:Kmax-Sh
@@ -243,6 +245,8 @@
 #DESCRIPTION Noor Dubai
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv:Noor Dubai
 #DESCRIPTION Noor Dubai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=oman_sport:Oman Sport
+#DESCRIPTION Oman Sport
 #SERVICE 4097:0:0:26:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/ON-Drama.m3u8:ON-Drama
 #DESCRIPTION ON-Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8:Peace TV
@@ -266,6 +270,8 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8:Sharjah TV
 #DESCRIPTION Sharjah TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8:Sharjah Sport
+#DESCRIPTION Sharjah Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8:Sharjah Sport
 #DESCRIPTION Sharjah Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8:Sharjah Sports
 #DESCRIPTION Sharjah Sports
