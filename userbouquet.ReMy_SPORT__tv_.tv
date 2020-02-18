@@ -17,85 +17,7 @@
 #DESCRIPTION YENI MALATYA SPOR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8:CBC SPORT HD
 #DESCRIPTION CBC SPORT HD
-#SERVICE 1:64:8F:0:0:0:0:0:0:0::==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
-#DESCRIPTION ==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/btsport1.m3u8:BT Sports 1
-#DESCRIPTION BT Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/btsport1.m3u8:BT Sports 1
-#DESCRIPTION BT Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/btsport2.m3u8:BT Sports 2
-#DESCRIPTION BT Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/eurosport2.m3u8:Eurosport 2
-#DESCRIPTION Eurosport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/foxsport1.m3u8:Fox Sport 1
-#DESCRIPTION Fox Sport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysports1.m3u8:Sky Sports 1
-#DESCRIPTION Sky Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysports2.m3u8:Sky Sports 2
-#DESCRIPTION Sky Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysports3.m3u8:Sky Sports 3
-#DESCRIPTION Sky Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysports4.m3u8:Sky Sports 4
-#DESCRIPTION Sky Sports 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysports5.m3u8:Sky Sports 5
-#DESCRIPTION Sky Sports 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysportsaction.m3u8:Sky Sports Action
-#DESCRIPTION Sky Sports Action
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysportsaction.m3u8:Sky Sports Action
-#DESCRIPTION Sky Sports Action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/skysportsaction.m3u8:Sky Sports Action
-#DESCRIPTION Sky Sports Action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysportsarena.m3u8:Sky Sports Arena
-#DESCRIPTION Sky Sports Arena
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/skysportsarena.m3u8:Sky Sports Arena
-#DESCRIPTION Sky Sports Arena
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/ssport_tr_si.m3u8:S Sport Turkey HD
-#DESCRIPTION S Sport Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/ssport_tr_si.m3u8:S Sport Turkey HD
-#DESCRIPTION S Sport Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_fhd.m3u8:Bein Sports 1 Turkey 1080p FHD
-#DESCRIPTION Bein Sports 1 Turkey 1080p FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports1_tr_fhd.m3u8:beIN Sports 1 Turkey
-#DESCRIPTION beIN Sports 1 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_si.m3u8:Bein Sports 1 Turkey HD
-#DESCRIPTION Bein Sports 1 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/aa9665e8-4eb5-407d-8ae4-adc303cef99a:Bein Sports 1 Turkey HD
-#DESCRIPTION Bein Sports 1 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports2_tr_si.m3u8:Bein Sports 2 Turkey HD
-#DESCRIPTION Bein Sports 2 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports2_tr_ns.m3u8:Bein Sports 2 Turkey HD
-#DESCRIPTION Bein Sports 2 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports2_tr_ns.m3u8:beIN Sports 2 Turkey
-#DESCRIPTION beIN Sports 2 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports3_tr_si.m3u8:Bein Sports 3 Turkey HD
-#DESCRIPTION Bein Sports 3 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports3_tr_ns.m3u8:beIN Sports 3 Turkey
-#DESCRIPTION beIN Sports 3 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports3_tr_ns.m3u8:Bein Sports 3 Turkey HD
-#DESCRIPTION Bein Sports 3 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports4_tr_si.m3u8:Bein Sports 4 Turkey HD
-#DESCRIPTION Bein Sports 4 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports4_tr_ns.m3u8:beIN Sports 4 Turkey
-#DESCRIPTION beIN Sports 4 Turkey
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports4_tr_ns.m3u8:Bein Sports 4 Turkey HD
-#DESCRIPTION Bein Sports 4 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/beinsports1max_tr_si.m3u8:Bein Sports 1 MAX HD
-#DESCRIPTION Bein Sports 1 MAX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/beinsports2max_tr_si.m3u8:Bein Sports 2 MAX HD
-#DESCRIPTION Bein Sports 2 MAX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/tivibuspor1_tr_si.m3u8:Tivibu Spor 1 HD
-#DESCRIPTION Tivibu Spor 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/tivibuspor2_tr_si.m3u8:Tivibu Spor 2 HD
-#DESCRIPTION Tivibu Spor 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/tivibuspor3_tr_si.m3u8:Tivibu Spor 3 HD
-#DESCRIPTION Tivibu Spor 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor1_tr.m3u8:Tivibu Spor 1 Turkey HD
-#DESCRIPTION Tivibu Spor 1 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor2_tr.m3u8:Tivibu Spor 2 Turkey HD
-#DESCRIPTION Tivibu Spor 2 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor3_tr.m3u8:Tivibu Spor 3 Turkey HD
-#DESCRIPTION Tivibu Spor 3 Turkey HD
-#SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | ROKU_TV_APP★★ ====
+#SERVICE 1:64:8F:0:0:0:0:0:0:0::==== ★★ReMy | ROKU_TV_APP★★ ====
 #DESCRIPTION ==== ★★ReMy | ROKU_TV_APP★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=56&f=.m3u8:beIN Sports Espanol
 #DESCRIPTION beIN Sports Espanol
@@ -119,12 +41,22 @@
 #DESCRIPTION Sky Sports Main Event
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=191&f=.m3u8:Sky Sports Mix
 #DESCRIPTION Sky Sports Mix
-#SERVICE 1:64:91:0:0:0:0:0:0:0::==== ★★ReMy | my TV+ APP★★ ====
+#SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | my TV+ APP★★ ====
 #DESCRIPTION ==== ★★ReMy | my TV+ APP★★ ====
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:my TV+ APP GUIDE
 #DESCRIPTION my TV+ APP GUIDE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.101%3a80/hls/m3u8/Bein-S1-a58.m3u8:Bein Sport 1 FHD
 #DESCRIPTION Bein Sport 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BT-Sport-1HD.m3u8:BT Sport 1 HD
+#DESCRIPTION BT Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8:BT Sport 1 HD
+#DESCRIPTION BT Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8:BT Sport 2 HD
+#DESCRIPTION BT Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8:EURO Sport 1
+#DESCRIPTION EURO Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8:EURO Sport 2
+#DESCRIPTION EURO Sport 2
 #SERVICE 4097:0:0:7:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spo-football.m3u8:Sky Sports football
 #DESCRIPTION Sky Sports football
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-action.m3u8:Sky Sports action
@@ -151,23 +83,13 @@
 #DESCRIPTION Sky Sports 4 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8:Sky Sports 5 HD
 #DESCRIPTION Sky Sports 5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8:EURO Sport 1
-#DESCRIPTION EURO Sport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8:EURO Sport 2
-#DESCRIPTION EURO Sport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BT-Sport-1HD.m3u8:BT Sport 1 HD
-#DESCRIPTION BT Sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8:BT Sport 1 HD
-#DESCRIPTION BT Sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8:BT Sport 2 HD
-#DESCRIPTION BT Sport 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8:ZIGGO Select LIVE
 #DESCRIPTION ZIGGO Select LIVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8:KSA Sport1
 #DESCRIPTION KSA Sport1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA Sport2
 #DESCRIPTION KSA Sport2
-#SERVICE 1:64:92:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
+#SERVICE 1:64:91:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #DESCRIPTION ==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
@@ -501,3 +423,83 @@
 #DESCRIPTION Tennis Channel+ 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//icable.cdn.utvhk.com/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f.m3u8#User-Agent=Linux-Android 5.0.1:UTV
 #DESCRIPTION UTV
+#SERVICE 1:64:92:0:0:0:0:0:0:0::==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
+#DESCRIPTION ==== ★★ReMy | RETROBET _WORLD_SPORT★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/btsport1.m3u8:BT Sports 1
+#DESCRIPTION BT Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/btsport1.m3u8:BT Sports 1
+#DESCRIPTION BT Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/btsport2.m3u8:BT Sports 2
+#DESCRIPTION BT Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream11.com/hls/eurosport2.m3u8#application/vnd.apple.mpegurl:Eurosport 2
+#DESCRIPTION Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/foxsport1.m3u8:Fox Sport 1
+#DESCRIPTION Fox Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysports1.m3u8:Sky Sports 1
+#DESCRIPTION Sky Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysports2.m3u8:Sky Sports 2
+#DESCRIPTION Sky Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysports3.m3u8:Sky Sports 3
+#DESCRIPTION Sky Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysports4.m3u8:Sky Sports 4
+#DESCRIPTION Sky Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysports5.m3u8:Sky Sports 5
+#DESCRIPTION Sky Sports 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysportsaction.m3u8:Sky Sports Action
+#DESCRIPTION Sky Sports Action
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysportsaction.m3u8:Sky Sports Action
+#DESCRIPTION Sky Sports Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/skysportsaction.m3u8:Sky Sports Action
+#DESCRIPTION Sky Sports Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/skysportsarena.m3u8:Sky Sports Arena
+#DESCRIPTION Sky Sports Arena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/skysportsarena.m3u8:Sky Sports Arena
+#DESCRIPTION Sky Sports Arena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/ssport_tr_si.m3u8:S Sport Turkey HD
+#DESCRIPTION S Sport Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/ssport_tr_si.m3u8:S Sport Turkey HD
+#DESCRIPTION S Sport Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_fhd.m3u8:Bein Sports 1 Turkey 1080p FHD
+#DESCRIPTION Bein Sports 1 Turkey 1080p FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports1_tr_fhd.m3u8:beIN Sports 1 Turkey
+#DESCRIPTION beIN Sports 1 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports1_tr_si.m3u8:Bein Sports 1 Turkey HD
+#DESCRIPTION Bein Sports 1 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/aa9665e8-4eb5-407d-8ae4-adc303cef99a:Bein Sports 1 Turkey HD
+#DESCRIPTION Bein Sports 1 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports2_tr_si.m3u8:Bein Sports 2 Turkey HD
+#DESCRIPTION Bein Sports 2 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports2_tr_ns.m3u8:Bein Sports 2 Turkey HD
+#DESCRIPTION Bein Sports 2 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports2_tr_ns.m3u8:beIN Sports 2 Turkey
+#DESCRIPTION beIN Sports 2 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports3_tr_si.m3u8:Bein Sports 3 Turkey HD
+#DESCRIPTION Bein Sports 3 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports3_tr_ns.m3u8:beIN Sports 3 Turkey
+#DESCRIPTION beIN Sports 3 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports3_tr_ns.m3u8:Bein Sports 3 Turkey HD
+#DESCRIPTION Bein Sports 3 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports4_tr_si.m3u8:Bein Sports 4 Turkey HD
+#DESCRIPTION Bein Sports 4 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/beinsports4_tr_ns.m3u8:beIN Sports 4 Turkey
+#DESCRIPTION beIN Sports 4 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/beinsports4_tr_ns.m3u8:Bein Sports 4 Turkey HD
+#DESCRIPTION Bein Sports 4 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/beinsports1max_tr_si.m3u8:Bein Sports 1 MAX HD
+#DESCRIPTION Bein Sports 1 MAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream10.com/hls/beinsports2max_tr_si.m3u8:Bein Sports 2 MAX HD
+#DESCRIPTION Bein Sports 2 MAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream11.com/hls/tivibuspor1_tr.m3u8#User-Agent%3a Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv%3a72.0) Gecko/20100101 Firefox/72.0:Tivibu Spor 1 HD
+#DESCRIPTION Tivibu Spor 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream11.com/hls/tivibuspor2_tr.m3u8#application/vnd.apple.mpegurl:Tivibu Spor 2 HD
+#DESCRIPTION Tivibu Spor 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream11.com/hls/tivibuspor3_tr.m3u8:Tivibu Spor 3 HD
+#DESCRIPTION Tivibu Spor 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor1_tr.m3u8:Tivibu Spor 1 Turkey HD
+#DESCRIPTION Tivibu Spor 1 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor2_tr.m3u8:Tivibu Spor 2 Turkey HD
+#DESCRIPTION Tivibu Spor 2 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream9.com/hls/tivibuspor3_tr.m3u8:Tivibu Spor 3 Turkey HD
+#DESCRIPTION Tivibu Spor 3 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnak19.cast4u.info/channels/4/10804.m3u8?remyteam.m3u8:WWE Network
+#DESCRIPTION WWE Network
