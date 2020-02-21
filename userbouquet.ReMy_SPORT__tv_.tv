@@ -17,6 +17,26 @@
 #DESCRIPTION YENI MALATYA SPOR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8:CBC SPORT HD
 #DESCRIPTION CBC SPORT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports1_tr_hd.m3u8:Bein Sports 1 Turkey 720p HD
+#DESCRIPTION Bein Sports 1 Turkey 720p HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports1_tr_althd.m3u8:Bein Sports 1 Turkey 720p HD Yedek
+#DESCRIPTION Bein Sports 1 Turkey 720p HD Yedek
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports1_tr_si.m3u8:Bein Sports 1 Turkey HD
+#DESCRIPTION Bein Sports 1 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports2_tr_si.m3u8:Bein Sports 2 Turkey HD
+#DESCRIPTION Bein Sports 2 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports3_tr_si.m3u8:Bein Sports 3 Turkey HD
+#DESCRIPTION Bein Sports 3 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports4_tr_si.m3u8:Bein Sports 4 Turkey HD
+#DESCRIPTION Bein Sports 4 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/tivibuspor1_tr_si.m3u8:Tivibu Spor 1 Turkey HD
+#DESCRIPTION Tivibu Spor 1 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/tivibuspor2_tr_si.m3u8:Tivibu Spor 2 Turkey HD
+#DESCRIPTION Tivibu Spor 2 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/tivibuspor3_tr_si.m3u8:Tivibu Spor 3 Turkey HD
+#DESCRIPTION Tivibu Spor 3 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/ssport_tr_si.m3u8:S Sport Turkey HD
+#DESCRIPTION S Sport Turkey HD
 #SERVICE 1:64:8F:0:0:0:0:0:0:0::==== ★★ReMy | ROKU_TV_APP★★ ====
 #DESCRIPTION ==== ★★ReMy | ROKU_TV_APP★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//claro2-pi-dns.herokuapp.com/master.php?id=56&f=.m3u8:beIN Sports Espanol
@@ -67,8 +87,6 @@
 #DESCRIPTION Sky Sports cricket
 #SERVICE 4097:0:0:8:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Golf.m3u8:Sky Sports Golf
 #DESCRIPTION Sky Sports Golf
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream8.com/hls/skysportsgolf.m3u8:Sky Sports Golf
-#DESCRIPTION Sky Sports Golf
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-Pre-L.m3u8:Sky Sport Premier Lig
 #DESCRIPTION Sky Sport Premier Lig
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-S-main-even.m3u8:Sky Sport main event
@@ -89,7 +107,97 @@
 #DESCRIPTION KSA Sport1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA Sport2
 #DESCRIPTION KSA Sport2
-#SERVICE 1:64:91:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
+#SERVICE 1:64:91:0:0:0:0:0:0:0::==== ★★ReMy | TRUE VISIONS TV+★★ ====
+#DESCRIPTION ==== ★★ReMy | TRUE VISIONS TV+★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8:BT Sports 1
+#DESCRIPTION BT Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8:BT Sports 2
+#DESCRIPTION BT Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/epl-bein1_720/index.m3u8:beIN Sports 1 Asia
+#DESCRIPTION beIN Sports 1 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/epl-bein2_720/index.m3u8:beIN Sports 2 Asia
+#DESCRIPTION beIN Sports 2 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8:beIN Sports 1 Asia
+#DESCRIPTION beIN Sports 1 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8:beIN Sports 2 Asia
+#DESCRIPTION beIN Sports 2 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8:Fox Sports 1 Asia
+#DESCRIPTION Fox Sports 1 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8:Fox Sports 2 Asia
+#DESCRIPTION Fox Sports 2 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8:Fox Sports 3 Asia
+#DESCRIPTION Fox Sports 3 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8:Fox Sports 1 Asia
+#DESCRIPTION Fox Sports 1 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8:Fox Sports 2 Asia
+#DESCRIPTION Fox Sports 2 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8:Fox Sports 3 Asia
+#DESCRIPTION Fox Sports 3 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports1/chunks.m3u8?:beIN Sports 1
+#DESCRIPTION beIN Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports2/chunks.m3u8?:beIN Sports 2
+#DESCRIPTION beIN Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports3/chunks.m3u8?:beIN Sports 3
+#DESCRIPTION beIN Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports4/chunks.m3u8?:beIN Sports 4
+#DESCRIPTION beIN Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports5/chunks.m3u8?:beIN Sports 5
+#DESCRIPTION beIN Sports 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports6/chunks.m3u8?:beIN Sports 6
+#DESCRIPTION beIN Sports 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports7/chunks.m3u8?:beIN Sports 7
+#DESCRIPTION beIN Sports 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports8/chunks.m3u8?:beIN Sports 8
+#DESCRIPTION beIN Sports 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports9/chunks.m3u8?:beIN Sports 9
+#DESCRIPTION beIN Sports 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tsport1_720/index.m3u8:True Sports HD
+#DESCRIPTION True Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tsport2_720/index.m3u8:True Sports 2 HD
+#DESCRIPTION True Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tsport3_720/index.m3u8:True Sports 2 HD
+#DESCRIPTION True Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tsport4_720/index.m3u8:True Sports 2 HD
+#DESCRIPTION True Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-tsport2_480/index.m3u8:True Sports 2 SD
+#DESCRIPTION True Sports 2 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-tsport5_480/index.m3u8:True Sports 5 SD
+#DESCRIPTION True Sports 5 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-tsport6_480/index.m3u8:True Sports 6 SD
+#DESCRIPTION True Sports 6 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-tsport7_480/index.m3u8:True Sports 7 SD
+#DESCRIPTION True Sports 7 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-nba_720/index.m3u8:NBA HD
+#DESCRIPTION NBA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tennis_720/index.m3u8:Tennis HD
+#DESCRIPTION Tennis HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/epl-x1_720/index.m3u8:True Premier Football HD 1
+#DESCRIPTION True Premier Football HD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/epl-x2_720/index.m3u8:True Premier Football HD 2
+#DESCRIPTION True Premier Football HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/epl-x3_720/index.m3u8:True Premier Football HD 3
+#DESCRIPTION True Premier Football HD 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/epl-x4_720/index.m3u8:True Premier Football HD 4
+#DESCRIPTION True Premier Football HD 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/epl-x5_720/index.m3u8:True Premier Football HD 5
+#DESCRIPTION True Premier Football HD 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-tsports_480/index.m3u8:T Sports
+#DESCRIPTION T Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8:Skynet Sports HD
+#DESCRIPTION Skynet Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports1_480/index.m3u8:Skynet Sports 1
+#DESCRIPTION Skynet Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8:Skynet Sports 2
+#DESCRIPTION Skynet Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports3_480/index.m3u8:Skynet Sports 3
+#DESCRIPTION Skynet Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports4_480/index.m3u8:Skynet Sports 4
+#DESCRIPTION Skynet Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports5_480/index.m3u8:Skynet Sports 5
+#DESCRIPTION Skynet Sports 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports6_480/index.m3u8:Skynet Sports 6
+#DESCRIPTION Skynet Sports 6
+#SERVICE 1:64:92:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #DESCRIPTION ==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
@@ -393,9 +501,9 @@
 #DESCRIPTION Turkmenistan Sport HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004_400/index.m3u8:Türkmen Sport
 #DESCRIPTION Türkmen Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.52.180/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8:UFC BES TV
-#DESCRIPTION UFC BES TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.52.183/wh7f454c46tw3669132437_-1850260639/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8:UFC BES TV
+#DESCRIPTION UFC BES TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.52.180/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8:UFC BES TV
 #DESCRIPTION UFC BES TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8:VSIN
 #DESCRIPTION VSIN
