@@ -1,6 +1,58 @@
 #EXTM3U
 #EXTINF:-1,ReMy_ReMy_ULUSAL
 ReMy_ReMy_ULUSAL
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.ATV HD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/144
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.ATV SD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/161
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.ATV AVRUPA
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/177
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.TRT 1 HD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/143
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.TRT 1 SD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/160
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.SHOW TV HD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/145
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.SHOW TV SD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/162
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.STAR TV HD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/146
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.STAR TV SD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/164
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.360 TV
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/42
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.A2 HD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/44
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.FOX TV HD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/147
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.TV8 HD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/148
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.KANAL D HD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/149
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.BEYAZ TV HD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/150
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.KANAL 7 HD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/151
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.BEYAZ TV FHD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/159
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.KANAL D SD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/163
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.FOX TV SD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/165
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.TV8 SD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/166
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.KANAL 7 SD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/167
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.TV8.5 HD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/168
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.BEYAZ TV SD
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/169
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.ULUSAL TV
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/172
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.ULKE TV
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/173
+#EXTINF:-1 group-title="ReMy_ULUSAL",TR.KANAL 7 HD AVRUPA
+http://smip.tv:8080/freepaneluser/16012020freEA1xyqspgc/174
 #EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
 https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
@@ -301,12 +353,6 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",ReMy_SPORT
 ReMy_SPORT
-#EXTINF:-1 group-title="ReMy_SPORT",BEIN SPORTS HD 1
-https://sportscore.biz/lba/123/g5/beinsport1tur.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",BEIN SPORTS 1
-https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Bein Sport 1 FHD
-http://95.170.215.101:80/hls/m3u8/Bein-S1-a58.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Bein Sports 1 MAX HD
 https://cstream10.com/hls/beinsports1max_tr_si.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Bein Sports 2 MAX HD
@@ -324,13 +370,17 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",CBC SPORT HD
 http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="ReMy_SPORT",beIN Sports 1 Turkey
-https://cstream8.com/hls/beinsports1_tr_fhd.m3u8
+https://cstream12.com/hls/beinsports1_tr_hd.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="ReMy_SPORT",beIN Sports 1 Turkey
+https://cstream12.com/hls/beinsports1_tr_si.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="ReMy_SPORT",beIN Sports 1 Turkey
+https://cstream12.com/hls/beinsports1_tr_fhd.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="ReMy_SPORT",beIN Sports 2 Turkey
-https://cstream8.com/hls/beinsports2_tr_ns.m3u8
+https://cstream12.com/hls/beinsports2_tr_ns.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports3.th.png" group-title="ReMy_SPORT",beIN Sports 3 Turkey
-https://cstream8.com/hls/beinsports3_tr_ns.m3u8
+https://cstream12.com/hls/beinsports3_tr_ns.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports4.th.png" group-title="ReMy_SPORT",beIN Sports 4 Turkey
-https://cstream8.com/hls/beinsports4_tr_ns.m3u8
+https://cstream12.com/hls/beinsports4_tr_ns.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport1.rs.png" group-title="ReMy_SPORT",Arena Sports 1
 http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport5.rs.png" group-title="ReMy_SPORT",Arena Sports 5
