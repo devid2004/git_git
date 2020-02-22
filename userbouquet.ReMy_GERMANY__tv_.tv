@@ -1,4 +1,32 @@
 #NAME == ★★ReMy | GERMANY★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8:Les News 24
+#DESCRIPTION Les News 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd:VRT één
+#DESCRIPTION VRT één
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd:VRT Canvas
+#DESCRIPTION VRT Canvas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-cf-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd:VRT Ketnet
+#DESCRIPTION VRT Ketnet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8:VRT Ketnet jr
+#DESCRIPTION VRT Ketnet jr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bhutan.thomasmore.be/elemental_hls/hls_stream_iphone_high.m3u8:21bis
+#DESCRIPTION 21bis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.canalc.be%3a1935/canalc/smil%3aSMIL-canalc-multi/playlist.m3u8:Canal C
+#DESCRIPTION Canal C
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.canalc.be%3a1935/canalzoom/smil%3aSMIL-canalzoom-multi/playlist.m3u8:Canal Zoom
+#DESCRIPTION Canal Zoom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.ec.streamcloud.be/live/disk1/EBS/hls_or/EBS.m3u8:EbS
+#DESCRIPTION EbS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.ec.streamcloud.be/live/disk1/EBSplus/hls_or/EBSplus.m3u8:EbSplus
+#DESCRIPTION EbSplus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/VzXNby.smil/chunklist_b3000000.m3u8:Focus
+#DESCRIPTION Focus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8:notélé
+#DESCRIPTION notélé
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8:Radio Contact
+#DESCRIPTION Radio Contact
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8:RTL TVI
+#DESCRIPTION RTL TVI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lci-hls-live-ssl.tf1.fr/lci/1/hls/live_496.m3u8:|FR| LCI
 #DESCRIPTION |FR| LCI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8:|FR| LCI HD
@@ -145,6 +173,8 @@
 #DESCRIPTION Noa 4 Norderstedt
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//oberpfalztv.iptv-playoutcenter.de%3a1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8:Oberpfalztv
 #DESCRIPTION Oberpfalztv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.221.4/tv2000plus-live/_definst_/mp4%3aquantisana/playlist.m3u8:QS24
+#DESCRIPTION QS24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:Oe24
 #DESCRIPTION Oe24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800:OK SALZWEDEL

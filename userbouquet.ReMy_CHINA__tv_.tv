@@ -33,7 +33,7 @@
 #DESCRIPTION VIOCE TV THAI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8:Waku-Waku Japan
 #DESCRIPTION Waku-Waku Japan
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::==== ★★ReMy | Phoenix_CHINA★★ ====
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::==== ★★ReMy | Phoenix_CHINA★★ ====
 #DESCRIPTION ==== ★★ReMy | Phoenix_CHINA★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.151%3a18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8/Kxpb7Wa3xqB26AcGEvjhx3JJlw6:CCTV-1 integrated HD
 #DESCRIPTION CCTV-1 integrated HD
@@ -133,7 +133,7 @@
 #DESCRIPTION Yunnan Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.146%3a18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009806&owchid=ystenlive&owsid=1106497909461218392&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRt6tuEx40ruFSJnrbh2BVWwXsEFuvV04XsE9ZOm50Z8cpDzo0JrXSxYrVj73IVRt9:Zhejiang Satellite TV HD
 #DESCRIPTION Zhejiang Satellite TV HD
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::==== ★★ReMy | Bravo Inc._CHINA★★ ====
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::==== ★★ReMy | Bravo Inc._CHINA★★ ====
 #DESCRIPTION ==== ★★ReMy | Bravo Inc._CHINA★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8:Blackberry Animation Kingdom
 #DESCRIPTION Blackberry Animation Kingdom
@@ -319,7 +319,7 @@
 #DESCRIPTION Zhejiang Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8:Zhejiang Satellite TV
 #DESCRIPTION Zhejiang Satellite TV
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::==== ★★ReMy | HUYALIVE_CHINA★★ ====
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::==== ★★ReMy | HUYALIVE_CHINA★★ ====
 #DESCRIPTION ==== ★★ReMy | HUYALIVE_CHINA★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8:Anime big movie
 #DESCRIPTION Anime big movie
