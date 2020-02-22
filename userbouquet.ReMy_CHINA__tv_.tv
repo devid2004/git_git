@@ -31,9 +31,83 @@
 #DESCRIPTION TvN movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8:VIOCE TV THAI
 #DESCRIPTION VIOCE TV THAI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8:BBC News Japan
+#DESCRIPTION BBC News Japan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8:CGN Japan
+#DESCRIPTION CGN Japan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNCHNTV/1800/vCIBNCHNTV.m3u8:Nihao TV
+#DESCRIPTION Nihao TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8:Gunma TV
+#DESCRIPTION Gunma TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx1_2/chunklist.m3u8:Tokyo MX 1
+#DESCRIPTION Tokyo MX 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx2_2/chunklist.m3u8:Tokyo MX 2
+#DESCRIPTION Tokyo MX 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx_live_2/master.m3u8:Tokyo MX Live
+#DESCRIPTION Tokyo MX Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/wn1_2/master.m3u8:Weather News
+#DESCRIPTION Weather News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//anevia115.mncnow.id%3a443/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8:Waku Waku Japan
+#DESCRIPTION Waku Waku Japan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8:Waku-Waku Japan
 #DESCRIPTION Waku-Waku Japan
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::==== ★★ReMy | Phoenix_CHINA★★ ====
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::==== ★★ReMy | CIBN_CHINA★★ ====
+#DESCRIPTION ==== ★★ReMy | CIBN_CHINA★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//Uhlive.Videocc.Net/recordfe/c08946f08620190726103829356/playlist.m3u8:CIBN dòuniú cáijīng
+#DESCRIPTION CIBN dòuniú cáijīng
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8:CIBN diànyǐng
+#DESCRIPTION CIBN diànyǐng
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8:CIBN hǎoláiwù
+#DESCRIPTION CIBN hǎoláiwù
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8:CIBN yuàn xiàn dàpiàn
+#DESCRIPTION CIBN yuàn xiàn dàpiàn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8:CIBN wéi diànyǐng
+#DESCRIPTION CIBN wéi diànyǐng
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8:CIBN jīngpǐn yǐngyuàn
+#DESCRIPTION CIBN jīngpǐn yǐngyuàn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8:CIBN qínggǎn yǐngyuàn
+#DESCRIPTION CIBN qínggǎn yǐngyuàn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8:CIBN xǐjù yǐngyuàn
+#DESCRIPTION CIBN xǐjù yǐngyuàn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8:CIBN yìshù yuàn xiàn
+#DESCRIPTION CIBN yìshù yuàn xiàn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8:CIBN xuàn jiā dòngmàn
+#DESCRIPTION CIBN xuàn jiā dòngmàn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8:CIBN tóng xué shìjiè
+#DESCRIPTION CIBN tóng xué shìjiè
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8:CIBN duǒ yā lèyuán
+#DESCRIPTION CIBN duǒ yā lèyuán
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8:CIBN hàn xuéyuàn
+#DESCRIPTION CIBN hàn xuéyuàn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8:CIBN jìlùpiàn
+#DESCRIPTION CIBN jìlùpiàn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8:CIBN xīnzhī
+#DESCRIPTION CIBN xīnzhī
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8:CIBN hāi bō
+#DESCRIPTION CIBN hāi bō
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8:CIBN jūnshì
+#DESCRIPTION CIBN jūnshì
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8:CIBN shēnghuó
+#DESCRIPTION CIBN shēnghuó
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8:CIBN qìchē
+#DESCRIPTION CIBN qìchē
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8:CIBN gǔzhuāng jùchǎng
+#DESCRIPTION CIBN gǔzhuāng jùchǎng
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8:CIBN jiāoyáng jùchǎng
+#DESCRIPTION CIBN jiāoyáng jùchǎng
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8:CIBN zònghé
+#DESCRIPTION CIBN zònghé
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8:CIBN liú jīn suìyuè
+#DESCRIPTION CIBN liú jīn suìyuè
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8:CIBN jiànkāng
+#DESCRIPTION CIBN jiànkāng
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8:CIBN fēngshàng yùndòng
+#DESCRIPTION CIBN fēngshàng yùndòng
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8:CIBN zhēnrén xiù
+#DESCRIPTION CIBN zhēnrén xiù
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8:CIBN yí jiā
+#DESCRIPTION CIBN yí jiā
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::==== ★★ReMy | Phoenix_CHINA★★ ====
 #DESCRIPTION ==== ★★ReMy | Phoenix_CHINA★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.151%3a18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8/Kxpb7Wa3xqB26AcGEvjhx3JJlw6:CCTV-1 integrated HD
 #DESCRIPTION CCTV-1 integrated HD
@@ -133,7 +207,7 @@
 #DESCRIPTION Yunnan Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.135.34.146%3a18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009806&owchid=ystenlive&owsid=1106497909461218392&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRt6tuEx40ruFSJnrbh2BVWwXsEFuvV04XsE9ZOm50Z8cpDzo0JrXSxYrVj73IVRt9:Zhejiang Satellite TV HD
 #DESCRIPTION Zhejiang Satellite TV HD
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::==== ★★ReMy | Bravo Inc._CHINA★★ ====
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::==== ★★ReMy | Bravo Inc._CHINA★★ ====
 #DESCRIPTION ==== ★★ReMy | Bravo Inc._CHINA★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8:Blackberry Animation Kingdom
 #DESCRIPTION Blackberry Animation Kingdom
@@ -319,7 +393,7 @@
 #DESCRIPTION Zhejiang Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8:Zhejiang Satellite TV
 #DESCRIPTION Zhejiang Satellite TV
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::==== ★★ReMy | HUYALIVE_CHINA★★ ====
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::==== ★★ReMy | HUYALIVE_CHINA★★ ====
 #DESCRIPTION ==== ★★ReMy | HUYALIVE_CHINA★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8:Anime big movie
 #DESCRIPTION Anime big movie
@@ -491,79 +565,3 @@
 #DESCRIPTION XMTV.cn 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8:Xuanyuanjian
 #DESCRIPTION Xuanyuanjian
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8:BBC News Japan
-#DESCRIPTION BBC News Japan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:EXTINF%3a -1 tvg-logo = "http%3a//japan.cgntv.net/upload/happy_config/info_logo.png" group-title = "ReMy_CIBN_CHINA", CGN Japan:КаNAL 2
-#DESCRIPTION КаNAL 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8:КаNAL 3
-#DESCRIPTION КаNAL 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//anevia115.mncnow.id%3a443/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8: Waku Waku Japan
-#DESCRIPTION  Waku Waku Japan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8: Home Hiroshima Weather information
-#DESCRIPTION  Home Hiroshima Weather information
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8: Gunma TV
-#DESCRIPTION  Gunma TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx1_2/chunklist.m3u8: Tokyo MX 1
-#DESCRIPTION  Tokyo MX 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx2_2/chunklist.m3u8: Tokyo MX 2
-#DESCRIPTION  Tokyo MX 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx_live_2/master.m3u8: Tokyo MX Live
-#DESCRIPTION  Tokyo MX Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/wn1_2/master.m3u8: Weather News
-#DESCRIPTION  Weather News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNCHNTV/1800/vCIBNCHNTV.m3u8:Nihao TV
-#DESCRIPTION Nihao TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//Uhlive.Videocc.Net/recordfe/c08946f08620190726103829356/playlist.m3u8:CIBN dòuniú cáijīng
-#DESCRIPTION CIBN dòuniú cáijīng
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8:CIBN diànyǐng
-#DESCRIPTION CIBN diànyǐng
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8:CIBN hǎoláiwù
-#DESCRIPTION CIBN hǎoláiwù
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8:CIBN yuàn xiàn dàpiàn
-#DESCRIPTION CIBN yuàn xiàn dàpiàn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8:CIBN wéi diànyǐng
-#DESCRIPTION CIBN wéi diànyǐng
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8:CIBN jīngpǐn yǐngyuàn
-#DESCRIPTION CIBN jīngpǐn yǐngyuàn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8:CIBN qínggǎn yǐngyuàn
-#DESCRIPTION CIBN qínggǎn yǐngyuàn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8:CIBN xǐjù yǐngyuàn
-#DESCRIPTION CIBN xǐjù yǐngyuàn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8:CIBN yìshù yuàn xiàn
-#DESCRIPTION CIBN yìshù yuàn xiàn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8:CIBN xuàn jiā dòngmàn
-#DESCRIPTION CIBN xuàn jiā dòngmàn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8:CIBN tóng xué shìjiè
-#DESCRIPTION CIBN tóng xué shìjiè
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8:CIBN duǒ yā lèyuán
-#DESCRIPTION CIBN duǒ yā lèyuán
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8:CIBN hàn xuéyuàn
-#DESCRIPTION CIBN hàn xuéyuàn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8:CIBN jìlùpiàn
-#DESCRIPTION CIBN jìlùpiàn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8:CIBN xīnzhī
-#DESCRIPTION CIBN xīnzhī
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8:CIBN hāi bō
-#DESCRIPTION CIBN hāi bō
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8:CIBN jūnshì
-#DESCRIPTION CIBN jūnshì
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8:CIBN shēnghuó
-#DESCRIPTION CIBN shēnghuó
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8:CIBN qìchē
-#DESCRIPTION CIBN qìchē
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8:CIBN gǔzhuāng jùchǎng
-#DESCRIPTION CIBN gǔzhuāng jùchǎng
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8:CIBN jiāoyáng jùchǎng
-#DESCRIPTION CIBN jiāoyáng jùchǎng
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8:CIBN zònghé
-#DESCRIPTION CIBN zònghé
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8:CIBN liú jīn suìyuè
-#DESCRIPTION CIBN liú jīn suìyuè
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8:CIBN jiànkāng
-#DESCRIPTION CIBN jiànkāng
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8:CIBN fēngshàng yùndòng
-#DESCRIPTION CIBN fēngshàng yùndòng
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8:CIBN zhēnrén xiù
-#DESCRIPTION CIBN zhēnrén xiù
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8:CIBN yí jiā
-#DESCRIPTION CIBN yí jiā
