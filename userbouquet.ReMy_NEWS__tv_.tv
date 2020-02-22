@@ -295,3 +295,5 @@
 #DESCRIPTION WVIT 30 News (Hartford)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8:WXXV 25 Gulfport MS (WXXV)
 #DESCRIPTION WXXV 25 Gulfport MS (WXXV)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/wn1_2/master.m3u8:Weather News
+#DESCRIPTION Weather News
