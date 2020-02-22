@@ -17,6 +17,20 @@
 #DESCRIPTION YENI MALATYA SPOR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8:CBC SPORT HD
 #DESCRIPTION CBC SPORT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/PrivateTr/git_git/master/beinsports1.m3u8:beinsports1
+#DESCRIPTION beinsports1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports1_tr_si.m3u8?#User-Agent=Linux-Android 5.0.1:beIN Sports 1 Turkey
+#DESCRIPTION beIN Sports 1 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports1_tr_fhd.m3u8:beIN Sports 1 Turkey
+#DESCRIPTION beIN Sports 1 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports1_tr_hd.m3u8:beIN Sports 1 Turkey
+#DESCRIPTION beIN Sports 1 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports2_tr_hd.m3u8:beIN Sports 2 Turkey
+#DESCRIPTION beIN Sports 2 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports3_tr_hd.m3u8:beIN Sports 3 Turkey
+#DESCRIPTION beIN Sports 3 Turkey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports4_tr_hd.m3u8:beIN Sports 4 Turkey
+#DESCRIPTION beIN Sports 4 Turkey
 #SERVICE 1:64:8F:0:0:0:0:0:0:0::==== ★★ReMy | my TV+ APP★★ ====
 #DESCRIPTION ==== ★★ReMy | my TV+ APP★★ ====
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:my TV+ APP GUIDE
@@ -115,10 +129,10 @@
 #DESCRIPTION True Sports HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tsport2_720/index.m3u8:True Sports 2 HD
 #DESCRIPTION True Sports 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tsport3_720/index.m3u8:True Sports 2 HD
-#DESCRIPTION True Sports 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tsport4_720/index.m3u8:True Sports 2 HD
-#DESCRIPTION True Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tsport3_720/index.m3u8:True Sports 3 HD
+#DESCRIPTION True Sports 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tsport4_720/index.m3u8:True Sports 4 HD
+#DESCRIPTION True Sports 4 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-tsport2_480/index.m3u8:True Sports 2 SD
 #DESCRIPTION True Sports 2 SD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-tsport5_480/index.m3u8:True Sports 5 SD
@@ -469,5 +483,3 @@
 #DESCRIPTION World Of Free Sports Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8:Xcorps
 #DESCRIPTION Xcorps
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports1_tr_si.m3u8?#User-Agent=Linux-Android 5.0.1:beIN Sports 1 Turkey
-#DESCRIPTION beIN Sports 1 Turkey
