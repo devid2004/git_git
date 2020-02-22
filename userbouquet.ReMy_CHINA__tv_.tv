@@ -1,6 +1,6 @@
 #NAME == ★★ReMy | CHINA★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8:8TV
-#DESCRIPTION 8TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/BNC.m3u8:BNC
+#DESCRIPTION BNC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8:TV News
 #DESCRIPTION TV News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/YOPNews.m3u8:YOP News
