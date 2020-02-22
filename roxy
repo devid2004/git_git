@@ -2019,7 +2019,7 @@ https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
 http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1920px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title = "ReMy_CIBN_CHINA", Tokyo MX 2
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-#EXTINF: -1 tvg-logo = "https://s.mxtv.jp/images/yumelion_200x200.jpg" group-title = "ReMy_CIBN_CHINA", MX Live
+#EXTINF: -1 tvg-logo = "https://s.mxtv.jp/images/yumelion_200x200.jpg" group-title = "ReMy_CIBN_CHINA", Tokyo MX Live
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png" group-title = "ReMy_CIBN_CHINA", Weather News
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8

@@ -507,8 +507,8 @@
 #DESCRIPTION  Tokyo MX 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx2_2/chunklist.m3u8: Tokyo MX 2
 #DESCRIPTION  Tokyo MX 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx_live_2/master.m3u8: MX Live
-#DESCRIPTION  MX Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx_live_2/master.m3u8: Tokyo MX Live
+#DESCRIPTION  Tokyo MX Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/wn1_2/master.m3u8: Weather News
 #DESCRIPTION  Weather News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNCHNTV/1800/vCIBNCHNTV.m3u8:Nihao TV
