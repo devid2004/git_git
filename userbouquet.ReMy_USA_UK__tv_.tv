@@ -1,14 +1,14 @@
 #NAME == ★★ReMy | U.S.A & U.K★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.64.188.131%3a8011/bysid/17:Yle TV 1
-#DESCRIPTION Yle TV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.64.188.131%3a8011/bysid/33:Yle TV 2
-#DESCRIPTION Yle TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.64.188.131%3a8011/bysid/155:AVA
 #DESCRIPTION AVA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.64.188.131%3a8011/bysid/49:MTV3
 #DESCRIPTION MTV3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.64.188.131%3a8011/bysid/65:Nelonen
 #DESCRIPTION Nelonen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.64.188.131%3a8011/bysid/17:Yle TV 1
+#DESCRIPTION Yle TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.64.188.131%3a8011/bysid/33:Yle TV 2
+#DESCRIPTION Yle TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/004:BBC News 24
 #DESCRIPTION BBC News 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8:BBC 2
@@ -1181,11 +1181,11 @@
 #DESCRIPTION SBN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8:SBN Global
 #DESCRIPTION SBN Global
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/51.1/1280x720?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN HD (16:9)(WTVE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/51.1/1280x720?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN HD (16%3a9)(WTVE)
 #DESCRIPTION SBN HD (16:9)(WTVE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/25.1/768x432?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (16:9)(WPHY-CD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/25.1/768x432?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (16%3a9)(WPHY-CD)
 #DESCRIPTION SBN SD (16:9)(WPHY-CD)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/8.3/640x480?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (4:3)(WPSJ-CD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/8.3/640x480?start_time=2019-12-20T22%3a45%3a00.000Z&end_time=2028&env=prd&uid=29375:SBN SD (4%3a3)(WPSJ-CD)
 #DESCRIPTION SBN SD (4:3)(WPSJ-CD)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?remyteam.m3u8:Sci-fi 4U
 #DESCRIPTION Sci-fi 4U
