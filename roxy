@@ -90,7 +90,7 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",A HABER HD
 https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",CNN TURK HD
-https://srvc.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+https://srvc.dogannet.tv/S2/hls_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",HABER TURK HD
 https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Haber Global HD
@@ -220,9 +220,9 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_si
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",A HABER HD
 https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN TURK HD
-https://srvc.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+https://srvc.dogannet.tv/S2/hls_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN TURK HD
-http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+http://soledge7.dogannet.tv/S2/hls_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",HABER TURK HD
 https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Haber Global HD
@@ -258,7 +258,7 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",3 News
 http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC world News
-http://213.252.252.17/live/eds/BBC/HLS_encr/index.m3u8
+http://213.252.252.17/live/eds/BBC/hls_encr/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC
 https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC News
@@ -296,9 +296,9 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Cheddar Big News
 https://live.chdrstatic.com/cbn/primary/1.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",France24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+http://static.france24.com/live/F24_EN_LO_hls/live_web.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+http://static.france24.com/live/F24_ES_LO_hls/live_web.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",DW (Deutsche Welle)
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",RT HD
@@ -868,7 +868,7 @@ http://i.mjh.nz/nz/tv.redbull.tv.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Red Bull TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChlsFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Red Bull TV
 https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Red Bull TV
@@ -2030,9 +2030,9 @@ http://Uhlive.Videocc.Net/recordfe/c08946f08620190726103829356/playlist.m3u8
 #EXTINF:-1 Tvg-logo="http://www.tvyan.com/uploads/dianshi/cibndianying.Jpg" group-title="ReMy_CIBN_CHINA",CIBN diànyǐng
 http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8
 #EXTINF:-1 Tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnhaolaiwu.Jpg" group-title="ReMy_CIBN_CHINA",CIBN hǎoláiwù
-http://cibn.peoplevideo.cn:80/Hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8
+http://cibn.peoplevideo.cn:80/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8
 #EXTINF:-1 Tvg-logo="http://www.nettv.Live/uploads/18/1-1P42020033U58.Jpg" group-title="ReMy_CIBN_CHINA",CIBN yuàn xiàn dàpiàn
-http://cibn.peoplevideo.cn:80/Hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8
+http://cibn.peoplevideo.cn:80/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8
 #EXTINF:-1 Tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnwdy.Jpg" group-title="ReMy_CIBN_CHINA",CIBN wéi diànyǐng
 http://cinb1.peoplevideo.cn/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8
 #EXTINF:-1 Tvg-logo="http://www.nettv.Live/uploads/18/1-1P420210325443.Jpg" group-title="ReMy_CIBN_CHINA",CIBN jīngpǐn yǐngyuàn
@@ -2068,15 +2068,15 @@ http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8
 #EXTINF:-1 Tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnjiaoyang.Jpg" group-title="ReMy_CIBN_CHINA",CIBN jiāoyáng jùchǎng
 http://cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8
 #EXTINF:-1 Tvg-logo="http://www.nettv.Live/uploads/18/1-1P42019152OS.Jpg" group-title="ReMy_CIBN_CHINA",CIBN zònghé
-http://cibn.peoplevideo.cn:80/Hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8
+http://cibn.peoplevideo.cn:80/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8
 #EXTINF:-1 Tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnljsy.Jpg" group-title="ReMy_CIBN_CHINA",CIBN liú jīn suìyuè
-http://cibn.peoplevideo.cn:80/Hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8
+http://cibn.peoplevideo.cn:80/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8
 #EXTINF:-1 Tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnjiankang.Jpg" group-title="ReMy_CIBN_CHINA",CIBN jiànkāng
-http://cibn.peoplevideo.cn:80/Hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8
+http://cibn.peoplevideo.cn:80/hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8
 #EXTINF:-1 Tvg-logo="http://www.tvyan.com/uploads/dianshi/cibn.Jpg" group-title="ReMy_CIBN_CHINA",CIBN fēngshàng yùndòng
-http://cibn.peoplevideo.cn:80/Hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8
+http://cibn.peoplevideo.cn:80/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8
 #EXTINF:-1 Tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnzrx.Jpg" group-title="ReMy_CIBN_CHINA",CIBN zhēnrén xiù
-http://cibn.peoplevideo.cn:80/Hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8
+http://cibn.peoplevideo.cn:80/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8
 #EXTINF:-1 Tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnjiaoyu.Jpg" group-title="ReMy_CIBN_CHINA",CIBN yí jiā
 http://cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",ReMy_BALKAN_EUROPE
@@ -2358,7 +2358,7 @@ https://video1.getstreamhosting.com:1936/8452/8452/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_GREECE",Baraza TV Greek Music Hits
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_GREECE",Best TV
-https://best-tv.gr/HLS/hls/best/index.m3u8
+https://best-tv.gr/hls/hls/best/index.m3u8
 #EXTINF:-1 group-title="ReMy_GREECE",Channel 9
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_GREECE",Cinefil GR
@@ -3214,7 +3214,7 @@ http://46.32.68.167/s/live/915/86.169.51.136/1/0.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",National Geographic
 http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",National Geographic HD
-http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+http://185.176.117.243/live/eds/NatGeoHD/hls_encr/NatGeoHD.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Native Movie
 http://178.124.183.14:80/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Native movie
@@ -3408,15 +3408,15 @@ http://live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV Showcase
 http://46.180.99.15:81/udp/239.255.42.127:1234
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000
-http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+http://213.252.252.17/live/eds/TV1000_SD/hls_encr/TV1000_SD.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000
 http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 ACTION
 http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 Action
-http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+http://213.252.252.17/live/eds/TV1000_action_SD/hls_encr/TV1000_action_SD.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 Premium
-http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+http://213.252.252.17/live/eds/TV1000PremiumHD/hls_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 Premium HD
 http://185.175.92.10:8080/vip_premiere/mono.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",TV1000 World Kino
@@ -3432,13 +3432,13 @@ http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIASAT EXPLORE
 http://178.124.183.5/hls/JQQ83OBHTQ/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Viasat Explorer
-http://213.252.252.17/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
+http://213.252.252.17/live/eds/Viasat_Explorer_SD/hls_encr/Viasat_Explorer_SD.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIASAT HISTORY
 https://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Viasat History
-http://213.252.252.17/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
+http://213.252.252.17/live/eds/Viasat_History_SD/hls_encr/Viasat_History_SD.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",Viasat Nature
-http://213.252.252.17/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+http://213.252.252.17/live/eds/Viasat_Nature_SD/hls_encr/Viasat_Nature_SD.m3u8
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIASAT NATURE
 http://178.124.183.5/hls/BN3FTDY3T8/variant.m3u8?version=2
 #EXTINF:-1 group-title="ReMy_RUSSIAN_2",VIP Comedy
@@ -3584,7 +3584,7 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 group-title="ReMy_LATINO",FOROTV
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
 #EXTINF:-1 group-title="ReMy_LATINO",FRANCE 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+http://static.france24.com/live/F24_ES_LO_hls/live_web.m3u8
 #EXTINF:-1 group-title="ReMy_LATINO",FRECUENCIA MUSICAL
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_LATINO",FUEGO TV DOMINICANA
@@ -4392,7 +4392,7 @@ http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="ReMy_U.S & U.K & IL",LifevisionTV
 http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://lh3.googleusercontent.com/9AnBf9_s5RDDg6joBI3kPqglfVddV72Esw1jGBc4rGzlxUElacw4UQy_z2CTVnI7vHgZXDQbqp2Gw5UqzD3uvzkJXfT0YZbxKmoeNMo" group-title="ReMy_U.S & U.K & IL",Local Now Philidelphia
-https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
+https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=hls&tpp=10443
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/YnOZtNm.png" group-title="ReMy_U.S & U.K & IL",LoveWorld USA
 https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="ReMy_U.S & U.K & IL",MCN6
@@ -4670,9 +4670,9 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="ReMy_U.S & U.K & IL",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/TV29g3L.png" group-title="ReMy_U.S & U.K & IL",TCT
-http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/TCTHLS_Live_1200.m3u8
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCThls/TCThls_Live_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="ReMy_U.S & U.K & IL",TCT Kids
-http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/Familyhls/Familyhls_Live_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="ReMy_U.S & U.K & IL",Telemundo 44
 https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2XKjSpy.gif" group-title="ReMy_U.S & U.K & IL",Tempe 11
@@ -5140,15 +5140,15 @@ https://1drv.ws/u/s!AmlGjvQBird1eMLSwi9Z_3OS1Zw?e=e3vOE9
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Siteler Muzik ANGARA
 http://live.arkumedia.com:1935/sitelertv/sitelertv/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TV
-https://soledge13.duhnet.tv//S2/HLS_LIVE/dreamtvnp/playlist.m3u8?key=94b5238d0b8a4ec047680bb895e97a6c&live=true&app=com.dreamtv
+https://soledge13.duhnet.tv//S2/hls_LIVE/dreamtvnp/playlist.m3u8?key=94b5238d0b8a4ec047680bb895e97a6c&live=true&app=com.dreamtv
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TURK
-https://soledge13.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8?key=94b5238d0b8a4ec047680bb895e97a6c&live=true&app=com.dreamturk
+https://soledge13.duhnet.tv//S2/hls_LIVE/dreamturknp/playlist.m3u8?key=94b5238d0b8a4ec047680bb895e97a6c&live=true&app=com.dreamturk
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TURK
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+http://live.netd.com.tr/S1/hls_LIVE/dreamturktv/1000/prog_index.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TV
-https://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?
+https://live.dogannet.tv/S2/hls_LIVE/dreamtv/1000/prog_index.m3u8?
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DREAM TV
-http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
+http://live.dogannet.tv/S2/hls_LIVE/dreamtv/index.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL HD
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL TV
@@ -5314,11 +5314,11 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/226.m3u8/Level(545259)?st
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Mooz RO
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/247.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV_Hits
-http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+http://185.176.117.243/live/eds/MTV_Hits/hls_encr/MTV_Hits.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV_Hits
-http://213.252.252.17/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+http://213.252.252.17/live/eds/MTV_Hits/hls_encr/MTV_Hits.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV_Hits
-http://213.252.252.2/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+http://213.252.252.2/live/eds/MTV_Hits/hls_encr/MTV_Hits.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV (Latin America)
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV

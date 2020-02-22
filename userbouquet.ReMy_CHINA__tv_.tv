@@ -517,9 +517,9 @@
 #DESCRIPTION CIBN dòuniú cáijīng
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8:CIBN diànyǐng
 #DESCRIPTION CIBN diànyǐng
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/Hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8:CIBN hǎoláiwù
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8:CIBN hǎoláiwù
 #DESCRIPTION CIBN hǎoláiwù
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/Hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8:CIBN yuàn xiàn dàpiàn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8:CIBN yuàn xiàn dàpiàn
 #DESCRIPTION CIBN yuàn xiàn dàpiàn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8:CIBN wéi diànyǐng
 #DESCRIPTION CIBN wéi diànyǐng
@@ -555,15 +555,15 @@
 #DESCRIPTION CIBN gǔzhuāng jùchǎng
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8:CIBN jiāoyáng jùchǎng
 #DESCRIPTION CIBN jiāoyáng jùchǎng
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/Hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8:CIBN zònghé
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8:CIBN zònghé
 #DESCRIPTION CIBN zònghé
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/Hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8:CIBN liú jīn suìyuè
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8:CIBN liú jīn suìyuè
 #DESCRIPTION CIBN liú jīn suìyuè
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/Hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8:CIBN jiànkāng
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8:CIBN jiànkāng
 #DESCRIPTION CIBN jiànkāng
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/Hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8:CIBN fēngshàng yùndòng
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8:CIBN fēngshàng yùndòng
 #DESCRIPTION CIBN fēngshàng yùndòng
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/Hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8:CIBN zhēnrén xiù
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cibn.peoplevideo.cn%3a80/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8:CIBN zhēnrén xiù
 #DESCRIPTION CIBN zhēnrén xiù
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8:CIBN yí jiā
 #DESCRIPTION CIBN yí jiā
