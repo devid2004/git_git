@@ -233,8 +233,12 @@
 #DESCRIPTION GB
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226407/02.m3u8:GB
 #DESCRIPTION GB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//glasdrine.cutuk.net%3a1935/3ghu788/GlasDrine:GLas Drine Music HD
+#DESCRIPTION GLas Drine Music HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webmobile.xdev.ro%3a81/tv24/playlist.m3u8?time=1464028219168:Iasi TV Life
 #DESCRIPTION Iasi TV Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cast-control.eu%3a1935/VitezevoTv/VitezevoTv/playlist.m3u8:I Dj Music Srbija Tv
+#DESCRIPTION I Dj Music Srbija Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//imedi-tv.cdn.xsg.ge/imedihd/index.m3u8:Imedi TV HD
 #DESCRIPTION Imedi TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END:IneditTV
@@ -263,6 +267,8 @@
 #DESCRIPTION KCN2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/rtp/239.0.0.3%3a5000:KCN3
 #DESCRIPTION KCN3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8:Kiss TV
+#DESCRIPTION Kiss TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8:KRONEHIT TV HD
 #DESCRIPTION KRONEHIT TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.goodgame.ru%3a8080/hls/172148.m3u8:KVN HD

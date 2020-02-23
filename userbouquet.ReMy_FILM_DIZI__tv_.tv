@@ -1,48 +1,42 @@
 #NAME == ★★ReMy | FILM | DIZI ★★ ==
 #SERVICE 1:64:92:0:0:0:0:0:0:0::::::___MOVIES_CHANNELS____::::
 #DESCRIPTION ::::___MOVIES_CHANNELS____::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-monoplus_480/index.m3u8:Mono Plus
-#DESCRIPTION Mono Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-redalt_480/index.m3u8:HBO Red
-#DESCRIPTION HBO Red
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-fox_720/index.m3u8:Fox HD
-#DESCRIPTION Fox HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8:Fox Movies Premium (TH)
-#DESCRIPTION Fox Movies Premium (TH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8:HBO (Thai)
-#DESCRIPTION HBO (Thai)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-warnertv_720/index.m3u8:Warner TV (HD)
-#DESCRIPTION Warner TV (HD)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-fxeng_480/index.m3u8:FX HD
-#DESCRIPTION FX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8:Fox Family Movies
-#DESCRIPTION Fox Family Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8:Fox Crime
-#DESCRIPTION Fox Crime
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-foxlife_720/index.m3u8:Fox Life
-#DESCRIPTION Fox Life
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tfilm_720/index.m3u8:Film HD
-#DESCRIPTION Film HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tfilm2_720/index.m3u8:Film HD 2
-#DESCRIPTION Film HD 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-thrill_480/index.m3u8:Thrill
-#DESCRIPTION Thrill
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-celestial_480/index.m3u8:Celestial Classic Movies
 #DESCRIPTION Celestial Classic Movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-gmmone_720/index.m3u8:GMM One
 #DESCRIPTION GMM One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8:HBO (Thai)
+#DESCRIPTION HBO (Thai)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-redalt_480/index.m3u8:HBO Red
+#DESCRIPTION HBO Red
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tfilm_720/index.m3u8:Film HD
+#DESCRIPTION Film HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tfilm2_720/index.m3u8:Film HD 2
+#DESCRIPTION Film HD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-fxeng_480/index.m3u8:FX HD
+#DESCRIPTION FX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-fox_720/index.m3u8:Fox HD
+#DESCRIPTION Fox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8:Fox Crime
+#DESCRIPTION Fox Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8:Fox Family Movies
+#DESCRIPTION Fox Family Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-foxlife_720/index.m3u8:Fox Life
+#DESCRIPTION Fox Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8:Fox Movies Premium (TH)
+#DESCRIPTION Fox Movies Premium (TH)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-monoplus_480/index.m3u8:Mono Plus
+#DESCRIPTION Mono Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-thrill_480/index.m3u8:Thrill
+#DESCRIPTION Thrill
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-warnertv_720/index.m3u8:Warner TV (HD)
+#DESCRIPTION Warner TV (HD)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.goodgame.ru%3a8080/hls/172148.m3u8:KVN HD
 #DESCRIPTION KVN HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.66/h/h141/01.m3u8:AXN
 #DESCRIPTION AXN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true:Black Cinema
 #DESCRIPTION Black Cinema
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8:Celestial Movies
-#DESCRIPTION Celestial Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8:Cinema World
-#DESCRIPTION Cinema World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8:Cinemax
-#DESCRIPTION Cinemax
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8:Crime Investigation
 #DESCRIPTION Crime Investigation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropbox.com/s/nzd3ekunnrbkh60/Dubaimovie.m3u8?dl=0:Dubai one

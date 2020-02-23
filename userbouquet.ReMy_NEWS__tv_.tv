@@ -45,8 +45,8 @@
 #DESCRIPTION 24 AP Tataristan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8:24h Catalunya
 #DESCRIPTION 24h Catalunya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News UK
-#DESCRIPTION 92 News UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News Pakistan
+#DESCRIPTION 92 News Pakistan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8:ABC News
 #DESCRIPTION ABC News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8:Al Arabiya
@@ -75,10 +75,6 @@
 #DESCRIPTION Astrakhan 24 HD +1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8:ASTRO AWANI ENDONESIA
 #DESCRIPTION ASTRO AWANI ENDONESIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002733/austchannel-business/master.m3u8:Australia Channel Business
-#DESCRIPTION Australia Channel Business
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002733/austchannel-business/master1280x720.m3u8:Australia Channel Business
-#DESCRIPTION Australia Channel Business
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/004:BBC News
 #DESCRIPTION BBC News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8:BBC News Japan
