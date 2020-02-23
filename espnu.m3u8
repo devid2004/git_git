@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTVLCOPT--http-reconnect=true
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://gma2.blab.email/espnu.m3u8
