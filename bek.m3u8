@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 
+<MPD
+  type="dynamic"
+  xmlns="urn:mpeg:dash:schema:mpd:2011"
+  xmlns:xsi="http://www.w3.org/2011/XMLSchema-instance"
+  xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011 DASH-MPD.xsd"
+  profiles="urn:mpeg:dash:profile:isoff-live:2011"
+  availabilityStartTime="2020-02-23T08:19:30-08:00"
+  availabilityEndTime="2020-02-23T11:29:19-08:00"
+  timeShiftBufferDepth="PT20S"
+  suggestedPresentationDelay="PT2S"
+  minBufferTime="PT1S"
+  publishTime="2020-02-23T08:19:30-08:00"
+  minimumUpdatePeriod="PT1S"
+  currentServerTimeMs="1582485859087"
+  fblsVersion="sve.live_streaming:b24a9ec"
+  firstAvTimeMs="1582474771964"
+  lastVideoFrameTs="11090940"
+  loapStreamId="570251103869686"
+  publishFrameTime="0">
+  <Period id="dash-abr-ibr-audio" start="PT0S">
+    <AdaptationSet
+      segmentAlignment="true"
+      maxWidth="1280"
+      maxHeight="720"
+      maxFrameRate="30">
+      <Representation
+        id="live-md-v"
+        mimeType="video/mp4"
+        codecs="avc1.4d401e"
+        width="640"
+        height="360"
+        frameRate="30"
+        startWithSAP="1"
+        bandwidth="399382"
+        FBQualityClass="sd"
+        FBQualityLabel="360p">
+        <SegmentTemplate
+          presentationTimeOffset="0"
+          timescale="1000"
+          initialization="../live-md-v/570251103869686_0-init.m4v"
+          media="../live-md-v/v2_QWJ4a0p0bHNOSzRDZjdDeU1Tdw==_570251103869686_0-$Time$.m4v">
+          <SegmentTimeline>
+            <S t="11068834" d="2000"/>
+            <S t="11070834" d="2000"/>
+            <S t="11072834" d="2000"/>
+            <S t="11074834" d="2000"/>
+            <S t="11076834" d="2000"/>
+            <S t="11078834" d="2000"/>
+            <S t="11080834" d="2000"/>
+            <S t="11082834" d="2000"/>
+            <S t="11084834" d="2000"/>
+            <S t="11086834" d="2000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation
+        id="live-qd-v"
+        mimeType="video/mp4"
+        codecs="avc1.4d401e"
+        width="256"
+        height="144"
+        frameRate="30"
+        startWithSAP="1"
+        bandwidth="92454"
+        FBQualityClass="sd"
+        FBQualityLabel="144p">
+        <SegmentTemplate
+          presentationTimeOffset="0"
+          timescale="1000"
+          initialization="../live-qd-v/570251103869686_0-init.m4v"
+          media="../live-qd-v/v2_QWJ4a0p0bHNOSzRDZjdDeU1Tdw==_570251103869686_0-$Time$.m4v">
+          <SegmentTimeline>
+            <S t="11068834" d="2000"/>
+            <S t="11070834" d="2000"/>
+            <S t="11072834" d="2000"/>
+            <S t="11074834" d="2000"/>
+            <S t="11076834" d="2000"/>
+            <S t="11078834" d="2000"/>
+            <S t="11080834" d="2000"/>
+            <S t="11082834" d="2000"/>
+            <S t="11084834" d="2000"/>
+            <S t="11086834" d="2000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation
+        id="live-ld-v"
+        mimeType="video/mp4"
+        codecs="avc1.4d401e"
+        width="426"
+        height="240"
+        frameRate="30"
+        startWithSAP="1"
+        bandwidth="210540"
+        FBQualityClass="sd"
+        FBQualityLabel="240p">
+        <SegmentTemplate
+          presentationTimeOffset="0"
+          timescale="1000"
+          initialization="../live-ld-v/570251103869686_0-init.m4v"
+          media="../live-ld-v/v2_QWJ4a0p0bHNOSzRDZjdDeU1Tdw==_570251103869686_0-$Time$.m4v">
+          <SegmentTimeline>
+            <S t="11068834" d="2000"/>
+            <S t="11070834" d="2000"/>
+            <S t="11072834" d="2000"/>
+            <S t="11074834" d="2000"/>
+            <S t="11076834" d="2000"/>
+            <S t="11078834" d="2000"/>
+            <S t="11080834" d="2000"/>
+            <S t="11082834" d="2000"/>
+            <S t="11084834" d="2000"/>
+            <S t="11086834" d="2000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation
+        id="live-hd-v"
+        mimeType="video/mp4"
+        codecs="avc1.4d401e"
+        width="854"
+        height="480"
+        frameRate="30"
+        startWithSAP="1"
+        bandwidth="623401"
+        FBQualityClass="sd"
+        FBQualityLabel="480p">
+        <SegmentTemplate
+          presentationTimeOffset="0"
+          timescale="1000"
+          initialization="../live-hd-v/570251103869686_0-init.m4v"
+          media="../live-hd-v/v2_QWJ4a0p0bHNOSzRDZjdDeU1Tdw==_570251103869686_0-$Time$.m4v">
+          <SegmentTimeline>
+            <S t="11068834" d="2000"/>
+            <S t="11070834" d="2000"/>
+            <S t="11072834" d="2000"/>
+            <S t="11074834" d="2000"/>
+            <S t="11076834" d="2000"/>
+            <S t="11078834" d="2000"/>
+            <S t="11080834" d="2000"/>
+            <S t="11082834" d="2000"/>
+            <S t="11084834" d="2000"/>
+            <S t="11086834" d="2000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation
+        id="live-hd1-v"
+        mimeType="video/mp4"
+        codecs="avc1.4d401e"
+        width="1280"
+        height="720"
+        frameRate="30"
+        startWithSAP="1"
+        bandwidth="1184898"
+        FBQualityClass="hd"
+        FBQualityLabel="720p">
+        <SegmentTemplate
+          presentationTimeOffset="0"
+          timescale="1000"
+          initialization="../live-hd1-v/570251103869686_0-init.m4v"
+          media="../live-hd1-v/v2_QWJ4a0p0bHNOSzRDZjdDeU1Tdw==_570251103869686_0-$Time$.m4v">
+          <SegmentTimeline>
+            <S t="11068834" d="2000"/>
+            <S t="11070834" d="2000"/>
+            <S t="11072834" d="2000"/>
+            <S t="11074834" d="2000"/>
+            <S t="11076834" d="2000"/>
+            <S t="11078834" d="2000"/>
+            <S t="11080834" d="2000"/>
+            <S t="11082834" d="2000"/>
+            <S t="11084834" d="2000"/>
+            <S t="11086834" d="2000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet segmentAlignment="true">
+      <Representation
+        id="live-md-a"
+        mimeType="audio/mp4"
+        codecs="mp4a.40.2"
+        audioSamplingRate="48000"
+        startWithSAP="1"
+        bandwidth="64099">
+        <SegmentTemplate
+          presentationTimeOffset="0"
+          timescale="1000"
+          initialization="../live-md-a/570251103869686_0-init.m4a"
+          media="../live-md-a/v2_QWJ4a0p0bHNOSzRDZjdDeU1Tdw==_570251103869686_0-$Time$.m4a">
+          <SegmentTimeline>
+            <S t="11068834" d="2000"/>
+            <S t="11070834" d="2000"/>
+            <S t="11072834" d="2000"/>
+            <S t="11074834" d="2000"/>
+            <S t="11076834" d="2000"/>
+            <S t="11078834" d="2000"/>
+            <S t="11080834" d="2000"/>
+            <S t="11082834" d="2000"/>
+            <S t="11084834" d="2000"/>
+            <S t="11086834" d="2000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation
+        id="live-qd-a"
+        mimeType="audio/mp4"
+        codecs="mp4a.40.2"
+        audioSamplingRate="48000"
+        startWithSAP="1"
+        bandwidth="96117">
+        <SegmentTemplate
+          presentationTimeOffset="0"
+          timescale="1000"
+          initialization="../live-qd-a/570251103869686_0-init.m4a"
+          media="../live-qd-a/v2_QWJ4a0p0bHNOSzRDZjdDeU1Tdw==_570251103869686_0-$Time$.m4a">
+          <SegmentTimeline>
+            <S t="11068834" d="2000"/>
+            <S t="11070834" d="2000"/>
+            <S t="11072834" d="2000"/>
+            <S t="11074834" d="2000"/>
+            <S t="11076834" d="2000"/>
+            <S t="11078834" d="2000"/>
+            <S t="11080834" d="2000"/>
+            <S t="11082834" d="2000"/>
+            <S t="11084834" d="2000"/>
+            <S t="11086834" d="2000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation
+        id="live-ld-a"
+        mimeType="audio/mp4"
+        codecs="mp4a.40.2"
+        audioSamplingRate="48000"
+        startWithSAP="1"
+        bandwidth="128112">
+        <SegmentTemplate
+          presentationTimeOffset="0"
+          timescale="1000"
+          initialization="../live-ld-a/570251103869686_0-init.m4a"
+          media="../live-ld-a/v2_QWJ4a0p0bHNOSzRDZjdDeU1Tdw==_570251103869686_0-$Time$.m4a">
+          <SegmentTimeline>
+            <S t="11068834" d="2000"/>
+            <S t="11070834" d="2000"/>
+            <S t="11072834" d="2000"/>
+            <S t="11074834" d="2000"/>
+            <S t="11076834" d="2000"/>
+            <S t="11078834" d="2000"/>
+            <S t="11080834" d="2000"/>
+            <S t="11082834" d="2000"/>
+            <S t="11084834" d="2000"/>
+            <S t="11086834" d="2000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>
