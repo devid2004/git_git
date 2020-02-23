@@ -752,12 +752,6 @@ http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",WOSN TV
 http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",beIN SNG 1 Main
-http://192.168.31.107:8001/1:0:19:2:0:2:46ACEC:0:0:0:
-#EXTINF:-1 group-title="ReMy_SPORT",beIN SNG 2 Backup
-http://192.168.31.107:8001/1:0:19:1:0:0:46AD67:0:0:0:
-#EXTINF:-1 group-title="ReMy_SPORT",E_363 A
-http://192.168.31.107:8001/1:0:1:8:1:FFFF:46AD73:0:0:0:
 #EXTINF:-1 group-title="FASHION_FLIX","FASHION_FLIX"
 "FASHION_FLIX"
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",FASHION TV PARIS
