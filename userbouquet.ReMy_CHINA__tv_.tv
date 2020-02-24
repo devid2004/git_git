@@ -1,14 +1,8 @@
 #NAME == ★★ReMy | CHINA★★ ==
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/BNC.m3u8:BNC
-#DESCRIPTION BNC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8:TV News
-#DESCRIPTION TV News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/YOPNews.m3u8:YOP News
-#DESCRIPTION YOP News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//27.254.130.64/live01/ch6.m3u8?p=m3u8:5HD THAI
 #DESCRIPTION 5HD THAI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8:cnN ENDONESIA
-#DESCRIPTION cnN ENDONESIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8:CNN ENDONESIA
+#DESCRIPTION CNN ENDONESIA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.235.41%3a16924:Golf network
 #DESCRIPTION Golf network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/qwr9ew/s/s42/01.m3u8?fluxustv.m3u8:K DRAMA

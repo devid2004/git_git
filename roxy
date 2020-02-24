@@ -342,34 +342,14 @@ https://gma2.blab.email/espnu.m3u8
 https://gma2.blab.email/sec.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1000px-ACC_Network_ESPN_logo.svg.png" group-title="ReMy_SPORT",ACC Network
 https://gma2.blab.email/acc.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/JSports1.jp.png" group-title="ReMy_SPORT",J Sports 1
-http://123.30.146.182:8080/1418/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/JSports1.jp.png" group-title="ReMy_SPORT",J Sports 2
-http://123.30.146.182:8080/1419/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/JSports1.jp.png" group-title="ReMy_SPORT",J Sports 3
-http://123.30.146.182:8080/1420/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/JSports1.jp.png" group-title="ReMy_SPORT",J Sports 4
-http://123.30.146.182:8080/1421/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.gaora.co.jp/common/img/gaora_logo.gif" group-title="ReMy_SPORT",Gaora Sports
-http://123.30.146.182:8080/1340/video.m3u8
-#EXTINF:-1 tvg-logo="https://tv.foxjapan.com/core/img/logo_fse.png" group-title="ReMy_SPORT",Fox Sports Entertainment
-http://123.30.146.182:8080/1343/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.sky-a.co.jp/img/common/logo.png group-title="ReMy_SPORT",Sky A
-http://123.30.146.182:8080/1341/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SkySports.kr.png" group-title="ReMy_SPORT",Sky Sports
-http://123.30.146.182:8080/246/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SPOTV.kr.png" group-title="ReMy_SPORT",SPOTV
-http://123.30.146.182:8080/259/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SuperAction.kr.png" group-title="ReMy_SPORT",Super Action
-http://123.30.146.182:8080/210/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.njpw.co.jp/wp-content/themes/njpw-pc-sc/images/logo-njpwworld.png" group-title="ReMy_SPORT",New Japan Pro Wrestling World
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png" group-title="ReMy_SPORT",MBC J Sports
 http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="ReMy_SPORT",Wai Lai
-https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.njpw.co.jp/wp-content/themes/njpw-pc-sc/images/logo-njpwworld.png" group-title="ReMy_SPORT",New Japan Pro Wrestling World
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSSports.kr.png" group-title="ReMy_SPORT",SBS Sports
 http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="ReMy_SPORT",Wai Lai
+https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="ReMy_SPORT",Eurosport 1
 http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="ReMy_SPORT",Eurosport 2
@@ -1949,17 +1929,17 @@ http://195.29.70.67/PLTV/88888888/224/3221226281/03.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",MAXtv [528p]
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",NB Comedy Channel
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",GB GAME
 http://195.29.70.67/PLTV/88888888/224/3221226407/04.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",NB Comedy Channel
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",GB GAME
 http://195.29.70.89/PLTV/88888888/224/3221226407/04.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",News bar TV 
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",GB GAME
 http://195.29.70.67/PLTV/88888888/224/3221226407/01.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",News bar TV 
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",GB GAME 
 http://195.29.70.67/PLTV/88888888/224/3221226407/02.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",News bar TV 
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",GB GAME 
 http://195.29.70.67/PLTV/88888888/224/3221226407/03.m3u8
-#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",News bar TV [only audio]
+#EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",GB GAME [only audio]
 http://195.29.70.67/PLTV/88888888/224/3221226407/05.m3u8
 #EXTINF:-1 group-title="ReMy_BALKAN_EUROPE",RTL
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
