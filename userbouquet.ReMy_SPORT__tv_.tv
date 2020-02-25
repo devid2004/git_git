@@ -507,8 +507,6 @@
 #DESCRIPTION Sharjah Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8:Sony ESPN
 #DESCRIPTION Sony ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr-c.movply.stream/hls/sony-ten-1-hd.m3u8:Sony ESPN
-#DESCRIPTION Sony ESPN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-1.toffeelive.com/live/sony_six_720/index.m3u8:Sony Six
 #DESCRIPTION Sony Six
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer-1.toffeelive.com/live/ten_1_720/index.m3u8:Sony Ten 1
