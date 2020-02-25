@@ -415,7 +415,7 @@
 #DESCRIPTION XMTV.cn 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8:Xuanyuanjian
 #DESCRIPTION Xuanyuanjian
-#SERVICE 1:64:8E:0:0:0:0:0:0:0::==== ★★ReMy | FAR_EAST★★ ====
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::==== ★★ReMy | FAR_EAST★★ ====
 #DESCRIPTION ==== ★★ReMy | FAR_EAST★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//27.254.130.64/live01/ch6.m3u8?p=m3u8:5HD THAI
 #DESCRIPTION 5HD THAI
@@ -787,8 +787,8 @@
 #DESCRIPTION MWD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.81.84.130/hls/mwd_variety/index.m3u8:MWD Variety
 #DESCRIPTION MWD Variety
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8:h_148,al_c,usm_0.66_1.00_0.01/Fortune_Artboard%25201_edited.png" group-title="Myanmar",Fortune TV
-#DESCRIPTION h_148,al_c,usm_0.66_1.00_0.01/Fortune_Artboard%201_edited.png" group-title="Myanmar",Fortune TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8:h_148,al_c,usm_0.66_1.00_0.01/Fortune_Artboard%201
+#DESCRIPTION h_148,al_c,usm_0.66_1.00_0.01/Fortune_Artboard%201
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8:Channel K
 #DESCRIPTION Channel K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8:DVB
