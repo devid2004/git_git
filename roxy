@@ -172,7 +172,7 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",A HABER HD
 https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",CNN TURK HD
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN TURK HD
 http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN TURK HD
 https://srvc.dogannet.tv/S2/hls_LIVE/cnnturknp/track_4_1000/playlist.m3u8
@@ -598,8 +598,6 @@ https://svs.itworkscdn.net/ktvsportslive/smil:ksports.smil/chunklist.m3u8
 https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",LIVE MOTOR SPORT
 http://45.58.62.92:8084
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iYqjCpbv3S8/hqdefault.jpg" group-title="ReMy_SPORT",Liga Indonesia
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Match
 http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",MLB USA
