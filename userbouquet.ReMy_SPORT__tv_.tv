@@ -227,12 +227,12 @@
 #DESCRIPTION Wai Lai
 #SERVICE 1:64:91:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #DESCRIPTION ==== ★★ReMy | SPORT_MIXER TV+★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
-#DESCRIPTION 100 Automoto Bulgaria
-#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto Bulgaria
+#DESCRIPTION 100% Automoto Bulgaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream3.news5.ph/n5e/5plus/playlist.m3u8:5 Plus
-#DESCRIPTION 5 Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream3.news5.ph/n5e/5plus/playlist.m3u8:ESPN 5 Plus
+#DESCRIPTION ESPN 5 Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.SPORT.1/playlist.m3u8:AD SPORT 1
 #DESCRIPTION AD SPORT 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.Sport.2/playlist.m3u8:AD SPORT 2
@@ -283,6 +283,8 @@
 #DESCRIPTION CCTV-5+ HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8:CCX CITIES
 #DESCRIPTION CCX CITIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8:CDO PREMIUM
+#DESCRIPTION CDO PREMIUM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/darcizzle.m3u8:Darcizzle Offshore (USA)4
 #DESCRIPTION Darcizzle Offshore (USA)4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8:DD Sports
@@ -387,8 +389,6 @@
 #DESCRIPTION LIVE MOTOR SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/103u:M4 Sport (Europa) HD
 #DESCRIPTION M4 Sport (Europa) HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2009:MATCH! HD
-#DESCRIPTION MATCH! HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2009:Match! HD
 #DESCRIPTION Match! HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2019:Match!
@@ -401,8 +401,6 @@
 #DESCRIPTION MATCH! PLANET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.191.36.106%3a8080/hls/nashfutbol.m3u8:Match! Premier
 #DESCRIPTION Match! Premier
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_foyfbby2_original_r10/c214_scc_20190618_foyfbby2_original_r10.m3u8:Max Speed ​​car
-#DESCRIPTION Max Speed ​​car
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//anevia115.mncnow.id%3a443/live/eds/MNCSports/sa_hls/MNCSports.m3u8:MNC Sports
 #DESCRIPTION MNC Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//anevia115.mncnow.id%3a443/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8:MNC Sports 2
@@ -437,8 +435,6 @@
 #DESCRIPTION ONEGOLF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/3gT64sH/c.m3u8:Outside TV
 #DESCRIPTION Outside TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_mfs1nrj3_original_r10/c214_scc_20190618_mfs1nrj3_original_r10.m3u8:Pioneer Ping Yu
-#DESCRIPTION Pioneer Ping Yu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21151/udp/194w:Polsat Sport News HD
 #DESCRIPTION Polsat Sport News HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21161/udp/172r:Polsat Sport HD
@@ -479,6 +475,8 @@
 #DESCRIPTION Redbull.tv FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp%3aRTM2/chunklist_b2064000.m3u8:RTM Sports
 #DESCRIPTION RTM Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//teledifusion.tv%3a1935/rtvcetv/mp4%3artvcetvlive/playlist.m3u8:rtvce.es
+#DESCRIPTION rtvce.es
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/playlist.m3u8:Rtv San Marino Sport
 #DESCRIPTION Rtv San Marino Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/playlist.m3u8:Rtv Sport (san Marino)

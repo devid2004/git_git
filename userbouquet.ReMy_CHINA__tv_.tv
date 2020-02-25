@@ -449,10 +449,18 @@
 #DESCRIPTION TvN movies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8:VIOCE TV THAI
 #DESCRIPTION VIOCE TV THAI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8:AnimePlus
+#DESCRIPTION AnimePlus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ca29b882aaf6.streamlock.net/livetv/BusanMBC_TV_livestream/playlist.m3u8:Busan MBC
+#DESCRIPTION Busan MBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8:BBC News Japan
 #DESCRIPTION BBC News Japan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8:CGN Japan
 #DESCRIPTION CGN Japan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8:Japanet Channel DX
+#DESCRIPTION Japanet Channel DX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8:Nittele NEWS24
+#DESCRIPTION Nittele NEWS24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNCHNTV/1800/vCIBNCHNTV.m3u8:Nihao TV
 #DESCRIPTION Nihao TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8:Gunma TV

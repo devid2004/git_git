@@ -91,6 +91,8 @@
 #DESCRIPTION Chanson TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net%3a80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8:CMC TV
 #DESCRIPTION CMC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/COLOSAL/COLOSAL/playlist.m3u8:COLOSAL TV COSTA RICA
+#DESCRIPTION COLOSAL TV COSTA RICA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/CompanyTV/_definst_/mp4%3alivestream_720p/playlist.m3u8:Company TV
 #DESCRIPTION Company TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-stranafm.cdnvideo.ru/stranafm/smil%3astranafm.smil/playlist.m3u8:Country FM

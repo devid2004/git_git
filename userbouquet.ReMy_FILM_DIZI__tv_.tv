@@ -39,12 +39,18 @@
 #DESCRIPTION KVN HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.66/h/h141/01.m3u8:AXN
 #DESCRIPTION AXN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8:BE MAD
+#DESCRIPTION BE MAD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true:Black Cinema
 #DESCRIPTION Black Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/f3bb9eba-af11-11e9-bade-8a7691426eef/uq2663/h/h04/01.m3u8:CINEMAWOLD
+#DESCRIPTION CINEMAWOLD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8:Crime Investigation
 #DESCRIPTION Crime Investigation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropbox.com/s/nzd3ekunnrbkh60/Dubaimovie.m3u8?dl=0:Dubai one
 #DESCRIPTION Dubai one
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreamcdn.net%3a1935/ExtremaTV/ExtremaTV/playlist.m3u8:Extrema TV
+#DESCRIPTION Extrema TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.linknetott.swiftserve.com/live/BSgroup/amlst%3ajgoch/chunklist_b2288000.m3u8:First Movie
 #DESCRIPTION First Movie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8:FX

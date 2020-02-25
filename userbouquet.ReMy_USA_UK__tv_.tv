@@ -521,6 +521,8 @@
 #DESCRIPTION CNBC TV18
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10:CNBC TV18
 #DESCRIPTION CNBC TV18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8:CNTV Canada
+#DESCRIPTION CNTV Canada
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.177.62.139%3a8011/play/s27:Comedy Central/VIVA
 #DESCRIPTION Comedy Central/VIVA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8:ConTV
@@ -627,6 +629,8 @@
 #DESCRIPTION ET Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nimble.dashmedia.tv/onestudio/exercise_4u_tv/playlist.m3u8?remyteam.m3u8:Exercise 4U
 #DESCRIPTION Exercise 4U
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8:Expo Channel
+#DESCRIPTION Expo Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8:Fail Army
 #DESCRIPTION Fail Army
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4%3afairfax.stream/chunklist.m3u8?fluxustv.m3u8:Fairfax Public Access
@@ -769,6 +773,8 @@
 #DESCRIPTION Hunt Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8:Hunt Channel
 #DESCRIPTION Hunt Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8:ICI RDI
+#DESCRIPTION ICI RDI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8:IndieWave
 #DESCRIPTION IndieWave
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/live.m3u8:InfoWars
@@ -1141,6 +1147,8 @@
 #DESCRIPTION QVC 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v-pi.mybtv.net/event/41.4/640x480?start_time=2019-12-13T21%3a45%3a00.000Z&end_time=2026&env=prd&uid=29375:QVC 3 (Backup)
 #DESCRIPTION QVC 3 (Backup)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8:Racing.com
+#DESCRIPTION Racing.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8:Radio y Televisión Martí
 #DESCRIPTION Radio y Televisión Martí
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver001.viewtvgroup.com/kapanglivetv-playout-rathergoodradio/tracks-v5a1/mono.m3u8:Rathergood Radio
@@ -1225,6 +1233,8 @@
 #DESCRIPTION Sky News Arabia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.skynewsarabia.com/hls/sna_720.m3u8:Sky News Arabia
 #DESCRIPTION Sky News Arabia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8:SKY News Extra 1
+#DESCRIPTION SKY News Extra 1
 #SERVICE 4097:0:0:9:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Sky-MoviesAction.m3u8:Sky-MoviesAction
 #DESCRIPTION Sky-MoviesAction
 #SERVICE 4097:0:0:10:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Sky-MoviesComedy.m3u8:Sky-MoviesComedy
@@ -1281,6 +1291,8 @@
 #DESCRIPTION TCT Kids
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8:Tele Quebec
 #DESCRIPTION Tele Quebec
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8:Tele-Quebec
+#DESCRIPTION Tele-Quebec
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8:Telemundo 44
 #DESCRIPTION Telemundo 44
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8:Tempe 11
@@ -1341,6 +1353,8 @@
 #DESCRIPTION The Works
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8:Three
 #DESCRIPTION Three
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8:Three
+#DESCRIPTION Three
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/hdtimes10.flv/chunklist.m3u8:Times Square (47th & Broadway)
 #DESCRIPTION Times Square (47th & Broadway)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4017timessquare.flv/chunklist.m3u8:Times Square (South View)
@@ -1363,6 +1377,8 @@
 #DESCRIPTION TSTV TEXAS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtm2mobile.secureswiftcontent.com/Origin01/ngrp%3aRTM1/chunklist_b3696000.m3u8:TV2 HD
 #DESCRIPTION TV2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8:TVSN
+#DESCRIPTION TVSN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8:TVSN
 #DESCRIPTION TVSN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp%3aTVWAIR_all/chucklist.m3u8:TVW
@@ -1409,6 +1425,8 @@
 #DESCRIPTION VoA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8:VSiN
 #DESCRIPTION VSiN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8:Wairarapa TV
+#DESCRIPTION Wairarapa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8:Wairarapa TV
 #DESCRIPTION Wairarapa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//player-api.new.livestream.com/accounts/11279058/events/3645614/live.m3u8:WALB
