@@ -417,7 +417,6 @@
 #DESCRIPTION Xuanyuanjian
 #SERVICE 1:64:8E:0:0:0:0:0:0:0::==== ★★ReMy | FAR_EAST★★ ====
 #DESCRIPTION ==== ★★ReMy | FAR_EAST★★ ====
-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//27.254.130.64/live01/ch6.m3u8?p=m3u8:5HD THAI
 #DESCRIPTION 5HD THAI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8:CNN ENDONESIA
@@ -788,7 +787,7 @@
 #DESCRIPTION MWD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.81.84.130/hls/mwd_variety/index.m3u8:MWD Variety
 #DESCRIPTION MWD Variety
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8:h_148,al_c,usm_0.66_1.00_0.01/Fortune_Artboard%201_edited.png" group-title="Myanmar",Fortune TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8:h_148,al_c,usm_0.66_1.00_0.01/Fortune_Artboard%25201_edited.png" group-title="Myanmar",Fortune TV
 #DESCRIPTION h_148,al_c,usm_0.66_1.00_0.01/Fortune_Artboard%201_edited.png" group-title="Myanmar",Fortune TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8:Channel K
 #DESCRIPTION Channel K
@@ -826,8 +825,6 @@
 #DESCRIPTION channel 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.pjmcdn.info/live/mono29.stream/playlist.m3u8:Mono 29
 #DESCRIPTION Mono 29
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil%3amcothd1080p.smil/playlist.m3u8:MCOT
-#DESCRIPTION MCOT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//one31-0ougnj.cdn.byteark.com/live/playlist.m3u8:ONE 31
 #DESCRIPTION ONE 31
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.pjmcdn.info/live/Thairath-HD.stream/playlist.m3u8:Thairath
@@ -1008,24 +1005,8 @@
 #DESCRIPTION VTV 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/vtv9/index.m3u8:VTV 9
 #DESCRIPTION VTV 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/vtvcab1/index.m3u8:Giải Trí TV
-#DESCRIPTION Giải Trí TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/vtvcab2/index.m3u8:Phim Viet
-#DESCRIPTION Phim Viet
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123.30.146.182%3a8080/thethao/video.m3u8:Thể Thao
-#DESCRIPTION Thể Thao
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/vtvcab5/index.m3u8:E Channel
-#DESCRIPTION E Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/vtvcab7/index.m3u8:D Drama
-#DESCRIPTION D Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2bdoz1zs4.vcdn.com.vn/hls/VTC1_631/03.m3u8:VTC 1
 #DESCRIPTION VTC 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/kplus/index.m3u8:K+ 1
-#DESCRIPTION K+ 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/kpm/index.m3u8:K+ PM
-#DESCRIPTION K+ PM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.123.178%3a8080/kns/index.m3u8:K+ NS
-#DESCRIPTION K+ NS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.68.251.140/live/sctv91/index.m3u8:SCTV 9
 #DESCRIPTION SCTV 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2bdoz1zs4.vcdn.com.vn/hls/ANTV_631/03.m3u8:ANTV
@@ -1050,8 +1031,6 @@
 #DESCRIPTION DRT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8:HBTV
 #DESCRIPTION HBTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.hungyentv.vn%3a1935/live/HYTV/chunklist_w769520286.m3u8:Hưng Yen
-#DESCRIPTION Hưng Yen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.kgtv.vn/live/kgtv/kgtv.m3u8:Kien Giang
 #DESCRIPTION Kien Giang
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.kgtv.vn/live/kgtv1/kgtv1.m3u8:Kien Giang 1
@@ -1060,16 +1039,16 @@
 #DESCRIPTION KRT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8:LA34
 #DESCRIPTION LA34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.truyenhinhnghean.vn/live/na1_720/index.m3u8:Nghệ An
-#DESCRIPTION Nghệ An
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.truyenhinhnghean.vn/live/na1_720/index.m3u8:NTV HD
+#DESCRIPTION NTV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5952e4052a2e8.streamlock.net/live/smil%3athienviet.smil/playlist.m3u8:Multiply People
 #DESCRIPTION Multiply People
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.4.48%3a8080/phuyen/tv.m3u8:PTP
 #DESCRIPTION PTP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.161.6.157%3a8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8:QRT
 #DESCRIPTION QRT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2bdoz1zs4.vcdn.com.vn/hls/QH_631/03.m3u8:Quốc Hội
-#DESCRIPTION Quốc Hội
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2bdoz1zs4.vcdn.com.vn/hls/QH_631/03.m3u8:Quoc Hoi
+#DESCRIPTION Quoc Hoi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8:QPVN
 #DESCRIPTION QPVN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8:THBT
@@ -1086,12 +1065,6 @@
 #DESCRIPTION THGL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//thtg.vn%3a8001/thtg.m3u8:THTG
 #DESCRIPTION THTG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123.30.146.182%3a8080/thvl1/video.m3u8:THVL 1
-#DESCRIPTION THVL 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123.30.146.182%3a8080/thanhhoa/video.m3u8:TTV
-#DESCRIPTION TTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//thainguyentv.vn/hls/livestream.m3u8:TN1
-#DESCRIPTION TN1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.vnanet.vn/720P/playlist.m3u8:TTXVN
 #DESCRIPTION TTXVN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uni6rtmp.tulix.tv%3a1935/vbstv/vbsabr.smil/playlist.m3u8:VBS

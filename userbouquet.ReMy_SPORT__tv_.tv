@@ -229,8 +229,10 @@
 #DESCRIPTION ==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
-#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
+#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100%25 Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream3.news5.ph/n5e/5plus/playlist.m3u8:5 Plus
+#DESCRIPTION 5 Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.SPORT.1/playlist.m3u8:AD SPORT 1
 #DESCRIPTION AD SPORT 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.Sport.2/playlist.m3u8:AD SPORT 2
@@ -395,6 +397,10 @@
 #DESCRIPTION Match! Premier
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_foyfbby2_original_r10/c214_scc_20190618_foyfbby2_original_r10.m3u8:Max Speed ​​car
 #DESCRIPTION Max Speed ​​car
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//anevia115.mncnow.id%3a443/live/eds/MNCSports/sa_hls/MNCSports.m3u8:MNC Sports
+#DESCRIPTION MNC Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//anevia115.mncnow.id%3a443/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8:MNC Sports 2
+#DESCRIPTION MNC Sports 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.upstream-cloud.ch/sstvlinear/ngrp%3asstvlinear_all/playlist.m3u8:My Sports 1
 #DESCRIPTION My Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.154.243.89%3a1208:NBC Golf
@@ -461,6 +467,8 @@
 #DESCRIPTION Redbull.tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8:Redbull.tv FHD
 #DESCRIPTION Redbull.tv FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp%3aRTM2/chunklist_b2064000.m3u8:RTM Sports
+#DESCRIPTION RTM Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/playlist.m3u8:Rtv San Marino Sport
 #DESCRIPTION Rtv San Marino Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/playlist.m3u8:Rtv Sport (san Marino)
@@ -537,5 +545,5 @@
 #DESCRIPTION Weila Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8:World Of Free Sports Tv
 #DESCRIPTION World Of Free Sports Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8:Xcorps
-#DESCRIPTION Xcorps
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8:Xcorp
+#DESCRIPTION Xcorp
