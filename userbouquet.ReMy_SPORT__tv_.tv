@@ -97,6 +97,26 @@
 #DESCRIPTION KSA Sport1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA Sport2
 #DESCRIPTION KSA Sport2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK1HR/index.m3u8?token=test:Sport Klub 1
+#DESCRIPTION Sport Klub 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK2HR/index.m3u8?token=test:Sport Klub 2
+#DESCRIPTION Sport Klub 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK3HR/index.m3u8?token=test:Sport Klub 3
+#DESCRIPTION Sport Klub 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK4/video.m3u8?token=test:Sport Klub 4
+#DESCRIPTION Sport Klub 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK5/video.m3u8?token=test:Sport Klub 5
+#DESCRIPTION Sport Klub 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK6/video.m3u8?token=test:Sport Klub 6
+#DESCRIPTION Sport Klub 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK7/video.m3u8?token=test:Sport Klub 7
+#DESCRIPTION Sport Klub 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK8/video.m3u8?token=test:Sport Klub 8
+#DESCRIPTION Sport Klub 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK9/video.m3u8?token=test:Sport Klub 9
+#DESCRIPTION Sport Klub 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK10/video.m3u8?token=test:Sport Klub 10
+#DESCRIPTION Sport Klub 10
 #SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | TRUE VISIONS TV+★★ ====
 #DESCRIPTION ==== ★★ReMy | TRUE VISIONS TV+★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/rs-arena1_480/index.m3u8:ArenaSport 1
