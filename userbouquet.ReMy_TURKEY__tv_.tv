@@ -117,6 +117,10 @@
 #DESCRIPTION ATV HD az
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/brukselturktv/brukselturktv/chunklist.m3u8:Brüksel Türk TV
 #DESCRIPTION Brüksel Türk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//broadcasttr.com%3a1935/naturaltv/bant1/playlist.m3u8:Natural TV
+#DESCRIPTION Natural TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.tiviturk.de/live/tiviturk.m3u8:tivi TURK
+#DESCRIPTION tivi TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams2.livetv.az/turk/trt1_stream/playlist.m3u8:TRT1
 #DESCRIPTION TRT1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8:TRT 3 - TBMM TV

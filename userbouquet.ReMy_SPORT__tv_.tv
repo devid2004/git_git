@@ -239,6 +239,14 @@
 #DESCRIPTION AD SPORT 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.47.252.54/hls/stream.m3u8:ADS SPORT CRICKET
 #DESCRIPTION ADS SPORT CRICKET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1:Abu Dhabi Sports
+#DESCRIPTION Abu Dhabi Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:Abu Dhabi Sports 2
+#DESCRIPTION Abu Dhabi Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3:Abu Dhabi Sports 3
+#DESCRIPTION Abu Dhabi Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4:Abu Dhabi Sports 4
+#DESCRIPTION Abu Dhabi Sports 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1:Al Kass Sports 1
 #DESCRIPTION Al Kass Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2:Al Kass Sports 2
@@ -307,12 +315,22 @@
 #DESCRIPTION Dubai Sports
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/m3u8/Dub-Sport2-Bakup.m3u8:Dubai Sports 2
 #DESCRIPTION Dubai Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports:Dubai Sports
+#DESCRIPTION Dubai Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1:Dubai Sports 1
+#DESCRIPTION Dubai Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2:Dubai Sports 2
+#DESCRIPTION Dubai Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3:Dubai Sports 3
+#DESCRIPTION Dubai Sports 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8:EDGE SPORT
 #DESCRIPTION EDGE SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//59.124.75.156/sat/md031:ELEVEN Sports Plus
 #DESCRIPTION ELEVEN Sports Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8:ERT SPORTS
 #DESCRIPTION ERT SPORTS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/chunklist_b2500000.m3u8:ESPN
+#DESCRIPTION ESPN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/index.m3u8#User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us):ESPN
 #DESCRIPTION ESPN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8:Estonia TV
@@ -519,6 +537,8 @@
 #DESCRIPTION Spor 2 Suudi Arabistan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.216.194%3a8080/SPORT_DIGITAL/mono.m3u8:Sportdigital
 #DESCRIPTION Sportdigital
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvhooq.akamaized.net%3a443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1:SPORT ILLUSTRATED
+#DESCRIPTION SPORT ILLUSTRATED
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8:SPORTMAX HD
 #DESCRIPTION SPORTMAX HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8:Sportskool
