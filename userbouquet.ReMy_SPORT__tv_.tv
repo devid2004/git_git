@@ -299,9 +299,9 @@
 #DESCRIPTION Bek Sports East
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8:Bek Sports West
 #DESCRIPTION Bek Sports West
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//59.124.75.156/sat/md011:Bobos sport one
-#DESCRIPTION Bobos sport one
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8:Boss Charm Network
+#DESCRIPTION Boss Charm Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//59.124.75.156/sat/md031:Boss Charm Network
 #DESCRIPTION Boss Charm Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//btvboliviatv.srfms.com%3a6568/live/livestream/chunklist.m3u8:Btv Bolivia tv
 #DESCRIPTION Btv Bolivia tv
@@ -345,8 +345,6 @@
 #DESCRIPTION Dubai Sports 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8:EDGE SPORT
 #DESCRIPTION EDGE SPORT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//59.124.75.156/sat/md031:ELEVEN Sports Plus
-#DESCRIPTION ELEVEN Sports Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8:ERT SPORTS
 #DESCRIPTION ERT SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/chunklist_b2500000.m3u8:ESPN
