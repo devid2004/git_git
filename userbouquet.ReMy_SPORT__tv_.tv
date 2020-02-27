@@ -15,6 +15,26 @@
 #DESCRIPTION TJK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.39.105.79%3a1935/santraltv_925/santraltv_925/playlist.m3u8:YENI MALATYA SPOR
 #DESCRIPTION YENI MALATYA SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK1HR/index.m3u8?token=test:Sport Klub 1
+#DESCRIPTION Sport Klub 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK2HR/index.m3u8?token=test:Sport Klub 2
+#DESCRIPTION Sport Klub 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK3HR/index.m3u8?token=test:Sport Klub 3
+#DESCRIPTION Sport Klub 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK4/video.m3u8?token=test:Sport Klub 4
+#DESCRIPTION Sport Klub 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK5/video.m3u8?token=test:Sport Klub 5
+#DESCRIPTION Sport Klub 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK6/video.m3u8?token=test:Sport Klub 6
+#DESCRIPTION Sport Klub 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK7/video.m3u8?token=test:Sport Klub 7
+#DESCRIPTION Sport Klub 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK8/video.m3u8?token=test:Sport Klub 8
+#DESCRIPTION Sport Klub 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK9/video.m3u8?token=test:Sport Klub 9
+#DESCRIPTION Sport Klub 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK10/video.m3u8?token=test:Sport Klub 10
+#DESCRIPTION Sport Klub 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/ssport_tr_si.m3u8:S Sport Turkey HD
 #DESCRIPTION S Sport Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/beinsports1max_tr_si.m3u8:Bein Sports 1 MAX Turkey HD
@@ -55,18 +75,30 @@
 #DESCRIPTION ==== ★★ReMy | my TV+ APP★★ ====
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:my TV+ APP GUIDE
 #DESCRIPTION my TV+ APP GUIDE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.101%3a80/hls/m3u8/Bein-S1-a58.m3u8:Bein Sport 1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8:Bein-Sport-HD
+#DESCRIPTION Bein-Sport-HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.101%3a80/hls/m3u8/Bein-S1-a58.m3u8:Bein Sport 1 FHD
 #DESCRIPTION Bein Sport 1 FHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BT-Sport-1HD.m3u8:BT Sport 1 HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/BT-Sport-1HD.m3u8:BT Sport 1 HD
 #DESCRIPTION BT Sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8:BT Sport 1 HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8:BT Sport 1 HD
 #DESCRIPTION BT Sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8:BT Sport 2 HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8:BT Sport 2 HD
 #DESCRIPTION BT Sport 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8:EURO Sport 1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8:EURO Sport 1
 #DESCRIPTION EURO Sport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8:EURO Sport 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8:EURO Sport 2
 #DESCRIPTION EURO Sport 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8:Sky Sports 1 HD
+#DESCRIPTION Sky Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8:Sky Sports 2 HD
+#DESCRIPTION Sky Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8:Sky Sports 3 HD
+#DESCRIPTION Sky Sports 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-4HD.m3u8:Sky Sports 4 HD
+#DESCRIPTION Sky Sports 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8:Sky Sports 5 HD
+#DESCRIPTION Sky Sports 5 HD
 #SERVICE 4097:0:0:7:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Spo-football.m3u8:Sky Sports football
 #DESCRIPTION Sky Sports football
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-action.m3u8:Sky Sports action
@@ -77,46 +109,16 @@
 #DESCRIPTION Sky Sports cricket
 #SERVICE 4097:0:0:8:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sports-Golf.m3u8:Sky Sports Golf
 #DESCRIPTION Sky Sports Golf
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-Pre-L.m3u8:Sky Sport Premier Lig
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-Sport-Pre-L.m3u8:Sky Sport Premier Lig
 #DESCRIPTION Sky Sport Premier Lig
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-S-main-even.m3u8:Sky Sport main event
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//95.170.215.120%3a80/hls/m3u8/Sky-S-main-even.m3u8:Sky Sport main event
 #DESCRIPTION Sky Sport main event
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8:Sky Sports 1 HD
-#DESCRIPTION Sky Sports 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8:Sky Sports 2 HD
-#DESCRIPTION Sky Sports 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8:Sky Sports 3 HD
-#DESCRIPTION Sky Sports 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-4HD.m3u8:Sky Sports 4 HD
-#DESCRIPTION Sky Sports 4 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8:Sky Sports 5 HD
-#DESCRIPTION Sky Sports 5 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8:ZIGGO Select LIVE
 #DESCRIPTION ZIGGO Select LIVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8:KSA Sport1
 #DESCRIPTION KSA Sport1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8:KSA Sport2
 #DESCRIPTION KSA Sport2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK1HR/index.m3u8?token=test:Sport Klub 1
-#DESCRIPTION Sport Klub 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK2HR/index.m3u8?token=test:Sport Klub 2
-#DESCRIPTION Sport Klub 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK3HR/index.m3u8?token=test:Sport Klub 3
-#DESCRIPTION Sport Klub 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK4/video.m3u8?token=test:Sport Klub 4
-#DESCRIPTION Sport Klub 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK5/video.m3u8?token=test:Sport Klub 5
-#DESCRIPTION Sport Klub 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK6/video.m3u8?token=test:Sport Klub 6
-#DESCRIPTION Sport Klub 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK7/video.m3u8?token=test:Sport Klub 7
-#DESCRIPTION Sport Klub 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK8/video.m3u8?token=test:Sport Klub 8
-#DESCRIPTION Sport Klub 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK9/video.m3u8?token=test:Sport Klub 9
-#DESCRIPTION Sport Klub 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK10/video.m3u8?token=test:Sport Klub 10
-#DESCRIPTION Sport Klub 10
 #SERVICE 1:64:90:0:0:0:0:0:0:0::==== ★★ReMy | TRUE VISIONS TV+★★ ====
 #DESCRIPTION ==== ★★ReMy | TRUE VISIONS TV+★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/rs-arena1_480/index.m3u8:ArenaSport 1
@@ -181,6 +183,20 @@
 #DESCRIPTION MUTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-nfl_720/index.m3u8:NFL TV
 #DESCRIPTION NFL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8:Skynet Sports HD
+#DESCRIPTION Skynet Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports1_480/index.m3u8:Skynet Sports 1
+#DESCRIPTION Skynet Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8:Skynet Sports 2
+#DESCRIPTION Skynet Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports3_480/index.m3u8:Skynet Sports 3
+#DESCRIPTION Skynet Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports4_480/index.m3u8:Skynet Sports 4
+#DESCRIPTION Skynet Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports5_480/index.m3u8:Skynet Sports 5
+#DESCRIPTION Skynet Sports 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports6_480/index.m3u8:Skynet Sports 6
+#DESCRIPTION Skynet Sports 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/al-supersports1_480/index.m3u8:SuperSport 1 HD
 #DESCRIPTION SuperSport 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/al-supersports2_480/index.m3u8:SuperSport 2 HD
@@ -191,6 +207,8 @@
 #DESCRIPTION SuperSport 4 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/al-supersports5_480/index.m3u8:SuperSport 5 HD
 #DESCRIPTION SuperSport 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-tsports_480/index.m3u8:T Sports
+#DESCRIPTION T Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-nba_720/index.m3u8:True NBA HD
 #DESCRIPTION True NBA HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tennis_720/index.m3u8:True Tennis HD
@@ -221,30 +239,6 @@
 #DESCRIPTION True Premier Football HD 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/epl-x5_720/index.m3u8:True Premier Football HD 5
 #DESCRIPTION True Premier Football HD 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-tsports_480/index.m3u8:T Sports
-#DESCRIPTION T Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8:Skynet Sports HD
-#DESCRIPTION Skynet Sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports1_480/index.m3u8:Skynet Sports 1
-#DESCRIPTION Skynet Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8:Skynet Sports 2
-#DESCRIPTION Skynet Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports3_480/index.m3u8:Skynet Sports 3
-#DESCRIPTION Skynet Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports4_480/index.m3u8:Skynet Sports 4
-#DESCRIPTION Skynet Sports 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports5_480/index.m3u8:Skynet Sports 5
-#DESCRIPTION Skynet Sports 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-skynetsports6_480/index.m3u8:Skynet Sports 6
-#DESCRIPTION Skynet Sports 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.129.115.21%3a1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8:MBC J Sports
-#DESCRIPTION MBC J Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnak19.cast4u.info/channels/4/10804.m3u8:New Japan Pro Wrestling World
-#DESCRIPTION New Japan Pro Wrestling World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.129.115.21%3a1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8:SBS Sports
-#DESCRIPTION SBS Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8:Wai Lai
-#DESCRIPTION Wai Lai
 #SERVICE 1:64:91:0:0:0:0:0:0:0::==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #DESCRIPTION ==== ★★ReMy | SPORT_MIXER TV+★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto Bulgaria
@@ -423,6 +417,8 @@
 #DESCRIPTION Liga Indonesia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.58.62.92%3a8084:LIVE MOTOR SPORT
 #DESCRIPTION LIVE MOTOR SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.129.115.21%3a1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8:MBC J Sports
+#DESCRIPTION MBC J Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a21031/udp/103u:M4 Sport (Europa) HD
 #DESCRIPTION M4 Sport (Europa) HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.15%3a2009:Match! HD
@@ -445,6 +441,8 @@
 #DESCRIPTION My Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.154.243.89%3a1208:NBC Golf
 #DESCRIPTION NBC Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnak19.cast4u.info/channels/4/10804.m3u8:New Japan Pro Wrestling World
+#DESCRIPTION New Japan Pro Wrestling World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.70/PLTV/88888888/224/3221225674/index.m3u8:NewTV Sports HD
 #DESCRIPTION NewTV Sports HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:NewTV Super Sports HD
@@ -519,6 +517,8 @@
 #DESCRIPTION Rtv Sport (san Marino)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/04.m3u8:S41
 #DESCRIPTION S41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.129.115.21%3a1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8:SBS Sports
+#DESCRIPTION SBS Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/index.m3u8:Setanta Sports
 #DESCRIPTION Setanta Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/04.m3u8:Setanta Sports (SD)
@@ -585,6 +585,8 @@
 #DESCRIPTION UFC BES TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8:VSIN
 #DESCRIPTION VSIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8:Wai Lai
+#DESCRIPTION Wai Lai
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//59.124.75.156/sat/tv721:Weila Sports
 #DESCRIPTION Weila Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8:World Of Free Sports Tv
