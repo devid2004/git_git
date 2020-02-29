@@ -113,8 +113,6 @@
 #DESCRIPTION YENI MALATYA SPOR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8:TV4
 #DESCRIPTION TV4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03.cdn.web.tv/live/a2def047951268addb412584ac0e909f/index.m3u8?st=-2bEN410I7K9Ux5il6cMyA&e=1583001832:Bayburttivi
-#DESCRIPTION Bayburttivi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/atv/index.m3u8:ATV HD az
 #DESCRIPTION ATV HD az
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/brukselturktv/brukselturktv/chunklist.m3u8:Brüksel Türk TV
