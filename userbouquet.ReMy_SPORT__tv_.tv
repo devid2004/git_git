@@ -15,6 +15,8 @@
 #DESCRIPTION TJK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.39.105.79%3a1935/santraltv_925/santraltv_925/playlist.m3u8:YENI MALATYA SPOR
 #DESCRIPTION YENI MALATYA SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live03.cdn.web.tv/live/047ea32ae48a7d455312ed47f7724263/index.m3u8?st=4EwWQMiSdLyA-_9aCrBhQg&e=1583001495:bein5
+#DESCRIPTION bein5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK1HR/index.m3u8?token=test:Sport Klub 1
 #DESCRIPTION Sport Klub 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK2HR/index.m3u8?token=test:Sport Klub 2
@@ -307,6 +309,8 @@
 #DESCRIPTION CCX CITIES
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8:CDO PREMIUM
 #DESCRIPTION CDO PREMIUM
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/001:CITV
+#DESCRIPTION CITV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/darcizzle.m3u8:Darcizzle Offshore (USA)4
 #DESCRIPTION Darcizzle Offshore (USA)4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8:DD Sports

@@ -125,10 +125,10 @@
 #DESCRIPTION NATGEO WILD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8:NATGEO PEOPLE
 #DESCRIPTION NATGEO PEOPLE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.detik.com/transtv/smil%3atranstv.smil/playlist.m3u8:TRANS TV HD
-#DESCRIPTION TRANS TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.detik.com/trans7/smil%3atrans7.smil/playlist.m3u8:TRANS 7 HD
 #DESCRIPTION TRANS 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.detik.com/transtv/smil%3atranstv.smil/playlist.m3u8:TRANS TV HD
+#DESCRIPTION TRANS TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mediaworks-i.akamaihd.net%3a80/hls/live/220435/3812193411001/3news_live/master.m3u8:+HR=E
 #DESCRIPTION +HR=E
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//247retrotv.com%3a1935/live/smil%3a247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8:24/7 Retro TV
@@ -209,6 +209,8 @@
 #DESCRIPTION Action Sports 4U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8:ACTV
 #DESCRIPTION ACTV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//hls-live-media.cdn01.net/default/stream_14949_1.m3u8:ACC TV
+#DESCRIPTION ACC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8:Adult Swim
 #DESCRIPTION Adult Swim
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.123.126.14%3a1935/live/livestream1.sdp/chunklist.m3u8:Ahlulbayt TV
@@ -1059,6 +1061,8 @@
 #DESCRIPTION Nick Jr. Pluto TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1d81c85c-ff9a-48ca-ac76-aaf60ec7e71d&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true:Nick Pluto TV
 #DESCRIPTION Nick Pluto TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//47.23.7.30%3a8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8:North Shore TV
+#DESCRIPTION North Shore TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8:NRBTV
 #DESCRIPTION NRBTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8:NYXT
@@ -1127,6 +1131,8 @@
 #DESCRIPTION Pluto TV Movies 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcher.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=rb3stkgum0jt2soq367mu97333:Pluto TV Romance
 #DESCRIPTION Pluto TV Romance
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//51.52.156.22%3a8888/http/015:Pop
+#DESCRIPTION Pop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8:Pop
 #DESCRIPTION Pop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8:POP Kids
@@ -1177,6 +1183,10 @@
 #DESCRIPTION RT America
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-uk.secure.footprint.net/1106.m3u8?streamType=live:RT UK
 #DESCRIPTION RT UK
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rt-uk.secure.footprint.net%3a80/1106_2500Kb.m3u8:RT UK
+#DESCRIPTION RT UK
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rt-usa.secure.footprint.net%3a80/1105_2500Kb.m3u8:RT USA
+#DESCRIPTION RT USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//18.191.91.130%3a1935/live/safetv/playlist.m3u8:SafeTV
 #DESCRIPTION SafeTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8:Salt + Light Television
@@ -1251,6 +1261,8 @@
 #DESCRIPTION Sky-MoviesSelect
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=web&deviceMake=&deviceModel=&sid=e&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&profileLimit=high:Slow TV
 #DESCRIPTION Slow TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//c.mjh.nz/snowy-mountains/:Snowy Mountains TV
+#DESCRIPTION Snowy Mountains TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8:Sony Movies Christmas
 #DESCRIPTION Sony Movies Christmas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8:Sony Movies Christmas

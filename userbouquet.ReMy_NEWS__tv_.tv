@@ -47,8 +47,14 @@
 #DESCRIPTION 92 News Pakistan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8:23 ABC
 #DESCRIPTION 23 ABC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8:ABC News live
+#DESCRIPTION ABC News live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8:ABC News Live
+#DESCRIPTION ABC News Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8:ABC News
 #DESCRIPTION ABC News
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil%3awbrz-live.smil/chunklist.m3u8:ABC 2 Baton Rouge (WBRZ)
+#DESCRIPTION ABC 2 Baton Rouge (WBRZ)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8:Al Arabiya
 #DESCRIPTION Al Arabiya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alaraby.cdn.octivid.com/alaraby/smil%3aalaraby.stream.smil/playlist.m3u8:Al Araby
@@ -239,6 +245,10 @@
 #DESCRIPTION RT UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rt-uk.secure.footprint.net/1106.m3u8?streamType=live:RT UK
 #DESCRIPTION RT UK
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rt-uk.secure.footprint.net%3a80/1106_2500Kb.m3u8:RT UK
+#DESCRIPTION RT UK
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rt-usa.secure.footprint.net%3a80/1105_2500Kb.m3u8:RT USA
+#DESCRIPTION RT USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news.m3u8:RTE News
 #DESCRIPTION RTE News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8:RTE News
@@ -299,6 +309,8 @@
 #DESCRIPTION Weather Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8:WEATHER NATION HD
 #DESCRIPTION WEATHER NATION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/wn1_2/master.m3u8:Weather News
+#DESCRIPTION Weather News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?:WGN 9 CW
 #DESCRIPTION WGN 9 CW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8:WGN9 News Chicago
@@ -307,5 +319,3 @@
 #DESCRIPTION WVIT 30 News (Hartford)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8:WXXV 25 Gulfport MS (WXXV)
 #DESCRIPTION WXXV 25 Gulfport MS (WXXV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/wn1_2/master.m3u8:Weather News
-#DESCRIPTION Weather News

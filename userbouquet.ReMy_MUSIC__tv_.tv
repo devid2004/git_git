@@ -53,6 +53,8 @@
 #DESCRIPTION 1Music Channel Hungary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_high/index.m3u8:4 Fun TV
 #DESCRIPTION 4 Fun TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/4music/:4Music
+#DESCRIPTION 4Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/4music/:4 Music
 #DESCRIPTION 4 Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/CableLatino/88stereo/playlist.m3u8:88 Stereo TV
@@ -217,6 +219,8 @@
 #DESCRIPTION Kcn 3 Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live.m3u8:Keep It Country TV * UK
 #DESCRIPTION Keep It Country TV * UK
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/:Kerrang
+#DESCRIPTION Kerrang
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8:Kiss TV
 #DESCRIPTION Kiss TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma05.fluidstream.net/KissKissTV/KissKissTV.stream/playlist.m3u8:KissKissTV
