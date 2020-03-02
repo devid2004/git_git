@@ -487,6 +487,8 @@
 #DESCRIPTION Redbull.tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8:Redbull.tv FHD
 #DESCRIPTION Redbull.tv FHD
+#SERVICE 4097:0:0:71:0:0:0:0:0:0:http%3a//79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8:RTSHSport
+#DESCRIPTION RTSHSport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp%3aRTM2/chunklist_b2064000.m3u8:RTM Sports
 #DESCRIPTION RTM Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//teledifusion.tv%3a1935/rtvcetv/mp4%3artvcetvlive/playlist.m3u8:rtvce.es
@@ -609,5 +611,3 @@
 #DESCRIPTION Tivibu Spor 2 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream12.com/hls/tivibuspor3_tr_si.m3u8:Tivibu Spor 3 Turkey HD
 #DESCRIPTION Tivibu Spor 3 Turkey HD
-#SERVICE 4097:0:0:71:0:0:0:0:0:0:http%3a//79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8:RTSHSport
-#DESCRIPTION RTSHSport
