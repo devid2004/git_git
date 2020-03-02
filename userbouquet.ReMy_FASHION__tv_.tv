@@ -55,3 +55,5 @@
 #DESCRIPTION Victoria’s Secret Fashion Show
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8:HD Fashion
 #DESCRIPTION HD Fashion
+#SERVICE 4097:0:0:229:0:0:0:0:0:0:http%3a//wfc.bonus-tv.ru%3a80/cdn/wfcint/tracks-v1a1/index.m3u8:FASHIONCHANNELHD
+#DESCRIPTION FASHIONCHANNELHD

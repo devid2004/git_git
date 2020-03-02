@@ -63,6 +63,10 @@
 #DESCRIPTION A1 Regio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v.viralshit.in/live/aahomusic.m3u8:AAHO Music!!
 #DESCRIPTION AAHO Music!!
+#SERVICE 4097:0:0:271:0:0:0:0:0:0:http%3a//163.172.15.177/live/sUPPERchannel2/index.m3u8:Balkan
+#DESCRIPTION Balkan
+#SERVICE 4097:0:0:269:0:0:0:0:0:0:http%3a//163.172.15.177/live/sUPPERchannel2/index.m3u8:UpperaBalkan
+#DESCRIPTION UpperaBalkan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8:Baraza TV Greek Music Hits
 #DESCRIPTION Baraza TV Greek Music Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropboxusercontent.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0:Baeble Music
@@ -203,6 +207,8 @@
 #DESCRIPTION HIT RU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b4128000.m3u8:HOBOC TV
 #DESCRIPTION HOBOC TV
+#SERVICE 4097:0:0:281:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b4128000.m3u8:HOBOC
+#DESCRIPTION HOBOC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8:Ibiza Global TV
 #DESCRIPTION Ibiza Global TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cast-control.eu%3a1935/VitezevoTv/VitezevoTv/playlist.m3u8:I Dj Music Srbija Tv
@@ -305,6 +311,8 @@
 #DESCRIPTION New Radio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.60.237.32%3a1935/live/nisville/playlist.m3u8:Nisville TV
 #DESCRIPTION Nisville TV
+#SERVICE 4097:0:0:279:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/NGradio/NGradio/playlist.m3u8:NG RADIO
+#DESCRIPTION NG RADIO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.nrg91.gr%3a1935/onweb/live/master.m3u8:NRG91.GR TV
 #DESCRIPTION NRG91.GR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge9.vedge.infomaniak.com/livecast/smil%3aenergytv.smil/manifest.m3u8:NRJ TV
@@ -373,6 +381,8 @@
 #DESCRIPTION RETRO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.46.161.3/hls/sd.m3u8:ROMAN TV
 #DESCRIPTION ROMAN TV
+#SERVICE 4097:0:0:285:0:0:0:0:0:0:http%3a//185.46.161.3/hls/hd.m3u8:ROMA
+#DESCRIPTION ROMA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live2/Rotana.Clip/playlist.m3u8:Rotana Clip
 #DESCRIPTION Rotana Clip
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//91.148.117.134%3a1935/radios/radiosweb.stream live=1:Sarajevo 1 Tv
@@ -589,9 +599,9 @@
 #DESCRIPTION Djam Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station

@@ -67,8 +67,8 @@
 #DESCRIPTION KALE TOKAT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.156.98.150%3a1936/Kamera/Stadyum.stream/chunklist_w234467350.m3u8:TOKAT  HIDIRLIK STADYUM
 #DESCRIPTION TOKAT  HIDIRLIK STADYUM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx_live_2/master.m3u8: Tokyo MX Live
-#DESCRIPTION  Tokyo MX Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movie.mcas.jp/mcas/mx_live_2/master.m3u8:Tokyo MX Live
+#DESCRIPTION Tokyo MX Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/9299.flv/chunklist.m3u8:CN Tower 1
 #DESCRIPTION CN Tower 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/9298.flv/chunklist.m3u8:CN Tower 2
@@ -2071,3 +2071,5 @@
 #DESCRIPTION Яремче - Карпаты (Камера 2)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.162.81.142/cam1/cam1.m3u8:Яремче - Романтик Спа Отель
 #DESCRIPTION Яремче - Романтик Спа Отель
+#SERVICE 4097:0:0:133:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/bukovina_cam_c632c4/bukovina_cam_c632c4.stream/playlist.m3u8:POLANDHOTELBUKOVINA
+#DESCRIPTION POLANDHOTELBUKOVINA
