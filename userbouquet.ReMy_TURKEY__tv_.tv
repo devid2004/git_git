@@ -1,11 +1,11 @@
 #NAME == ★★ReMy | TURKEY★★ ==
-#SERVICE 1:64:8A:0:0:0:0:0:0:0::==== **REMY_ENIGMA|TURK_TEAM** ====
+#SERVICE 1:64:99:0:0:0:0:0:0:0::==== **REMY_ENIGMA|TURK_TEAM** ====
 #DESCRIPTION ==== **REMY_ENIGMA|TURK_TEAM** ====
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/33/:KURAN MEAL
 #DESCRIPTION KURAN MEAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
 #DESCRIPTION DiYANET KURAN RADiO
-#SERVICE 1:64:8B:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
+#SERVICE 1:64:9A:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_atv/smil%3aatv_hd.smil/playlist.m3u8:ATV HD
 #DESCRIPTION ATV HD
@@ -95,6 +95,8 @@
 #DESCRIPTION DMAX HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/tv2/1500/prog_index.m3u8:teve2
 #DESCRIPTION teve2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.33.254/unicast.cartoonnetwork/index.m3u8:Cartoon Network
+#DESCRIPTION Cartoon Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams2.livetv.az/turk/minika_stream/playlist.m3u8:Minika COCUK
 #DESCRIPTION Minika COCUK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8:TRT BELGESEL HD
@@ -117,6 +119,8 @@
 #DESCRIPTION ATV HD az
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/brukselturktv/brukselturktv/chunklist.m3u8:Brüksel Türk TV
 #DESCRIPTION Brüksel Türk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cri.aa.net.tr%3a1935/belgesel/belgesel/chunklist_w120871004.m3u8:CRI Turk Belgesel
+#DESCRIPTION CRI Turk Belgesel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//broadcasttr.com%3a1935/naturaltv/bant1/playlist.m3u8:Natural TV
 #DESCRIPTION Natural TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.tiviturk.de/live/tiviturk.m3u8:tivi TURK
@@ -149,6 +153,8 @@
 #DESCRIPTION ben.TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wms.brtk.net%3a1935/live/BRTHD:BRT HD
 #DESCRIPTION BRT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canbroadcast.com%3a7000/canlican/tv.m3u8:Can TV
+#DESCRIPTION Can TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com/ciftcitv/bant1:CIFTCI TV
 #DESCRIPTION CIFTCI TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.44.154.210/cdn/540ea58191866/playlist.m3u8?wowzasessionid=1804484551?sd=0&rebase=on:KOY TV
@@ -187,7 +193,7 @@
 #DESCRIPTION SEMERKAND TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//semerkandglb.mediatriple.net%3a1935/semerkandliveedge/semerkand1/ratus42.m3u8:SEMERKAND TV
 #DESCRIPTION SEMERKAND TV
-#SERVICE 1:64:8C:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
+#SERVICE 1:64:9B:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #DESCRIPTION :::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8:D MAX
 #DESCRIPTION D MAX
@@ -215,7 +221,7 @@
 #DESCRIPTION TURKMEN OWAZY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch002_400/index.m3u8:TURKMEN YASLIK
 #DESCRIPTION TURKMEN YASLIK
-#SERVICE 1:64:8D:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
+#SERVICE 1:64:9C:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s01.vpis.io/besiktas/besiktas.m3u8:besiktas TV
 #DESCRIPTION besiktas TV
@@ -233,10 +239,14 @@
 #DESCRIPTION ASTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//broadcasttr.com%3a1935/merkeztv/smil%3amerkeztv.smil/chunklist.m3u8:BOLU MERKEZ TV
 #DESCRIPTION BOLU MERKEZ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8:Bursa TV
+#DESCRIPTION Bursa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/caytv/bant1/CAYTV.m3u8:CAY TV
 #DESCRIPTION CAY TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/live/diyalogtv/chunklist.m3u8:DIYALOG TV
 #DESCRIPTION DIYALOG TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s01.vpis.io/dogustv/dogustv.m3u8:Dogus TV
+#DESCRIPTION Dogus TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream2.taksimbilisim.com/drt/bant1:DRT DENIZLI
 #DESCRIPTION DRT DENIZLI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/edirnetv/playlist.m3u8:EDIRNE TV
