@@ -779,10 +779,6 @@
 #DESCRIPTION Thai Baan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//symc-cdn.violin.co.th%3a1935/tndedge/whitechannel/chunklist.m3u8:White Channel
 #DESCRIPTION White Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v1a1/mono.m3u8:TV3
-#DESCRIPTION TV3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v1a1/mono.m3u8:TV5
-#DESCRIPTION TV5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8:Apsara Tv
 #DESCRIPTION Apsara Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1523926405.rsc.cdn77.org/LS-50041-SIN-8/index.m3u8:Bayon TV
@@ -821,8 +817,6 @@
 #DESCRIPTION TVK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1014844237.rsc.cdn77.org/LS-50041-SIN-12/index.m3u8:TV9
 #DESCRIPTION TV9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wikitv-streaming.poscarasia.com%3a1935/live/ngrp%3amyStream_all/playlist.m3u8:Wiki TV
-#DESCRIPTION Wiki TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt7/MHONG.stream_720p/playlist.m3u8:HGTV
 #DESCRIPTION HGTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8:CVA
