@@ -1,40 +1,10 @@
 #NAME == ★★ReMy | FILM | DIZI ★★ ==
-#SERVICE 1:64:92:0:0:0:0:0:0:0::::::___MOVIES_CHANNELS____::::
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::::::___MOVIES_CHANNELS____::::
 #DESCRIPTION ::::___MOVIES_CHANNELS____::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-amarin_720/index.m3u8:Amarin TV
-#DESCRIPTION Amarin TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-celestial_480/index.m3u8:Celestial Classic Movies
-#DESCRIPTION Celestial Classic Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-gmmone_720/index.m3u8:GMM One
-#DESCRIPTION GMM One
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8:HBO (Thai)
-#DESCRIPTION HBO (Thai)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-redalt_480/index.m3u8:HBO Red
-#DESCRIPTION HBO Red
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tfilm_720/index.m3u8:Film HD
-#DESCRIPTION Film HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-tfilm2_720/index.m3u8:Film HD 2
-#DESCRIPTION Film HD 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-fxeng_480/index.m3u8:FX HD
-#DESCRIPTION FX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-fox_720/index.m3u8:Fox HD
-#DESCRIPTION Fox HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8:Fox Crime
-#DESCRIPTION Fox Crime
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8:Fox Family Movies
-#DESCRIPTION Fox Family Movies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-foxlife_720/index.m3u8:Fox Life
-#DESCRIPTION Fox Life
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8:Fox Movies Premium (TH)
-#DESCRIPTION Fox Movies Premium (TH)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-monoplus_480/index.m3u8:Mono Plus
-#DESCRIPTION Mono Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-thrill_480/index.m3u8:Thrill
-#DESCRIPTION Thrill
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-tnn24_480/index.m3u8:tnn24
-#DESCRIPTION tnn24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/hd-warnertv_720/index.m3u8:Warner TV (HD)
-#DESCRIPTION Warner TV (HD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8:BLUTV Aksiyon
+#DESCRIPTION BLUTV Aksiyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8:BLUTV Komedi
+#DESCRIPTION BLUTV Komedi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.goodgame.ru%3a8080/hls/172148.m3u8:KVN HD
 #DESCRIPTION KVN HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.66/h/h141/01.m3u8:AXN
@@ -89,6 +59,10 @@
 #DESCRIPTION Shaolin Temple Legend
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8:Shaped monster
 #DESCRIPTION Shaped monster
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.66/h/h143/01.m3u8:Sony One
+#DESCRIPTION Sony One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.66/h/h19/01.m3u8:Sony Gem
+#DESCRIPTION Sony Gem
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/a3ebedb4-512d-11e9-bf37-c81f66f89318/uq2663/h/h143/index.m3u8:Sony One
 #DESCRIPTION Sony One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8:Sony One
@@ -123,7 +97,7 @@
 #DESCRIPTION ZEE BIOSKOP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd:Zee Bioskop
 #DESCRIPTION Zee Bioskop
-#SERVICE 1:64:93:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
+#SERVICE 1:64:A2:0:0:0:0:0:0:0:::::::::::________NETFLIX_MOVIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_MOVIES________:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv28.filmmodu.xyz/tt5941692/720p.tr.m3u8:Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
 #DESCRIPTION Bayan Kurşun - Bala - 2019 - AKSİYON-GERİLİM
@@ -211,7 +185,7 @@
 #DESCRIPTION Wake.Up.2019.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.201.193.243/nnew/What.Death.Leaves.Behind.2018.mkv:What.Death.Leaves.Behind.2018.mkv
 #DESCRIPTION What.Death.Leaves.Behind.2018.mkv
-#SERVICE 1:64:94:0:0:0:0:0:0:0::::::___MIX_(2019)MOVIES____::::
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::::::___MIX_(2019)MOVIES____::::
 #DESCRIPTION ::::___MIX_(2019)MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4:Abominable(2019)
 #DESCRIPTION Abominable(2019)
@@ -221,7 +195,7 @@
 #DESCRIPTION The Cabin(2018)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gdrivecdn.us/drive/index.php?id=7ShwPFRIovlOpJ6HiWoztAM8ZKv4/dd1M4W9WvlGsMFis0BlYqbl8idIKeUe/C4ZKGP/YH0LObsYIhP2ASuIE/gh5MoiJMeSnl9lw82UqLq2rlZl60FTtDXNANVveypGE=&ref=&res=720:Triple Threat(2019)
 #DESCRIPTION Triple Threat(2019)
-#SERVICE 1:64:95:0:0:0:0:0:0:0::::::___NEWTUBE_PS_MOVIES____::::
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::::::___NEWTUBE_PS_MOVIES____::::
 #DESCRIPTION ::::___NEWTUBE_PS_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ga.video.cdn.pbs.org/videos/nature/bf2826a1-a3d3-4a2c-85c8-cdbefaa5640e/182800/hd-mezzanine-16x9/d024d04a_naat_3211_1080p-16x9-hls-2500k.m3u8:NATURE HD
 #DESCRIPTION NATURE HD
@@ -2177,7 +2151,7 @@
 #DESCRIPTION Zero Tolerance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//newtube.ps/components/com_contushdvideoshare/videos/1651807038.mp4:Zodiac
 #DESCRIPTION Zodiac
-#SERVICE 1:64:96:0:0:0:0:0:0:0::::::___NEWTUBE_PS_SERIES____::::
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::::::___NEWTUBE_PS_SERIES____::::
 #DESCRIPTION ::::___NEWTUBE_PS_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.83/sdb1/series/Turkey/other.se/jsoor/CESURVEGUZELEP12.mp4:Cesur Ve Güzel S01 E12
 #DESCRIPTION Cesur Ve Güzel S01 E12
@@ -6951,7 +6925,7 @@
 #DESCRIPTION Titans S02 E06
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.85/storaged/D/hm-7/Series/en/Titans.2018/S02/Titans.2018.S02E07.mp4:Titans S02 E07
 #DESCRIPTION Titans S02 E07
-#SERVICE 1:64:97:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_MOVIES____::::
+#SERVICE 1:64:A6:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_MOVIES____::::
 #DESCRIPTION ::::___DEADLYBLOGGER_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/dal1.mp4:101 DALMATIONS
 #DESCRIPTION 101 DALMATIONS
@@ -7637,7 +7611,7 @@
 #DESCRIPTION XMEN ORIGIN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/yournext.mp4:YOU'RE NEXT
 #DESCRIPTION YOU'RE NEXT
-#SERVICE 1:64:98:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_SERIES____::::
+#SERVICE 1:64:A7:0:0:0:0:0:0:0::::::___DEADLYBLOGGER_SERIES____::::
 #DESCRIPTION ::::___DEADLYBLOGGER_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e1.mp4:Game of Thrones Season 1 Episode 1
 #DESCRIPTION Game of Thrones Season 1 Episode 1
@@ -7849,7 +7823,7 @@
 #DESCRIPTION Scandal Season 3 Episode 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e11.mp4:Scandal Season 3 Episode 11
 #DESCRIPTION Scandal Season 3 Episode 11
-#SERVICE 1:64:99:0:0:0:0:0:0:0::::::____ReMy_filmovi_MOVIES____::::
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::::::____ReMy_filmovi_MOVIES____::::
 #DESCRIPTION ::::____ReMy_filmovi_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/sprefilm/1124.mkv:007-Spectre
 #DESCRIPTION 007-Spectre
@@ -9281,7 +9255,7 @@
 #DESCRIPTION Zoolander 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/crtani/zootopia.avi:Zootopia
 #DESCRIPTION Zootopia
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::::::____ReMy_filmovi_SERIES____::::
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::::::____ReMy_filmovi_SERIES____::::
 #DESCRIPTION ::::____ReMy_filmovi_SERIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/kkh/kkh110.mp4:Konak kod Hilmije S01E10
 #DESCRIPTION Konak kod Hilmije S01E10
@@ -9687,7 +9661,7 @@
 #DESCRIPTION Lud Zbunjen Normalan S01E39
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//filmovi.ydns.eu%3a88/filmovi/serije/lzn/517.mkv:Lud Zbunjen Normalan S01E40
 #DESCRIPTION Lud Zbunjen Normalan S01E40
-#SERVICE 1:64:9B:0:0:0:0:0:0:0:::::::::::________NETFLIX_SERIES________:::::::::
+#SERVICE 1:64:AA:0:0:0:0:0:0:0:::::::::::________NETFLIX_SERIES________:::::::::
 #DESCRIPTION :::::::::________NETFLIX_SERIES________:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvcde.com/Series/3Perc1/3Perc.S01E01.mkv:3% 1X01
 #DESCRIPTION 3% 1X01
@@ -18119,7 +18093,7 @@
 #DESCRIPTION Z Nation S05 E12
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//samurai.demeter.feralhosting.com/Z.Nation/S05/S05E13.mp4:Z Nation S05 E13
 #DESCRIPTION Z Nation S05 E13
-#SERVICE 1:64:9C:0:0:0:0:0:0:0::::::____ReMy_VODALL_MOVIES____::::
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::::::____ReMy_VODALL_MOVIES____::::
 #DESCRIPTION ::::____ReMy_VODALL_MOVIES____::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/281.avi:007 spectre 2015
 #DESCRIPTION 007 spectre 2015
@@ -18989,7 +18963,7 @@
 #DESCRIPTION zoolander 2 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/403.avi:zulu 2013
 #DESCRIPTION zulu 2013
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::::::__SERIES_VODALL_151.80.100.155__::::
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::::::__SERIES_VODALL_151.80.100.155__::::
 #DESCRIPTION ::::__SERIES_VODALL_151.80.100.155__::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/983.avi:vikings S04E20 FINAL
 #DESCRIPTION vikings S04E20 FINAL
