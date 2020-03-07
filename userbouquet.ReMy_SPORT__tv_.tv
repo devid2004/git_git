@@ -477,6 +477,34 @@
 #DESCRIPTION World Of Free Sports Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8:Xcorp
 #DESCRIPTION Xcorp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8:beIN Sports 1 Asia
+#DESCRIPTION beIN Sports 1 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8:beIN Sports 2 Asia
+#DESCRIPTION beIN Sports 2 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8:Fox Sports 1 Asia
+#DESCRIPTION Fox Sports 1 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8:Fox Sports 2 Asia
+#DESCRIPTION Fox Sports 2 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8:Fox Sports 3 Asia
+#DESCRIPTION Fox Sports 3 Asia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports1/chunks.m3u8?:beIN Sports 1
+#DESCRIPTION beIN Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports2/chunks.m3u8?:beIN Sports 2
+#DESCRIPTION beIN Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports3/chunks.m3u8?:beIN Sports 3
+#DESCRIPTION beIN Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports4/chunks.m3u8?:beIN Sports 4
+#DESCRIPTION beIN Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports5/chunks.m3u8?:beIN Sports 5
+#DESCRIPTION beIN Sports 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports6/chunks.m3u8?:beIN Sports 6
+#DESCRIPTION beIN Sports 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports7/chunks.m3u8?:beIN Sports 7
+#DESCRIPTION beIN Sports 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports8/chunks.m3u8?:beIN Sports 8
+#DESCRIPTION beIN Sports 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports9/chunks.m3u8?:beIN Sports 9
+#DESCRIPTION beIN Sports 9
 #SERVICE 1:64:A0:0:0:0:0:0:0:0::==== ★★ReMy | TRUE VISIONS TV+★★ ====
 #DESCRIPTION ==== ★★ReMy | TRUE VISIONS TV+★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/rs-arena1_480/index.m3u8:ArenaSport 1
@@ -497,28 +525,6 @@
 #DESCRIPTION beIN Sports 1 Asia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/epl-bein2_720/index.m3u8:beIN Sports 2 Asia
 #DESCRIPTION beIN Sports 2 Asia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8:beIN Sports 1 Asia
-#DESCRIPTION beIN Sports 1 Asia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8:beIN Sports 2 Asia
-#DESCRIPTION beIN Sports 2 Asia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports1/chunks.m3u8?:beIN Sports 1
-#DESCRIPTION beIN Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports2/chunks.m3u8?:beIN Sports 2
-#DESCRIPTION beIN Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports3/chunks.m3u8?:beIN Sports 3
-#DESCRIPTION beIN Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports4/chunks.m3u8?:beIN Sports 4
-#DESCRIPTION beIN Sports 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports5/chunks.m3u8?:beIN Sports 5
-#DESCRIPTION beIN Sports 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports6/chunks.m3u8?:beIN Sports 6
-#DESCRIPTION beIN Sports 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports7/chunks.m3u8?:beIN Sports 7
-#DESCRIPTION beIN Sports 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports8/chunks.m3u8?:beIN Sports 8
-#DESCRIPTION beIN Sports 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.8.16%3a8081/arbiarb/beinsports9/chunks.m3u8?:beIN Sports 9
-#DESCRIPTION beIN Sports 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/uk-eurosport_480/index.m3u8:Eurosport 1
 #DESCRIPTION Eurosport 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/uk-eurosport2_480/index.m3u8:Eurosport 2
@@ -528,12 +534,6 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8:Fox Sports 2 Asia
 #DESCRIPTION Fox Sports 2 Asia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8:Fox Sports 3 Asia
-#DESCRIPTION Fox Sports 3 Asia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8:Fox Sports 1 Asia
-#DESCRIPTION Fox Sports 1 Asia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8:Fox Sports 2 Asia
-#DESCRIPTION Fox Sports 2 Asia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8:Fox Sports 3 Asia
 #DESCRIPTION Fox Sports 3 Asia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.doofree88.com/streaming/uk-lfctv_480/index.m3u8:LFC TV
 #DESCRIPTION LFC TV
