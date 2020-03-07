@@ -35,6 +35,12 @@
 #DESCRIPTION Sport Klub 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK10/video.m3u8?token=test:Sport Klub 10
 #DESCRIPTION Sport Klub 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8:Art Sports 1
+#DESCRIPTION Art Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8:Art Sports 2
+#DESCRIPTION Art Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8:Art Sports 3
+#DESCRIPTION Art Sports 3
 #SERVICE 1:64:9E:0:0:0:0:0:0:0::==== ★★ReMy | my TV+ APP★★ ====
 #DESCRIPTION ==== ★★ReMy | my TV+ APP★★ ====
 #SERVICE 4097:0:0:23:0:0:0:0:0:0:http%3a//95.170.215.118%3a80/hls/m3u8/Kurd-Goal.m3u8:my TV+ APP GUIDE
@@ -91,20 +97,18 @@
 #DESCRIPTION 100% Automoto (BG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream3.news5.ph/n5e/5plus/playlist.m3u8:ESPN 5 Plus
 #DESCRIPTION ESPN 5 Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espnews.m3u8:ESPN News
-#DESCRIPTION ESPN News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espnews.m3u8:ESPNEWS
+#DESCRIPTION ESPNEWS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espnu.m3u8:ESPN U
 #DESCRIPTION ESPN U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/sec.m3u8:ESPN Network SEC
 #DESCRIPTION ESPN Network SEC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/index.m3u8:ESPN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//npse.brots.world/espn2.m3u8:ESPN
 #DESCRIPTION ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//npse.brots.world/espn2.m3u8:ESPN2
-#DESCRIPTION ESPN2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/espn2.m3u8:ESPN 2
 #DESCRIPTION ESPN 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/acc.m3u8:ACC Network
-#DESCRIPTION ACC Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gma2.blab.email/acc.m3u8:ACCN ESPN
+#DESCRIPTION ACCN ESPN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.SPORT.1/playlist.m3u8:AD SPORT 1
 #DESCRIPTION AD SPORT 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.60.1.82%3a8081/live/AD.Sport.2/playlist.m3u8:AD SPORT 2

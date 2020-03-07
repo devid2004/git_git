@@ -3,6 +3,8 @@
 #EXTINF:-1,ReMy_ReMy_ULUSAL
 ReMy_ReMy_ULUSAL
 #EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
+http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
 https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
@@ -510,6 +512,12 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 #EXTINF:-1 group-title="ReMy_SPORT",Al Kass Sports 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Art%20Sport%201.png" group-title="ReMy_SPORT",Art Sports 1
+http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Art%20Sport%202.png" group-title="ReMy_SPORT",Art Sports 2
+http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Art%20Sport%203.png" group-title="ReMy_SPORT",Art Sports 3
+http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Arhat Sport
 http://arhat.tv/public/360p/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Astrakhan.Ru Sport
