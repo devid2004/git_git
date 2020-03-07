@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | CHINA★★ ==
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::==== ★★ReMy | Bravo Inc._CHINA★★ ====
+#SERVICE 1:64:B1:0:0:0:0:0:0:0::==== ★★ReMy | Bravo Inc._CHINA★★ ====
 #DESCRIPTION ==== ★★ReMy | Bravo Inc._CHINA★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8:Blackberry Animation Kingdom
 #DESCRIPTION Blackberry Animation Kingdom
@@ -205,7 +205,7 @@
 #DESCRIPTION G.Real Estate
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nclive.grtn.cn/zjpd/playlist.m3u8:G.Pearl River TV
 #DESCRIPTION G.Pearl River TV
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::==== ★★ReMy | CIBN_CHINA★★ ====
+#SERVICE 1:64:B2:0:0:0:0:0:0:0::==== ★★ReMy | CIBN_CHINA★★ ====
 #DESCRIPTION ==== ★★ReMy | CIBN_CHINA★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//Uhlive.Videocc.Net/recordfe/c08946f08620190726103829356/playlist.m3u8:CIBN dòuniú cáijīng
 #DESCRIPTION CIBN dòuniú cáijīng
@@ -261,7 +261,7 @@
 #DESCRIPTION CIBN zhēnrén xiù
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8:CIBN yí jiā
 #DESCRIPTION CIBN yí jiā
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::==== ★★ReMy | HUYALIVE_CHINA★★ ====
+#SERVICE 1:64:B3:0:0:0:0:0:0:0::==== ★★ReMy | HUYALIVE_CHINA★★ ====
 #DESCRIPTION ==== ★★ReMy | HUYALIVE_CHINA★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8:Anime big movie
 #DESCRIPTION Anime big movie
@@ -435,7 +435,7 @@
 #DESCRIPTION XMTV.cn 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8:Xuanyuanjian
 #DESCRIPTION Xuanyuanjian
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::==== ★★ReMy | FAR_EAST★★ ====
+#SERVICE 1:64:B4:0:0:0:0:0:0:0::==== ★★ReMy | FAR_EAST★★ ====
 #DESCRIPTION ==== ★★ReMy | FAR_EAST★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//27.254.130.64/live01/ch6.m3u8?p=m3u8:5HD THAI
 #DESCRIPTION 5HD THAI
@@ -779,6 +779,10 @@
 #DESCRIPTION Thai Baan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//symc-cdn.violin.co.th%3a1935/tndedge/whitechannel/chunklist.m3u8:White Channel
 #DESCRIPTION White Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v1a1/mono.m3u8:TV3
+#DESCRIPTION TV3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v1a1/mono.m3u8:TV5
+#DESCRIPTION TV5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8:Apsara Tv
 #DESCRIPTION Apsara Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1523926405.rsc.cdn77.org/LS-50041-SIN-8/index.m3u8:Bayon TV
@@ -817,6 +821,8 @@
 #DESCRIPTION TVK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1014844237.rsc.cdn77.org/LS-50041-SIN-12/index.m3u8:TV9
 #DESCRIPTION TV9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wikitv-streaming.poscarasia.com%3a1935/live/ngrp%3amyStream_all/playlist.m3u8:Wiki TV
+#DESCRIPTION Wiki TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge1a.v2h-cdn.com/appt7/MHONG.stream_720p/playlist.m3u8:HGTV
 #DESCRIPTION HGTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8:CVA
