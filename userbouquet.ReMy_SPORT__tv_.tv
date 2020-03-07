@@ -15,6 +15,12 @@
 #DESCRIPTION TJK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.39.105.79%3a1935/santraltv_925/santraltv_925/playlist.m3u8:YENI MALATYA SPOR
 #DESCRIPTION YENI MALATYA SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hdtvler2.etvserver.com/live_sd/sportcbc/chunks.m3u8?nimblesessionid=101646242&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjAgNDo0NDoxMyBQTSZoYXNoX3ZhbHVlPTQ3MnZxWW13Tm1LbUFBSVNFMVBsTkE9PSZ2YWxpZG1pbnV0ZXM9NQ==:CBC SPORT AZ
+#DESCRIPTION CBC SPORT AZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hdtvler1.etvserver.com/live_sd/sporidm/chunks.m3u8?nimblesessionid=61370088&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjAgNDozOToxOCBQTSZoYXNoX3ZhbHVlPWduNnppbGdpeXZKOE9vaTFlUmM4L2c9PSZ2YWxpZG1pbnV0ZXM9NQ==:İDMAN TV AZ
+#DESCRIPTION İDMAN TV AZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hdtvler1.etvserver.com/live_sd/gstv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjAgNDo0MTo1OCBQTSZoYXNoX3ZhbHVlPWRzRDNVMmU4Z1N0Znp2akZLek8wMmc9PSZ2YWxpZG1pbnV0ZXM9NQ==:GSTV
+#DESCRIPTION GSTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK1HR/index.m3u8?token=test:Sport Klub 1
 #DESCRIPTION Sport Klub 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.180.12.34%3a8080/SK2HR/index.m3u8?token=test:Sport Klub 2
