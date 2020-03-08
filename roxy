@@ -296,16 +296,6 @@ https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 #EXTINF:-1 group-title="ReMy_SPORT",YENI MALATYA SPOR 
 http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="ReMy_SPORT",BT Sports 1
-https://cstream8.com/hls/btsport1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="ReMy_SPORT",BT Sports 2
-https://cstream8.com/hls/btsport2.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="ReMy_SPORT",Sky Sports Action
-https://cstream8.com/hls/skysportsaction.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="ReMy_SPORT",Sky Sports Arena
-https://cstream8.com/hls/skysportsarena.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="ReMy_SPORT",Sky Sports Golf
-https://cstream8.com/hls/skysportsgolf.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub1.hr.png" group-title="ReMy_SPORT",Sport Klub 1
 http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub2.hr.png" group-title="ReMy_SPORT",Sport Klub 2
@@ -766,6 +756,36 @@ rtmp://59.124.75.156/sat/md011
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_mfs1nrj3_original_r10/c214_scc_20190618_mfs1nrj3_original_r10.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="ReMy_SPORT",Max Speed ​​car
 http://cdn-in.iqy.sc96655.com/tslive/c214_scc_20190618_foyfbby2_original_r10/c214_scc_20190618_foyfbby2_original_r10.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 1
+http://stream.doball.com:8080/hls/ch1.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 2
+http://stream.doball.com:8080/hls/ch2.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 3
+http://stream.doball.com:8080/hls/ch3.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 4
+http://stream.doball.com:8080/hls/ch4.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 5
+http://stream.doball.com:8080/hls/ch5.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 6
+http://stream.doball.com:8080/hls/ch6.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 7
+http://stream.doball.com:8080/hls/ch7.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 8
+http://stream.doball.com:8080/hls/ch8.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 9
+http://stream.doball.com:8080/hls/ch9.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 10
+http://stream.doball.com:8080/hls/ch10.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 11
+http://stream.doball.com:8080/hls/ch11.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 12
+http://stream.doball.com:8080/hls/ch12.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 13
+http://stream.doball.com:8080/hls/ch13.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 14
+http://stream.doball.com:8080/hls/ch14.m3u8?feed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 15
+http://stream.doball.com:8080/hls/ch15.m3u8?feed
 #EXTINF:-1 group-title="FASHION_FLIX","FASHION_FLIX"
 "FASHION_FLIX"
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",FASHION TV PARIS
