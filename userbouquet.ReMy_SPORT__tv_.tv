@@ -311,8 +311,6 @@
 #DESCRIPTION Olympic Channel LIVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=oman_sport:Oman Sport
 #DESCRIPTION Oman Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.250.201.58%3a6211/pk/ONEGOLF/index.m3u8:One Golf
-#DESCRIPTION One Golf
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.250.201.58%3a6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8:ONEGOLF
 #DESCRIPTION ONEGOLF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/3gT64sH/c.m3u8:Outside TV
