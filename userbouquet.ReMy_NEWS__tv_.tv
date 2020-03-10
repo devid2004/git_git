@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | NEWS★★ ==
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
+#SERVICE 1:64:AF:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1579298706&st=OYDJwo58YPCIODOOaoVa5Q&tv=1&ce=1:Bloomberght HD
 #DESCRIPTION Bloomberght HD
@@ -41,20 +41,18 @@
 #DESCRIPTION Reuters
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.efir24.tv%3a1935/live/efir24tv/playlist.m3u8:24 AP Tataristan
 #DESCRIPTION 24 AP Tataristan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8:24h Catalunya
-#DESCRIPTION 24h Catalunya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8:92 News Pakistan
 #DESCRIPTION 92 News Pakistan
 #SERVICE 4097:0:0:3:0:0:0:0:0:0:http%3a//95.107.132.131%3a3344/udp/235.0.0.2%3a9009:AbcNews24/7
 #DESCRIPTION AbcNews24/7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8:23 ABC
 #DESCRIPTION 23 ABC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8:ABC News
+#DESCRIPTION ABC News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8:ABC News live
 #DESCRIPTION ABC News live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8:ABC News Live
 #DESCRIPTION ABC News Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8:ABC News
-#DESCRIPTION ABC News
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil%3awbrz-live.smil/chunklist.m3u8:ABC 2 Baton Rouge (WBRZ)
 #DESCRIPTION ABC 2 Baton Rouge (WBRZ)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8:Al Arabiya

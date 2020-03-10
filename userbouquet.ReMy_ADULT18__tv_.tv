@@ -1,10 +1,8 @@
 #NAME == ★★ReMy | ADULT+18★★ ==
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::== ★★ReMy | ADULT+18★★ ==
+#SERVICE 1:64:BA:0:0:0:0:0:0:0::== ★★ReMy | ADULT+18★★ ==
 #DESCRIPTION == ★★ReMy | ADULT+18★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1drv.ws/u/s!AmlGjvQBird1fKqcLztRtsljub0?e=YBKrWc:ReMyTeaM- Extasy 4K-20191103 0652
 #DESCRIPTION ReMyTeaM- Extasy 4K-20191103 0652
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvnation.com/porn/video.mp4:National Teen TV
-#DESCRIPTION National Teen TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.12%3a21101/udp/127h:PLAYBOY
 #DESCRIPTION PLAYBOY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.12%3a21131/udp/142d:VIVID RED
@@ -15,12 +13,14 @@
 #DESCRIPTION Dorcel TV [18+]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.12%3a21101/udp/118v:olala
 #DESCRIPTION olala
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.195.238.34%3a81/udp/239.1.20.60%3a1234:EROX
-#DESCRIPTION EROX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.ast.tv/stream/2/cellular.m3u8:AS TV
-#DESCRIPTION AS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.203.143.51%3a9981/play/Venus:VENUS TV
 #DESCRIPTION VENUS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.ibizastream.biz%3a441/free/2/playlist.m3u8:IBIZA TV NYX Media
+#DESCRIPTION IBIZA TV NYX Media
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist.m3u8:NYX Media
+#DESCRIPTION NYX Media
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/chunklist.m3u8:NYX Media
+#DESCRIPTION NYX Media
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.ottg.tv/4736/video.m3u8?username=Roisok&password=sunrise1977&token=e302a3bfeb576e11588d1af551658a10&ch_id=411:Babes TV +18
 #DESCRIPTION Babes TV +18
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.firestormmedia.tv%3a1935/bsx24/livestream/playlist.m3u8:Babestation Xtreme (18+)
@@ -39,6 +39,10 @@
 #DESCRIPTION Jasmin HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8:JASMIN TV
 #DESCRIPTION JASMIN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ec5453559f0.streamlock.net/miamitv/smil%3amiamitvROKU/chunklist_w1195980091_b2592000.m3u8:Miami TV
+#DESCRIPTION Miami TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ec5453559f0.streamlock.net/canal18/smil%3acanal18/chunklist_w577650521_b2592000.m3u8:Miami TV Latino
+#DESCRIPTION Miami TV Latino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59ec5453559f0.streamlock.net%3a1935/mexicotv/smil%3amiamitvmexicoROKU/chunklist_b1896000.m3u8:Miami TV - Jenny Live (18+)
 #DESCRIPTION Miami TV - Jenny Live (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59ec5453559f0.streamlock.net/canal18/smil%3acanal18/chunklist_b2592000.m3u8:Miami TV Latino (18+)
@@ -53,18 +57,10 @@
 #DESCRIPTION VISIT-X TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv//live_720p:VISIT-X.tv
 #DESCRIPTION VISIT-X.tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/mp4%3atv8.stream_360p/chunklist_w974670813.m3u8:TV8
-#DESCRIPTION TV8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/ngrp%3atv8.stream_all/playlist.m3u8:Televizia OSEM
 #DESCRIPTION Televizia OSEM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.234.9.46%3a7088/udp/239.1.13.5%3a1234:BlueHustler HD
-#DESCRIPTION BlueHustler HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_BLUEHUSTLER/variant.m3u8?version=2:Blue Hustler (18+)
-#DESCRIPTION Blue Hustler (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2:NuArtTV [18+]
-#DESCRIPTION NuArtTV [18+]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2:RussianNight
-#DESCRIPTION RussianNight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/mp4%3atv8.stream_360p/chunklist_w974670813.m3u8:TV8
+#DESCRIPTION TV8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8:PASSIONXXX
 #DESCRIPTION PASSIONXXX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/anal.m3u8:RedTraffic Anal
@@ -75,8 +71,12 @@
 #DESCRIPTION RedTraffic Big Dick (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigtits.m3u8:RedTraffic Big Tits (18+)
 #DESCRIPTION RedTraffic Big Tits (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/blonde.m3u8:RedTraffic Blonde (18+)
+#DESCRIPTION RedTraffic Blonde (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/blowjob.m3u8:RedTraffic Blowjob (18+)
 #DESCRIPTION RedTraffic Blowjob (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/brunette.m3u8:RedTraffic Brunette (18+)
+#DESCRIPTION RedTraffic Brunette (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/cuckold.m3u8:RedTraffic Cuckold (18+)
 #DESCRIPTION RedTraffic Cuckold (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/fetish.m3u8:RedTraffic Fetish (18+)
@@ -91,31 +91,655 @@
 #DESCRIPTION RedTraffic Latina (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/lesbian.m3u8:RedTraffic Lesbian (18+)
 #DESCRIPTION RedTraffic Lesbian (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/livecam.m3u8:RedTraffic Livecam (18+)
+#DESCRIPTION RedTraffic Livecam (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/milf.m3u8:RedTraffic MILF (18+)
 #DESCRIPTION RedTraffic MILF (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/pov.m3u8:RedTraffic POV (18+)
-#DESCRIPTION RedTraffic POV (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/pornstar.m3u8:RedTraffic Pornstar (18+)
 #DESCRIPTION RedTraffic Pornstar (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/pov.m3u8:RedTraffic POV (18+)
+#DESCRIPTION RedTraffic POV (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/rough.m3u8:Rough (18+)
+#DESCRIPTION RedTraffic Rough (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/russian.m3u8:RedTraffic Russian (18+)
 #DESCRIPTION RedTraffic Russian (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/teen.m3u8:RedTraffic Teen (18+)
 #DESCRIPTION RedTraffic Teen (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/threesome.m3u8:RedTraffic Threesome (18+)
 #DESCRIPTION RedTraffic Threesome (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/339312133:KOREAN MIDNIGHT
-#DESCRIPTION KOREAN MIDNIGHT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/1086640851:KOREAN PINK TV HD
-#DESCRIPTION KOREAN PINK TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/966306501:KOREAN PLAYBOY
-#DESCRIPTION KOREAN PLAYBOY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/798964177:KOREAN VIKI
-#DESCRIPTION KOREAN VIKI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/1463854277:KOREAN HONEY
-#DESCRIPTION KOREAN HONEY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/816085039:KOREAN DESIRE
-#DESCRIPTION KOREAN DESIRE
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★WodPro24_FHD_★★
+#SERVICE 1:64:BB:0:0:0:0:0:0:0::=== ★★_NEW_SERVERS_PACK_★★
+#DESCRIPTION === ★★_NEW_SERVERS_PACK_★★
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/527/index.m3u8:Playboy
+#DESCRIPTION Playboy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/910/index.m3u8:Brazzers TV Europe
+#DESCRIPTION Brazzers TV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/1073/index.m3u8:Penthouse TV
+#DESCRIPTION Penthouse TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/1064/index.m3u8:Blue Hustler
+#DESCRIPTION Blue Hustler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/876/index.m3u8:SCT
+#DESCRIPTION SCT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/877/index.m3u8:PRIVE
+#DESCRIPTION PRIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/878/index.m3u8:Passion XXX
+#DESCRIPTION Passion XXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/242/index.m3u8:Redlight HD
+#DESCRIPTION Redlight HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/244/index.m3u8:Hustler HD Europe
+#DESCRIPTION Hustler HD Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/874/index.m3u8:Pink'o TV
+#DESCRIPTION Pink'o TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/2057/index.m3u8:Newart TV
+#DESCRIPTION Newart TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/2397/index.m3u8:Exxxotica HD
+#DESCRIPTION Exxxotica HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/902/index.m3u8?token=BQF9PmuRpcxUqR:HUSTLER HD
+#DESCRIPTION HUSTLER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/904/index.m3u8?token=BQF9PmuRpcxUqR:REDLIGHT HD
+#DESCRIPTION REDLIGHT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/909/index.m3u8?token=BQF9PmuRpcxUqR:PENTHOUS GOLD
+#DESCRIPTION PENTHOUS GOLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/903/index.m3u8?token=BQF9PmuRpcxUqR:PENTHOUS QUICKIES
+#DESCRIPTION PENTHOUS QUICKIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/906/index.m3u8?token=BQF9PmuRpcxUqR:PENTHOUS BLACK
+#DESCRIPTION PENTHOUS BLACK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/5880/index.m3u8?token=BQF9PmuRpcxUqR:Pink O TV
+#DESCRIPTION Pink O TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/5881/index.m3u8?token=BQF9PmuRpcxUqR:Dorcel
+#DESCRIPTION Dorcel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/5758/index.m3u8?token=BQF9PmuRpcxUqR:Private TV
+#DESCRIPTION Private TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/17976/index.m3u8?token=BQF9PmuRpcxUqR:Babes
+#DESCRIPTION Babes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/5238/index.m3u8?token=BQF9PmuRpcxUqR:Russian night
+#DESCRIPTION Russian night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/5235/index.m3u8?token=BQF9PmuRpcxUqR:Playboy TV
+#DESCRIPTION Playboy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/907/index.m3u8?token=BQF9PmuRpcxUqR:O-la-la
+#DESCRIPTION O-la-la
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/910/index.m3u8?token=BQF9PmuRpcxUqR:NuArt
+#DESCRIPTION NuArt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/901/index.m3u8?token=BQF9PmuRpcxUqR:Sexto Sento
+#DESCRIPTION Sexto Sento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/19178/index.m3u8?token=BQF9PmuRpcxUqR:Beate Uhse Tv HD
+#DESCRIPTION Beate Uhse Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/22401/index.m3u8?token=BQF9PmuRpcxUqR:Silun HD
+#DESCRIPTION Silun HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/22402/index.m3u8?token=BQF9PmuRpcxUqR:EroXXX
+#DESCRIPTION EroXXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/22403/index.m3u8?token=BQF9PmuRpcxUqR:Reality Kings
+#DESCRIPTION Reality Kings
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/22404/index.m3u8?token=BQF9PmuRpcxUqR:Barely legal
+#DESCRIPTION Barely legal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/19180/index.m3u8?token=BQF9PmuRpcxUqR:Vivid RED HD
+#DESCRIPTION Vivid RED HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fr01.spr24.net/22387/index.m3u8?token=BQF9PmuRpcxUqR:SuperONE HD
+#DESCRIPTION SuperONE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33381:Blue Hustler HD
+#DESCRIPTION Blue Hustler HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/27133:Blue Hustler SD
+#DESCRIPTION Blue Hustler SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/18487:PlayBoy HD
+#DESCRIPTION PlayBoy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/18488:PlayBoy SD
+#DESCRIPTION PlayBoy SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/18486:Sextreme SD
+#DESCRIPTION Sextreme SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/18485:SexyHot HD
+#DESCRIPTION SexyHot HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/22275:SexyHot SD
+#DESCRIPTION SexyHot SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/18484:Venus HD
+#DESCRIPTION Venus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33382:BRAZZERS EUROPE
+#DESCRIPTION BRAZZERS EUROPE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33383:CANDY
+#DESCRIPTION CANDY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33385:DORCEL TV
+#DESCRIPTION DORCEL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33386:EROXX
+#DESCRIPTION EROXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33387:PASSION
+#DESCRIPTION PASSION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33388:PENTHOUSE BLACK
+#DESCRIPTION PENTHOUSE BLACK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33389:PENTHOUSE QUICKIES
+#DESCRIPTION PENTHOUSE QUICKIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33390:PINK-O
+#DESCRIPTION PINK-O
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33392:PRIVATE HD
+#DESCRIPTION PRIVATE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33393:REDLIGHT
+#DESCRIPTION REDLIGHT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33394:RUSNOCH
+#DESCRIPTION RUSNOCH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33395:SCT
+#DESCRIPTION SCT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33396:SEXT6SENSO
+#DESCRIPTION SEXT6SENSO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/33400:VIVID RED
+#DESCRIPTION VIVID RED
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/27890:ADULT 001
+#DESCRIPTION ADULT 001
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/27889:ADULT 002
+#DESCRIPTION ADULT 002
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/27888:ADULT 003
+#DESCRIPTION ADULT 003
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/27879:ADULT 004
+#DESCRIPTION ADULT 004
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/27878:ADULT 005
+#DESCRIPTION ADULT 005
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/27870:ADULT 006
+#DESCRIPTION ADULT 006
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/27869:ADULT 007
+#DESCRIPTION ADULT 007
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/27141:ADULT 008
+#DESCRIPTION ADULT 008
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/27140:ADULT 009
+#DESCRIPTION ADULT 009
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/27138:ADULT 010
+#DESCRIPTION ADULT 010
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/27137:ADULT 011
+#DESCRIPTION ADULT 011
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/27134:ADULT 012
+#DESCRIPTION ADULT 012
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/29377:ADULT 013
+#DESCRIPTION ADULT 013
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/22447:ADULT 014
+#DESCRIPTION ADULT 014
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//psrv.io%3a80/2146686202/coreurl.me/29378:ADULT 015
+#DESCRIPTION ADULT 015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39057:XXX18 : Babes TV HD
+#DESCRIPTION XXX18 : Babes TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39058:XXX18 : Balkan Erotic
+#DESCRIPTION XXX18 : Balkan Erotic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39059:XXX18 : Bang U
+#DESCRIPTION XXX18 : Bang U
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39060:XXX18 : Bangerz
+#DESCRIPTION XXX18 : Bangerz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39061:XXX18 : Barely Legal TV
+#DESCRIPTION XXX18 : Barely Legal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39062:XXX18 : Beate Uhse.TV
+#DESCRIPTION XXX18 : Beate Uhse.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39063:XXX18 : Blue Hustler
+#DESCRIPTION XXX18 : Blue Hustler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39064:XXX18 : Brazzers TV
+#DESCRIPTION XXX18 : Brazzers TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39065:XXX18 : Brazzers TV Europe
+#DESCRIPTION XXX18 : Brazzers TV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39066:XXX18 : Brazzers TV Europe Russian
+#DESCRIPTION XXX18 : Brazzers TV Europe Russian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39067:XXX18 : Candy TV
+#DESCRIPTION XXX18 : Candy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39068:XXX18 : Candyman Gay Men
+#DESCRIPTION XXX18 : Candyman Gay Men
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39069:XXX18 : Colmax TV
+#DESCRIPTION XXX18 : Colmax TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39070:XXX18 : Dorcel HD
+#DESCRIPTION XXX18 : Dorcel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39071:XXX18 : Dorcel XXX HD
+#DESCRIPTION XXX18 : Dorcel XXX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39072:XXX18 : Dream Porn HD
+#DESCRIPTION XXX18 : Dream Porn HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39073:XXX18 : DUSK!
+#DESCRIPTION XXX18 : DUSK!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39075:XXX18 : Erox HD
+#DESCRIPTION XXX18 : Erox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39076:XXX18 : Erox XXX HD
+#DESCRIPTION XXX18 : Erox XXX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39077:XXX18 : Evil Angel HD
+#DESCRIPTION XXX18 : Evil Angel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39078:XXX18 : Extasy HD
+#DESCRIPTION XXX18 : Extasy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39079:XXX18 : Exxxotica TV
+#DESCRIPTION XXX18 : Exxxotica TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39081:XXX18 : French Lover
+#DESCRIPTION XXX18 : French Lover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39082:XXX18 : French Lover Europe
+#DESCRIPTION XXX18 : French Lover Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39083:XXX18 : Hot Pleasure
+#DESCRIPTION XXX18 : Hot Pleasure
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39084:XXX18 : Hot TV
+#DESCRIPTION XXX18 : Hot TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39085:XXX18 : Hustler TV
+#DESCRIPTION XXX18 : Hustler TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39086:XXX18 : Jasmin TV
+#DESCRIPTION XXX18 : Jasmin TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39087:XXX18 : Leo TV
+#DESCRIPTION XXX18 : Leo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39088:XXX18 : Lesbian Affair
+#DESCRIPTION XXX18 : Lesbian Affair
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39089:XXX18 : Libido TV
+#DESCRIPTION XXX18 : Libido TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39090:XXX18 : Man-X Gay Men
+#DESCRIPTION XXX18 : Man-X Gay Men
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39091:XXX18 : Meiden Van Holland Hard
+#DESCRIPTION XXX18 : Meiden Van Holland Hard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39092:XXX18 : Milf TV
+#DESCRIPTION XXX18 : Milf TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39093:XXX18 : Net XX
+#DESCRIPTION XXX18 : Net XX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39094:XXX18 : Nuart TV
+#DESCRIPTION XXX18 : Nuart TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39095:XXX18 : O la la TV
+#DESCRIPTION XXX18 : O la la TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39097:XXX18 : Passion XXX
+#DESCRIPTION XXX18 : Passion XXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39098:XXX18 : Penthouse Black
+#DESCRIPTION XXX18 : Penthouse Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39099:XXX18 : Penthouse Gold HD
+#DESCRIPTION XXX18 : Penthouse Gold HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39100:XXX18 : Penthouse Passion HD
+#DESCRIPTION XXX18 : Penthouse Passion HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39101:XXX18 : Penthouse Quickies HD
+#DESCRIPTION XXX18 : Penthouse Quickies HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39102:XXX18 : Pink Erotic
+#DESCRIPTION XXX18 : Pink Erotic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39103:XXX18 : Pink Erotic 2
+#DESCRIPTION XXX18 : Pink Erotic 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39104:XXX18 : Pink Erotic 3
+#DESCRIPTION XXX18 : Pink Erotic 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39105:XXX18 : Pink Erotic 4
+#DESCRIPTION XXX18 : Pink Erotic 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39106:XXX18 : Pink Erotic 5
+#DESCRIPTION XXX18 : Pink Erotic 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39107:XXX18 : Pink Erotic 6
+#DESCRIPTION XXX18 : Pink Erotic 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39108:XXX18 : Pink Erotic 7
+#DESCRIPTION XXX18 : Pink Erotic 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39109:XXX18 : Pink Erotic 8
+#DESCRIPTION XXX18 : Pink Erotic 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39110:XXX18 : Pink O TV
+#DESCRIPTION XXX18 : Pink O TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39111:XXX18 : Playboy Europe
+#DESCRIPTION XXX18 : Playboy Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39112:XXX18 : Playboy TV
+#DESCRIPTION XXX18 : Playboy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39113:XXX18 : Playhouse
+#DESCRIPTION XXX18 : Playhouse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39114:XXX18 : Prive TV
+#DESCRIPTION XXX18 : Prive TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39115:XXX18 : Private TV HD
+#DESCRIPTION XXX18 : Private TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39116:XXX18 : Reality Kings TV
+#DESCRIPTION XXX18 : Reality Kings TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39117:XXX18 : Red XXX
+#DESCRIPTION XXX18 : Red XXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39119:XXX18 : Russian Night
+#DESCRIPTION XXX18 : Russian Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39120:XXX18 : SCT Classic
+#DESCRIPTION XXX18 : SCT Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39121:XXX18 : Secret Circle TV
+#DESCRIPTION XXX18 : Secret Circle TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39122:XXX18 : SEX ATION HD
+#DESCRIPTION XXX18 : SEX ATION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39123:XXX18 : Sext & Senso
+#DESCRIPTION XXX18 : Sext & Senso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39124:XXX18 : Sextreme
+#DESCRIPTION XXX18 : Sextreme
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39125:XXX18 : Sexy HOT
+#DESCRIPTION XXX18 : Sexy HOT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39126:XXX18 : Stars XXX HD
+#DESCRIPTION XXX18 : Stars XXX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39127:XXX18 : Super One HD
+#DESCRIPTION XXX18 : Super One HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39128:XXX18 : Taboo
+#DESCRIPTION XXX18 : Taboo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39129:XXX18 : Venus TV
+#DESCRIPTION XXX18 : Venus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39130:XXX18 : Vivid Red HD
+#DESCRIPTION XXX18 : Vivid Red HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39131:XXX18 : Vivid Touch
+#DESCRIPTION XXX18 : Vivid Touch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39132:XXX18 : Vivid TV Europe
+#DESCRIPTION XXX18 : Vivid TV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39133:XXX18 : X Bizarre
+#DESCRIPTION XXX18 : X Bizarre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39134:XXX18 : X Bunga Bunga
+#DESCRIPTION XXX18 : X Bunga Bunga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39135:XXX18 : X Desire
+#DESCRIPTION XXX18 : X Desire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39136:XXX18 : X-MO Gay Men
+#DESCRIPTION XXX18 : X-MO Gay Men
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39137:XXX18 : X1
+#DESCRIPTION XXX18 : X1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39138:XXX18 : XXL
+#DESCRIPTION XXX18 : XXL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39140:XXX18 : XY Max HD
+#DESCRIPTION XXX18 : XY Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39141:XXX18 : XY Mix HD
+#DESCRIPTION XXX18 : XY Mix HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.iptvipaccess.es%3a8080/abe/abe/39142:XXX18 : XY Plus HD
+#DESCRIPTION XXX18 : XY Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2985:VIP001:Pinko TV
+#DESCRIPTION VIP001:Pinko TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2984:VIP002:Erotic XXX
+#DESCRIPTION VIP002:Erotic XXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2983:VIP003:PlayBoy TV
+#DESCRIPTION VIP003:PlayBoy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2982:VIP004:Hustler TV
+#DESCRIPTION VIP004:Hustler TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2981:VIP005:JASMIN.TV
+#DESCRIPTION VIP005:JASMIN.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2980:VIP006:French Lover
+#DESCRIPTION VIP006:French Lover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2979:VIP007:Venus HD
+#DESCRIPTION VIP007:Venus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2978:VIP008:DUSK
+#DESCRIPTION VIP008:DUSK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2977:VIP009:Brazzers
+#DESCRIPTION VIP009:Brazzers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2976:VIP010:Passie XXX
+#DESCRIPTION VIP010:Passie XXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2975:VIP011:Penthouse
+#DESCRIPTION VIP011:Penthouse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2974:VIP012:Maidenvan Holland
+#DESCRIPTION VIP012:Maidenvan Holland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2973:VIP013:Superone
+#DESCRIPTION VIP013:Superone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2972:VIP014:Babes 1
+#DESCRIPTION VIP014:Babes 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2971:VIP015:Babes 2
+#DESCRIPTION VIP015:Babes 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2970:VIP016:Babes 3
+#DESCRIPTION VIP016:Babes 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2969:VIP017:Babes 4
+#DESCRIPTION VIP017:Babes 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2968:VIP018:Babes 5
+#DESCRIPTION VIP018:Babes 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2967:VIP019:Babes 6
+#DESCRIPTION VIP019:Babes 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2966:VIP020:Babes 8
+#DESCRIPTION VIP020:Babes 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2965:VIP021:Babes 9
+#DESCRIPTION VIP021:Babes 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2964:VIP022:CENTO XCENTO
+#DESCRIPTION VIP022:CENTO XCENTO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2963:VIP023:Erotic 2
+#DESCRIPTION VIP023:Erotic 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2962:VIP024:Erotic 3
+#DESCRIPTION VIP024:Erotic 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2961:VIP025:Erotic 7
+#DESCRIPTION VIP025:Erotic 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2960:VIP026:Erotic 1
+#DESCRIPTION VIP026:Erotic 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2959:VIP027:Miami TV
+#DESCRIPTION VIP027:Miami TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/2958:VIP028:Red Light
+#DESCRIPTION VIP028:Red Light
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33160:VIP029:Song as 3(Sonsee 3)
+#DESCRIPTION VIP029:Song as 3(Sonsee 3)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33159:VIP030:Perfect table(Pandora Perfect)
+#DESCRIPTION VIP030:Perfect table(Pandora Perfect)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33158:VIP031:Rainbow movie(Rainbow M)
+#DESCRIPTION VIP031:Rainbow movie(Rainbow M)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33157:VIP032:Pink stand(Pandora Pink)
+#DESCRIPTION VIP032:Pink stand(Pandora Pink)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33156:VIP035:Song Vision 2(Sonsee 2)
+#DESCRIPTION VIP035:Song Vision 2(Sonsee 2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33155:VIP037:Rainbow K(Rainbow K)
+#DESCRIPTION VIP037:Rainbow K(Rainbow K)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33154:VIP038:Rainbow E(Rainbow E)
+#DESCRIPTION VIP038:Rainbow E(Rainbow E)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33153:VIP039:HAPPY
+#DESCRIPTION VIP039:HAPPY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33151:VIP041:SEXTREME
+#DESCRIPTION VIP041:SEXTREME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33150:VIP042:XY Plus HD
+#DESCRIPTION VIP042:XY Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33149:VIP043:Russian Night
+#DESCRIPTION VIP043:Russian Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33148:VIP044:Barely Legal TV
+#DESCRIPTION VIP044:Barely Legal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33147:VIP045:Leo TV
+#DESCRIPTION VIP045:Leo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33146:VIP046:Vivid TV Europe
+#DESCRIPTION VIP046:Vivid TV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33145:VIP047:DUSK!
+#DESCRIPTION VIP047:DUSK!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33144:VIP048:Hustler TV
+#DESCRIPTION VIP048:Hustler TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33143:VIP049:XXL
+#DESCRIPTION VIP049:XXL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33142:VIP050:Passie XXX
+#DESCRIPTION VIP050:Passie XXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33141:VIP051:Passion XXX
+#DESCRIPTION VIP051:Passion XXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33140:VIP052:Reality Kings TV
+#DESCRIPTION VIP052:Reality Kings TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33139:VIP053:Pink O TV
+#DESCRIPTION VIP053:Pink O TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33138:VIP054:BALKAN EROTIC
+#DESCRIPTION VIP054:BALKAN EROTIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33137:VIP055:Sext & Senso
+#DESCRIPTION VIP055:Sext & Senso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33136:VIP056:SCT Classic
+#DESCRIPTION VIP056:SCT Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33135:VIP057:Brazzers TV
+#DESCRIPTION VIP057:Brazzers TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33134:VIP058:Dream Porn
+#DESCRIPTION VIP058:Dream Porn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33133:VIP059:Brazzers TV Europe Russian
+#DESCRIPTION VIP059:Brazzers TV Europe Russian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33132:VIP060:Hot TV
+#DESCRIPTION VIP060:Hot TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33131:VIP061:Venus TV
+#DESCRIPTION VIP061:Venus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33130:VIP062:VENUS_LA1
+#DESCRIPTION VIP062:VENUS_LA1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33129:VIP063:Sexy HOT
+#DESCRIPTION VIP063:Sexy HOT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33128:VIP064:Meiden Van Holland Hard
+#DESCRIPTION VIP064:Meiden Van Holland Hard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33127:VIP065:X Bizarre
+#DESCRIPTION VIP065:X Bizarre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33126:VIP066:X Desire
+#DESCRIPTION VIP066:X Desire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33125:VIP067:X Bunga Bunga
+#DESCRIPTION VIP067:X Bunga Bunga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33124:VIP068:Pink Erotic
+#DESCRIPTION VIP068:Pink Erotic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33123:VIP069:Pink Erotic 2
+#DESCRIPTION VIP069:Pink Erotic 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33122:VIP070:Pink Erotic 3
+#DESCRIPTION VIP070:Pink Erotic 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33121:VIP071:Pink Erotic 4
+#DESCRIPTION VIP071:Pink Erotic 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33120:VIP072:Pink Erotic 5
+#DESCRIPTION VIP072:Pink Erotic 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33119:VIP073:Pink Erotic 6
+#DESCRIPTION VIP073:Pink Erotic 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33118:VIP074:Pink Erotic 7
+#DESCRIPTION VIP074:Pink Erotic 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33117:VIP075:Pink Erotic 8
+#DESCRIPTION VIP075:Pink Erotic 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33116:VIP076:Balkan Erotic
+#DESCRIPTION VIP076:Balkan Erotic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33115:VIP077:TenX
+#DESCRIPTION VIP077:TenX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33114:VIP078:DORCEL
+#DESCRIPTION VIP078:DORCEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33113:VIP079:Bang U
+#DESCRIPTION VIP079:Bang U
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33112:VIP080:Playboy Europe
+#DESCRIPTION VIP080:Playboy Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33111:VIP081:Blue Hustler
+#DESCRIPTION VIP081:Blue Hustler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33110:VIP082:Hot Pleasure
+#DESCRIPTION VIP082:Hot Pleasure
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33109:VIP083:French Lover
+#DESCRIPTION VIP083:French Lover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33108:VIP084:French Lover Europe
+#DESCRIPTION VIP084:French Lover Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33107:VIP085:Extrem
+#DESCRIPTION VIP085:Extrem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33106:VIP086:BRAZZERS TV EUROPE
+#DESCRIPTION VIP086:BRAZZERS TV EUROPE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33105:VIP087:Fake Taxi
+#DESCRIPTION VIP087:Fake Taxi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33104:VIP088:Emanuelle
+#DESCRIPTION VIP088:Emanuelle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33103:VIP089:MEGA XXX
+#DESCRIPTION VIP089:MEGA XXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33102:VIP090:MEGA XXX 2
+#DESCRIPTION VIP090:MEGA XXX 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33101:VIP091:MEGA XXX 3
+#DESCRIPTION VIP091:MEGA XXX 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33100:VIP092:MEGA XXX 4
+#DESCRIPTION VIP092:MEGA XXX 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33099:VIP093:MEGA XXX 5
+#DESCRIPTION VIP093:MEGA XXX 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33098:VIP094:MEGA XXX 6
+#DESCRIPTION VIP094:MEGA XXX 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33097:VIP095:MEGA XXX 7
+#DESCRIPTION VIP095:MEGA XXX 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33096:VIP096:MEGA XXX 8
+#DESCRIPTION VIP096:MEGA XXX 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33095:VIP097:MEGA XXX 9
+#DESCRIPTION VIP097:MEGA XXX 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33094:VIP098:MEGA XXX 10
+#DESCRIPTION VIP098:MEGA XXX 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33093:VIP099:VIVID RED HD
+#DESCRIPTION VIP099:VIVID RED HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33092:VIP100:ERO-X
+#DESCRIPTION VIP100:ERO-X
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33091:VIP101:Secret Circle TV
+#DESCRIPTION VIP101:Secret Circle TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33090:VIP102:Candy TV
+#DESCRIPTION VIP102:Candy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33089:VIP103:Penthouse Quickies
+#DESCRIPTION VIP103:Penthouse Quickies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33088:VIP104:PRIVATE
+#DESCRIPTION VIP104:PRIVATE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33087:VIP105:Colmax TV HD
+#DESCRIPTION VIP105:Colmax TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33086:VIP106:Latina
+#DESCRIPTION VIP106:Latina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33085:VIP107:Beate Uhse.TV
+#DESCRIPTION VIP107:Beate Uhse.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33084:VIP108:XY max
+#DESCRIPTION VIP108:XY max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33083:VIP109:Candyman Gay Men
+#DESCRIPTION VIP109:Candyman Gay Men
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33082:VIP110:Fast Boyz Gay Men
+#DESCRIPTION VIP110:Fast Boyz Gay Men
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33081:VIP111:France a Poil4
+#DESCRIPTION VIP111:France a Poil4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33080:VIP112:Jasmin TV
+#DESCRIPTION VIP112:Jasmin TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33079:VIP113:Secret Circle
+#DESCRIPTION VIP113:Secret Circle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33078:VIP114:SEXTO & SENSO
+#DESCRIPTION VIP114:SEXTO & SENSO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33077:VIP115:XXX Stars FHD
+#DESCRIPTION VIP115:XXX Stars FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33076:VIP116:JASMIN.TV HD
+#DESCRIPTION VIP116:JASMIN.TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33075:VIP117:VIVID RED FHD
+#DESCRIPTION VIP117:VIVID RED FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33074:VIP118:VIVID TV
+#DESCRIPTION VIP118:VIVID TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/33073:VIP119:X-MO
+#DESCRIPTION VIP119:X-MO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60658:VIP120:O-la-la
+#DESCRIPTION VIP120:O-la-la
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60659:VIP122:Satisfaction_
+#DESCRIPTION VIP122:Satisfaction_
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60660:VIP123:Evil_Angel
+#DESCRIPTION VIP123:Evil_Angel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60661:VIP124:XYPlus TV
+#DESCRIPTION VIP124:XYPlus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60662:VIP125:Sesto Senso TV
+#DESCRIPTION VIP125:Sesto Senso TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60663:VIP126:SCT
+#DESCRIPTION VIP126:SCT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60664:VIP127:Penthouse Gold
+#DESCRIPTION VIP127:Penthouse Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60665:VIP128:Penthouse 2
+#DESCRIPTION VIP128:Penthouse 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60666:VIP129:Penthouse 1
+#DESCRIPTION VIP129:Penthouse 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60667:VIP130:Max 1
+#DESCRIPTION VIP130:Max 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60668:VIP131:HotClub 9
+#DESCRIPTION VIP131:HotClub 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60669:VIP132:HotClub 8
+#DESCRIPTION VIP132:HotClub 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60670:VIP133:HotClub 7
+#DESCRIPTION VIP133:HotClub 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60671:VIP134:HotClub 6
+#DESCRIPTION VIP134:HotClub 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60672:VIP135:HotClub 5
+#DESCRIPTION VIP135:HotClub 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60673:VIP136:HotClub 4
+#DESCRIPTION VIP136:HotClub 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60674:VIP137:HotClub 3
+#DESCRIPTION VIP137:HotClub 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60675:VIP138:HotClub 2
+#DESCRIPTION VIP138:HotClub 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60676:VIP139:HotClub 1
+#DESCRIPTION VIP139:HotClub 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60677:VIP140:SINSATIONS: BLACKED
+#DESCRIPTION VIP140:SINSATIONS: BLACKED
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60678:VIP141:SINSATIONS: BANGBROS
+#DESCRIPTION VIP141:SINSATIONS: BANGBROS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60679:VIP142:SINSATIONS: BANGBROS 2
+#DESCRIPTION VIP142:SINSATIONS: BANGBROS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60680:VIP143:SINSATIONS: BLACKED 2
+#DESCRIPTION VIP143:SINSATIONS: BLACKED 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60681:VIP144:SINSATIONS: CREAMPIE
+#DESCRIPTION VIP144:SINSATIONS: CREAMPIE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60682:VIP145:SINSATIONS: CREAMPIE 2
+#DESCRIPTION VIP145:SINSATIONS: CREAMPIE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60683:VIP146:SINSATIONS:  GIRLS GONE WILD
+#DESCRIPTION VIP146:SINSATIONS:  GIRLS GONE WILD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60684:VIP147:SINSATIONS: GIRLS GONE WILD 2
+#DESCRIPTION VIP147:SINSATIONS: GIRLS GONE WILD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60685:VIP148:SINSATIONS: MOFOS
+#DESCRIPTION VIP148:SINSATIONS: MOFOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60686:VIP149:SINSATIONS: MOFOS 2
+#DESCRIPTION VIP149:SINSATIONS: MOFOS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60687:VIP150:SINSATIONS: ULTIMATE SURRENDER
+#DESCRIPTION VIP150:SINSATIONS: ULTIMATE SURRENDER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60688:VIP151:SINSATIONS: DOUBLE DIP
+#DESCRIPTION VIP151:SINSATIONS: DOUBLE DIP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60689:VIP152:SINSATIONS: DOUBLE DIP 2
+#DESCRIPTION VIP152:SINSATIONS: DOUBLE DIP 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60690:VIP153:SINSATIONS: FAMILY STROKES
+#DESCRIPTION VIP153:SINSATIONS: FAMILY STROKES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60691:VIP154:SINSATIONS: XTRASMALL
+#DESCRIPTION VIP154:SINSATIONS: XTRASMALL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60692:VIP155:SINSATIONS: NETWORK 2
+#DESCRIPTION VIP155:SINSATIONS: NETWORK 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60693:VIP156:SINSATIONS: NETWORK 1
+#DESCRIPTION VIP156:SINSATIONS: NETWORK 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60694:VIP157:SINSATIONS: NETWORK 3
+#DESCRIPTION VIP157:SINSATIONS: NETWORK 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60695:VIP158:CZECH STREETS F
+#DESCRIPTION VIP158:CZECH STREETS F
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60696:VIP159:ALBA 6
+#DESCRIPTION VIP159:ALBA 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60697:VIP160:ALBA 5
+#DESCRIPTION VIP160:ALBA 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60698:VIP161:ALBA 4
+#DESCRIPTION VIP161:ALBA 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60699:VIP162:ALBA 3
+#DESCRIPTION VIP162:ALBA 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60700:VIP163:ALBA 2
+#DESCRIPTION VIP163:ALBA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60701:VIP164:ALBA 1
+#DESCRIPTION VIP164:ALBA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60702:VIP165:SEXT6SENSO
+#DESCRIPTION VIP165:SEXT6SENSO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60703:VIP166:VIP:Russian
+#DESCRIPTION VIP166:VIP:Russian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60704:VIP167:VIP:Threesome
+#DESCRIPTION VIP167:VIP:Threesome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60705:VIP168:VIP:Cuckold
+#DESCRIPTION VIP168:VIP:Cuckold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a2.skynets.tv%3a8880/2zyc12m0275/eCTiJPs0mw/60706:VIP170:VIP:Teen
+#DESCRIPTION VIP170:VIP:Teen
+#SERVICE 1:64:BB:0:0:0:0:0:0:0::=== ★★WodPro24_FHD_★★
 #DESCRIPTION === ★★WodPro24_FHD_★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wodpro24.tr4545.in%3a8080/xporn/xxx-adult-video(10).mp4:Xxx-adult-video(10)
 #DESCRIPTION Xxx-adult-video(10)
@@ -1119,7 +1743,7 @@
 #DESCRIPTION Xxx-adult-video(509)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wodpro24.tr4545.in%3a8080/xporn/xxx-adult-video(510).mp4:Xxx-adult-video(510)
 #DESCRIPTION Xxx-adult-video(510)
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★ADULT-HUB_FHD-1080p_★★
+#SERVICE 1:64:BC:0:0:0:0:0:0:0::=== ★★ADULT-HUB_FHD-1080p_★★
 #DESCRIPTION === ★★ADULT-HUB_FHD-1080p_★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.182923.com/20190313/afNTXVFx/index.m3u8:The Dream of the New Red Chamber
 #DESCRIPTION The Dream of the New Red Chamber
@@ -3241,7 +3865,7 @@
 #DESCRIPTION 5950_AdultHub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6277_1080.m3u8:7152_AdultHub
 #DESCRIPTION 7152_AdultHub
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::::::___ovhv20.twincdn.com
+#SERVICE 1:64:BD:0:0:0:0:0:0:0::::::___ovhv20.twincdn.com
 #DESCRIPTION ::::___ovhv20.twincdn.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv20.twincdn.com/videos/prime/00/01/91/56.mp4:69 with creampie final
 #DESCRIPTION 69 with creampie final
@@ -3589,7 +4213,7 @@
 #DESCRIPTION young ass
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv19.twincdn.com/videos/prime/00/01/88/24.mp4:Young hairy Japan cunts
 #DESCRIPTION Young hairy Japan cunts
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::=== ★★HİREMCO_SERVER | ADULT-PREMIUM★★ ==
+#SERVICE 1:64:BE:0:0:0:0:0:0:0::=== ★★HİREMCO_SERVER | ADULT-PREMIUM★★ ==
 #DESCRIPTION === ★★HİREMCO_SERVER | ADULT-PREMIUM★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//ovhv20.twincdn.com/videos/11/11100/11100_720p.mp4:HİREMCO X VOD  1
 #DESCRIPTION HİREMCO X VOD  1
@@ -3825,7 +4449,7 @@
 #DESCRIPTION HİREMCO X VOD  116
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv20.twincdn.com/videos/prime/00/01/99/22.mp4:HİREMCO X VOD  117
 #DESCRIPTION HİREMCO X VOD  117
-#SERVICE 1:64:AF:0:0:0:0:0:0:0::=== ★★RUS_MOVIE | ADULT-SERVER★★ ====
+#SERVICE 1:64:BF:0:0:0:0:0:0:0::=== ★★RUS_MOVIE | ADULT-SERVER★★ ====
 #DESCRIPTION === ★★RUS_MOVIE | ADULT-SERVER★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1071778/alisa_v_strane_porno_chudes.mp4:Alice in Wonderland (1993)
 #DESCRIPTION Alice in Wonderland (1993)
@@ -3885,7 +4509,7 @@
 #DESCRIPTION КаNAL 33
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/top/Cleopatra.mp4:КаNAL 39
 #DESCRIPTION КаNAL 39
-#SERVICE 1:64:B0:0:0:0:0:0:0:0:::::___SERVER_5.9.13.108
+#SERVICE 1:64:C0:0:0:0:0:0:0:0:::::___SERVER_5.9.13.108
 #DESCRIPTION :::___SERVER_5.9.13.108
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.13.108%3a12000/adulti/1000.facial.mp4:1000.facial.mp4
 #DESCRIPTION 1000.facial.mp4
@@ -4039,7 +4663,7 @@
 #DESCRIPTION Vere.Cagne.In.Calore.2010.iTALiAN.XXX.mp4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.13.108%3a12000/adulti/Vince.Il.PD.Trombo.Tutto.Il.Di.2014.iTALiAN.XXX.mkv:Vince.Il.PD.Trombo.Tutto.Il.Di.2014.iTALiAN.XXX..
 #DESCRIPTION Vince.Il.PD.Trombo.Tutto.Il.Di.2014.iTALiAN.XXX..
-#SERVICE 1:64:B1:0:0:0:0:0:0:0::MEGABOX TV-VOD
+#SERVICE 1:64:C1:0:0:0:0:0:0:0::MEGABOX TV-VOD
 #DESCRIPTION MEGABOX TV-VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/39e59697fb545c20e6579a1ef9a3ea0bcdba216fdf/19000/19133/19133_360p.mp4:Chupando a boceta grande
 #DESCRIPTION Chupando a boceta grande
@@ -4067,7 +4691,7 @@
 #DESCRIPTION Putinha sentando forte no pau grande do namorado
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/9c06408da3a8c4aa8eb0f1c76a0c65d305147cda8d/21000/21715/21715_720p.mp4:Sexo quente com uma morena safada
 #DESCRIPTION Sexo quente com uma morena safada
-#SERVICE 1:64:B2:0:0:0:0:0:0:0::=== ★★VIDEO_CLIPS | HARD★★ ====
+#SERVICE 1:64:C2:0:0:0:0:0:0:0::=== ★★VIDEO_CLIPS | HARD★★ ====
 #DESCRIPTION === ★★VIDEO_CLIPS | HARD★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.servitubes.com/videos/6/f/7/6/4/6f764267353d6fa9108aa3518c817cb195db672a.mp4:69 increibles posturas mas actos bisexuales
 #DESCRIPTION 69 increibles posturas mas actos bisexuales
@@ -4957,7 +5581,7 @@
 #DESCRIPTION SELEN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4:SIGNORE SC@ND@LOSE DI PROVINCI@
 #DESCRIPTION SIGNORE SC@ND@LOSE DI PROVINCI@
-#SERVICE 1:64:B3:0:0:0:0:0:0:0::=== ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
+#SERVICE 1:64:C3:0:0:0:0:0:0:0::=== ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
 #DESCRIPTION === ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/OnDemand/standard_subscription1.mp4:subscription1
 #DESCRIPTION subscription1
