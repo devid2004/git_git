@@ -21,16 +21,6 @@
 #DESCRIPTION RTSH2
 #SERVICE 4097:0:0:81:0:0:0:0:0:0:http%3a//95.107.132.131%3a3344/udp/238.20.15.4%3a9009:RTSHKorca
 #DESCRIPTION RTSHKorca
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.210.205.41%3a8080/DOMATV/index.m3u8:Doma
-#DESCRIPTION Doma
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.210.205.41%3a8080/NOVATV/index.m3u8:Nova
-#DESCRIPTION Nova
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.210.205.41%3a8080/PINK/index.m3u8:PinkPlus
-#DESCRIPTION PinkPlus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.210.205.41%3a8080/RTL/index.m3u8:RTL
-#DESCRIPTION RTL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.210.205.41%3a8080/RTS1/index.m3u8:RTS1
-#DESCRIPTION RTS1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8:Film Aksion
 #DESCRIPTION Film Aksion
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8:Flim Comedy
@@ -235,6 +225,8 @@
 #DESCRIPTION RTS3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100automoto
+#DESCRIPTION 100automoto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8:2TV
 #DESCRIPTION 2TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albuk.dyndns.tv%3a1935/albuk/albuk.stream/playlist.m3u8:ALBUK HD
@@ -243,44 +235,30 @@
 #DESCRIPTION Amazing Discoveries TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zeus.gjirafa.com%3a443/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yt1q1x720/index.m3u8:Arta News
 #DESCRIPTION Arta News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100automoto
-#DESCRIPTION 100automoto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza.bihnet.net%3a88/hls/b1-live.m3u8:B HD
+#DESCRIPTION B HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.adunity.com/b1/b1.m3u8:B1
-#DESCRIPTION B1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza.bihnet.net%3a88/hls/b1-live.m3u8:B1
 #DESCRIPTION B1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.adunity.com/b1/b1_640-.m3u8:B1 HD
 #DESCRIPTION B1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.15.177/live/sUPPERchannel2/index.m3u8:Balkan
 #DESCRIPTION Balkan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.15.177/live/sUPPERchannel2/index.m3u8:Balkan Uppera
-#DESCRIPTION Balkan Uppera
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.canalc.be%3a1935/matele/smil%3aSMIL-matele-multi.smil/chunklist.m3u8:BE-MA TELE
-#DESCRIPTION BE-MA TELE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END:Bollywood HD
 #DESCRIPTION Bollywood HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2:Brandnite TV HD
 #DESCRIPTION Brandnite TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8:British Muslim TV
-#DESCRIPTION British Muslim TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.4.14.12%3a9999/btvsvlive/playlist.m3u8:Bucovina TV
 #DESCRIPTION Bucovina TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.hostlagarto.com%3a4445/buenatv/buenatv.myStream/chunks.m3u8:Buena TV
 #DESCRIPTION Buena TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ios.cdn.bg%3a2006/fls/bonair.stream/playlist.m3u8:Bulgaria On Air
 #DESCRIPTION Bulgaria On Air
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza4.catve.com.br%3a1935/live/livestream/playlist.m3u8:Catve TV HD
-#DESCRIPTION Catve TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ios.cdn.bg%3a2006/fls/chmore.stream/playlist.m3u8:Cherno More
-#DESCRIPTION Cherno More
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.city.bg/play/tshls/citytv/3.m3u8:City TV
 #DESCRIPTION City TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//220.158.149.14%3a9999/live/TV00000000000000000018@HHZT;LIVE:CGTN Documentary
 #DESCRIPTION CGTN Documentary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_classicfilms_2000kb_36bay2/index.m3u8:Classicfilms
-#DESCRIPTION Classicfilms
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.154.243.31%3a15001:Crime Investigation
-#DESCRIPTION Crime Investigation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_classicfilms_2000kb_36bay2/index.m3u8:Classic films
+#DESCRIPTION Classic films
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webmobile.xdev.ro%3a81/tv7/playlist.m3u8?time=1463062060161:Cromtel TV
 #DESCRIPTION Cromtel TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreamingperu.com%3a1935/ctctv/ctctv/chunklist.m3u8:CTC TV Cusco
@@ -291,8 +269,8 @@
 #DESCRIPTION DasmaTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge126.rcs-rds.ro/digi24edge/digi24hdhqhls/chunklist_w1906258977.m3u8:Digi 24
 #DESCRIPTION Digi 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/digi24edge/digi24hdhqhls/chunklist_w499716744.m3u8:Digi24 Ştir
-#DESCRIPTION Digi24 Ştir
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/digi24edge/digi24hdhqhls/chunklist_w499716744.m3u8:Digi24 Stiri
+#DESCRIPTION Digi24 Stiri
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.249.95.140/live/livestream:DSTV BG
 #DESCRIPTION DSTV BG
 #SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:Duga TV
@@ -559,8 +537,6 @@
 #DESCRIPTION TV Kopliku
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.33.254/unicast.tvopinion/mpegts:Tv Opinion
 #DESCRIPTION Tv Opinion
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livebeta.publika.md/LIVE/P/6810.m3u8:TV Publika Moldava
-#DESCRIPTION TV Publika Moldava
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//141.136.14.18/kanal1/kanal1.m3u8:TVPlus
 #DESCRIPTION TVPlus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.186.146.34%3a8080:TVPlus Suceava
@@ -585,17 +561,11 @@
 #DESCRIPTION TVR2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.136.209.26%3a1935/liveedge/TVR3.stream/playlist.m3u8:TVR3
 #DESCRIPTION TVR3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8:UNWebTV
-#DESCRIPTION UNWebTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.196.0.126%3a80/utvedge/utvlive/index.m3u8:UTV
-#DESCRIPTION UTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/hls/wau-540.m3u8:WAU HD
 #DESCRIPTION WAU HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/live/hls/wau-540.m3u8:WAU HD
 #DESCRIPTION WAU HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_womexerc_1000kb_36bay2/index.m3u8:womexerc
 #DESCRIPTION womexerc
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//192.240.127.34%3a1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279:WOWOWMOVIES(JPN|ENG)
-#DESCRIPTION WOWOWMOVIES(JPN|ENG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.51.131.28%3a8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8:YU PLANET
 #DESCRIPTION YU PLANET
