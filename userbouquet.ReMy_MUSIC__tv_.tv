@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | MUSIC★★ ==
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:SilenceTV
 #DESCRIPTION SilenceTV
@@ -63,19 +63,21 @@
 #DESCRIPTION A1 Regio TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v.viralshit.in/live/aahomusic.m3u8:AAHO Music!!
 #DESCRIPTION AAHO Music!!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropboxusercontent.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0:Baeble Music
+#DESCRIPTION Baeble Music
 #SERVICE 4097:0:0:271:0:0:0:0:0:0:http%3a//163.172.15.177/live/sUPPERchannel2/index.m3u8:Balkan
+#DESCRIPTION Balkan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.15.177/live/sUPPERchannel2/index.m3u8:Balkan
 #DESCRIPTION Balkan
 #SERVICE 4097:0:0:269:0:0:0:0:0:0:http%3a//163.172.15.177/live/sUPPERchannel2/index.m3u8:UpperaBalkan
 #DESCRIPTION UpperaBalkan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8:Baraza TV Greek Music Hits
 #DESCRIPTION Baraza TV Greek Music Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropboxusercontent.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0:Baeble Music
-#DESCRIPTION Baeble Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8:Bluegrass 4U
 #DESCRIPTION Bluegrass 4U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//boktv.interworks.in%3a1935/live/boktv/playlist.m3u8:BOK TV
 #DESCRIPTION BOK TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
 #DESCRIPTION Box Hits
 #SERVICE 4097:0:1:375:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits (UK)
 #DESCRIPTION Box Hits (UK)
@@ -105,6 +107,8 @@
 #DESCRIPTION Country FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8:CzWORKA
 #DESCRIPTION CzWORKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.187.117.230%3a8080:DasmaTV
+#DESCRIPTION DasmaTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on:DeejayTv
 #DESCRIPTION DeejayTv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8:Deejay TV (IT)
@@ -425,6 +429,10 @@
 #DESCRIPTION TRACE Toca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8:TRACE Tropical
 #DESCRIPTION TRACE Tropical
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.aritv.ch%3a6969/live/ari/tv/1.ts:TV Ari
+#DESCRIPTION TV Ari
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tva.fastbroad.com%3a80/i/tvboin_1@380599/index_2000_av-p.m3u8:TV Boin
+#DESCRIPTION TV Boin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8:UrbanMusic4U
 #DESCRIPTION UrbanMusic4U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8:UTV
@@ -447,7 +455,7 @@
 #DESCRIPTION Zeta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8:3ABN Praise Him Music Channel
 #DESCRIPTION 3ABN Praise Him Music Channel
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:AD:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.232.174.18%3a8000/Stream:Fenerbahçe FM
 #DESCRIPTION Fenerbahçe FM
@@ -561,7 +569,7 @@
 #DESCRIPTION TURKUAZ FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2:Virgin Radio Türkiye
 #DESCRIPTION Virgin Radio Türkiye
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:AE:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
