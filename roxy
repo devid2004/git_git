@@ -2,6 +2,16 @@
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,ReMy_ReMy_ULUSAL
 ReMy_ReMy_ULUSAL
+#EXTINF:-1 group-title="ReMy_ULUSAL",TRT 1 HD
+http://84.22.33.210/trt1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",Kanal D HD
+http://ott.artmott.com/KanalD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",STAR HD
+http://ott.artmott.com/StarTvHd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",FOX TV HD
+http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TV HD
+http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
 http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
@@ -27,7 +37,7 @@ https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Beyaz TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",360 TV
-http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8?__mn_sid=15075510848414370774
+https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8?__mn_sid=15075510848414370774
 #EXTINF:-1 group-title="ReMy_ULUSAL",Bloomberght AUTO
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1579298706&st=OYDJwo58YPCIODOOaoVa5Q&tv=1&ce=1
 #EXTINF:-1 group-title="ReMy_ULUSAL",Bloomberght_720p
@@ -786,6 +796,122 @@ http://stream.doball.com:8080/hls/ch13.m3u8?feed
 http://stream.doball.com:8080/hls/ch14.m3u8?feed
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ReMy_SPORT",Doball 15
 http://stream.doball.com:8080/hls/ch15.m3u8?feed
+#EXTINF:-1 group-title="ReMy_SPORT",BeIN Sports 1
+https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",BeIN Sports 2
+https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sport HD 1
+https://cdn-laos.workpoint.news/hd-tsport1_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sport HD 2
+https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sport HD 3
+https://cdn-laos.workpoint.news/hd-tsport3_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",NBA TV
+https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Tennis HD
+https://cdn-laos.workpoint.news/hd-tennis_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Golf Channel Thailand
+https://cdn-laos.workpoint.news/hd-golf_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Fox Sports 1
+https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Fox Sports 2
+https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Fox Sports 3
+https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sport 2
+https://cdn-laos.workpoint.news/sd-tsport2_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sport 5
+https://cdn-laos.workpoint.news/sd-tsport5_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sport 6
+https://cdn-laos.workpoint.news/sd-tsport6_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sport 7
+https://cdn-laos.workpoint.news/sd-tsport7_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Eurosport
+https://cdn-laos.workpoint.news/uk-eurosport_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Eurosport 2
+https://cdn-laos.workpoint.news/uk-eurosport2_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Premier Football HD 1
+https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Premier Football HD 2
+https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Premier Football HD 3
+https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Premier Football HD 4
+https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Premier Football HD 5
+https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",NFL TV
+https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SMMTV
+https://cdn-laos.workpoint.news/sd-smmtv_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",T Sports
+https://cdn-laos.workpoint.news/sd-tsports_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",MUTV
+https://cdn-laos.workpoint.news/uk-mutv_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",LFC TV
+https://cdn-laos.workpoint.news/uk-lfctv_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Skynet Sports 1
+https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Skynet Sports 2
+https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Skynet Sports 3
+https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Skynet Sports 4
+https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Skynet Sports 5
+https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Skynet Sports 6
+https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Skynet Sports HD
+https://cdn-laos.workpoint.news/sd-skynetsportshd_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",BT Sport 1 HD
+https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",BT Sport 2 HD
+https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sky Sports Premier League
+https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sky Sports News
+https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sky Sports Mix
+https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sky Sports Golf
+https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sky Sports Football
+https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sky Sports F1
+https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sky Sports Cricket
+https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sky Sports Arena
+https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Sky Sports Action
+https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SuperSport 1 HD
+https://cdn-laos.workpoint.news/al-supersports1_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SuperSport 2 HD
+https://cdn-laos.workpoint.news/al-supersports2_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SuperSport 3 HD
+https://cdn-laos.workpoint.news/al-supersports3_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SuperSport 4 HD
+https://cdn-laos.workpoint.news/al-supersports4_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SuperSport 5 HD
+https://cdn-laos.workpoint.news/al-supersports5_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",ArenaSport 1
+https://cdn-laos.workpoint.news/rs-arena1_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",ArenaSport 2
+https://cdn-laos.workpoint.news/rs-arena2_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",ArenaSport 3
+https://cdn-laos.workpoint.news/rs-arena3_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",ArenaSport 4
+https://cdn-laos.workpoint.news/rs-arena4_480/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",ArenaSport 5
+https://live.mawintv2.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SPORT TV2
+https://live.mawintv2.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SPORT TV3
+https://live.mawintv2.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",PPTV
+https://cdn-laos.workpoint.news/hd-pptv_720/index.m3u8
 #EXTINF:-1 group-title="FASHION_FLIX","FASHION_FLIX"
 "FASHION_FLIX"
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",FASHION TV PARIS
