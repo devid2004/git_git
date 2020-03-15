@@ -214,10 +214,12 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 http://ott-cdn.ucom.am/s23/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Jazeera Arabia
 http://ott-cdn.ucom.am/s69/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Arabia
-http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC World
+http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN HD
 http://ott-cdn.ucom.am/s27/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Arabia
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN Endonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN Philippines
@@ -234,8 +236,6 @@ https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC News
 http://51.52.156.22:8888/http/004
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",BBC World
-http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Bloomberg UK
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",BLOOMBERG TV (1+)
@@ -330,6 +330,177 @@ http://185.180.12.34:8080/SK10/video.m3u8?token=test
 http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport5.rs.png" group-title="ReMy_SPORT",Arena Sports 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEINSPORTS 1 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/13
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEINSPORTS 2 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/14
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEINSPORTS 3 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/15
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEINSPORTS 4 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/16
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEINSPORTS 5 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/17
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEINSPORTS 6 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/18
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEINSPORTS 7 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/19
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEINSPORTS 8 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/20
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEINSPORTS 9 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/21
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEINSPORTS 10 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/22
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEINSPORTS 11 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/23
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEINSPORTS 12 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/24
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",==========|beIN sERV1 SD|==========
+http://iptvhit.live/hadrikou/123456/123456/25
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 1 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/26
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 2 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/27
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 3 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/28
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 4 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/29
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 5 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/30
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 6 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/31
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 7 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/32
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEINSPORTS 8 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/33
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 9 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/34
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 10 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/35
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",==========|beIN sERV1 LWQ|==========
+http://iptvhit.live/hadrikou/123456/123456/36
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 1 LWQ☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/37
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 2 LWQ☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/38
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 3 LWQ☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/39
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 4 LWQ☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/40
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 5 LWQ☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/41
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV1| BEIN SPORTS 6 LWQ☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/42
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",==========|beIN sERV2 HD|==========
+http://iptvhit.live/hadrikou/123456/123456/43
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEINSPORTS 1 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/44
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEINSPORTS 2 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/45
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEINSPORTS 3 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/46
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEINSPORTS 4 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/47
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEINSPORTS 5 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/48
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEINSPORTS 6 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/49
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEINSPORTS 7 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/50
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEINSPORTS 8 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/51
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEINSPORTS 9 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/52
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEINSPORTS 10 HD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/53
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",==========|beIN sERV2 SD|==========
+http://iptvhit.live/hadrikou/123456/123456/54
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 1 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/55
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 2 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/56
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 3 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/57
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 4 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/58
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 5 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/59
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 6 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/60
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 7 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/61
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEINSPORTS 8 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/62
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 9 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/63
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 10 SD☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/64
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",==========|beIN sERV2 LWQ|==========
+http://iptvhit.live/hadrikou/123456/123456/65
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 1 LWQ☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/66
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 2 LWQ☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/67
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 3 LWQ☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/68
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 4 LWQ☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/69
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 5 LWQ☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/70
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",|sERV2| BEIN SPORTS 6 LWQ☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/71
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",beIN Sports 1 HD FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/238
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",beIN Sports 2 HD FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/239
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",beIN Sports 3 HD FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/240
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Canal+ Sport HD FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/241
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",beIN Sports 1 SD FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/242
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",beIN Sports 2 SD FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/243
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",beIN Sports 3 SD FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/244
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Equipe FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/245
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Eurosport 1 HD FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/246
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Eurosport 2 HD FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/247
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",RMC Sport 1 HD FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/248
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",RMC Sport 2 HD FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/249
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",RMC Sport 3 HD FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/250
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",RMC Sport 4 HD FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/251
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Infosport+ FR☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/252
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Sport 1 HD UK☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/258
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Sport 2 HD UK☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/259
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Sport 3 HD UK☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/260
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Sport 4 HD UK☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/261
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Sky Sport 5 HD UK☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/262
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",SKY Sport news UK☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/263
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BT Sport 1 HD UK☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/264
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BT Sport 2 HD UK☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/265
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BT Sport 3 HD UK☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/266
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Eurosport 1 HD UK☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/267
+#EXTINF:-1 group-title="ReMy_SPORT" tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Eurosport 2 HD UK☆|ChAwEF IPTV
+http://iptvhit.live/hadrikou/123456/123456/268
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png" group-title="ReMy_SPORT",Skynet Sport HD
 http://119.59.116.136:8889/threstr/skynethd/chunks.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT" tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Cricket",Ads sport cricket
