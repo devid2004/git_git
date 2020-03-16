@@ -1,6 +1,8 @@
 #NAME == ★★ReMy | DOCUMENTARY★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ga.video.cdn.pbs.org/videos/nature/bf2826a1-a3d3-4a2c-85c8-cdbefaa5640e/182800/hd-mezzanine-16x9/d024d04a_naat_3211_1080p-16x9-hls-2500k.m3u8:NATURE HD
 #DESCRIPTION NATURE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8:LOVENATURE 4K
+#DESCRIPTION LOVENATURE 4K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.210.249.80/DOCUMENTAIRES%20-%20DOCUMENTARY2/B/(A)sexual.mp4:(A)sexual.mp4
 #DESCRIPTION (A)sexual.mp4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.210.249.80/DOCUMENTAIRES%20-%20DOCUMENTARY2/B/0.To.60mph.Britains.Fastest.Kids.mp4:0.To.60mph.Britains.Fastest.Kids.mp4
