@@ -573,6 +573,12 @@
 #DESCRIPTION Sky Sports Arena
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream13.com/hls/skysportsarena.m3u8:Sky Sports Arena
 #DESCRIPTION Sky Sports Arena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream13.com/hls/tivibuspor1_tr.m3u8:Tivibu Spor 1 Turkey HD
+#DESCRIPTION Tivibu Spor 1 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream13.com/hls/tivibuspor2_tr.m3u8:Tivibu Spor 2 Turkey HD
+#DESCRIPTION Tivibu Spor 2 Turkey HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream13.com/hls/tivibuspor3_tr.m3u8:Tivibu Spor 3 Turkey HD
+#DESCRIPTION Tivibu Spor 3 Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream13.com/hls/ssport_tr_si.m3u8:S Sport Turkey HD
 #DESCRIPTION S Sport Turkey HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream13.com/hls/beinsports1max_tr_si.m3u8:Bein Sports 1 MAX Turkey HD
@@ -609,9 +615,3 @@
 #DESCRIPTION Tivibu Spor 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream13.com/hls/tivibuspor3_tr_si.m3u8:Tivibu Spor 3 HD
 #DESCRIPTION Tivibu Spor 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream13.com/hls/tivibuspor1_tr.m3u8:Tivibu Spor 1 Turkey HD
-#DESCRIPTION Tivibu Spor 1 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream13.com/hls/tivibuspor2_tr.m3u8:Tivibu Spor 2 Turkey HD
-#DESCRIPTION Tivibu Spor 2 Turkey HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cstream13.com/hls/tivibuspor3_tr.m3u8:Tivibu Spor 3 Turkey HD
-#DESCRIPTION Tivibu Spor 3 Turkey HD
