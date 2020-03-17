@@ -5609,14 +5609,6 @@ http://151.80.133.218:1078
 http://mp3channels.webradio.antenne.de:80/antenne
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Balkansko Radio
 http://balkanskoradio.com:8001/live.mp3
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR1 HorizontSofia
-http://stream.bnr.bg:8102/horizont_low.mp3
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR2 Hristo BotevSofia
-http://stream.bnr.bg:8103/botev_low.mp3
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR Radio BlagoevgradBlagoevgrad
-http://195.24.37.210:80/stream
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR Radio BurgasBurgas
-http://212.95.175.63:8002/ 
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR Radio PlovdivPlovdiv
 http://62.204.136.202:28/live128 
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR Radio ShumenShumen
@@ -5639,10 +5631,6 @@ http://46.10.150.123:80/btv-radio.mp3
 http://185.20.88.1:8010/ 
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Classic FMSofia
 http://46.10.150.123:80/classic-fm.mp3 
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Darik RadioSofia
-http://darikradio.by.host.bg:8000/S2-128 
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Darik NostalgieSofia
-http://darikradio.by.host.bg:8000/Nostalgie 
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",FM PlusSofia
 http://193.108.24.21:8000/fmplus 
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz FMSofia

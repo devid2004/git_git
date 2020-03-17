@@ -589,14 +589,6 @@
 #DESCRIPTION Hot FM 105
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hotfmuk.radioca.st/:Hot FM UK
 #DESCRIPTION Hot FM UK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8102/horizont_low.mp3:BNR1 HorizontSofia
-#DESCRIPTION BNR1 HorizontSofia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8103/botev_low.mp3:BNR2 Hristo BotevSofia
-#DESCRIPTION BNR2 Hristo BotevSofia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.24.37.210%3a80/stream:BNR Radio BlagoevgradBlagoevgrad
-#DESCRIPTION BNR Radio BlagoevgradBlagoevgrad
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.95.175.63%3a8002/:BNR Radio BurgasBurgas
-#DESCRIPTION BNR Radio BurgasBurgas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.204.136.202%3a28/live128:BNR Radio PlovdivPlovdiv
 #DESCRIPTION BNR Radio PlovdivPlovdiv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.blb.cdn.bg%3a2032/fls/Shumen.stream/playlist.m3u8:BNR Radio ShumenShumen
@@ -605,8 +597,6 @@
 #DESCRIPTION BNR Radio Stara ZagoraStara Zagora
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//broadcast.masters.bg%3a8000/live:BNR Radio VarnaVarna
 #DESCRIPTION BNR Radio VarnaVarna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8105/sofia_low.mp3:BNR Radio SofiaSofia
-#DESCRIPTION BNR Radio SofiaSofia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.106.110.85%3a8003/:BNR Radio VidinVidin
 #DESCRIPTION BNR Radio VidinVidin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alpharadio.bg%3a8000/stream:Alpha RadioVarna
@@ -619,10 +609,6 @@
 #DESCRIPTION Bumerang FMGabrovo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.10.150.123%3a80/classic-fm.mp3:Classic FMSofia
 #DESCRIPTION Classic FMSofia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//darikradio.by.host.bg%3a8000/S2-128:Darik RadioSofia
-#DESCRIPTION Darik RadioSofia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//darikradio.by.host.bg%3a8000/Nostalgie:Darik NostalgieSofia
-#DESCRIPTION Darik NostalgieSofia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.108.24.21%3a8000/fmplus:FM PlusSofia
 #DESCRIPTION FM PlusSofia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.10.150.123%3a80/jazz-fm.mp3:Jazz FMSofia
