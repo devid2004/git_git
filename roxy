@@ -814,7 +814,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Real Betis TV
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+https://cdnlive#EXTINF:-1 group-title="ReMy_SPORT"ooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Real Madrid TV (English)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Real Madrid TV (English)
@@ -1115,16 +1115,16 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="IDFashion.ua" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION_FLIX",ID Fashion
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="FASHION_FLIX",Runway.us
+#EXTINF:-1 tvg-logo="http://www#EXTINF:-1 group-title="ReMy_SPORT"ockya.com/news/wp-content/uploads/runway-tv.png" group-title="FASHION_FLIX",Runway.us
 https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",ReMy_ITALY
 ReMy_ITALY
 #EXTINF:-1 group-title="ReMy_ITALY",Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",Canale 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+http://wms#EXTINF:-1 group-title="ReMy_SPORT"ared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",Carina TV
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+http://wms#EXTINF:-1 group-title="ReMy_SPORT"ared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",Cremona 1
 http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",eTV Marche
@@ -1138,23 +1138,23 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",SuperTV
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+http://wms#EXTINF:-1 group-title="ReMy_SPORT"ared.streamshow.it:1935/supertv/supertv/live.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",TeleArena
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",teleMonteneve
-http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+http://wms#EXTINF:-1 group-title="ReMy_SPORT"ared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",telePAVIA
-http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+http://wms#EXTINF:-1 group-title="ReMy_SPORT"ared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",Trentino TV
 http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",TSN
-http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+http://wms#EXTINF:-1 group-title="ReMy_SPORT"ared.streamshow.it:1935/tsn2/tsn2/live.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",TVRS
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+http://wms#EXTINF:-1 group-title="ReMy_SPORT"ared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",Video Brescia
-http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+http://wms#EXTINF:-1 group-title="ReMy_SPORT"ared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
 #EXTINF:-1 group-title="ReMy_ITALY",Video Calabria
-http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+http://wms#EXTINF:-1 group-title="ReMy_SPORT"ared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",ReMy_Espana
 ReMy_Espana
 #EXTINF:-1 group-title="ReMy_Espana",Alcarria TV
@@ -1204,7 +1204,7 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",TV Mediterraneo
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",25 TV 
-http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
+http://cdnlive#EXTINF:-1 group-title="ReMy_SPORT"ooowit.net/25televisiolive/25tv.smil/.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",7 RM 
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",8 Cádiz 
@@ -1220,7 +1220,7 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",Be Mad HD 
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",Betis TV HD 
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+https://cdnlive#EXTINF:-1 group-title="ReMy_SPORT"ooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",Boing 
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",Boing HD 
@@ -1296,7 +1296,7 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",etv 
 http://live10.cdnmedia.tv/etvlive/live.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",EuropaPress 
-http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
+http://cdnlive#EXTINF:-1 group-title="ReMy_SPORT"ooowit.net/europapresslive/ep.smil/master.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",FDF 
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",FDF HD 
@@ -1383,7 +1383,7 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",Televisión Mogán 
 https://5b38ce71f1f00.streamlock.net/8162/8162/chunklist_w1059529458.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",TPA7 
-https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
+https://cdnlive#EXTINF:-1 group-title="ReMy_SPORT"ooowit.net/rtpalive/directo.smil/.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",TRECE 
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",TV Costa Brava 
@@ -3391,7 +3391,7 @@ http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 group-title="ReMy_LATINO",BE MAD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 group-title="ReMy_LATINO",BETIS TV
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+https://cdnlive#EXTINF:-1 group-title="ReMy_SPORT"ooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_LATINO",BHTV PERU
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 #EXTINF:-1 group-title="ReMy_LATINO",BOING
@@ -4548,7 +4548,7 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/ShopHQ_2019_Logo.png/200px-ShopHQ_2019_Logo.png" group-title="ReMy_US-UK-IL",Shop HQ (Backup)
 https://v-pi.mybtv.net/event/4.2/640x480?start_time=2019-12-13T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://akamaicdn.shoplc.com/landing/product-recalls/ShopLC--DeliveringJoy.png" group-title="ReMy_US-UK-IL",Shop LC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://akamaicdn#EXTINF:-1 group-title="ReMy_SPORT"oplc.com/landing/product-recalls/ShopLC--DeliveringJoy.png" group-title="ReMy_US-UK-IL",Shop LC
 https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://image.roku.com/developer_channels/prod/e1bd830cacc89006befec26d48c00381eb67acc7d374610516a0ef78356a466d.png" group-title="ReMy_US-UK-IL",Shop LC
 https://v-pi.mybtv.net/event/4.4/640x480?start_time=2019-12-13T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
@@ -5109,7 +5109,7 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ch au tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Chanson TV
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+http://hls#EXTINF:-1 group-title="ReMy_SPORT"ansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",City TV
 https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",CMC TV
@@ -5300,7 +5300,7 @@ http://185.46.161.3/hls/sd.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ROMAN TV Tr
 http://ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio 51
-http://wms.shared.streamshow.it/canale51/canale51/chunklist_w1897160883.m3u8
+http://wms#EXTINF:-1 group-title="ReMy_SPORT"ared.streamshow.it/canale51/canale51/chunklist_w1897160883.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio 105 TV
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio 105 Network TV (IT)
@@ -5609,6 +5609,130 @@ http://151.80.133.218:1078
 http://mp3channels.webradio.antenne.de:80/antenne
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Balkansko Radio
 http://balkanskoradio.com:8001/live.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR1 HorizontSofia
+http://stream.bnr.bg:8102/horizont_low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR2 Hristo BotevSofia
+http://stream.bnr.bg:8103/botev_low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR Radio BlagoevgradBlagoevgrad
+http://195.24.37.210:80/stream
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR Radio BurgasBurgas
+http://212.95.175.63:8002/ 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR Radio PlovdivPlovdiv
+http://62.204.136.202:28/live128 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR Radio ShumenShumen
+http://lb.blb.cdn.bg:2032/fls/Shumen.stream/playlist.m3u8 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR Radio Stara ZagoraStara Zagora
+http://82.103.99.99:8000/radiosz-low 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR Radio VarnaVarna
+http://broadcast.masters.bg:8000/live 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR Radio SofiaSofia
+http://stream.bnr.bg:8105/sofia_low.mp3 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BNR Radio VidinVidin
+http://89.106.110.85:8003/ 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Alpha RadioVarna
+http://alpharadio.bg:8000/stream  
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BG RadioSofia
+http://stream.radioreklama.bg:80/bgradio128 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BTV RadioSofia
+http://46.10.150.123:80/btv-radio.mp3 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Bumerang FMGabrovo
+http://185.20.88.1:8010/ 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Classic FMSofia
+http://46.10.150.123:80/classic-fm.mp3 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Darik RadioSofia
+http://darikradio.by.host.bg:8000/S2-128 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Darik NostalgieSofia
+http://darikradio.by.host.bg:8000/Nostalgie 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",FM PlusSofia
+http://193.108.24.21:8000/fmplus 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz FMSofia
+http://46.10.150.123:80/jazz-fm.mp3 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz FM LoungeSofia
+http://46.10.150.123:80/jazz-fm-lounge.mp3 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Katra FMPlovdiv
+http://www.katrafm.net:8000/live 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Melody RadioSofia
+http://46.10.150.123:80/melody.mp3 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",NRJSofia
+http://stream.radioreklama.bg:80/nrj128 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Power FMBourgas
+http://a1.virtualradio.eu:8000/powerfm.mp3 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio 1Sofia
+http://stream.radioreklama.bg:80/radio1128 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio 1 RockSofia
+http://stream.radioreklama.bg:80/radio1rock64 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio 999Yambol
+http://62.204.158.5:8081/live 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio AntenaSofia
+http://188.126.1.25:8000/antena 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio AureaSofia
+http://93.123.123.7:8000/ 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio BellaPetrich
+http://194.146.235.35:9999/ 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio BerkkMontana
+http://178.254.209.20:800/radioberkk.mp3 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio CitySofia
+http://stream.radioreklama.bg:80/city64 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Focus SofiaSofia
+http://online.focus-radio.net:8100/sofia 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Focus KustendilKustendil
+http://online.focus-radio.net:8100/kn 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Focus PirinPirin
+http://online.focus-radio.net:8100/pirin 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Focus PazardjikPazardjik
+http://online.focus-radio.net:8100/pazardjik 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Focus SmolianSmolian
+http://online.focus-radio.net:8100/smolian 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Focus BourgasBourgas
+http://online.focus-radio.net:8100/bs 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Focus VarnaVarna
+http://online.focus-radio.net:8100/varna 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Focus ShumenShumen
+http://online.focus-radio.net:8100/shumen 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Focus Veliko TurnovoVeliko Turnovo
+http://online.focus-radio.net:8100/vt 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Focus VidinVidin
+http://online.focus-radio.net:8100/vidin 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Focus SlivenSliven
+http://online.focus-radio.net:8100/sliven 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio FolkBurgas
+http://83.97.65.98:8000/ 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio FreshSofia
+http://193.108.24.21:8000/fresh 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio K2Sofia
+http://stream.radiok2.bg:8000/rk2 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio N-JoySofia
+http://46.10.150.123:80/njoy.mp3 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio MIXXBourgas
+http://83.97.65.98:9000 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio NovaSofia
+http://stream.radioreklama.bg:80/nova128 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio SevlievoSevlievo
+http://93.155.136.27:8000/ 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Ultra PetrichPetrich
+http://88.80.96.25:8000/ 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Ultra PernikPernik
+http://88.80.96.25:8020/ 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Ultra BlagoevgradBlagoevgrad
+http://88.80.96.25:3060/ 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Vega+Blagoevgrad
+http://88.80.96.25:3050/ 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Vega+Petrich
+http://88.80.96.25:8040/ 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio VeronikaSofia
+http://stream.radioreklama.bg:80/veronika64 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio VeselinaSofia
+http://31.13.223.148:8000/veselina.mp3 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio ZoranaSofia
+http://streaming.gesbg.com/radio128_zorana.mp3 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Z-RockSofia
+http://46.10.150.123:80/z-rock.mp3 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Shlager RadioRuse
+http://195.34.116.194:8888/shlager.mp3 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Star FMSofia
+http://pulsar.atlantis.bg:8000/starfm 
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traffic Radio StationRousse
+http://networx.trafficradio.org:8002/
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Classical WETA 90.9 FM - Washington D.C.
 http://38.100.128.106:8000/fmlive
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Djam Radio
@@ -5953,7 +6077,7 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?
 #EXTINF:-1 tvg-logo="http://smni.com/static/media/logo.0727af64.png" group-title="Pilipinas",SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-#EXTINF:-1 tvg-logo="https://www.shoptv.com.ph/skin/frontend/hsn/shoptv/images/stv2019.png" group-title="Pilipinas",Shop TV
+#EXTINF:-1 tvg-logo="https://www#EXTINF:-1 group-title="ReMy_SPORT"optv.com.ph/skin/frontend/hsn/shoptv/images/stv2019.png" group-title="Pilipinas",Shop TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/TelenovelaChannel.ph.png" group-title="Pilipinas",Telenovela Channel
 http://164.40.161.46:8003/play/s6
