@@ -1,5 +1,5 @@
 #NAME == ★★ReMy | MUSIC★★ ==
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:AE:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:SilenceTV
 #DESCRIPTION SilenceTV
@@ -455,7 +455,7 @@
 #DESCRIPTION Zeta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8:3ABN Praise Him Music Channel
 #DESCRIPTION 3ABN Praise Him Music Channel
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:AF:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.232.174.18%3a8000/Stream:Fenerbahçe FM
 #DESCRIPTION Fenerbahçe FM
@@ -569,12 +569,150 @@
 #DESCRIPTION TURKUAZ FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2:Virgin Radio Türkiye
 #DESCRIPTION Virgin Radio Türkiye
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:B0:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radio.co/sd1bcd1376/listen:06am Ibiza Underground
 #DESCRIPTION 06am Ibiza Underground
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//play.global.audio/avtoradio.opus:avtoradio.opus bulgaria
+#DESCRIPTION avtoradio.opus bulgaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.liveonline.radio/avto-radio:avto-radio greek
+#DESCRIPTION avto-radio greek
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//eilo.org%3a8000/ambient:Ambient & Chill Radio
+#DESCRIPTION Ambient & Chill Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//play.zwebsolutions.eu%3a8443/millenium:Radio Millenium
+#DESCRIPTION Radio Millenium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.76.184.254%3a8000/hfm-public:HOT FM 93.9 Bulgaria
+#DESCRIPTION HOT FM 93.9 Bulgaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//172.93.237.106%3a8000/;:Hot FM 105
+#DESCRIPTION Hot FM 105
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hotfmuk.radioca.st/:Hot FM UK
+#DESCRIPTION Hot FM UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8102/horizont_low.mp3:BNR1 HorizontSofia
+#DESCRIPTION BNR1 HorizontSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8103/botev_low.mp3:BNR2 Hristo BotevSofia
+#DESCRIPTION BNR2 Hristo BotevSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.24.37.210%3a80/stream:BNR Radio BlagoevgradBlagoevgrad
+#DESCRIPTION BNR Radio BlagoevgradBlagoevgrad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.95.175.63%3a8002/:BNR Radio BurgasBurgas
+#DESCRIPTION BNR Radio BurgasBurgas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.204.136.202%3a28/live128:BNR Radio PlovdivPlovdiv
+#DESCRIPTION BNR Radio PlovdivPlovdiv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.blb.cdn.bg%3a2032/fls/Shumen.stream/playlist.m3u8:BNR Radio ShumenShumen
+#DESCRIPTION BNR Radio ShumenShumen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.103.99.99%3a8000/radiosz-low:BNR Radio Stara ZagoraStara Zagora
+#DESCRIPTION BNR Radio Stara ZagoraStara Zagora
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//broadcast.masters.bg%3a8000/live:BNR Radio VarnaVarna
+#DESCRIPTION BNR Radio VarnaVarna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.bnr.bg%3a8105/sofia_low.mp3:BNR Radio SofiaSofia
+#DESCRIPTION BNR Radio SofiaSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.106.110.85%3a8003/:BNR Radio VidinVidin
+#DESCRIPTION BNR Radio VidinVidin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alpharadio.bg%3a8000/stream:Alpha RadioVarna
+#DESCRIPTION Alpha RadioVarna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radioreklama.bg%3a80/bgradio128:BG RadioSofia
+#DESCRIPTION BG RadioSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.10.150.123%3a80/btv-radio.mp3:BTV RadioSofia
+#DESCRIPTION BTV RadioSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.20.88.1%3a8010/:Bumerang FMGabrovo
+#DESCRIPTION Bumerang FMGabrovo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.10.150.123%3a80/classic-fm.mp3:Classic FMSofia
+#DESCRIPTION Classic FMSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//darikradio.by.host.bg%3a8000/S2-128:Darik RadioSofia
+#DESCRIPTION Darik RadioSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//darikradio.by.host.bg%3a8000/Nostalgie:Darik NostalgieSofia
+#DESCRIPTION Darik NostalgieSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.108.24.21%3a8000/fmplus:FM PlusSofia
+#DESCRIPTION FM PlusSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.10.150.123%3a80/jazz-fm.mp3:Jazz FMSofia
+#DESCRIPTION Jazz FMSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.10.150.123%3a80/jazz-fm-lounge.mp3:Jazz FM LoungeSofia
+#DESCRIPTION Jazz FM LoungeSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.katrafm.net%3a8000/live:Katra FMPlovdiv
+#DESCRIPTION Katra FMPlovdiv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.10.150.123%3a80/melody.mp3:Melody RadioSofia
+#DESCRIPTION Melody RadioSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radioreklama.bg%3a80/nrj128:NRJSofia
+#DESCRIPTION NRJSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a1.virtualradio.eu%3a8000/powerfm.mp3:Power FMBourgas
+#DESCRIPTION Power FMBourgas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radioreklama.bg%3a80/radio1128:Radio 1Sofia
+#DESCRIPTION Radio 1Sofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radioreklama.bg%3a80/radio1rock64:Radio 1 RockSofia
+#DESCRIPTION Radio 1 RockSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.204.158.5%3a8081/live:Radio 999Yambol
+#DESCRIPTION Radio 999Yambol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.126.1.25%3a8000/antena:Radio AntenaSofia
+#DESCRIPTION Radio AntenaSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.123.123.7%3a8000/:Radio AureaSofia
+#DESCRIPTION Radio AureaSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.146.235.35%3a9999/:Radio BellaPetrich
+#DESCRIPTION Radio BellaPetrich
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.254.209.20%3a800/radioberkk.mp3:Radio BerkkMontana
+#DESCRIPTION Radio BerkkMontana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radioreklama.bg%3a80/city64:Radio CitySofia
+#DESCRIPTION Radio CitySofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.focus-radio.net%3a8100/sofia:Radio Focus SofiaSofia
+#DESCRIPTION Radio Focus SofiaSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.focus-radio.net%3a8100/kn:Radio Focus KustendilKustendil
+#DESCRIPTION Radio Focus KustendilKustendil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.focus-radio.net%3a8100/pirin:Radio Focus PirinPirin
+#DESCRIPTION Radio Focus PirinPirin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.focus-radio.net%3a8100/pazardjik:Radio Focus PazardjikPazardjik
+#DESCRIPTION Radio Focus PazardjikPazardjik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.focus-radio.net%3a8100/smolian:Radio Focus SmolianSmolian
+#DESCRIPTION Radio Focus SmolianSmolian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.focus-radio.net%3a8100/bs:Radio Focus BourgasBourgas
+#DESCRIPTION Radio Focus BourgasBourgas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.focus-radio.net%3a8100/varna:Radio Focus VarnaVarna
+#DESCRIPTION Radio Focus VarnaVarna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.focus-radio.net%3a8100/shumen:Radio Focus ShumenShumen
+#DESCRIPTION Radio Focus ShumenShumen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.focus-radio.net%3a8100/vt:Radio Focus Veliko TurnovoVeliko Turnovo
+#DESCRIPTION Radio Focus Veliko TurnovoVeliko Turnovo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.focus-radio.net%3a8100/vidin:Radio Focus VidinVidin
+#DESCRIPTION Radio Focus VidinVidin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.focus-radio.net%3a8100/sliven:Radio Focus SlivenSliven
+#DESCRIPTION Radio Focus SlivenSliven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.97.65.98%3a8000/:Radio FolkBurgas
+#DESCRIPTION Radio FolkBurgas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.108.24.21%3a8000/fresh:Radio FreshSofia
+#DESCRIPTION Radio FreshSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radiok2.bg%3a8000/rk2:Radio K2Sofia
+#DESCRIPTION Radio K2Sofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.10.150.123%3a80/njoy.mp3:Radio N-JoySofia
+#DESCRIPTION Radio N-JoySofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.97.65.98%3a9000:Radio MIXXBourgas
+#DESCRIPTION Radio MIXXBourgas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radioreklama.bg%3a80/nova128:Radio NovaSofia
+#DESCRIPTION Radio NovaSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.155.136.27%3a8000/:Radio SevlievoSevlievo
+#DESCRIPTION Radio SevlievoSevlievo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.80.96.25%3a8000/:Radio Ultra PetrichPetrich
+#DESCRIPTION Radio Ultra PetrichPetrich
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.80.96.25%3a8020/:Radio Ultra PernikPernik
+#DESCRIPTION Radio Ultra PernikPernik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.80.96.25%3a3060/:Radio Ultra BlagoevgradBlagoevgrad
+#DESCRIPTION Radio Ultra BlagoevgradBlagoevgrad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.80.96.25%3a3050/:Radio Vega+Blagoevgrad
+#DESCRIPTION Radio Vega+Blagoevgrad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.80.96.25%3a8040/:Radio Vega+Petrich
+#DESCRIPTION Radio Vega+Petrich
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.radioreklama.bg%3a80/veronika64:Radio VeronikaSofia
+#DESCRIPTION Radio VeronikaSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.13.223.148%3a8000/veselina.mp3:Radio VeselinaSofia
+#DESCRIPTION Radio VeselinaSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.gesbg.com/radio128_zorana.mp3:Radio ZoranaSofia
+#DESCRIPTION Radio ZoranaSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.10.150.123%3a80/z-rock.mp3:Radio Z-RockSofia
+#DESCRIPTION Radio Z-RockSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.34.116.194%3a8888/shlager.mp3:Shlager RadioRuse
+#DESCRIPTION Shlager RadioRuse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pulsar.atlantis.bg%3a8000/starfm:Star FMSofia
+#DESCRIPTION Star FMSofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//networx.trafficradio.org%3a8002/:Traffic Radio StationRousse
+#DESCRIPTION Traffic Radio StationRousse
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm112.1.fm/chilloutlounge_mobile_mp3:1.FM - Chillout Lounge
 #DESCRIPTION 1.FM - Chillout Lounge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.laut.fm/100090er:1000 90er
@@ -607,9 +745,9 @@
 #DESCRIPTION Djam Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
