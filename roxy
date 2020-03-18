@@ -174,6 +174,10 @@ http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_WORLD_NEWS
 ReMy_WORLD_NEWS
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Jazeera Mubasher FHD
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Al Jazeera Mubasher HD
+https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Bloomberght
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1579298706&st=OYDJwo58YPCIODOOaoVa5Q&tv=1&ce=1
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Bloomberght
