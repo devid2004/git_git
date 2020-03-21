@@ -5,6 +5,12 @@
 #DESCRIPTION BLUTV Aksiyon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8:BLUTV Komedi
 #DESCRIPTION BLUTV Komedi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.antenaplay.ro/live/smil%3aComedyPlay.smil/playlist.m3u8:Antena Comedy
+#DESCRIPTION Antena Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8:IBC Comedy
+#DESCRIPTION IBC Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.creacast.com/mycomedy/smil%3amycomedy.smil/chunklist_w1113167704_b1928000.m3u8:MYComedy
+#DESCRIPTION MYComedy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.goodgame.ru%3a8080/hls/172148.m3u8:KVN HD
 #DESCRIPTION KVN HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.66/h/h141/01.m3u8:AXN
