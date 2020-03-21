@@ -5568,6 +5568,769 @@ http://cdn.nrjaudio.fm/adwz1/fr/31489/mp3_128.mp3?origine=itunes
 http://91.121.59.45:8361/stream
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Z104 Country KSOP-FM
 http://ice7.securenetsystems.net/KSOPFM
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",BeatlesDay
+http://listen.radionomy.com/beatlesday.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",JamendoLounge
+http://streaming.radionomy.com/JamendoLounge?lang=tr
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",bruaysis fm 99.2
+http://broadcast.infomaniak.net/radiobruaysis-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",bruaysis fm 99.2 AAC+ 64
+http://broadcast.infomaniak.net/radiobruaysis-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",bruaysis fm 99.2 AAC+ 32
+http://broadcast.infomaniak.net/radiobruaysis-32.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",CinéTaRadio
+http://listen.radionomy.com/cinetaradio.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Dance Wave Retro!
+http://retro.dancewave.online/retrodance.ogg
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Dance Wave Retro!
+http://retro.dancewave.online/retrodance.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Dance Wave!
+http://dancewave.online/dance.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Dance Wave!
+http://dancewave.online/dance.ogg
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Dance Wave!
+http://dancewave.online/dance.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Djing Underground
+http://cdn.djing.com/tv/u-05.m3u8
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",DMode Radio (Dépêche Mode et Pop/Rock)
+http://listen.radionomy.com/dmode-radio.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Gaga Face (Lady Gaga)
+http://listen.radionomy.com/gaga-face.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Generation FM
+http://broadcast.infomaniak.net/generationfm-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Generation FM
+http://broadcast.infomaniak.net/gene-wr06.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Generation FM
+http://broadcast.infomaniak.net/gene-wr07.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Generation FM
+http://broadcast.infomaniak.net/gene-wr05.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Generation FM AAC+
+http://broadcast.infomaniak.net/gene-wr05.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Generation FM AAC+
+http://broadcast.infomaniak.net/gene-wr06.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Generation FM AAC+
+http://broadcast.infomaniak.net/generationfm-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Generation FMAAC+
+http://broadcast.infomaniak.net/gene-wr07.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Generation rap
+http://broadcast.infomaniak.net/generationfm-rap-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Generation slowjam
+http://broadcast.infomaniak.net/generationfm-slowjam-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Generation underground
+http://broadcast.infomaniak.net/generationfm-underground-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",GinaTV
+http://broadcast.infomaniak.net/ginatv-48.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",GLOBAL FM
+http://broadcast.infomaniak.net/globalfm-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Globull Softradio
+http://broadcast.infomaniak.net/globullwebradiosoft-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",GLOBULL WEBRADIO
+http://broadcast.infomaniak.net/webradioglobull-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Goom Radio - Allo-ciné
+http://212.23.58.168:8000/be5481d7-cd69-4d04-810b-e0e6b7ac1cac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Goom Radio - Candy Station (Madonna)
+http://212.23.58.168:8000/f69c5a08-b782-4e86-a17b-00b5ea862464
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Goom Radio - Explicit Content
+http://212.23.58.168:8000/f76790d8-205f-49bd-8b8d-7bf1edbf76d4
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Goom Radio - FFDBE (Fédération Française des Bureaux des Etudiants)
+http://212.23.58.168:8000/e1fd9b73-c51b-4cbe-9e92-a73c611590d9
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Goom Radio - In The Club
+http://212.23.58.168:8000/6e1a9da9-e92e-4483-ab87-fd10f7c8cffb
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Goom Radio - Jonas Brothers
+http://212.23.58.168:8000/56f0f5cc-328d-40d9-9525-2598ea3af9d1
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Goom Radio - Just Hits
+http://212.23.58.168:8000/175ec076-7672-417e-a019-03c95316ab35
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Goom Radio - Justin Bieber Station
+http://212.23.58.168:8000/6f21c043-94e5-46ee-b600-44e9e42354b7
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Goom Radio - Popcorn
+http://212.23.58.168:8000/29d3ad43-5703-4261-b4a2-901d3c603b56
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Goom Radio - Rock-It
+http://212.23.58.168:8000/51d4cf81-57fe-498c-a3fa-c6684e694085
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Goom Radio - Suite 313
+http://212.23.58.168:8000/8308b4f3-5a8a-4c4d-8e0f-f2ce67453edd
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Goom Radio - Urban Mix
+http://212.23.58.168:8000/035598a0-b208-45a4-ba5d-d8e2ae4f3bcd
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Goom Radio - VIP Radio
+http://212.23.58.168:8000/5b0df204-dff8-4e75-b0e9-7e89e93a27fa
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Groov'up par DJ Master Phil JazzRadio
+http://broadcast.infomaniak.net/jazz-wr13-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Groov'up par DJ Master Phil JazzRadio AAC+
+http://broadcast.infomaniak.net/jazz-wr13-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",GRRIF
+http://broadcast.infomaniak.net/grrif-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",GRRIF
+http://broadcast.infomaniak.net/grrif-48.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",GRRIF AAC+
+http://broadcast.infomaniak.net/grrif-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Happy Hour Radio
+http://broadcast.infomaniak.net/jazz-wr14-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Happy Hour Radio
+http://broadcast.infomaniak.net/jazz-wr14-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",hit sport
+http://broadcast.infomaniak.net/hit-sport-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",hitwest AAC+
+http://broadcast.infomaniak.net/hitwest-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hitwest low Mp3 48k
+http://broadcast.infomaniak.net/hitwest-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hitwest Mp3 128k
+http://broadcast.infomaniak.net/hitwest-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hongkong Bar
+mms://live.camstreams.com/cssolowongHONGKONG
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hotmix 80's
+http://www.hotmixradio.com/stream/hotmix80.asx
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hotmix 90's
+http://www.hotmixradio.com/stream/hotmix90.asx
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hotmix Dance
+http://www.hotmixradio.fr/stream/hotmix.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hotmix Frenchy
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-frenchy-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hotmix Funky
+http://www.hotmixradio.com/stream/funky.asx
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hotmix Hits
+http://www.hotmixradio.fr/stream/hotmixHIT.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hotmix Hot
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-hot-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hotmix Japan
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-japan-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hotmix Metal
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-metal-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hotmix New
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-new-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hotmix Rock
+http://www.hotmixradio.fr/stream/hotmixrock.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hotmix Sunny
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-sunny-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Hotmix VIP
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-vip-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",iLoveRadio
+http://streaming203.radionomy.com:80/iLove-Radio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Impact FM 100 musette
+http://broadcast.infomaniak.net/impactfm100musette-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Impact FM AAC+
+http://broadcast.infomaniak.net/impactfmbe-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Impact FM AAC+
+http://broadcast.infomaniak.net/impactfm-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Contemporary by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr05-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Contemporary by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr05-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz ET Classique by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr17-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz et Classique by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr17-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Funk by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr06-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Funk by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr06-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Gospel by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr07-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Gospel by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr07-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Groove by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr08-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Groove by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr08-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Latin by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr09-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Latin by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr09-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio
+http://broadcast.infomaniak.net/jzr-wr99.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio
+http://broadcast.infomaniak.net/jazzradio-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Black Music
+http://broadcast.infomaniak.net/jazzblackmusic-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Black Music AAC+
+http://broadcast.infomaniak.net/jazzblackmusic-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Blues
+http://broadcast.infomaniak.net/jazzblues-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Blues AAC+
+http://broadcast.infomaniak.net/jazzblues-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Classic Jazz
+http://broadcast.infomaniak.net/jazz-wr01-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Classic Jazz AAC+
+http://broadcast.infomaniak.net/jazz-wr01-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Ladies and Crooners
+http://broadcast.infomaniak.net/jazzladiescrooners-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Ladies and Crooners AAC+
+http://broadcast.infomaniak.net/jazzladiescrooners-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Lounge
+http://broadcast.infomaniak.net/jazzlounge-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Lounge AAC+
+http://broadcast.infomaniak.net/jazzlounge-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Manouche
+http://broadcast.infomaniak.net/jazz-wr02-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Manouche AAC+
+http://broadcast.infomaniak.net/jazz-wr02-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio New Orleans
+http://broadcast.infomaniak.net/jazz-wr03-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio New Orleans AAC+
+http://broadcast.infomaniak.net/jazz-wr03-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Reprises
+http://broadcast.infomaniak.net/reprises-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Radio Reprises AAC+
+http://broadcast.infomaniak.net/reprises-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Soul by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr10-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Soul by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr10-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Soul Food by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr12-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazz Soul Food by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr12-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",JazzRadio AAC+
+http://broadcast.infomaniak.net/jzr-wr99.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazzy French by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr18-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Jazzy French by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr18-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",jorirbid
+http://195.189.238.18/streaming/ntv/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",K6FM AAC+
+http://broadcast.infomaniak.net/k6fm-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Kabyle FM
+http://broadcast.infomaniak.net/kabylefm-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Kabyle FM AAC+
+http://broadcast.infomaniak.net/kabylefm-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Kin Web TV
+mms://87.98.215.37/kin
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",krameand
+http://streams.tvknob.com/u/krameand/
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",KTFM GENEVA vos annees KT
+http://broadcast.infomaniak.net/ktfm-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",La radio de la mer AAC+
+http://broadcast.infomaniak.net/radiomer-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",La radio digitale
+http://broadcast.infomaniak.net/radio-vannes.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",La Radio Plus
+http://broadcast.infomaniak.net/laradioplus-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",La Radio Plus AAC+
+http://broadcast.infomaniak.net/laradioplus-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",lalaradio
+http://broadcast.infomaniak.net/lalaradio-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",lalaradio AAC+
+http://broadcast.infomaniak.net/lalaradio-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Le Centre FM
+http://broadcast.infomaniak.net/lecentrefm.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Le Centre FM AAC+
+http://broadcast.infomaniak.net/lecentrefm-acc.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Le85.com (Musique Libre)
+http://91.121.86.101:8900
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Ledjam Radio
+http://broadcast.infomaniak.net/ledjamradio.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",LEGENDE FM
+http://broadcast.infomaniak.net/legendefm-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",LNA Radio
+http://broadcast.infomaniak.net/lnaradio.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Lounge Radio (AAC+)
+http://live.streamhosting.ch:8010
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Lovers par MFM Radio AAC
+http://broadcast.infomaniak.net/mfm-wr08.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",McDonald's H
+http://broadcast.infomaniak.net/traxx201-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",MEGA FM
+http://broadcast.infomaniak.net/megafm-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Mega fm AAC+
+http://broadcast.infomaniak.net/megafm-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Memory Live - Infoconcert Radio AAC+
+http://broadcast.infomaniak.net/infoconcert-memorylive-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",mfm
+http://broadcast.infomaniak.net/mfm-wr4-64.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",MFM
+http://broadcast.infomaniak.net/mfm-wr1-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",mfm
+http://broadcast.infomaniak.net/mfm-wr3-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",mfm AAC+
+http://broadcast.infomaniak.net/mfm-wr3-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",mfm AAC+
+http://broadcast.infomaniak.net/mfm-wr4-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",MFM Culte
+http://broadcast.infomaniak.net/mfm-wr2-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",MFM Culte AAC+
+http://broadcast.infomaniak.net/mfm-wr2-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",MFM Radio
+http://broadcast.infomaniak.net/mfm-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",MFM Radio - Marseille AAC+
+http://broadcast.infomaniak.net/mfm-marseille.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",MFM Radio AAC+
+http://broadcast.infomaniak.net/mfm-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Michael Jackson Radio
+http://listen.radionomy.com/michael-jackson-radio.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Mika FM
+http://109.230.195.121:80
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Miro Guide - Podcast Directory, Video and Audio RSS Feeds
+http://www.miroguide.com/
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Mix hits
+http://broadcast.infomaniak.net/mixhits-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",MLady AAC+
+http://broadcast.infomaniak.net/mfm-wr1-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Mona FM
+http://broadcast.infomaniak.net/monafm-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Mona FM
+http://broadcast.infomaniak.net/monafm-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",MOUSTIC'AIR
+http://broadcast.infomaniak.net/mousticair.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Music 4 Live
+http://broadcast.infomaniak.net/music4live-192.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",neo 1
+http://broadcast.infomaniak.net/neo1.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Niagara waterfall
+mms://webcams.niagarafallshotels.com/CNH-Stream2
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Now music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",NRJ Leman
+http://broadcast.infomaniak.net/nrj-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",NRJ Leman
+http://broadcast.infomaniak.net/nrj-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",NRJ Leman AAC+
+http://broadcast.infomaniak.net/nrj-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ODIA's Broadcast
+http://broadcast.infomaniak.net/radiotambaonline-192.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",OldschoolElectronica
+http://www.di.fm/mp3/classictechno.pls
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",OneFM
+http://broadcast.infomaniak.net/onefm-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",OneFM AAC+
+http://broadcast.infomaniak.net/onefm-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ONLYRAI
+http://broadcast.infomaniak.net/onlyrai-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ONLYRAI AAC+
+http://broadcast.infomaniak.net/onlyrai-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Ouest fm Angers
+http://broadcast.infomaniak.net/ouestfmangers-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Ouest FM Angers AAC+
+http://broadcast.infomaniak.net/ouestfmangers-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Ouest fm Saumur
+http://broadcast.infomaniak.net/ouestfm-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Ouest FM Saumur AAC+
+http://broadcast.infomaniak.net/ouestfm-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",OUI FM - L'Alternative Rock
+http://broadcast.infomaniak.net/ouifm2.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",OUI FM - Rock Indie
+http://broadcast.infomaniak.net/ouifm5.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Oxy.Radio (Musique Libre)
+http://www.oxyradio.net:8000/hd.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",oxygenefm
+http://broadcast.infomaniak.net/oxygenefm.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Prog Rock
+http://mediatv2.topix.it/24prog66
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",quantic radio AAC+
+http://broadcast.infomaniak.net/quanticradio-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",R.V.V.S 96.2 AAC+
+http://broadcast.infomaniak.net/rvvs-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",radio 3Dfm
+http://broadcast.infomaniak.net/radio3dfm-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",radio 3Dfm
+http://broadcast.infomaniak.net/radio3dfm-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio 74
+http://broadcast.infomaniak.net/radio74-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio 74
+http://broadcast.infomaniak.net/radio74-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio 74 AAC+
+http://broadcast.infomaniak.net/radio74.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RADIO ASWAT
+http://broadcast.infomaniak.net/aswat-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Britney (Britney Spears)
+http://listen.radionomy.com/radio-britney.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Campus Lille
+http://broadcast.infomaniak.net/radiocampuslille-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Campus Lille AAC+
+http://broadcast.infomaniak.net/radiocampuslille-96.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Chaine 3 AAC+
+http://broadcast.infomaniak.net/chaine3.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Cha\EEne 1 AAC+
+http://broadcast.infomaniak.net/chaine1.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Cha\EEne 2 AAC+
+http://broadcast.infomaniak.net/chaine2.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Classique
+http://broadcast.infomaniak.net/radioclassique-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Classique AAC+
+http://broadcast.infomaniak.net/radioclassique-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Cristal
+http://broadcast.infomaniak.net/radiocristal-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Eden
+http://broadcast.infomaniak.net/radioeden.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio El-Bahdja AAC+
+http://broadcast.infomaniak.net/elbahdja.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Espace
+http://broadcast.infomaniak.net/radioespace-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Espace AAC+
+http://broadcast.infomaniak.net/radioespace-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Espace Disco
+http://broadcast.infomaniak.net/espace100-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Espace Disco AAC+
+http://broadcast.infomaniak.net/espace100-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio FM1 Melody
+http://broadcast.infomaniak.net/fm1melody-64.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio FM1 Melody
+http://broadcast.infomaniak.net/fm1melody-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio FM1 Melody AAC+
+http://broadcast.infomaniak.net/fm1melody-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio FM1 Nord
+http://broadcast.infomaniak.net/radiofm1-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio FM1 Nord AAC+
+http://broadcast.infomaniak.net/radiofm1-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio FM43 - LA radio de la Haute
+http://broadcast.infomaniak.net/fm43-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio FM43 - LA radio de la Haute AAC+
+http://broadcast.infomaniak.net/fm43-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Forum AAC+
+http://broadcast.infomaniak.net/start-forum-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Forum AAC+ 32
+http://broadcast.infomaniak.net/start-forum-32.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Funky
+http://46.108.10.166:7500
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RADIO GALAXIE SOMME
+http://broadcast.infomaniak.net/radiogalaxie-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RADIO GALAXIE SOMME AAC+
+http://broadcast.infomaniak.net/radiogalaxie-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Hallyday (Johnny & David)
+http://listen.radionomy.com/radio-hallyday.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Hare Krishna AAC+
+http://broadcast.infomaniak.net/krishnaradio-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Haute Tension
+http://broadcast.infomaniak.net/haute-tension-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Heimatklang
+http://broadcast.infomaniak.net/heimatklang.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Heimatklang
+http://broadcast.infomaniak.net/neo2.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Judaica Lyon
+http://broadcast.infomaniak.net/judaica-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Judaica Lyon L'onde du ((( Soleill )))
+http://broadcast.infomaniak.net/judaica-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RADIO KIF
+http://broadcast.infomaniak.net/radiokif2-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RADIO KIF
+http://broadcast.infomaniak.net/radiokif2-48.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Kol Aviv
+http://broadcast.infomaniak.net/kolaviv-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Kol Aviv
+http://broadcast.infomaniak.net/kolaviv-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Kol Aviv AAC+
+http://broadcast.infomaniak.net/kolaviv-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio KOPO
+http://broadcast.infomaniak.net/radiokopo-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio KOPO AAC+
+http://broadcast.infomaniak.net/radiokopo-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Latina
+http://broadcast.infomaniak.net/start-latina-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Latina AAC+
+http://broadcast.infomaniak.net/start-latina-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Latina AAC+ 32
+http://broadcast.infomaniak.net/start-latina-32.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Ain Timouchent AAC+
+http://broadcast.infomaniak.net/46.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Annaba AAC+
+http://broadcast.infomaniak.net/23.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",radio locale batna AAC+
+http://broadcast.infomaniak.net/05.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Bechar AAC+
+http://broadcast.infomaniak.net/08.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Biskra
+http://broadcast.infomaniak.net/07.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio locale El tarf AAC+
+http://broadcast.infomaniak.net/36.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Guelma AAC+
+http://broadcast.infomaniak.net/24.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Medea AAC+
+http://broadcast.infomaniak.net/26.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio locale mila AAC+
+http://broadcast.infomaniak.net/43.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Naama AAC+
+http://broadcast.infomaniak.net/45.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Oran AAC+
+http://broadcast.infomaniak.net/31.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Relizane AAC+
+http://broadcast.infomaniak.net/48.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Setif AAC+
+http://broadcast.infomaniak.net/19.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Tamanrasset AAC+
+http://broadcast.infomaniak.net/11.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Tiaret AAC+
+http://broadcast.infomaniak.net/14.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Tipaza AAC+
+http://broadcast.infomaniak.net/42.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Tissemsidlt AAC+
+http://broadcast.infomaniak.net/38.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Locale Tizi ouzou AAC+
+http://broadcast.infomaniak.net/15.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Mauritanie AAC+
+http://broadcast.infomaniak.net/radiocoran.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Mille Pattes
+http://broadcast.infomaniak.net/millepattes-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Mille Pattes
+http://broadcast.infomaniak.net/millepattes-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio One
+http://209.73.150.38:7700
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",radio open fm
+http://broadcast.infomaniak.net/radioopenfm-106.4.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RADIO PLUS AAC+
+http://broadcast.infomaniak.net/radioplus.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio RC2 - Rouen 94.4 - MP3 128k
+http://broadcast.infomaniak.net/sensationsrouen-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Sans Chaine AAC+
+http://broadcast.infomaniak.net/radiosanschaine.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Studio 1
+http://broadcast.infomaniak.net/radiostudio1-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Studio 1 AAC+
+http://broadcast.infomaniak.net/radiostudio1-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Studio One
+http://broadcast.infomaniak.net/studiooneasbl-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Studio One AAC+
+http://broadcast.infomaniak.net/studiooneasbl-48.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Sun
+http://broadcast.infomaniak.net/radiosun-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Sun AAC+
+http://broadcast.infomaniak.net/radiosun-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Time
+http://87.230.59.71:8000
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Tonic
+http://broadcast.infomaniak.net/radiotonic-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio toxic.fm
+http://broadcast.infomaniak.net/toxicfm-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio toxic.fm AAC+
+http://broadcast.infomaniak.net/toxicfm-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio TTU
+http://broadcast.infomaniak.net/radiotalktou-64.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Usine
+http://broadcast.infomaniak.net/radiousine.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Vibration
+http://broadcast.infomaniak.net/vibrationbelgique-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RADIO VINTAGE
+http://broadcast.infomaniak.net/vintage.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Vitamine
+http://broadcast.infomaniak.net/radiovitamine-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radio Vitamine AAC+
+http://broadcast.infomaniak.net/radiovitamine-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",radio-ellebore
+http://broadcast.infomaniak.net/ellebore-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",radio-ellebore AAC+
+http://broadcast.infomaniak.net/ellebore-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",radio1.be
+http://mp3.streampower.be/radio1-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RADIO2.be
+http://mp3.streampower.be/ra2vlb-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RadioBus
+http://broadcast.infomaniak.net/radiobus-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RadioBus AAC+ 32
+http://broadcast.infomaniak.net/radiobus-32.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RadioBus AAC+ 64
+http://broadcast.infomaniak.net/radiobus-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RadioCinéma
+http://listen.radionomy.com/radiocinema.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RadioDigitaliaRICORDI
+http://streaming208.radionomy.com:80/RadioDigitalia-RICORDI
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",radioespoir
+http://broadcast.infomaniak.net/radioespoir-32.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",radiogmt.mp3
+http://broadcast.infomaniak.net/radiogmt.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",radiokaedi AAC+
+http://broadcast.infomaniak.net/radiokaedi.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radiokariba AAC+
+http://broadcast.infomaniak.net/radiokariba-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RADIOMARS
+http://broadcast.infomaniak.net/radiomars-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RADIOMARS AAC+
+http://broadcast.infomaniak.net/radiomars-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",radiono1
+http://broadcast.infomaniak.net/radiono1-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",radiono1 AAC+
+http://broadcast.infomaniak.net/radiono1-32.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RADIOVOSTOK AAC+
+http://broadcast.infomaniak.net/radiovostok.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radyo Tanbou
+http://81.248.19.42:8000/live
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Rastapuls
+http://radio.rastapuls.com:8000/rastapuls
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Rastapuls
+http://www.rastapuls.com/rastapuls.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",rcn
+http://www.canalrcn.com/streamingrcn
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RFJ
+http://broadcast.infomaniak.net/rfj-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RFJ
+http://broadcast.infomaniak.net/rfj-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RFJ AAC+
+http://broadcast.infomaniak.net/rfj-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Rhone FM AAC+
+http://broadcast.infomaniak.net/rhonefm-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Riviera Radio
+http://broadcast.infomaniak.net/rivieraradio-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Riviera Radio AAC+
+http://broadcast.infomaniak.net/rivieraradio-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RMB Radio
+http://broadcast.infomaniak.net/rmb-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RMB Radio AAC+
+http://broadcast.infomaniak.net/rmb-high.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Rock'One
+http://broadcast.infomaniak.net/rockone.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Rockonnection
+http://streaming203.radionomy.com:80/Rockonnection
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RockProdigy
+http://streaming204.radionomy.com:80/Rock-Prodigy
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",rockSatelite(((MadridONE)))
+http://streaming208.radionomy.com:80/rockSateliteMadridONE
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ROCKULIVEYOUREMOTIONS
+http://streaming203.radionomy.com:80/ROCK-U-LIVE-YOUR-EMOTIONS
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Rockytikas
+http://streaming201.radionomy.com:80/Rockytikas
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Romanticatotalstereo
+http://streaming203.radionomy.com:80/Romanticatotalstereo
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Rouge City Live
+http://broadcast.infomaniak.net/webradio01-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Rougerock
+http://broadcast.infomaniak.net/rouge-rockpop-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Rougerock
+http://broadcast.infomaniak.net/rouge-rockpop-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",rpgradio
+http://streaming204.radionomy.com:80/rpgradio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",rtbradio
+http://broadcast.infomaniak.net/rtbradio-48.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RVDMIX
+http://streaming204.radionomy.com:80/RVDMIX
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",SanzaRadio
+http://streaming203.radionomy.com:80/Sanza-Radio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",SENSATIONS Paris
+http://broadcast.infomaniak.net/sensations-normandie.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",SENSATIONS Paris
+http://broadcast.infomaniak.net/sensations.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",siempreconvosotros
+http://streaming204.radionomy.com:80/siempreconvosotros
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Silence TV HD
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Size's Broadcast
+http://broadcast.infomaniak.net/size-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Soft & Ballads
+http://mediatv2.topix.it/24soft66
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Studio brussels
+http://www.listenlive.eu/vrtstubru-high.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Studio40ca
+http://streaming204.radionomy.com:80/Studio40ca
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",SuccèsRadio
+http://streaming204.radionomy.com:80/Succes-Radio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",SummerHit
+http://streaming204.radionomy.com:80/Summer-Hit
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",SuperRadioStereo
+http://streaming203.radionomy.com:80/Super-Radio-Stereo
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",SurfRadioClubbing
+http://streaming206.radionomy.com:80/Surf-Radio-Clubbing
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",TheMplsRadio
+http://streaming206.radionomy.com:80/The-Mpls-Radio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",TheMusicForEveryOne
+http://streaming204.radionomy.com:80/TheMusicForEveryOne
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",TheOrangeParkRadio
+http://streaming206.radionomy.com:80/The-Orange-Park-Radio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",TheSmoothLounge
+http://streaming203.radionomy.com:80/The-Smooth-Lounge
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Deluxe
+http://broadcast.infomaniak.net/traxx001-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Deluxe AAC+ 48
+http://broadcast.infomaniak.net/traxx001-48.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Electro
+http://broadcast.infomaniak.net/traxx003-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Electro
+http://broadcast.infomaniak.net/traxx003-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Electro AAC+ 48
+http://broadcast.infomaniak.net/traxx003-48.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx France
+http://broadcast.infomaniak.net/traxx025-1.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Funk
+http://broadcast.infomaniak.net/traxx016-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Gold Hits 70'-80'
+http://broadcast.infomaniak.net/traxx017-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Gold Hits 70'-80'
+http://broadcast.infomaniak.net/traxx017-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Gold Hits 70'-80' AAC+ 48
+http://broadcast.infomaniak.net/traxx017-48.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Gold Hits 90'-00'
+http://broadcast.infomaniak.net/traxx024-1.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Gold Hits 90'-00'
+http://broadcast.infomaniak.net/traxx024.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Gold Hits 90'-00' AAC+ 48
+http://broadcast.infomaniak.net/traxx024-48.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Golden Oldies
+http://broadcast.infomaniak.net/traxx023-0.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Golden Oldies
+http://broadcast.infomaniak.net/traxx023.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Golden Oldies
+http://broadcast.infomaniak.net/traxx023-1.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Golden Oldies AAC+ 48
+http://broadcast.infomaniak.net/traxx023-48.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Hits
+http://broadcast.infomaniak.net/traxx010-high.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Traxx Hits
+http://broadcast.infomaniak.net/traxx010-low.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",TrioPowerFamily
+http://streaming204.radionomy.com:80/Trio-Power-Family
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",TWCRadio
+http://streaming205.radionomy.com:80/TWCRadio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Valentine's Day - JazzRadio
+http://broadcast.infomaniak.net/jazz-wr16-128.mp3
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Valentine's Day - JazzRadio AAC+
+http://broadcast.infomaniak.net/jazz-wr16-64.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",vandermeer_fm
+http://streaming204.radionomy.com:80/vandermeer-fm
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",VECCHIOTTIVALBAR
+http://streaming208.radionomy.com:80/VECCHIOTTIVALBAR
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",VinyleRock
+http://streaming208.radionomy.com:80/Vinyle-Rock
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ViolentForcesRadio
+http://streaming203.radionomy.com:80/Violent-Forces-Radio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Vitamine90
+http://streaming204.radionomy.com:80/Vitamine-90
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",VRT Radio 1
+http://www.listenlive.eu/vrtradio1-high.m3u
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",W1RSbluesRock'sRadio
+http://streaming206.radionomy.com:80/W1RS-blues--Rock-s-Radio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",WaveRadioArgentina
+http://streaming208.radionomy.com:80/Wave-Radio-Argentina
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",wefg
+http://live.91kds.net/d/tvb/4.php?j2
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",West Coast
+http://31.12.64.204:8000/West-Coast
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",White Fox Radio
+http://31.12.64.204:8000/White-Fox-Radio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",WLSRock
+http://streaming203.radionomy.com:80/WLSRock
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",WLSSlow
+http://streaming203.radionomy.com:80/WLSSlow
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",World-s Greatest Melodies
+http://31.12.64.204:8000/World-s-Greatest-Melodies
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Xat Radio DjSeby In The Mix
+http://31.12.64.204:8000/Xat-Radio-Dj-Seby-In-The-Mix
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Xtream Radio
+http://31.12.64.204:8000/Xtream-Radio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Xtrem Zero
+http://31.12.64.204:8000/XtremZero
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",XtremLiveRadio
+http://streaming204.radionomy.com:80/Xtrem-Live-Radio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Yessay Radio
+http://31.12.64.204:8000/Yessay-Radio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Yesternow Radio1
+http://31.12.64.204:8000/Yesternow-Radio-1
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",YoSoytuRadio
+http://31.12.64.204:8000/Yo-Soy-tu-Radio
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ZAFRA
+http://31.12.64.204:8000/ZAFRAA
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ZanZanA
+http://31.12.64.204:8000/ZanZanA
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ZDR
+http://31.12.64.204:8000/ZDR
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Zen City
+http://31.12.64.204:8000/Zen-City
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Zen FM
+http://ns24907.ovh.net:8005
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ZEN FOR YOU
+http://31.12.64.204:8000/ZEN-FOR-YOU
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ZIKRADIO1
+http://streaming208.radionomy.com:80/ZIKRADIO1
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ZONA LOKA RADIO
+http://31.12.64.204:8000/ZONA-LOKA-RADIo
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ZSFR
+http://31.12.64.204:8000/ZSFR
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",[ADFM]AreaDanceFM
+http://streaming206.radionomy.com:80/-AD-FM-AreaDanceFM
+
 #EXTINF:-1 group-title="ReMy_YEREL",ReMy_YEREL
 ReMy_YEREL
 #EXTINF:-1 group-title="ReMy_YEREL",ONCU TV
@@ -5839,9 +6602,6 @@ https://anevia115.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="Singapore/Malaysia",People Television
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/GMAPinoy.ph.png" group-title="Pilipinas",GMA Pinoy
 http://164.40.161.43:10011
 #EXTINF:-1 tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Pilipinas",5
@@ -5875,7 +6635,6 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.untvweb.com/wp-content/themes/untvweb-2016/images/untv-news-and-rescue-logo.png" group-title="Pilipinas",UNTV Public
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-01-09_1.jpeg" group-title="Myanmar",MRTV Farmer
 http://220.158.149.14:9999/live/TV00000000000000000090@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2518099812/ogpxiyy659mwls0bdqu7.jpeg" group-title="Myanmar",MWD
@@ -5896,7 +6655,6 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
 https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png" group-title="Myanmar",Mizzima TV
 http://220.158.149.28:8180/TV00000000000000000170@HHZT
-
 
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch5.gif" group-title="Thailand",NBT 2 HD
 http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
@@ -6115,7 +6873,6 @@ http://203.162.123.178:8080/vtvcab5/index.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/105.png" group-title="VietNam",D Drama
 http://203.162.123.178:8080/vtvcab7/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/06/05/105718-VTC1HD.png" group-title="VietNam",VTC 1
 https://v2bdoz1zs4.vcdn.com.vn/hls/VTC1_631/03.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpGSaKkJ_5d7659ced82c5.png" group-title="VietNam",K+ 1
@@ -6124,7 +6881,6 @@ http://203.162.123.178:8080/kplus/index.m3u8
 http://203.162.123.178:8080/kpm/index.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpTi2fFZ_5d7659dccf2da.png" group-title="VietNam",K+ NS
 http://203.162.123.178:8080/kns/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://anvienhd.net/uploads/images/hinhanh/3199055c7b77b6c9125.88428291.png" group-title="VietNam",SCTV 9
 http://103.68.251.140/live/sctv91/index.m3u8
